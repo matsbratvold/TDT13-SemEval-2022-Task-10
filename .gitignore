@@ -1,3 +1,7 @@
+# Files obtained by running the baseline scripts
+embeddings/
+logs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
