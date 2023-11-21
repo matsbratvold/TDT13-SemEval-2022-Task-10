@@ -20,3 +20,9 @@ Since the file uses the HuggingFace Inference API to generate responses, you fir
 After the token is generated it should be stored as a user environmental variabel, namely ***HF_TOKEN***
 
 Note that only Mistral 7B-Instruct is the only model that is tested thorougly, so it might be necessari to make changes to instructions or add more error handling if using other models through the Inference API.
+
+## Data and code for baselines
+The [semeval22_structured_sentiment-master](semeval22_structured_sentiment-master/) folder contains code from the original repository associated with the competition (https://github.com/jerbarnes/semeval22_structured_sentiment). 
+The datasets are available through the [data folder](semeval22_structured_sentiment-master/data/), which includes training and test datasets for each of the seven datasets that were utilized during SemEval 2022 Task 10.
+It also contains code for evaluating results based on the SF1 metric, as provided in the [evaluate.py](semeval22_structured_sentiment-master/evaluation/evaluate.py) file.
+Note that the writer was not able to run the baselines due to trouble with versions of python libraries, so modifications might be necessary to property run them.
