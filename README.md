@@ -19,7 +19,13 @@ Use the following path format: LLMs/instructions/{{DatasetName}}/{{PromptType}}/
 Since the file uses the HuggingFace Inference API to generate responses, you first need to create an account at HuggingFace (https://huggingface.co/), and then generate an API token. See (https://huggingface.co/docs/api-inference/quicktour) for how to generate such a token.
 After the token is generated it should be stored as a user environmental variabel, namely ***HF_TOKEN***
 
-Note that only Mistral 7B-Instruct is the only model that is tested thorougly, so it might be necessari to make changes to instructions or add more error handling if using other models through the Inference API.
+Note that only Mistral 7B-Instruct is the only model that is tested thorougly, so it might be necessary to make changes to instructions or add more error handling if using other models through the Inference API.
+
+## Exploration of predictions vs ground truth annotations
+The repo also contains a [jupyter notebook](LLMs/src/data_exploration.ipynb) that compares characteristics of the LLM predictions and ground truth annotations in the test datasets. 
+The notebook produces figures which are available in the [LLMs/figures](LLMs/figures/) folder. 
+Due to an error, the legends are only visible inside the jupyter notebook and not inside the image files.
+Nevertheless, the following order is used for all figures: Ground Truth, Std-zero-shot, Std-one-shot, Std-few-shot, CoT-zero-shot, and Cot-one-shot. 
 
 ## Data and code for baselines
 The [semeval22_structured_sentiment-master](semeval22_structured_sentiment-master/) folder contains code from the original repository associated with the competition (https://github.com/jerbarnes/semeval22_structured_sentiment). 
