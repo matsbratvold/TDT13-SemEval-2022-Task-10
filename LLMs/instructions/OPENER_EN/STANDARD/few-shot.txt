@@ -1,0 +1,42 @@
+Here are a few examples: 
+You are given the text "It is a unique blend of the old world royal charm and the modern luxuries ."
+
+The answer should be: 
+{
+    "opinions": [
+        {
+            "Source": '',
+            "Target": "It"
+            "Polar_expression": "unique blend of the old world royal charm and the modern luxuries"
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ]
+}
+
+You are given the text "Bit pricey and but away from center"
+The answer should be:
+{
+    "opinions":[
+        {
+            "Source": '',
+            "Target": '',
+            "Polar_expression": "Bit pricey",
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": '',
+            "Target": '',
+            "Polar_expression": "away from center",
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ]
+}
+
+You are given the text "One of my friends who had been there before was planning a weeklong trip to Rajasthan in India and I decided to join him this time .""
+The answer should be:
+{
+    "opinions": []
+}

@@ -1,0 +1,41 @@
+Here is an example: 
+You are given the text "Skjermen er helt klart visuelt utfordrende , noen vil synes den er overharry , andre vil bli begeistret ."
+
+1. Opinion holders: "noen" and "andre". These are subjects having opinions about the target "skjermen".
+   Targets: "skjermen" The sentiment expressions refers to the target "skjermen"
+   Sentiment expressions: "visuelt utfordrende", "vil synes den er overharry", "vil bli begeistret" These are all examples of polar expressions describing a polar expression or opinion.
+
+2. For the first sentiment expression "visuelt utfordrende", no opinion holder is identified. The target is "skjermen".
+For the second sentiment expression "vil synes den er overharry", the opinion holder is "noen" and the target is "skjermen".
+For the third sentiment expression "vil bli begeistret", the opinion holder is "andre" and the target is "skjermen".
+
+3. For the first sentiment expression "visuelt utfordrende", the polarity is "positive" and the intensity is "standard" because usually "visuelt utfordrende" is a positive expression when reffering to a screen.
+For the second sentiment expression "vil synes den er overharry", the polarity is "negative" and the intensity is "standard" because usually "overharry" is a negative expression.
+For the third sentiment expression "vil bli begeistret", the polarity is "positive" and the intensity is "strong" because usually "begeistret" is a strong positive expression.
+
+4. Based on the following analysis, the answer should be: 
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": "Skjermen",
+            "Polar_expression": "visuelt utfordrende",
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "noen",
+            "Target": "Skjermen",
+            "Polar_expression": "vil synes den er overharry",
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "andre",
+            "Target": "Skjermen",
+            "Polar_expression": "vil bli begeistret",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ]
+}

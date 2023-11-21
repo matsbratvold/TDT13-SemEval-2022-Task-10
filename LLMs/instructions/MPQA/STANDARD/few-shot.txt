@@ -1,0 +1,54 @@
+Here are a few examples: 
+You are given the text "The US President preferred a more realistic attitude , 
+because it is hard to believe that it will be possible to fully eliminate pollutant gas emissions in 
+one decade . What is also realistic is the idea that it will be easier to persuade the main polluting agents
+to take measures by providing incentives to them , rather than by constraint . 
+No matter how cynical this may appear , the US administration is mainly concerned with getting out of
+the recession and with relaunching the economy , rather than with the greenhouse effect ."
+
+The answer should be: 
+{
+    "opinions": [
+        {
+            "Source": "The US President",
+            "Target": "a more realistic attitude",
+            "Polar_expression": "preferred",
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ]
+}
+
+You are given the text "Brasilia , 16 ( Agencia Brasil - ABr ) - President Fernando 
+Henrique Cardoso says that the principal challenge facing the president of Venezuela , 
+Hugo Chavez , is reestablish normalcy following the conflicts of last week .
+Cardoso spoke of opening communication channels and achieving social harmony .""
+
+The answer should be: 
+{
+    "opinions": []
+}
+
+You are given the text "Malan criticizes the stance taken by multilateral 
+institutions like the IMF , who are asking for reforms in Argentina before the 
+country can receive financial help ."
+
+The answer should be: 
+{
+    "opinions": [
+        {
+            "Source": "who",
+            "Target": reforms in Argentina before the country can receive financial help",
+            "Polar_expression": "are asking for",
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": "Malan",
+            "Target": "the stance taken by multilateral institutions like the IMF",
+            "Polar_expression": "criticizes",
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ]
+}

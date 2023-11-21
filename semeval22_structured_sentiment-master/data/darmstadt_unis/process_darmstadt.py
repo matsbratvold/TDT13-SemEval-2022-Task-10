@@ -89,12 +89,12 @@ def get_opinions(base_file, markable_file):
                               "strong": "average"}
 
     new = {}
-    new["sent_id"] = base_file.split("/")[-1][:-10]
-    new["bdir"] = re.findall("DarmstadtServiceReviewCorpus/(.*)/basedata", base_file)[0]
+    new["sent_id"] = os.path.basename(base_file).split("_words")[0]
+    new["bdir"] = base_file.split(os.path.sep)[1]
 
 
-    base_xml = open(base_file).read().encode('utf8')
-    mark_xml = open(markable_file).read().encode('utf8')
+    base_xml = open(base_file, encoding="utf8").read().encode('utf8')
+    mark_xml = open(markable_file, encoding="utf8").read().encode('utf8')
 
     base_root = fromstring(base_xml, parser)
     mark_root = fromstring(mark_xml, parser)

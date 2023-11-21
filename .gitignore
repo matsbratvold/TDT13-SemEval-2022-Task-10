@@ -1,6 +1,7 @@
-# Files obtained by running the baseline scripts
+# Files obtained by running the baseline scripts and models
 embeddings/
 logs/
+predictions/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

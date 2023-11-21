@@ -1,0 +1,29 @@
+Here is an example: 
+You are given the text "Skjermen er helt klart visuelt utfordrende , noen vil synes den er overharry , andre vil bli begeistret ."
+
+The answer should be: 
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": "Skjermen",
+            "Polar_expression": "visuelt utfordrende",
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "noen",
+            "Target": "Skjermen",
+            "Polar_expression": "vil synes den er overharry",
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "andre",
+            "Target": "Skjermen",
+            "Polar_expression": "vil bli begeistret",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ]
+}

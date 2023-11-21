@@ -1,0 +1,15 @@
+Here is an example: 
+You are given the text "It is a unique blend of the old world royal charm and the modern luxuries ."
+
+The answer should be: 
+{
+    "opinions": [
+        {
+            "Source": '',
+            "Target": "It"
+            "Polar_expression": "unique blend of the old world royal charm and the modern luxuries"
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ]
+}

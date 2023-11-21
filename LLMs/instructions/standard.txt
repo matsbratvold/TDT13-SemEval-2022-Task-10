@@ -1,0 +1,14 @@
+Extract opinion tuples from the following text, where an opinion tuple is a 
+tuple (h, t, e, p) where h is a holder who expresses a polarity p towards 
+a target t through a sentiment expression e. Answer on the format 
+{ 
+    "opinions": [
+        {
+            "Source": opinion holder, 
+            "Target": opinion target,
+            "Polar_expression": sentiment expression,
+            "Polarity": polarity sentiment label ('Negative', 'Positive', 'Neutral'),
+            "Intensity": sentiment intensity ('Average', 'Strong', 'Weak')
+        },
+    ]
+}:

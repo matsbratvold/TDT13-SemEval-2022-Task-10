@@ -15,4 +15,4 @@ tar -xvf $mpqa_tar_file
 ###############################################################################
 
 # Process mpqa data
-python3 process_mpqa.py
+python process_mpqa.py

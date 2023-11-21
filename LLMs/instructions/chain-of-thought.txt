@@ -1,0 +1,27 @@
+You are performing structured sentiment analysis on a text.
+Follow the steps below to complete the task.
+
+1: Extract the following entities from the text, reasoning why they are extracted:
+- Opinion subjects: subjects that express an opinion. In most cases there is no explicit opinion holder, so use this with caution.
+- Opinion targets: the entities that are being opined about.
+- Sentiment expressions: an expression that describes a sentiment about a target. This can be a single word, or a phrase.
+Note that some texts might have no sentiment expressions.
+
+2: For each sentiment expression, determine who is the holder of the opinion, and who is the target of the opinion, reasoning why.
+In some cases, there might be no holder, or no target.
+
+3: For each sentiment expression, determine the polarity of the sentiment, and the intensity of the sentiment, give the reasons why.
+
+
+4: Answer on the following format, and if there are no sentiment expressions, return an empty list:
+{ 
+    "opinions": [
+        {
+            "Source": subject, 
+            "Target": target, 
+            "Polar_expression": sentiment expression,
+            "Polarity": polarity sentiment label ('Negative', 'Positive', 'Neutral'),
+            "Intensity": sentiment intensity ('Average', 'Strong', 'Weak')
+        },
+    ]
+}

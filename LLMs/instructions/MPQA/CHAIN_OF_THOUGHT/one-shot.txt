@@ -1,0 +1,29 @@
+Here is an example: 
+You are given the text "The US President preferred a more realistic attitude , 
+because it is hard to believe that it will be possible to fully eliminate pollutant gas emissions in 
+one decade . What is also realistic is the idea that it will be easier to persuade the main polluting agents
+to take measures by providing incentives to them , rather than by constraint . 
+No matter how cynical this may appear , the US administration is mainly concerned with getting out of
+ the recession and with relaunching the economy , rather than with the greenhouse effect ."
+
+1. Opinion holders: "The US President". This a subject having an opinion about the target "a more realistic attitude".
+   Targets: "a more realistuc attitude" The sentiment expression refers to the target "a more realistic attitude".
+   Sentiment expressions: "preferred" This is an example of a polar expressions describing an opinion about a target.
+
+2. Sentiment expression "preferred", "The US President" is identified as the opinion holder and the target is identified as "a more realistic attitude".
+
+3. For the sentiment expression "preferred", the polarity is "positive" since the word "preferred" usually expresses a positive opinnion.
+The intensity is "weak" since the word "preferred" is not a strong word.
+
+4. Based on the following analysis, the answer should be: 
+{
+    "opinions": [
+        {
+            "Source": "The US President",
+            "Target": "a more realistic attitude",
+            "Polar_expression": "preferred",
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ]
+},

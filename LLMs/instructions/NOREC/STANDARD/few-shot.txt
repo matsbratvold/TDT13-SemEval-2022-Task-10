@@ -1,0 +1,52 @@
+Here are a few examples: 
+You are given the text "Skjermen er helt klart visuelt utfordrende , noen vil synes den er overharry , andre vil bli begeistret ."
+
+The answer should be: 
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": "Skjermen",
+            "Polar_expression": "visuelt utfordrende",
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "noen",
+            "Target": "Skjermen",
+            "Polar_expression": "vil synes den er overharry",
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "andre",
+            "Target": "Skjermen",
+            "Polar_expression": "vil bli begeistret",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ]
+}
+
+You are given the text "Men 190G6 fra Philips er en helt annen historie ."
+
+The answer should be: 
+{
+    "opinions": []
+}
+
+You are given the text "God betjening"
+
+The answer should be:
+
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": "betjening",
+            "Polar_expression": "God",
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ]
+}

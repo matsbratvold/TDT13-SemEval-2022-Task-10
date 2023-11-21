@@ -211,7 +211,6 @@ def main():
     extraction_model_dir = os.path.join("saved_models",
                                         "extraction_models",
                                         args.DATADIR)
-
     datafile = os.path.join("../../data",
                             args.DATADIR,
                             args.FILE)

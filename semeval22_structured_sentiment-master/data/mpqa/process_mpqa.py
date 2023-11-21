@@ -395,7 +395,7 @@ def main():
     test = [l.strip() for l in open("datasplit/filelist_test0").readlines()]
     data = [("train", train), ("dev", dev), ("test", test)]
 
-    nlp = stanza.Pipeline("en", processors='tokenize')
+    nlp = stanza.Pipeline("en", processors='tokenize', tokenize_no_ssplit=True)
 
     for name, fnames in data:
 

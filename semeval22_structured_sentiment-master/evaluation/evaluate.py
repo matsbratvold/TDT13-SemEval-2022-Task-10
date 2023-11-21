@@ -41,6 +41,8 @@ def convert_char_offsets_to_token_idxs(char_offsets, token_offsets):
 
 def convert_opinion_to_tuple(sentence):
     text = sentence["text"]
+    with open("test.txt", "w") as f:
+        json.dump(sentence, f, indent=4)
     opinions = sentence["opinions"]
     opinion_tuples = []
     token_offsets = list(tk.span_tokenize(text))
@@ -175,8 +177,6 @@ def tuple_recall(gold, pred, keep_polarity=True, weighted=True):
 def tuple_f1(gold, pred, keep_polarity=True, weighted=True):
     prec = tuple_precision(gold, pred, keep_polarity, weighted)
     rec = tuple_recall(gold, pred, keep_polarity, weighted)
-    #print("prec: {}".format(prec))
-    #print("rec: {}".format(rec))
     return 2 * (prec * rec) / (prec + rec + 0.00000000000000001)
 
 

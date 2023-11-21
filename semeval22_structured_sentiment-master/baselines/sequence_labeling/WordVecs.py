@@ -41,7 +41,7 @@ class WordVecs(object):
                 model = gensim.models.KeyedVectors.load_word2vec_format(stream, binary=True, unicode_errors="replace")
         vocab_length, vec_dim = model.vectors.shape
         emb_matrix = model.vectors
-        w2idx = dict([(w, i.index) for w, i in model.vocab.items()])
-        idx2w = dict([(i.index, w) for w, i in model.vocab.items()])
+        w2idx = dict([(w, i) for w, i in model.key_to_index.items()])
+        idx2w = dict([(i, w) for w, i in model.key_to_index.items()])
 
         return vocab_length, vec_dim, emb_matrix, w2idx, idx2w

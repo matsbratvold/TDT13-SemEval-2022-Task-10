@@ -1,0 +1,24 @@
+Here is an example: 
+You are given the text "It is a unique blend of the old world royal charm and the modern luxuries ."
+
+1. Opinion holders: '' Cannot find any opinion holders
+   Targets: "it" The sentiment expression refers to the target "it
+   Sentiment expression: "unique blend of the old world royal charm and the modern luxuries" this descripes a polar expression about a target.
+
+2. For the sentiment expression "unique blend of the old world royal charm and the modern luxuries" 
+no opinion holder is identified. The sentence refers to the target "it".
+
+3. The polarity of the sentiment is "Positive" and the intensity is "Strong" because the sentence contains positive words such as unique, charm and luxury and no contradictions.
+
+4. Based on the following analysis, the answer should be: 
+{
+    "opinions": [
+        {
+            "Source": '',
+            "Target": "It"
+            "Polar_expression": "unique blend of the old world royal charm and the modern luxuries"
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ]
+}
