@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Her"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "man"
+                ],
+                [
+                    "8:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilgang til blant annet smartvarsling"
+                ],
+                [
+                    "12:49"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Her f\u00e5r man tilgang til blant annet smartvarsling av e-post , SMS , telefonanrop , sosiale medier , som under visse omstendigheter kan v\u00e6re riktig s\u00e5 praktisk .",
+    "sent_id": "201344-21-03"
+}

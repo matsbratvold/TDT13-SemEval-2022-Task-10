@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Forbedringen"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er gjort ved \u00e5 gi bilen den samme hybridpakken som satt i den forrige Prius"
+                ],
+                [
+                    "13:88"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Forbedringen er gjort ved \u00e5 gi bilen den samme hybridpakken som satt i den forrige Prius .",
+    "sent_id": "202298-08-02"
+}

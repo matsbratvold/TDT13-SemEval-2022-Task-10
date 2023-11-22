@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "a new corporation formed by the Underwood family"
+                ],
+                [
+                    "96:144"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "will merge with"
+                ],
+                [
+                    "80:95"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Young 's Market Co. , a wholesaler of spirits , wines and other goods , said it will merge with a new corporation formed by the Underwood family , which controls Young's .",
+    "sent_id": "xbank/wsj_0122-1"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bestandig"
+                ],
+                [
+                    "9:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det er forvirrende"
+                ],
+                [
+                    "24:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Men ikke bestandig , og det er forvirrende .",
+    "sent_id": "200006-19-02"
+}

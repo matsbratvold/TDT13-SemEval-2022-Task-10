@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Rodriguez Saa"
+                ],
+                [
+                    "104:117"
+                ]
+            ],
+            "Target": [
+                [
+                    "foreign debt payments"
+                ],
+                [
+                    "80:101"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "declared a moratorium"
+                ],
+                [
+                    "55:76"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Rodriguez Saa"
+                ],
+                [
+                    "104:117"
+                ]
+            ],
+            "Target": [
+                [
+                    "commerce"
+                ],
+                [
+                    "147:155"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "halted"
+                ],
+                [
+                    "160:166"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Already , Latin America 's third - largest economy has declared a moratorium on foreign debt payments - Rodriguez Saa 's first act as leader - and commerce has halted since cash withdrawals were limited to $ 1,000 a month to stop a panic run on banks .",
+    "sent_id": "non_fbis/12.04.00-12904-9"
+}

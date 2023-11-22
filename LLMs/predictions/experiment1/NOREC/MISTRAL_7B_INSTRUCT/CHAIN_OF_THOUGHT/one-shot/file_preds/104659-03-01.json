@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "PUBLIKUM"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "ca. 5000"
+                ],
+                [
+                    "11:19"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "PUBLIKUM : ca. 5000",
+    "sent_id": "104659-03-01"
+}

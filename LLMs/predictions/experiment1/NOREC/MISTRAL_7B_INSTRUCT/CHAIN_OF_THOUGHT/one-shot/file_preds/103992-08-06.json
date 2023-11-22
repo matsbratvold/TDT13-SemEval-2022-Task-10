@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "ordet"
+                ],
+                [
+                    "2:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "alltid like positive forstand"
+                ],
+                [
+                    "14:43"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "I ordets ikke alltid like positive forstand .",
+    "sent_id": "103992-08-06"
+}

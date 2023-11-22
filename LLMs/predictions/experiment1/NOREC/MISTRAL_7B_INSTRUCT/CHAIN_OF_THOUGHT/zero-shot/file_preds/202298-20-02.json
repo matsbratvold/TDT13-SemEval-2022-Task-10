@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dette er"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "faktisk Mazda sin Skyactive-motor"
+                ],
+                [
+                    "9:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "faktisk"
+                ],
+                [
+                    "9:16"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "som er"
+                ],
+                [
+                    "45:51"
+                ]
+            ],
+            "Target": [
+                [
+                    "en del av et samarbeid selskapene imellom"
+                ],
+                [
+                    "52:93"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en del av et samarbeid"
+                ],
+                [
+                    "52:74"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Dette er faktisk Mazda sin Skyactive-motor , som er en del av et samarbeid selskapene imellom .",
+    "sent_id": "202298-20-02"
+}

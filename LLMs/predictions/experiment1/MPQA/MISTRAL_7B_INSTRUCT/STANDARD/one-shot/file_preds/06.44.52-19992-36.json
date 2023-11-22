@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The guards"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "the prisoners"
+                ],
+                [
+                    "35:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "communicate"
+                ],
+                [
+                    "18:29"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The guards mostly communicate with the prisoners via simple English commands and hand signals .",
+    "sent_id": "non_fbis/06.44.52-19992-36"
+}

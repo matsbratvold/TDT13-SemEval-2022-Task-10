@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "41:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "spesialiserte funksjoner"
+                ],
+                [
+                    "4:28"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "41:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "basert p\u00e5 Garmin sitt eget operativsystem"
+                ],
+                [
+                    "31:72"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "41:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "betyr samtidig et frav\u00e6r av potensielle fordelene som f\u00f8lger med Android Wear eller iOS-baserte smartklokker"
+                ],
+                [
+                    "75:183"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men spesialiserte funksjoner , basert p\u00e5 Garmin sitt eget operativsystem , betyr samtidig et frav\u00e6r av potensielle fordelene som f\u00f8lger med Android Wear eller iOS-baserte smartklokker .",
+    "sent_id": "201344-28-03"
+}

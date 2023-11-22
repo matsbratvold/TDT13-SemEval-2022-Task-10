@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Linda Godwin and Daniel Tani"
+                ],
+                [
+                    "11:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "Astronauts Linda Godwin and Daniel Tani"
+                ],
+                [
+                    "0:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "floated out of space shuttle Endeavour and grabbed onto the ship 's robot arm for a 50 - foot ride up the side of the space station"
+                ],
+                [
+                    "40:171"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Astronauts Linda Godwin and Daniel Tani floated out of space shuttle Endeavour and grabbed onto the ship 's robot arm for a 50 - foot ride up the side of the space station .",
+    "sent_id": "non_fbis/11.05.55-12013-4"
+}

@@ -1,0 +1,44 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Det er alltid noen bokstaver og puslespillbrikker som er vanskelige \u00e5 f\u00e5 has p\u00e5"
+                ],
+                [
+                    "0:79"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vanskelige \u00e5 f\u00e5 has p\u00e5"
+                ],
+                [
+                    "57:79"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 samle om man virkelig vil g\u00e5 grundig til verks"
+                ],
+                [
+                    "106:154"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er alltid noen bokstaver og puslespillbrikker som er vanskelige \u00e5 f\u00e5 has p\u00e5 , og det er mange bananer \u00e5 samle om man virkelig vil g\u00e5 grundig til verks .",
+    "sent_id": "704794-03-05"
+}

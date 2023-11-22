@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "dette"
+                ],
+                [
+                    "8:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "faktorer"
+                ],
+                [
+                    "26:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er dette knyttet til"
+                ],
+                [
+                    "5:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "dette"
+                ],
+                [
+                    "8:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "faktorer"
+                ],
+                [
+                    "26:34"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Ofte er dette knyttet til faktorer som brukervennlighet , fysiske dimensjoner , design , eller batteritid .",
+    "sent_id": "201344-23-02"
+}

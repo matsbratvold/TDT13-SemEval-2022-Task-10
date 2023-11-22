@@ -1,0 +1,51 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dessertene"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "understreker det"
+                ],
+                [
+                    "11:27"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "tiramisu og crema catalana"
+                ],
+                [
+                    "86:112"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Dessertene understreker det , n\u00e5r m\u00e5ltidet rundes av p\u00e5 italiensk og spansk vis , med tiramisu og crema catalana .",
+    "sent_id": "501595-12-02"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Tradisjonelle knapper"
+                ],
+                [
+                    "0:21"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "klar fordel"
+                ],
+                [
+                    "34:45"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Tradisjonelle knapper har ogs\u00e5 en klar fordel under f.eks . trening i regn , hvor det fort kan bli knotete \u00e5 betjene en ber\u00f8ringsskjerm .",
+    "sent_id": "201344-18-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Da Mattilsynet"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "kj\u00f8kkenet v\u00e5rt"
+                ],
+                [
+                    "34:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det minste kj\u00f8kkenet de hadde sett"
+                ],
+                [
+                    "53:87"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Da Mattilsynet var innom sa de at kj\u00f8kkenet v\u00e5rt var det minste kj\u00f8kkenet de hadde sett , ler hun .",
+    "sent_id": "501595-04-02"
+}

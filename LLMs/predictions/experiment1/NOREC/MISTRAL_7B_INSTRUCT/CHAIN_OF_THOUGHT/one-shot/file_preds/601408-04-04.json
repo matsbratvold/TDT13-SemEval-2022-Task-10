@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Storeide"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "Norske krigsprofit\u00f8rer"
+                ],
+                [
+                    "19:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i boken"
+                ],
+                [
+                    "9:16"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Storeide i boken \" Norske krigsprofit\u00f8rer \" ( 2014 ) .",
+    "sent_id": "601408-04-04"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "R&b-crooneren"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "gj\u00f8re det lett"
+                ],
+                [
+                    "32:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "liksom ikke"
+                ],
+                [
+                    "20:31"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "R&b-crooneren ville liksom ikke gj\u00f8re det lett .",
+    "sent_id": "003036-04-02"
+}

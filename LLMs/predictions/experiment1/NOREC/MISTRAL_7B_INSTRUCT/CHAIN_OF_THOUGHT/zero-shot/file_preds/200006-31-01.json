@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "du"
+                ],
+                [
+                    "7:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "sittet stille"
+                ],
+                [
+                    "14:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "varsel"
+                ],
+                [
+                    "74:80"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "du"
+                ],
+                [
+                    "7:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "sittet stille"
+                ],
+                [
+                    "14:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "r\u00f8re p\u00e5 deg"
+                ],
+                [
+                    "98:109"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "du"
+                ],
+                [
+                    "7:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "sittet stille"
+                ],
+                [
+                    "14:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ta 250 skritt"
+                ],
+                [
+                    "118:131"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dersom du har sittet stille 50 minutter i l\u00f8pet av en time , vil du f\u00e5 et varsel med beskjed om \u00e5 r\u00f8re p\u00e5 deg , eller ta 250 skritt .",
+    "sent_id": "200006-31-01"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "oppgraderingen"
+                ],
+                [
+                    "14:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sv\u00e6rt vesentlig"
+                ],
+                [
+                    "40:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den viktigste oppgraderingen er likevel sv\u00e6rt vesentlig .",
+    "sent_id": "202298-04-01"
+}

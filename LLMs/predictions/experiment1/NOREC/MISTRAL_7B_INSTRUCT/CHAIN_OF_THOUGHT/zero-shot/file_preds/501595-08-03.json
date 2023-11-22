@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "maten"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "passer godt"
+                ],
+                [
+                    "12:23"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "maten"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "utvikler smakene"
+                ],
+                [
+                    "39:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Alle vinene passer godt til maten , og utvikler smakene .",
+    "sent_id": "501595-08-03"
+}

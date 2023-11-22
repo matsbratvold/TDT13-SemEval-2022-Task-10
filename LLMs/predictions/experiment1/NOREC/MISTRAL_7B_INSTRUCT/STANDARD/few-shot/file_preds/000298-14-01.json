@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "episodene"
+                ],
+                [
+                    "55:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fryd \u00e5 se"
+                ],
+                [
+                    "68:77"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Som en stor tilhenger av kostymedrama var de to f\u00f8rste episodene en fryd \u00e5 se .",
+    "sent_id": "000298-14-01"
+}

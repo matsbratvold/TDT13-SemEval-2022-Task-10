@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "betraktelig"
+                ],
+                [
+                    "99:110"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som l\u00e5tskriver"
+                ],
+                [
+                    "111:125"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "S\u00e6rlig \u00ab Semmenemme \u00bb , \u00ab Omveien \u00bb , \u00ab Ta fyr \u00bb og tittelsporet vitner om at Silja Sol har modnet betraktelig som l\u00e5tskriver p\u00e5 f\u00e5 \u00e5r .",
+    "sent_id": "501385-06-02"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "nettet"
+                ],
+                [
+                    "16:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snurpet seg rundt"
+                ],
+                [
+                    "23:40"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Nok en gang har nettet snurpet seg rundt Corvo Attano .",
+    "sent_id": "000913-08-01"
+}

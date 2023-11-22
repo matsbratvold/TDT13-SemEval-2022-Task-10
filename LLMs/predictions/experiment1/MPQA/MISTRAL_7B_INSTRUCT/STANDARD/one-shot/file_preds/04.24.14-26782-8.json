@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The chairman"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "1997 Kyoto Protocol"
+                ],
+                [
+                    "77:96"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stated"
+                ],
+                [
+                    "22:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The chairman"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "developed countries"
+                ],
+                [
+                    "164:183"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stated"
+                ],
+                [
+                    "22:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The chairman"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "stated"
+                ],
+                [
+                    "22:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The chairman"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "global warming"
+                ],
+                [
+                    "132:146"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stated"
+                ],
+                [
+                    "22:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The chairman 's paper stated that the countries will do their best to ensure 1997 Kyoto Protocol is put into effect in 2002 to curb global warming . It also stated developed countries would give financial and technical support to those countries vulnerable to climate change , such as island nations , and alleviate the global warming 's impact by introducing devices such as satellite observation systems to monitor rising sea levels .",
+    "sent_id": "non_fbis/04.24.14-26782-8"
+}

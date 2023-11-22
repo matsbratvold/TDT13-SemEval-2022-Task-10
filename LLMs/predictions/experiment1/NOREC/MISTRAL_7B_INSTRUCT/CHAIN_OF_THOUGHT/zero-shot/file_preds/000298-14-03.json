@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Claire"
+                ],
+                [
+                    "16:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "r\u00f8de kjolen"
+                ],
+                [
+                    "4:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "taler"
+                ],
+                [
+                    "29:34"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Den r\u00f8de kjolen Claire b\u00e6rer taler for seg selv .",
+    "sent_id": "000298-14-03"
+}

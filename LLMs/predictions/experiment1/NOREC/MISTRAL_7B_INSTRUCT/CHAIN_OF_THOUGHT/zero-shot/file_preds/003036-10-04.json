@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Eller"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "man m\u00e5 gi slipp"
+                ],
+                [
+                    "9:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "slipp"
+                ],
+                [
+                    "19:24"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Eller at man m\u00e5 gi slipp .",
+    "sent_id": "003036-10-04"
+}

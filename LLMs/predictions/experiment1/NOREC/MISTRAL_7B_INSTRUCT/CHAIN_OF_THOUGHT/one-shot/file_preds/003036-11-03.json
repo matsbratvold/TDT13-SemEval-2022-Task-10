@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "mye som skjer rent musikalsk"
+                ],
+                [
+                    "7:35"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det er mye som skjer rent musikalsk i l\u00f8pet av de f\u00f8rtifem minuttene her .",
+    "sent_id": "003036-11-03"
+}

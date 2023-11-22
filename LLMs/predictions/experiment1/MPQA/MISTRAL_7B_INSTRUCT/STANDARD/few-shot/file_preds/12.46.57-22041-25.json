@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Brig Lehnert"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "the detainees were living in basic conditions"
+                ],
+                [
+                    "27:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "accepted"
+                ],
+                [
+                    "13:21"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Brig Lehnert"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "this would improve once permanent facilities were built"
+                ],
+                [
+                    "89:144"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "argued"
+                ],
+                [
+                    "77:83"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Brig Lehnert accepted that the detainees were living in basic conditions but argued that this would improve once permanent facilities were built . At the camp , Marine engineers saw and hammer away as an interrogation centre and new cages are finished . The target capacity is 2,000 .",
+    "sent_id": "non_fbis/12.46.57-22041-25"
+}

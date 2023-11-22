@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jayro Bustamante"
+                ],
+                [
+                    "24:40"
+                ]
+            ],
+            "Target": [
+                [
+                    "Ixcanul"
+                ],
+                [
+                    "6:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "viser usedvanlige talenter"
+                ],
+                [
+                    "105:131"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Med \u00ab Ixcanul \u00bb skriver Jayro Bustamante seg inn i rekken av regiss\u00f8rer som allerede i sin langfilmdebut viser usedvanlige talenter .",
+    "sent_id": "500201-07-01"
+}

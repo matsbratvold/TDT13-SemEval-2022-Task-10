@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "evil"
+                ],
+                [
+                    "54:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stared"
+                ],
+                [
+                    "29:35"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "barbarians"
+                ],
+                [
+                    "92:102"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stood"
+                ],
+                [
+                    "66:71"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "terrorists"
+                ],
+                [
+                    "560:570"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "threatened"
+                ],
+                [
+                    "583:593"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "As I toured Camp X - Ray , I stared into the faces of evil . As I stood just feet away from barbarians who only weeks earlier fired machine guns at American troops , incited bloody prison riots and ambushes and , boasted of plans to kill innocent people , I could not help but feel the grief and anguish of those who lost loved ones on September 11 or during the war in Afghanistan . I have no doubt that , if given the opportunity , any of the detainees would have relished the chance to kill me . Indeed , since their arrival at Camp - X - Ray , some of the terrorists have openly threatened the Marines who guard them and talk anxiously about returning home soon to continue terrorizing the American people .",
+    "sent_id": "non_fbis/06.21.24-4640-10"
+}

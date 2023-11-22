@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Andre"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "seg opp"
+                ],
+                [
+                    "9:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "la"
+                ],
+                [
+                    "6:8"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Andre"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "fikk beholde store formuer"
+                ],
+                [
+                    "20:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fikk beholde"
+                ],
+                [
+                    "20:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Andre la seg opp og fikk beholde store formuer .",
+    "sent_id": "601408-04-02"
+}

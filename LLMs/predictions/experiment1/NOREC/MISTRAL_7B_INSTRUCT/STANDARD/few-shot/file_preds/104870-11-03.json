@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "du"
+                ],
+                [
+                    "4:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "verden"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forfriskende"
+                ],
+                [
+                    "17:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "det skal bli \u00e5 se dette fra en scene"
+                ],
+                [
+                    "30:66"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Men du verden s\u00e5 forfriskende det skal bli \u00e5 se dette fra en scene .",
+    "sent_id": "104870-11-03"
+}

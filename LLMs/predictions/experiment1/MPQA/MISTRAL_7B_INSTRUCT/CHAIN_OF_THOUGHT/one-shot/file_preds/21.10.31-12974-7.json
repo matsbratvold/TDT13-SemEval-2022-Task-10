@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Obvious"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "Incredible"
+                ],
+                [
+                    "15:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "The Obvious"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The Obvious is Incredible",
+    "sent_id": "temp_fbis/21.10.31-12974-7"
+}

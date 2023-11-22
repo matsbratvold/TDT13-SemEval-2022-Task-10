@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Six greenhouse gases are known"
+                ],
+                [
+                    "0:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "greenhouse gases"
+                ],
+                [
+                    "4:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "known"
+                ],
+                [
+                    "25:30"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "The principal one is CO2"
+                ],
+                [
+                    "33:57"
+                ]
+            ],
+            "Target": [
+                [
+                    "CO2"
+                ],
+                [
+                    "54:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "principal"
+                ],
+                [
+                    "37:46"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Methane 's contribution is 15 percent"
+                ],
+                [
+                    "122:159"
+                ]
+            ],
+            "Target": [
+                [
+                    "Methane"
+                ],
+                [
+                    "122:129"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "contribution"
+                ],
+                [
+                    "133:145"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Six greenhouse gases are known . The principal one is CO2 ( it is responsible for 80 percent of the greenhouse effect ) . Methane 's contribution is 15 percent .",
+    "sent_id": "temp_fbis/21.10.31-12974-28"
+}

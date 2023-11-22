@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "bilen"
+                ],
+                [
+                    "14:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "nye detaljer"
+                ],
+                [
+                    "30:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00e5tt"
+                ],
+                [
+                    "20:24"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "bilen"
+                ],
+                [
+                    "14:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "kontrasts\u00f8mmer"
+                ],
+                [
+                    "68:82"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kontrasts\u00f8mmer"
+                ],
+                [
+                    "68:82"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "bilen"
+                ],
+                [
+                    "14:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "blank list"
+                ],
+                [
+                    "97:107"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blank list"
+                ],
+                [
+                    "97:107"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "bilen"
+                ],
+                [
+                    "14:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "litt andre sm\u00e5ting"
+                ],
+                [
+                    "127:145"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Innvendig har bilen f\u00e5tt noen nye detaljer av mindre karakter , som kontrasts\u00f8mmer i rattet , en blank list over skjermen , og litt andre sm\u00e5ting .",
+    "sent_id": "202298-16-03"
+}

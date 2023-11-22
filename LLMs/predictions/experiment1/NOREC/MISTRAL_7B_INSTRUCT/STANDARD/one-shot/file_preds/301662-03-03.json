@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Tja"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Tja , gir beng i det meste og durer i vei igjen p\u00e5 sine egne premisser .",
+    "sent_id": "301662-03-03"
+}

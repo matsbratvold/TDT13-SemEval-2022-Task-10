@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "seg"
+                ],
+                [
+                    "31:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "moro"
+                ],
+                [
+                    "49:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "la seg for langt mot"
+                ],
+                [
+                    "28:48"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "seg"
+                ],
+                [
+                    "31:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "moro"
+                ],
+                [
+                    "49:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er humor kun et sporadisk og overdrevent absurd virkemiddel n\u00e5"
+                ],
+                [
+                    "56:118"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Der forrige sesong til dels la seg for langt mot moro , er humor kun et sporadisk og overdrevent absurd virkemiddel n\u00e5 .",
+    "sent_id": "103992-14-03"
+}

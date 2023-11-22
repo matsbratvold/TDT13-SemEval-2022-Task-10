@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Organizing federal emergency assistance"
+                ],
+                [
+                    "0:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "public health advice"
+                ],
+                [
+                    "72:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "air quality"
+                ],
+                [
+                    "111:122"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "One question was"
+                ],
+                [
+                    "42:58"
+                ]
+            ],
+            "Target": [
+                [
+                    "public health advice"
+                ],
+                [
+                    "72:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "air quality"
+                ],
+                [
+                    "111:122"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Organizing federal emergency assistance . One question was what kind of public health advice to give about the air quality in Lower Manhattan in the vicinity of the fallen buildings .",
+    "sent_id": "ula/chapter-10-10"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Bush administration"
+                ],
+                [
+                    "218:241"
+                ]
+            ],
+            "Target": [
+                [
+                    "the climate change treaty"
+                ],
+                [
+                    "179:204"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fears"
+                ],
+                [
+                    "242:247"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The protocol faced danger of being shelved altogether , when the U.S , which is responsible for one - fourth of all CO2 emissions in the world , decided to abruptly withdraw from the climate change treaty last March . The Bush administration fears the treaty will have a negative effect on its economy and maintains that developing countries , such as China and India , should also be subject to mandatory emission targets .",
+    "sent_id": "20011115/20.41.29-15150-16"
+}

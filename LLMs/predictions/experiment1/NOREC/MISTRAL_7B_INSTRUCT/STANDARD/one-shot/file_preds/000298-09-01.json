@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I slutten av sesong \u00e9n r\u00f8mte Claire og James til Frankrike"
+                ],
+                [
+                    "0:58"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "tatt imot av Jamies fetter Jared Fraser"
+                ],
+                [
+                    "84:123"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I slutten av sesong \u00e9n r\u00f8mte Claire og James til Frankrike , og i sesong to blir de tatt imot av Jamies fetter Jared Fraser i Paris .",
+    "sent_id": "000298-09-01"
+}

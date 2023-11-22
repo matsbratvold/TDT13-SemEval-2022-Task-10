@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Selv"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "verden"
+                ],
+                [
+                    "8:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00f8rknet siden den gang"
+                ],
+                [
+                    "19:41"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Hellstr\u00f6m"
+                ],
+                [
+                    "53:62"
+                ]
+            ],
+            "Target": [
+                [
+                    "lar"
+                ],
+                [
+                    "44:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lar"
+                ],
+                [
+                    "44:47"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Selv om verden har m\u00f8rknet siden den gang , lar ikke Hellstr\u00f6m seg kue .",
+    "sent_id": "704372-28-02"
+}

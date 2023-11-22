@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dishonored 2"
+                ],
+                [
+                    "36:48"
+                ]
+            ],
+            "Target": [
+                [
+                    "sterkt tilstede"
+                ],
+                [
+                    "13:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilstede"
+                ],
+                [
+                    "20:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Dishonored 2"
+                ],
+                [
+                    "36:48"
+                ]
+            ],
+            "Target": [
+                [
+                    "spillbarheten og mangfoldigheten"
+                ],
+                [
+                    "87:119"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilstede"
+                ],
+                [
+                    "20:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Dishonored 2"
+                ],
+                [
+                    "36:48"
+                ]
+            ],
+            "Target": [
+                [
+                    "hovedhistorien"
+                ],
+                [
+                    "165:179"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vanskelig \u00e5 f\u00f8le"
+                ],
+                [
+                    "137:153"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Alt dette er sterkt tilstede ogs\u00e5 i Dishonored 2 , som satser for fullt p\u00e5 \u00e5 forsterke spillbarheten og mangfoldigheten , selv om det er vanskelig \u00e5 f\u00f8le s\u00e5 mye for hovedhistorien denne gang .",
+    "sent_id": "000913-06-01"
+}

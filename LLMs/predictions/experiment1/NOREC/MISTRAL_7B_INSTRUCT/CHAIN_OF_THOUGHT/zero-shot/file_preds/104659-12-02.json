@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Med"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "gravr\u00f8st og steinmimikk"
+                ],
+                [
+                    "4:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gravr\u00f8st"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Med gravr\u00f8st og steinmimikk .",
+    "sent_id": "104659-12-02"
+}

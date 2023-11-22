@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Samtidig"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "musikken"
+                ],
+                [
+                    "38:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stilleg\u00e5ende"
+                ],
+                [
+                    "25:37"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "de av oss som ikke klager p\u00e5 Festspillenes kunstneriske profil"
+                ],
+                [
+                    "64:126"
+                ]
+            ],
+            "Target": [
+                [
+                    "musikken"
+                ],
+                [
+                    "38:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilgjengelig"
+                ],
+                [
+                    "47:59"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Samtidig er det den mest stilleg\u00e5ende musikken tilgjengelig for de av oss som ikke klager p\u00e5 Festspillenes kunstneriske profil .",
+    "sent_id": "104659-05-01"
+}

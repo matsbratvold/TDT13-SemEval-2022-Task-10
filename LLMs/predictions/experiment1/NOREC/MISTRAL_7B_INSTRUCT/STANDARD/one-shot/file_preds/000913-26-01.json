@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "maksimal uttelling av historiebiten"
+                ],
+                [
+                    "4:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hjelper det nok p\u00e5 \u00e5 b\u00e5de ha spilt Dishonored og DLCen The Brigmore Witches"
+                ],
+                [
+                    "40:115"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "For maksimal uttelling av historiebiten hjelper det nok p\u00e5 \u00e5 b\u00e5de ha spilt Dishonored og DLCen The Brigmore Witches , for i starten tas det en del snarveier .",
+    "sent_id": "000913-26-01"
+}

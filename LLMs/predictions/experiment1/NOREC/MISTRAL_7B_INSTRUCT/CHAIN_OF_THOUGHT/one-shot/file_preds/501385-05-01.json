@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Silja Sol"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "stille"
+                ],
+                [
+                    "26:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "aldri st\u00e5tt"
+                ],
+                [
+                    "14:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Silja Sol har aldri st\u00e5tt stille .",
+    "sent_id": "501385-05-01"
+}

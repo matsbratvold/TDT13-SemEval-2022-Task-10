@@ -1,0 +1,71 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "kan gi vennskap og livsgnist"
+                ],
+                [
+                    "38:66"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "riktige tankene"
+                ],
+                [
+                    "75:90"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "kan f\u00e5 rom til \u00e5 gro"
+                ],
+                [
+                    "91:111"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "riktige menneskene"
+                ],
+                [
+                    "120:138"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00e5r v\u00e6re der for \u00e5 holde barna i sollyset"
+                ],
+                [
+                    "139:180"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Og et sted hvor felles h\u00e5p og dr\u00f8mmer kan gi vennskap og livsgnist hvis de riktige tankene kan f\u00e5 rom til \u00e5 gro , og de riktige menneskene f\u00e5r v\u00e6re der for \u00e5 holde barna i sollyset .",
+    "sent_id": "004983-09-02"
+}

@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "kj\u00f8rem\u00f8nsteret"
+                ],
+                [
+                    "6:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ingen rot"
+                ],
+                [
+                    "37:46"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "kj\u00f8rem\u00f8nsteret"
+                ],
+                [
+                    "6:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "men er kun ment for \u00e5 \u00f8ke tiden vi hadde med eldrift"
+                ],
+                [
+                    "72:124"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Dette kj\u00f8rem\u00f8nsteret har naturligvis ingen rot i den virkelige verden , men er kun ment for \u00e5 \u00f8ke tiden vi hadde med eldrift .",
+    "sent_id": "202298-11-03"
+}

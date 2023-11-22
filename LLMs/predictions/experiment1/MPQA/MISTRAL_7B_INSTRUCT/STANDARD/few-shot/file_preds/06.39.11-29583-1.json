@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jordan"
+                ],
+                [
+                    "8:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Kyoto Protocol"
+                ],
+                [
+                    "33:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "will sign"
+                ],
+                [
+                    "23:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "AMMAN - Jordan said it will sign the Kyoto Protocol , a UN pact on impeding global greenhouse gas emissions , following a recent Cabinet decision , according to Faris Juneidi , director general of the General Corporation for Environment Protection ( GCEP ) .",
+    "sent_id": "non_fbis/06.39.11-29583-1"
+}

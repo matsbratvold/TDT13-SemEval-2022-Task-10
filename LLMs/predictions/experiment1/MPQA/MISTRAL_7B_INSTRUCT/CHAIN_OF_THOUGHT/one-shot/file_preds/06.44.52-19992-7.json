@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Almost immediately"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "a crack security force"
+                ],
+                [
+                    "19:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "surrounds"
+                ],
+                [
+                    "73:82"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Almost immediately a crack security force of mostly baby - faced Marines surrounds the plane . They wear black baseball leg guards and bulletproof vests and carry M - 16 rifles .",
+    "sent_id": "non_fbis/06.44.52-19992-7"
+}

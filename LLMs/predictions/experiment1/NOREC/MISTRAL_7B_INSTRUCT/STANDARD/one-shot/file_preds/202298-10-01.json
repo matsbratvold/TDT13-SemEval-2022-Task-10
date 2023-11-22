@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "\u00f8konomisk etter alle kunstens regler"
+                ],
+                [
+                    "32:68"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "str\u00f8mtyver som kj\u00f8relys og klimaanlegg p\u00e5"
+                ],
+                [
+                    "83:124"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "P\u00e5 f\u00f8rste kj\u00f8resyklus kj\u00f8rte vi \u00f8konomisk etter alle kunstens regler , men beholdt str\u00f8mtyver som kj\u00f8relys og klimaanlegg p\u00e5 .",
+    "sent_id": "202298-10-01"
+}

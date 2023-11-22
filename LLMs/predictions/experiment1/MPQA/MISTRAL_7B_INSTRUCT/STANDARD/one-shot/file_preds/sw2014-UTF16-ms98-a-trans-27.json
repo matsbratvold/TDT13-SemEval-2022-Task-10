@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bob"
+                ],
+                [
+                    "129:132"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "thought"
+                ],
+                [
+                    "105:112"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Bob"
+                ],
+                [
+                    "129:132"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "thought"
+                ],
+                [
+                    "105:112"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Bob"
+                ],
+                [
+                    "129:132"
+                ]
+            ],
+            "Target": [
+                [
+                    "thinking they 're a deer"
+                ],
+                [
+                    "68:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "thought"
+                ],
+                [
+                    "105:112"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "do n't use it for that well yeah that 's true they shoot each other thinking they 're a deer yeah darn i thought you were a deer Bob sorry my mistake",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-27"
+}

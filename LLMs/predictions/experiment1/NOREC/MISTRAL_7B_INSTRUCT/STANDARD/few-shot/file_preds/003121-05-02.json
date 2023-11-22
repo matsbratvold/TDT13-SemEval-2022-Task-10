@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "smertefull"
+                ],
+                [
+                    "12:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ikke"
+                ],
+                [
+                    "7:11"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "fremst\u00e5r"
+                ],
+                [
+                    "29:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "beklageligvis"
+                ],
+                [
+                    "38:51"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Adele-l\u00e5t"
+                ],
+                [
+                    "69:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "litt"
+                ],
+                [
+                    "59:63"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den er ikke smertefull , men fremst\u00e5r beklageligvis som en litt d\u00f8ll Adele-l\u00e5t .",
+    "sent_id": "003121-05-02"
+}

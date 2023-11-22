@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "NASA"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "motors"
+                ],
+                [
+                    "38:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hopes"
+                ],
+                [
+                    "5:10"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "NASA"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "covers"
+                ],
+                [
+                    "15:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hopes"
+                ],
+                [
+                    "5:10"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "NASA"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "motors"
+                ],
+                [
+                    "38:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "keep"
+                ],
+                [
+                    "138:142"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "NASA"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "solar wings"
+                ],
+                [
+                    "147:158"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "NASA hopes the covers will shield the motors against the temperature extremes of space and eliminate power spikes and stalls . The motors keep the solar wings pointing toward the sun and generating electricity .",
+    "sent_id": "non_fbis/11.05.55-12013-3"
+}

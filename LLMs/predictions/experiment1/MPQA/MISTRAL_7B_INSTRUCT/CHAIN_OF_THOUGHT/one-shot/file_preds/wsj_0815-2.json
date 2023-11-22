@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Di Giorgio"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "unsolicited $ 32 - a - share tender offer"
+                ],
+                [
+                    "91:132"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "seeking alternatives"
+                ],
+                [
+                    "64:84"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Di Giorgio , a food wholesaler and building products maker , is seeking alternatives to an unsolicited $ 32 - a - share tender offer of DIG Acquisition Corp. , a unit of Rose Partners Limited Partnership . DIG is the vehicle being used to pursue to acquisition .",
+    "sent_id": "xbank/wsj_0815-2"
+}

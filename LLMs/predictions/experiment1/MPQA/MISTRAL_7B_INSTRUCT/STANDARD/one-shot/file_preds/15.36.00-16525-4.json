@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Marcia MIRANDA"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Marcia MIRANDA",
+    "sent_id": "non_fbis/15.36.00-16525-4"
+}

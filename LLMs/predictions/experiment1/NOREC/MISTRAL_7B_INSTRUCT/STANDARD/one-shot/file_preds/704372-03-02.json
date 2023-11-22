@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "han"
+                ],
+                [
+                    "18:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "politikken"
+                ],
+                [
+                    "37:47"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Denne gang n\u00e6rmer han seg til og med politikken .",
+    "sent_id": "704372-03-02"
+}

@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hele"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "Admiralen"
+                ],
+                [
+                    "21:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "andreverset"
+                ],
+                [
+                    "5:16"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "med knall\u00e5pneren"
+                ],
+                [
+                    "33:49"
+                ]
+            ],
+            "Target": [
+                [
+                    "Admiralen"
+                ],
+                [
+                    "21:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "n\u00e5 er det boblings p\u00e5 gang"
+                ],
+                [
+                    "52:78"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "og"
+                ],
+                [
+                    "84:86"
+                ]
+            ],
+            "Target": [
+                [
+                    "Admiralen"
+                ],
+                [
+                    "21:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "og"
+                ],
+                [
+                    "84:86"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "fryd"
+                ],
+                [
+                    "92:96"
+                ]
+            ],
+            "Target": [
+                [
+                    "Admiralen"
+                ],
+                [
+                    "21:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fryd"
+                ],
+                [
+                    "92:96"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Hele andreverset til Admiralen , med knall\u00e5pneren \u00ab n\u00e5 er det boblings p\u00e5 gang \u00bb er ogs\u00e5 en fryd .",
+    "sent_id": "103988-14-01"
+}

@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "tak"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sort"
+                ],
+                [
+                    "16:20"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "detaljer"
+                ],
+                [
+                    "44:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "litt"
+                ],
+                [
+                    "33:37"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Disse har da et sort tak , pluss litt andre detaljer i sort .",
+    "sent_id": "202298-24-01"
+}

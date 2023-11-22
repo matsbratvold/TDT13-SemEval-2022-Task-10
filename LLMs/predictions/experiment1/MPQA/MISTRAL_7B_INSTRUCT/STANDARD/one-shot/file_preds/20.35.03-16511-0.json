@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Robert Mugabe"
+                ],
+                [
+                    "70:83"
+                ]
+            ],
+            "Target": [
+                [
+                    "having made a secret of his determination to stay in power by every possible means"
+                ],
+                [
+                    "123:205"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nearly lost his parliamentary majority"
+                ],
+                [
+                    "340:378"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Following the presidential vote in Zimbabwe , there is just one thing Robert Mugabe cannot be reproached for , and that is having made a secret of his determination to stay in power by every possible means . The electoral hijacking had been announced , prepared , and organized . It has now taken place . Should one be surprised ? Since he nearly lost his parliamentary majority in June 2000 , the head of state has stated and restated to his supporters that the presidential election was going to be a \" war . \" He was as good as his word .",
+    "sent_id": "20020316/20.35.03-16511-0"
+}

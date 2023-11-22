@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Her"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "mange hjertevarmende \u00f8yeblikk og sympatiske pappaer"
+                ],
+                [
+                    "7:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snakker om hvor mye d\u00f8trene betyr for dem"
+                ],
+                [
+                    "63:104"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Her er mange hjertevarmende \u00f8yeblikk og sympatiske pappaer som snakker om hvor mye d\u00f8trene betyr for dem .",
+    "sent_id": "300186-07-02"
+}

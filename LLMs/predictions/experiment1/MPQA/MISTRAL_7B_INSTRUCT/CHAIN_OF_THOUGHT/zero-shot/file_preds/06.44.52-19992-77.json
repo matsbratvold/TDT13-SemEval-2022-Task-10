@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "living conditions"
+                ],
+                [
+                    "155:172"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "improve"
+                ],
+                [
+                    "147:154"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "In a briefing with reporters , Marine Corps Brig . Gen. Michael R. Lehnert , the commander of the prison project , says , \" We continue to work to improve living conditions for both the detainees and our security forces . \"",
+    "sent_id": "non_fbis/06.44.52-19992-77"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Governor Carlos Ruckauf"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "a national salvation government"
+                ],
+                [
+                    "106:137"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Governor Carlos Ruckauf of the vast Buenos Aires province said all parties had to \" help the Peronists in a national salvation government ... with consensus that the person in charge until 2003 should be Duhalde . \"",
+    "sent_id": "non_fbis/12.04.00-12904-5"
+}

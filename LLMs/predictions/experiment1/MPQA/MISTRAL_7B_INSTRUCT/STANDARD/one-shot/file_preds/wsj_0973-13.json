@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Company officials"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "any gain from the sale of Westinghouse 's 55 % stake in its transmission and distribution venture with the Swiss firm of Asea Brown Boveri"
+                ],
+                [
+                    "33:171"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "will be offset by a restructuring charge in the fourth quarter"
+                ],
+                [
+                    "172:234"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Company officials"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "the size of the expected gain"
+                ],
+                [
+                    "269:298"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "did n't disclose"
+                ],
+                [
+                    "252:268"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Company officials also said that any gain from the sale of Westinghouse 's 55 % stake in its transmission and distribution venture with the Swiss firm of Asea Brown Boveri will be offset by a restructuring charge in the fourth quarter . The executives did n't disclose the size of the expected gain .",
+    "sent_id": "xbank/wsj_0973-13"
+}

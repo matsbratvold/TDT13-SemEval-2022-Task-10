@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "effort to detain aliens"
+                ],
+                [
+                    "22:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "assessed"
+                ],
+                [
+                    "8:16"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "inspector general of the Justice Department"
+                ],
+                [
+                    "386:429"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "found significant problems"
+                ],
+                [
+                    "430:456"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "We have assessed this effort to detain aliens of \" special interest . \" The detainees were lawfully held on immigration charges . Records indicate that 531 were deported , 162 were released on bond , 24 received some kind of immigration benefits , 12 had their proceedings terminated , and 8 - one of whom was Moussaoui - were remanded to the custody of the U.S. Marshals Service . The inspector general of the Justice Department found significant problems in the way the 9/11 detainees were treated .",
+    "sent_id": "ula/chapter-10-16"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "handlingen i Litchfield"
+                ],
+                [
+                    "14:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "spredd i tid over flere uker"
+                ],
+                [
+                    "43:71"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Tidligere har handlingen i Litchfield v\u00e6rt spredd i tid over flere uker , noen ganger m\u00e5neder .",
+    "sent_id": "103992-08-07"
+}

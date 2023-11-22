@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Elgs hjemby"
+                ],
+                [
+                    "56:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "klarer"
+                ],
+                [
+                    "8:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Kristiansund"
+                ],
+                [
+                    "70:82"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fri meg helt fra"
+                ],
+                [
+                    "26:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Kristiansund"
+                ],
+                [
+                    "70:82"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "beskrevet vel s\u00e5 godt p\u00e5 morsm\u00e5let"
+                ],
+                [
+                    "96:130"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Likevel klarer jeg ikke \u00e5 fri meg helt fra tanken om at Elgs hjemby , Kristiansund , kunne v\u00e6rt beskrevet vel s\u00e5 godt p\u00e5 morsm\u00e5let .",
+    "sent_id": "303032-07-03"
+}

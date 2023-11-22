@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Taylor Schilling ( Piper Chapman ) og Laura Prepon ( Alex Vause )"
+                ],
+                [
+                    "0:65"
+                ]
+            ],
+            "Target": [
+                [
+                    "bakgrunnen"
+                ],
+                [
+                    "99:109"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "faller passende mer og mer inn i"
+                ],
+                [
+                    "66:98"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Taylor Schilling ( Piper Chapman ) og Laura Prepon ( Alex Vause ) faller passende mer og mer inn i bakgrunnen , noe som muligens antyder at de blir mindre med ogs\u00e5 i de kommende to sesongene som Netflix allerede har annonsert .",
+    "sent_id": "103992-14-01"
+}

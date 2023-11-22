@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Her"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "du"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hele 20 forh\u00e5ndsprogrammerte kanaler p\u00e5 knapper"
+                ],
+                [
+                    "11:58"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "ut over posisjon fem er det litt kl\u00f8nete"
+                ],
+                [
+                    "65:105"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Her har du hele 20 forh\u00e5ndsprogrammerte kanaler p\u00e5 knapper , men ut over posisjon fem er det litt kl\u00f8nete ( 5+1 for 6 , 5+2 for 7 osv. ) .",
+    "sent_id": "202868-02-01"
+}

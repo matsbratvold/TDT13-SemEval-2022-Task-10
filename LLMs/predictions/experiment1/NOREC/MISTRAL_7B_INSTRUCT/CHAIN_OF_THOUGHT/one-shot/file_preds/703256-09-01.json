@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "skurrer"
+                ],
+                [
+                    "28:35"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men selvsagt er det noe som skurrer .",
+    "sent_id": "703256-09-01"
+}

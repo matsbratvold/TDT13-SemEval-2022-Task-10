@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "America"
+                ],
+                [
+                    "19:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "deserve appreciation"
+                ],
+                [
+                    "27:47"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "President Bush and America deserve appreciation from all corners of the globe for leading the world in the war against terrorism and for making every nation safer .",
+    "sent_id": "non_fbis/06.21.24-4640-13"
+}

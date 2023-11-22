@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "historien"
+                ],
+                [
+                    "8:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00e5 vi ta med"
+                ],
+                [
+                    "18:30"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "historien"
+                ],
+                [
+                    "8:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "men ikke for mye"
+                ],
+                [
+                    "33:49"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "beretningen"
+                ],
+                [
+                    "65:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "om en familie som lever p\u00e5 illusjoner"
+                ],
+                [
+                    "77:114"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Litt om historien m\u00e5 vi ta med , men ikke for mye , for dette er beretningen om en familie som lever p\u00e5 illusjoner .",
+    "sent_id": "703256-06-01"
+}

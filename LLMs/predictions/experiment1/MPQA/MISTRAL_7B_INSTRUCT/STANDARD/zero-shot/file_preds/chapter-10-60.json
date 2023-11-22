@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "Iraq"
+                ],
+                [
+                    "71:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ordered the Defense Department to be ready to deal with Iraq"
+                ],
+                [
+                    "15:75"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "Iraq"
+                ],
+                [
+                    "71:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "with plans to include possibly occupying Iraqi oil fields"
+                ],
+                [
+                    "118:175"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "President Bush ordered the Defense Department to be ready to deal with Iraq if Baghdad acted against U.S. interests , with plans to include possibly occupying Iraqi oil fields .",
+    "sent_id": "ula/chapter-10-60"
+}

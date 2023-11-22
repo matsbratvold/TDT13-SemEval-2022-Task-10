@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sofia"
+                ],
+                [
+                    "63:68"
+                ]
+            ],
+            "Target": [
+                [
+                    "Identitet"
+                ],
+                [
+                    "96:105"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vanskelig \u00e5 garantere"
+                ],
+                [
+                    "116:137"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "For leseren er det en fryd \u00e5 se hvordan det hele forl\u00f8per mens Sofia utvikler tesen sin om at \u00ab Identitet er alltid vanskelig \u00e5 garantere . \u00bb",
+    "sent_id": "703572-08-01"
+}

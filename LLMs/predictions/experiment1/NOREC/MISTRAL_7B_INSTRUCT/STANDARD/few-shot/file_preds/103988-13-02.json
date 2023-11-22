@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "bryte"
+                ],
+                [
+                    "22:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "stakkato linjer"
+                ],
+                [
+                    "42:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "over"
+                ],
+                [
+                    "58:62"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "orgel-skank"
+                ],
+                [
+                    "72:83"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det beviser han ved \u00e5 bryte rappingen med stakkato linjer over en enkel orgel-skank :",
+    "sent_id": "103988-13-02"
+}

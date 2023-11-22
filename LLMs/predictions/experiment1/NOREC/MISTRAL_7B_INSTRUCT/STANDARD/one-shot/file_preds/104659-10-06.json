@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sannsynligvis"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "seiersplystring og lykkelig marsjtakt"
+                ],
+                [
+                    "26:63"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "seiersplystring og lykkelig marsjtakt"
+                ],
+                [
+                    "26:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blir brukt som virkemiddel i en konsert i T\u00f8yenparken"
+                ],
+                [
+                    "64:117"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Sannsynligvis f\u00f8rste gang seiersplystring og lykkelig marsjtakt blir brukt som virkemiddel i en konsert i T\u00f8yenparken .",
+    "sent_id": "104659-10-06"
+}

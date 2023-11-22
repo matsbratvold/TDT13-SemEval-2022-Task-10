@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "60:61"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "Get a life"
+                ],
+                [
+                    "114:124"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Having had the opportunity to tour Camp X - Ray last week , I offer America 's critics a simple piece of advice : Get a life .",
+    "sent_id": "non_fbis/06.21.24-4640-5"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "OnklP"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "Eben Jr"
+                ],
+                [
+                    "8:15"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "OnklP & Eben Jr .",
+    "sent_id": "103988-03-02"
+}

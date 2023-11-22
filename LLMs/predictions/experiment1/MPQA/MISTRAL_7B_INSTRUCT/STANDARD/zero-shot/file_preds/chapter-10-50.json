@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Clarke"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "57:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "See if Saddam did this"
+                ],
+                [
+                    "147:169"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Clarke"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "57:71"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Clarke has written that on the evening of September 12 , President Bush told him and some of his staff to explore possible Iraqi links to 9/11 . \" See if Saddam did this , \" Clarke recalls the President telling them . \" See if he 's linked in any way . \" While he believed the details of Clarke 's account to be incorrect , President Bush acknowledged that he might well have spoken to Clarke at some point , asking him about Iraq .",
+    "sent_id": "ula/chapter-10-50"
+}

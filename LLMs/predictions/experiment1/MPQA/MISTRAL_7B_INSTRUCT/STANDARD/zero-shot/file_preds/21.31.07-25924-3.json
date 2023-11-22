@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Salvadorian president"
+                ],
+                [
+                    "4:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "relations between El Salvador and Venezuela"
+                ],
+                [
+                    "141:184"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "totally normal"
+                ],
+                [
+                    "211:225"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The Salvadorian president considered that the vote of confidence in the provisional government of Carmona will not have any repercussions in relations between El Salvador and Venezuela , which he described as \" totally normal , we are not worried in that sense \" .",
+    "sent_id": "20020419/21.31.07-25924-3"
+}

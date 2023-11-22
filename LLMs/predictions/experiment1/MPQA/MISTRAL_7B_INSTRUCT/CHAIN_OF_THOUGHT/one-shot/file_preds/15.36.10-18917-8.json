@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The two presidents"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "a mutual desire to meet"
+                ],
+                [
+                    "29:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "expressed"
+                ],
+                [
+                    "19:28"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The two presidents expressed a mutual desire to meet in the near future .",
+    "sent_id": "non_fbis/15.36.10-18917-8"
+}

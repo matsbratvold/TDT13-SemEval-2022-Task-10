@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hennes"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "indiepop og -rock"
+                ],
+                [
+                    "29:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nesten p\u00f8nkete"
+                ],
+                [
+                    "14:28"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Hennes"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "indiepop og -rock"
+                ],
+                [
+                    "29:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "balansert med tilgjengelige melodier og direkte tekster"
+                ],
+                [
+                    "101:156"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hennes tidvis nesten p\u00f8nkete indiepop og -rock kan v\u00e6re b\u00e5de skakk og skeiv , men dette har hun ofte balansert med tilgjengelige melodier og direkte tekster .",
+    "sent_id": "501385-03-02"
+}

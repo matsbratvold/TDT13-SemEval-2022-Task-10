@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Mocks Shivute"
+                ],
+                [
+                    "32:45"
+                ]
+            ],
+            "Target": [
+                [
+                    "the US government"
+                ],
+                [
+                    "61:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "responded that"
+                ],
+                [
+                    "46:60"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Information Permanent Secretary Mocks Shivute responded that the US government was the worst human rights violator in the world .",
+    "sent_id": "temp_fbis/21.31.45-20536-3"
+}

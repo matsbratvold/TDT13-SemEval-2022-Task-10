@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Musikken"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "Bj\u00f6rn Olsson"
+                ],
+                [
+                    "40:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lagd"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Musikken er lagd i sammen med produsent Bj\u00f6rn Olsson , som er en viktig brikke p\u00e5 platen .",
+    "sent_id": "704372-23-03"
+}

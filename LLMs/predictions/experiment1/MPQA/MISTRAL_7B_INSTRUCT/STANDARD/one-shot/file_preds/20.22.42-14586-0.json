@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "US Secretary of State Colin Powell"
+                ],
+                [
+                    "17:51"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Venezuelan Government"
+                ],
+                [
+                    "58:83"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "triggered"
+                ],
+                [
+                    "84:93"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "members of the ruling party"
+                ],
+                [
+                    "119:146"
+                ]
+            ],
+            "Target": [
+                [
+                    "Washington"
+                ],
+                [
+                    "171:181"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "accused"
+                ],
+                [
+                    "163:170"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The statement by US Secretary of State Colin Powell about the Venezuelan Government triggered yesterday reactions from members of the ruling party . Mostly , they accused Washington of violating national sovereignty after the US ranking official voiced an opinion about Venezuela 's foreign policy and questioned the democratic nature of the administration of Hugo Chavez .",
+    "sent_id": "20020207/20.22.42-14586-0"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Og d\u00e9t"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "lurerock"
+                ],
+                [
+                    "20:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med mer enn et snev av Kaizers Orchestra"
+                ],
+                [
+                    "29:69"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Og d\u00e9t i et grep av lurerock med mer enn et snev av Kaizers Orchestra .",
+    "sent_id": "104332-02-03"
+}

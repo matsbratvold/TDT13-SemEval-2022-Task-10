@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Leopoldo Moreau"
+                ],
+                [
+                    "58:73"
+                ]
+            ],
+            "Target": [
+                [
+                    "a civil war"
+                ],
+                [
+                    "37:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said"
+                ],
+                [
+                    "53:57"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" Today we are millimeters away from a civil war , \" said Leopoldo Moreau , a Radical Party congressman .",
+    "sent_id": "non_fbis/12.04.00-12904-14"
+}

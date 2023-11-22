@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "skj\u00f8nnheten"
+                ],
+                [
+                    "38:49"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men d\u00e9t er bare inntil han selv m\u00f8ter skj\u00f8nnheten .",
+    "sent_id": "600639-03-02"
+}

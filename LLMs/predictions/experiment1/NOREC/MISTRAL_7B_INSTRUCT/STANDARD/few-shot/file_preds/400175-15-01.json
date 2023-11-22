@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "de makter"
+                ],
+                [
+                    "29:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 veksle mellom \u00e5 framst\u00e5 som for gamle for sin alder og samtidig tviholde p\u00e5 det barnlige"
+                ],
+                [
+                    "39:129"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det som imponerer er hvordan de makter \u00e5 veksle mellom \u00e5 framst\u00e5 som for gamle for sin alder og samtidig tviholde p\u00e5 det barnlige .",
+    "sent_id": "400175-15-01"
+}

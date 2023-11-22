@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Attitudeproblem"
+                ],
+                [
+                    "2:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "kommentarfeltkritikken rapduoen"
+                ],
+                [
+                    "56:87"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tolkes"
+                ],
+                [
+                    "24:30"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Attitudeproblem"
+                ],
+                [
+                    "2:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "tekstene p\u00e5 \u00ab Hvite menn som pusher 50 \u00bb , \u00ab Au pair \u00bb og \u00ab Lett \u00e5 v\u00e6re rebell i kjellerleiligheten din \u00bb"
+                ],
+                [
+                    "101:206"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tolkes"
+                ],
+                [
+                    "24:30"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab Attitudeproblem \u00bb kan tolkes som et motsvar p\u00e5 noe av kommentarfeltkritikken rapduoen har f\u00e5tt for tekstene p\u00e5 \u00ab Hvite menn som pusher 50 \u00bb , \u00ab Au pair \u00bb og \u00ab Lett \u00e5 v\u00e6re rebell i kjellerleiligheten din \u00bb - trippelslippet fra i fjor .",
+    "sent_id": "002988-04-01"
+}

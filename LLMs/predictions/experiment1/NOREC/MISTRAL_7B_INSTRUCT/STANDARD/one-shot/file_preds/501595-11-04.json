@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Svinestykkene"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00f8rst kokte"
+                ],
+                [
+                    "17:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Svinestykkene"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "friterte"
+                ],
+                [
+                    "43:51"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Svinestykkene er f\u00f8rst kokte , og deretter friterte .",
+    "sent_id": "501595-11-04"
+}

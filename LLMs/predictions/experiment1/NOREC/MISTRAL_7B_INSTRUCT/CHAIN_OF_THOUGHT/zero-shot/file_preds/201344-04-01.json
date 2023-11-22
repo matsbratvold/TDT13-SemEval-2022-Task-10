@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "treningsklokke"
+                ],
+                [
+                    "31:45"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "GPS"
+                ],
+                [
+                    "50:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilbake"
+                ],
+                [
+                    "54:61"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "markedsledere"
+                ],
+                [
+                    "112:125"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "v\u00e6rt"
+                ],
+                [
+                    "89:93"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Garmin introduserte sin f\u00f8rste treningsklokke med GPS tilbake i 2003 , og har i mange \u00e5r v\u00e6rt en av kategoriens markedsledere .",
+    "sent_id": "201344-04-01"
+}

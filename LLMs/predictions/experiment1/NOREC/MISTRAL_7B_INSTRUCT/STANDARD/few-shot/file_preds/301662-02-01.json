@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "vokalist"
+                ],
+                [
+                    "3:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Ny"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "start"
+                ],
+                [
+                    "18:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Ny"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "punks"
+                ],
+                [
+                    "34:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lovende"
+                ],
+                [
+                    "45:52"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Ny vokalist og ny start for norsk punks mest lovende .",
+    "sent_id": "301662-02-01"
+}

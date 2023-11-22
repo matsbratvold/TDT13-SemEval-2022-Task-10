@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "National"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "Roundup"
+                ],
+                [
+                    "9:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "National"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "National Roundup",
+    "sent_id": "non_fbis/11.05.55-12013-0"
+}

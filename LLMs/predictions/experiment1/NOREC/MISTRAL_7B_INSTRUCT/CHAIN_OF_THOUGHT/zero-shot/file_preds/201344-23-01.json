@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "smartklokker"
+                ],
+                [
+                    "27:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "en kjensgjerning"
+                ],
+                [
+                    "7:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er s\u00e5 enkle \u00e5 leve med i praksis"
+                ],
+                [
+                    "52:84"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er en kjensgjerning at smartklokker ikke alltid er s\u00e5 enkle \u00e5 leve med i praksis .",
+    "sent_id": "201344-23-01"
+}

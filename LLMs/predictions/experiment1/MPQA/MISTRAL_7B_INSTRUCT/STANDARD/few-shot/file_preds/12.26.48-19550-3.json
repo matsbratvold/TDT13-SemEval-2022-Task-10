@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Mary Robinson"
+                ],
+                [
+                    "38:51"
+                ]
+            ],
+            "Target": [
+                [
+                    "states strictly adhere to their international obligations to uphold human rights and fundamental freedoms"
+                ],
+                [
+                    "244:349"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said it was essential"
+                ],
+                [
+                    "215:236"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Walter Schwimmer"
+                ],
+                [
+                    "54:70"
+                ]
+            ],
+            "Target": [
+                [
+                    "states strictly adhere to their international obligations to uphold human rights and fundamental freedoms"
+                ],
+                [
+                    "244:349"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said it was essential"
+                ],
+                [
+                    "215:236"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Ambassador Gerard Stoudmann"
+                ],
+                [
+                    "120:147"
+                ]
+            ],
+            "Target": [
+                [
+                    "states strictly adhere to their international obligations to uphold human rights and fundamental freedoms"
+                ],
+                [
+                    "244:349"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said it was essential"
+                ],
+                [
+                    "215:236"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "UN High Commissioner for Human Rights Mary Robinson , Walter Schwimmer , Secretary General of the Council of Europe and Ambassador Gerard Stoudmann of the OSCE 's Office for Democratic Institutions and Human Rights said it was essential \" that states strictly adhere to their international obligations to uphold human rights and fundamental freedoms \" in the fight against terrorism .",
+    "sent_id": "20011130/12.26.48-19550-3"
+}

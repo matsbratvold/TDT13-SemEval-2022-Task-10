@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "3:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "the faces of evil"
+                ],
+                [
+                    "41:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stared into"
+                ],
+                [
+                    "29:40"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "3:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "the detainees"
+                ],
+                [
+                    "441:454"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "could not help but feel the grief and anguish of"
+                ],
+                [
+                    "258:306"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "3:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "the detainees"
+                ],
+                [
+                    "441:454"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "have openly threatened the Marines who guard them"
+                ],
+                [
+                    "571:620"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "3:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "the detainees"
+                ],
+                [
+                    "441:454"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "talk anxiously about returning home soon to continue terrorizing the American people"
+                ],
+                [
+                    "625:709"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "As I toured Camp X - Ray , I stared into the faces of evil . As I stood just feet away from barbarians who only weeks earlier fired machine guns at American troops , incited bloody prison riots and ambushes and , boasted of plans to kill innocent people , I could not help but feel the grief and anguish of those who lost loved ones on September 11 or during the war in Afghanistan . I have no doubt that , if given the opportunity , any of the detainees would have relished the chance to kill me . Indeed , since their arrival at Camp - X - Ray , some of the terrorists have openly threatened the Marines who guard them and talk anxiously about returning home soon to continue terrorizing the American people .",
+    "sent_id": "non_fbis/06.21.24-4640-10"
+}

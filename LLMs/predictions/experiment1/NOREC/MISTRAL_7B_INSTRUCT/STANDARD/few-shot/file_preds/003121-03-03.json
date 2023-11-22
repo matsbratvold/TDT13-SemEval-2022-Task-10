@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hun"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bare Sigrid"
+                ],
+                [
+                    "10:21"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "N\u00e5 er hun bare Sigrid .",
+    "sent_id": "003121-03-03"
+}

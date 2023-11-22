@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "L\u00e5tanmeldelse"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "L\u00e5tanmeldelse :",
+    "sent_id": "103988-01-01"
+}

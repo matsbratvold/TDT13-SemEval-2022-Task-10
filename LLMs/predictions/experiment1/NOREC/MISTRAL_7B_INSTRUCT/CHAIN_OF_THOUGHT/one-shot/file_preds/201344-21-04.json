@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "funksjonen"
+                ],
+                [
+                    "21:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snakke om"
+                ],
+                [
+                    "11:20"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "For ikke \u00e5 snakke om funksjonen som gj\u00f8r det mulig \u00e5 lokalisere eierens mistede smarttelefon .",
+    "sent_id": "201344-21-04"
+}

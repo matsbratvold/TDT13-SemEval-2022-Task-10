@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "intelligence gathered"
+                ],
+                [
+                    "10:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "American embassies"
+                ],
+                [
+                    "102:120"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "potential plots"
+                ],
+                [
+                    "76:91"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "instruction books"
+                ],
+                [
+                    "239:256"
+                ]
+            ],
+            "Target": [
+                [
+                    "American cities"
+                ],
+                [
+                    "324:339"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "landmarks"
+                ],
+                [
+                    "360:369"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "detailed maps"
+                ],
+                [
+                    "307:320"
+                ]
+            ],
+            "Target": [
+                [
+                    "public water facilities"
+                ],
+                [
+                    "148:171"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "potential plots"
+                ],
+                [
+                    "76:91"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "type of work"
+                ],
+                [
+                    "376:388"
+                ]
+            ],
+            "Target": [
+                [
+                    "Camp X - Ray"
+                ],
+                [
+                    "410:422"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "critical"
+                ],
+                [
+                    "433:441"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Already , intelligence gathered from other al Qaeda detainees has uncovered potential plots to attack American embassies , nuclear power plants and public water facilities . In the caves and hideouts of al Qaeda operatives , we have found instruction books on how to build chemical and biological weapons , detailed maps of American cities and descriptions of landmarks . The type of work that is occurring at Camp X - Ray may prove critical to preventing a new attack .",
+    "sent_id": "non_fbis/06.21.24-4640-12"
+}

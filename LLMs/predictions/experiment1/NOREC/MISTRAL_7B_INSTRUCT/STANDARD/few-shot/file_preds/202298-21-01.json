@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hybrider"
+                ],
+                [
+                    "44:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "overveldende andel"
+                ],
+                [
+                    "22:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Historisk sett er det overveldende andel av hybrider som selges .",
+    "sent_id": "202298-21-01"
+}

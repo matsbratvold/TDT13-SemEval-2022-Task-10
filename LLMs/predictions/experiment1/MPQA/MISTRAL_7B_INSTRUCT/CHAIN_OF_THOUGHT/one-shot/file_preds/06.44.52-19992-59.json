@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Two boys in white karate outfits"
+                ],
+                [
+                    "0:32"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "run"
+                ],
+                [
+                    "33:36"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Another child"
+                ],
+                [
+                    "72:85"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "play"
+                ],
+                [
+                    "110:114"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "keeping a watchful eye"
+                ],
+                [
+                    "150:172"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "keeping"
+                ],
+                [
+                    "150:157"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Two boys in white karate outfits run down palm - lined Sherman Avenue . Another child , no more than 3 or 4 , plays on a gym set , with a young woman keeping a watchful eye .",
+    "sent_id": "non_fbis/06.44.52-19992-59"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "slik betegnelse"
+                ],
+                [
+                    "37:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "imot"
+                ],
+                [
+                    "29:33"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Jeg har ikke noe prinsipielt imot en slik betegnelse .",
+    "sent_id": "302975-04-03"
+}

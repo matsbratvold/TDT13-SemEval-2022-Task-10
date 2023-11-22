@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "For \u00e5 ikke glemme"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "For \u00e5 ikke glemme :",
+    "sent_id": "200006-23-01"
+}

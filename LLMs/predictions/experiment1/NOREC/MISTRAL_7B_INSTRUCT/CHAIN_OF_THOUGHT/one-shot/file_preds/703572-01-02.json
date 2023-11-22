@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Stilisert og elegant"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Stilisert og elegant"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Stilisert og elegant",
+    "sent_id": "703572-01-02"
+}

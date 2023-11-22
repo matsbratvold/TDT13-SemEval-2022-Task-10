@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bing"
+                ],
+                [
+                    "43:47"
+                ]
+            ],
+            "Target": [
+                [
+                    "Bringsv\u00e6rd"
+                ],
+                [
+                    "22:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gave"
+                ],
+                [
+                    "35:39"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Bing"
+                ],
+                [
+                    "43:47"
+                ]
+            ],
+            "Target": [
+                [
+                    "Bringsv\u00e6rd"
+                ],
+                [
+                    "22:32"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Bing"
+                ],
+                [
+                    "43:47"
+                ]
+            ],
+            "Target": [
+                [
+                    "Bringsv\u00e6rd"
+                ],
+                [
+                    "22:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "elefanthode"
+                ],
+                [
+                    "78:89"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "P\u00e5 ett tidspunkt fikk Bringsv\u00e6rd i gave av Bing en veneziansk spaserstokk med elefanthode .",
+    "sent_id": "601365-07-02"
+}

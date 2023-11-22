@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The report"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "unsubstantiated stories"
+                ],
+                [
+                    "21:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "unwarranted assertions"
+                ],
+                [
+                    "63:85"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The report uses many unsubstantiated stories to illustrate its unwarranted assertions .",
+    "sent_id": "temp_fbis/21.37.46-9337-16"
+}

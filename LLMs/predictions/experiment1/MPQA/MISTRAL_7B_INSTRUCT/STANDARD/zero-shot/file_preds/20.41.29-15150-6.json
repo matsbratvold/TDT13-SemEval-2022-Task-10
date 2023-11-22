@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "But"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "South Korea"
+                ],
+                [
+                    "21:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "highest growth rate of carbon dioxide emissions in the world"
+                ],
+                [
+                    "41:101"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "it will not be able to fend off international pressure to join in the global campaign to reduce greenhouse gases much longer"
+                ],
+                [
+                    "104:228"
+                ]
+            ],
+            "Target": [
+                [
+                    "South Korea"
+                ],
+                [
+                    "21:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not be able to fend off international pressure"
+                ],
+                [
+                    "112:158"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "experts note"
+                ],
+                [
+                    "231:243"
+                ]
+            ],
+            "Target": [
+                [
+                    "South Korea"
+                ],
+                [
+                    "21:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not be able to fend off international pressure"
+                ],
+                [
+                    "112:158"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "But considering that South Korea has the highest growth rate of carbon dioxide emissions in the world , it will not be able to fend off international pressure to join in the global campaign to reduce greenhouse gases much longer , experts note .",
+    "sent_id": "20011115/20.41.29-15150-6"
+}

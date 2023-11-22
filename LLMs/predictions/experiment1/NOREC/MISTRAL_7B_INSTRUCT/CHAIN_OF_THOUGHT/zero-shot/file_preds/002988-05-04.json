@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Basstromme"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "klapp"
+                ],
+                [
+                    "13:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "klapp"
+                ],
+                [
+                    "13:18"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "klapp"
+                ],
+                [
+                    "13:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "dobbeltromme"
+                ],
+                [
+                    "21:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dobbeltromme"
+                ],
+                [
+                    "21:33"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Basstromme , klapp , dobbeltromme , klapp .",
+    "sent_id": "002988-05-04"
+}

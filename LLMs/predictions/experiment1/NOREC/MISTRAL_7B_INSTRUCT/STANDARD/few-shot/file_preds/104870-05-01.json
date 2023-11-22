@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Trommesettet og John McVie-bassen"
+                ],
+                [
+                    "0:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kylt ut"
+                ],
+                [
+                    "37:44"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "l\u00e5tene"
+                ],
+                [
+                    "50:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "klinger mer americana enn ABBA"
+                ],
+                [
+                    "57:87"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Trommesettet og John McVie-bassen er kylt ut , og l\u00e5tene klinger mer americana enn ABBA .",
+    "sent_id": "104870-05-01"
+}

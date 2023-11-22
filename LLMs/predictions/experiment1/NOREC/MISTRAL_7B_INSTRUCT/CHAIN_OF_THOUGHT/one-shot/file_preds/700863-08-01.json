@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Anduin Lothar"
+                ],
+                [
+                    "176:189"
+                ]
+            ],
+            "Target": [
+                [
+                    "Gorana"
+                ],
+                [
+                    "120:126"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilh\u00f8righet"
+                ],
+                [
+                    "64:75"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hardt tiltrengt spenning oppst\u00e5r ved hjelp av figurer med uklar tilh\u00f8righet , som den lett hoggtannutstyrte skj\u00f8nnheten Gorana med s\u00e5 menneskelige trekk at Menneskenes leder , Anduin Lothar , tror hun er blitt en av dem .",
+    "sent_id": "700863-08-01"
+}

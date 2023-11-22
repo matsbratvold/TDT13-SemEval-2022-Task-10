@@ -1,0 +1,74 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "med"
+                ],
+                [
+                    "7:10"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "30:43"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "om"
+                ],
+                [
+                    "56:58"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "30:43"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "om"
+                ],
+                [
+                    "56:58"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det er med denne montert , at Fenix Chronos minner mest om en tradisjonell klokke .",
+    "sent_id": "201344-12-02"
+}

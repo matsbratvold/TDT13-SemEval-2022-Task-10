@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sader"
+                ],
+                [
+                    "145:150"
+                ]
+            ],
+            "Target": [
+                [
+                    "degree of pauperization"
+                ],
+                [
+                    "6:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "brutal"
+                ],
+                [
+                    "38:44"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" The degree of pauperization will be brutal . Everything depends on how long it takes for Peronism to burn out and new leadership to emerge , \" Sader said .",
+    "sent_id": "20011231/21.05.45-10422-12"
+}

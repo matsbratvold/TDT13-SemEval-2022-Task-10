@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "F\u00f8r"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "n\u00e5"
+                ],
+                [
+                    "4:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "n\u00e5"
+                ],
+                [
+                    "4:6"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "F\u00f8r n\u00e5 .",
+    "sent_id": "304196-09-01"
+}

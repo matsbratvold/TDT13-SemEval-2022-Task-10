@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Flores"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "said"
+                ],
+                [
+                    "7:11"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Flores"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "receive a vote of confidence"
+                ],
+                [
+                    "228:256"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stated"
+                ],
+                [
+                    "323:329"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Flores said , in a press conference , that \" there is no reason to apologize \" to President Chavez , as demanded by Salvadoran opposition parties . \" Our position is very clear , our position was that the new authorities had to receive a vote of confidence to lead the Venezuelan process back to the democratic path , \" he stated .",
+    "sent_id": "20020419/21.31.07-25924-1"
+}

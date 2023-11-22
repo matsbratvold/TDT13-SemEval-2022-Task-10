@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Runaway"
+                ],
+                [
+                    "2:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "fri som en byrd"
+                ],
+                [
+                    "12:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stammer"
+                ],
+                [
+                    "32:39"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" Runaway ( fri som en byrd ) \" stammer ogs\u00e5 fra \" 1974 \" , da under en annen tittel .",
+    "sent_id": "704372-11-01"
+}

@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the military"
+                ],
+                [
+                    "31:43"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "considers them"
+                ],
+                [
+                    "44:58"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "the military"
+                ],
+                [
+                    "31:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "do pretty much as directed"
+                ],
+                [
+                    "153:179"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The prisoners are here because the military considers them \" hard - core \" terrorists - willing to escape , to kill themselves and others . But now they do pretty much as directed . They walk , they shut up , they lower their heads . They board buses that will take them to a ferry that will take them across Guantanamo Bay to a detention facility known as Camp X - Ray .",
+    "sent_id": "non_fbis/06.44.52-19992-17"
+}

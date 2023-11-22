@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Plagene"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "forsvinner"
+                ],
+                [
+                    "8:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ikke der"
+                ],
+                [
+                    "19:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Plagene forsvinner ikke der .",
+    "sent_id": "004983-08-01"
+}

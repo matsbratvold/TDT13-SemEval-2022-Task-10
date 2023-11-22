@@ -1,0 +1,43 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "\u00d8ivind Elgenes"
+                ],
+                [
+                    "17:31"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "stj\u00e5let"
+                ],
+                [
+                    "48:55"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Bare tittelen p\u00e5 \u00d8ivind Elgenes \u2019 nye album ( \u00ab stj\u00e5let \u00bb fra en s\u00e5pereklame ) gir gode vibrasjoner .",
+    "sent_id": "303032-03-02"
+}

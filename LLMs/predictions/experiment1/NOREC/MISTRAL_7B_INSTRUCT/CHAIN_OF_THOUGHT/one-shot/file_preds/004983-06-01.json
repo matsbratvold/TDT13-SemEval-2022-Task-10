@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "foreldrene"
+                ],
+                [
+                    "4:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forsvinner"
+                ],
+                [
+                    "15:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "N\u00e5r foreldrene forsvinner",
+    "sent_id": "004983-06-01"
+}

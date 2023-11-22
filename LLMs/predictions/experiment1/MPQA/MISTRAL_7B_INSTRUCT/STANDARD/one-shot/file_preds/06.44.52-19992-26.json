@@ -1,0 +1,110 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The routine"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "a delousing"
+                ],
+                [
+                    "21:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "includes"
+                ],
+                [
+                    "12:20"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "The routine"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "a physical"
+                ],
+                [
+                    "62:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "includes"
+                ],
+                [
+                    "12:20"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "The routine"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "and"
+                ],
+                [
+                    "58:61"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "The routine"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "and"
+                ],
+                [
+                    "58:61"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The routine includes a delousing , or chemical washdown , and a physical . The detainees also get fingerprinted and photographed .",
+    "sent_id": "non_fbis/06.44.52-19992-26"
+}

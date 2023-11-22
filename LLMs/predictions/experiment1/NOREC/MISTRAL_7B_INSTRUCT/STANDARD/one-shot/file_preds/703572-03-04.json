@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "/"
+                ],
+                [
+                    "6:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Bokvennen"
+                ],
+                [
+                    "8:17"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Solum / Bokvennen .",
+    "sent_id": "703572-03-04"
+}

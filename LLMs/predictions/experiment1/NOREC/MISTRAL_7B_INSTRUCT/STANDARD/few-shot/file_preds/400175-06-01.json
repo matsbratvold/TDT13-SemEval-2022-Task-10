@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hatet"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "sprekker"
+                ],
+                [
+                    "11:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sl\u00e5r"
+                ],
+                [
+                    "6:10"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hatet sl\u00e5r sprekker",
+    "sent_id": "400175-06-01"
+}

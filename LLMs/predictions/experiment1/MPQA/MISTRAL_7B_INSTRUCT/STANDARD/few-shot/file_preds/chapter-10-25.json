@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The FBI"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "all persons of interest on these flights prior to their departures"
+                ],
+                [
+                    "20:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "interviewed"
+                ],
+                [
+                    "8:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The FBI"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "none of the passengers was connected to the 9/11 attacks"
+                ],
+                [
+                    "109:165"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "concluded"
+                ],
+                [
+                    "94:103"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The FBI"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "have since found no evidence to change that conclusion"
+                ],
+                [
+                    "170:224"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "concluded"
+                ],
+                [
+                    "94:103"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Our own independent review of the Saudi nationals involved"
+                ],
+                [
+                    "227:285"
+                ]
+            ],
+            "Target": [
+                [
+                    "no one with known links to terrorism departed on these flights"
+                ],
+                [
+                    "300:362"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "confirms"
+                ],
+                [
+                    "286:294"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The FBI interviewed all persons of interest on these flights prior to their departures . They concluded that none of the passengers was connected to the 9/11 attacks and have since found no evidence to change that conclusion . Our own independent review of the Saudi nationals involved confirms that no one with known links to terrorism departed on these flights .",
+    "sent_id": "ula/chapter-10-25"
+}

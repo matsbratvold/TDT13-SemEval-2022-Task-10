@@ -1,0 +1,41 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjentar seg flere ganger i filmen"
+                ],
+                [
+                    "6:39"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "han m\u00f8ter ulike ansatte i trygdeetaten som fremst\u00e5r som roboter uten medmenneskelighet"
+                ],
+                [
+                    "46:132"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dette gjentar seg flere ganger i filmen , der han m\u00f8ter ulike ansatte i trygdeetaten som fremst\u00e5r som roboter uten medmenneskelighet .",
+    "sent_id": "004773-10-01"
+}

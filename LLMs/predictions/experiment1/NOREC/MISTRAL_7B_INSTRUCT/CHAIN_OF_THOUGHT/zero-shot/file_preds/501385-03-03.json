@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Silja Sol"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "ikke redd"
+                ],
+                [
+                    "13:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Silja Sol"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "Ni liv"
+                ],
+                [
+                    "72:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forsvinner"
+                ],
+                [
+                    "81:91"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Silja Sol er ikke redd for \u00e5 v\u00e6re kommersiell n\u00e5r det trengs , men p\u00e5 \u00ab Ni liv \u00bb forsvinner tidvis sangeren Silja Sol .",
+    "sent_id": "501385-03-03"
+}

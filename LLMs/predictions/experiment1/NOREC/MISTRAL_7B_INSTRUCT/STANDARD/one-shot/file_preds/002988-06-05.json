@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Attitudeproblem"
+                ],
+                [
+                    "27:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dessverre litt for flat"
+                ],
+                [
+                    "45:68"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "St\u00e5ende alene derimot er \u00ab Attitudeproblem \u00bb dessverre litt for flat , laber og lite minneverdig .",
+    "sent_id": "002988-06-05"
+}

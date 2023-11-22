@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "it"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "gun control"
+                ],
+                [
+                    "45:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "uh the only problem"
+                ],
+                [
+                    "13:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "the radicals"
+                ],
+                [
+                    "70:82"
+                ]
+            ],
+            "Target": [
+                [
+                    "gun control"
+                ],
+                [
+                    "45:56"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "the only people carrying guns"
+                ],
+                [
+                    "123:152"
+                ]
+            ],
+            "Target": [
+                [
+                    "gun control"
+                ],
+                [
+                    "45:56"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "it really is uh the only problem i have with gun control is that they the radicals wanna ban all kinds of weapons and then the only people carrying guns are gonna be be the people who are gonna kill you anyway",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-13"
+}

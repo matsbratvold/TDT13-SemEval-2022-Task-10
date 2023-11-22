@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Identitet"
+                ],
+                [
+                    "2:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "garantere"
+                ],
+                [
+                    "27:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vanskelig"
+                ],
+                [
+                    "15:24"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab Identitet er vanskelig \u00e5 garantere \u00bb , og lar seg snaut nok definere .",
+    "sent_id": "703572-02-02"
+}

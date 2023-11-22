@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "de"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "starter"
+                ],
+                [
+                    "11:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vesle Synne"
+                ],
+                [
+                    "44:55"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "de"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "klarer"
+                ],
+                [
+                    "99:105"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fri boka fra en bel\u00e6rende fortellerstemme"
+                ],
+                [
+                    "116:157"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Selv om de starter med et barneperspektiv \u2013 vesle Synne gleder seg til \u00e5 f\u00e5 en ny gutt i klassen \u2013 klarer de ikke \u00e5 fri boka fra en bel\u00e6rende fortellerstemme .",
+    "sent_id": "302975-07-01"
+}

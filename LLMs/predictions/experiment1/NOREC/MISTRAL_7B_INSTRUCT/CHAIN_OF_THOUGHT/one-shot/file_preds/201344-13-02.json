@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Samtlige"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "utstyrt"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "utstyrt"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Samtlige"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "utstyrt"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "spesielle baretter"
+                ],
+                [
+                    "24:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Samtlige"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "utstyrt"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skifte av lenke eller rem"
+                ],
+                [
+                    "54:79"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Samtlige"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "utstyrt"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sv\u00e6rt enkel aff\u00e6re"
+                ],
+                [
+                    "87:105"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Samtlige er utstyrt med spesielle baretter , som gj\u00f8r skifte av lenke eller rem til en sv\u00e6rt enkel aff\u00e6re .",
+    "sent_id": "201344-13-02"
+}

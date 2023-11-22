@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Cao Shengjie"
+                ],
+                [
+                    "62:74"
+                ]
+            ],
+            "Target": [
+                [
+                    "His behaviour"
+                ],
+                [
+                    "2:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "violated"
+                ],
+                [
+                    "20:28"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Cao Shengjie"
+                ],
+                [
+                    "62:74"
+                ]
+            ],
+            "Target": [
+                [
+                    "smuggled Bibles"
+                ],
+                [
+                    "121:136"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "editions translated by the ' Shouters ' sect"
+                ],
+                [
+                    "142:186"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Cao Shengjie"
+                ],
+                [
+                    "62:74"
+                ]
+            ],
+            "Target": [
+                [
+                    "heresy"
+                ],
+                [
+                    "195:201"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said"
+                ],
+                [
+                    "49:53"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Cao Shengjie"
+                ],
+                [
+                    "62:74"
+                ]
+            ],
+            "Target": [
+                [
+                    "Shouters"
+                ],
+                [
+                    "171:179"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "claim they are bigger than Jesus"
+                ],
+                [
+                    "236:268"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" His behaviour has violated the Chinese law , \" said the Rev Cao Shengjie of the China Christian Council . Cao said the smuggled Bibles were editions translated by the ' Shouters ' sect . It is heresy , \" said Cao . \" The ' Shouters ' claim they are bigger than Jesus . \"",
+    "sent_id": "temp_fbis/21.37.46-9337-20"
+}

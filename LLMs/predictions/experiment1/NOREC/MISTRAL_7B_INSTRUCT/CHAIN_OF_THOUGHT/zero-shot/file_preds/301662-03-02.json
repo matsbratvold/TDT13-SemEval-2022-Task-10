@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "man"
+                ],
+                [
+                    "9:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "prominent frontfigur"
+                ],
+                [
+                    "69:89"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mister"
+                ],
+                [
+                    "59:65"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hva gj\u00f8r man egentlig n\u00e5r man er i en gjennombruddsfase og mister en prominent frontfigur ?",
+    "sent_id": "301662-03-02"
+}

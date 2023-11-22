@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Selvsagt"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "svaret"
+                ],
+                [
+                    "12:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ja"
+                ],
+                [
+                    "19:21"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Selvsagt er svaret ja , ikke bare fordi fortellerne allerede har gitt oss fasiten i en tiln\u00e6rmet lik setning tidligere i boka .",
+    "sent_id": "302975-09-01"
+}

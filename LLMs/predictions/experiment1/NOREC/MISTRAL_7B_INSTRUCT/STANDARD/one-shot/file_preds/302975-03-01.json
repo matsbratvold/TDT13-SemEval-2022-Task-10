@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Se"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en roman om en familie som flykter fra et krigsherjet land"
+                ],
+                [
+                    "11:69"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Se for deg en roman om en familie som flykter fra et krigsherjet land , bor et halv\u00e5r p\u00e5 mottak i Norge , f\u00f8r de f\u00e5r avslag p\u00e5 asyls\u00f8knaden .",
+    "sent_id": "302975-03-01"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "l\u00f8nner seg \u00e5 bygge karakter"
+                ],
+                [
+                    "4:31"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det l\u00f8nner seg \u00e5 bygge karakter",
+    "sent_id": "000913-21-01"
+}

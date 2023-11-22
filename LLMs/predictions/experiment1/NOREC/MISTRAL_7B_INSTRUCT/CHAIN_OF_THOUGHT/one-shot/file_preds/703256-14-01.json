@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "ensemble"
+                ],
+                [
+                    "6:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Flott ensemble"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Flott ensemble",
+    "sent_id": "703256-14-01"
+}

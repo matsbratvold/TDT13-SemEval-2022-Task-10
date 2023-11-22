@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ebens"
+                ],
+                [
+                    "13:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "Apache Indian-aktige refreng"
+                ],
+                [
+                    "29:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "karikerte"
+                ],
+                [
+                    "19:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Ebens"
+                ],
+                [
+                    "13:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "Apache Indian-aktige refreng"
+                ],
+                [
+                    "29:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enkelt"
+                ],
+                [
+                    "70:76"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Og s\u00e5 kommer Ebens karikerte Apache Indian-aktige refreng , som er s\u00e5 enkelt at du kan det utenat f\u00f8r du har h\u00f8rt det .",
+    "sent_id": "103988-14-02"
+}

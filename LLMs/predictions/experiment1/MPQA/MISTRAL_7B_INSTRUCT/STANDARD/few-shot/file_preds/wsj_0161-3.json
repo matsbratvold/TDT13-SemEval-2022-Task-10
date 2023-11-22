@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hadson"
+                ],
+                [
+                    "14:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "write off about $ 3.5 million in costs related to international exploration leases"
+                ],
+                [
+                    "34:116"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said it will"
+                ],
+                [
+                    "21:33"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "In addition , Hadson said it will write off about $ 3.5 million in costs related to international exploration leases where exploration efforts have been unsuccessful .",
+    "sent_id": "xbank/wsj_0161-3"
+}

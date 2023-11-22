@@ -1,0 +1,53 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "blank list over"
+                ],
+                [
+                    "97:112"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "litt andre sm\u00e5ting"
+                ],
+                [
+                    "127:145"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Innvendig har bilen f\u00e5tt noen nye detaljer av mindre karakter , som kontrasts\u00f8mmer i rattet , en blank list over skjermen , og litt andre sm\u00e5ting .",
+    "sent_id": "202298-16-03"
+}

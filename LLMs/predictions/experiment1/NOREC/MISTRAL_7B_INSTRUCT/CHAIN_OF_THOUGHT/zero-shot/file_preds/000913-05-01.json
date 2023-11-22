@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "estetisk sterke"
+                ],
+                [
+                    "4:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "steampunk-verdenen"
+                ],
+                [
+                    "29:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sterke"
+                ],
+                [
+                    "13:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "gjennomarbeidede spilluniverset"
+                ],
+                [
+                    "54:85"
+                ]
+            ],
+            "Target": [
+                [
+                    "intrikate oppdragene"
+                ],
+                [
+                    "92:112"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjorde"
+                ],
+                [
+                    "113:119"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "spilte seg gjennom det flere ganger"
+                ],
+                [
+                    "127:162"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00f8ke"
+                ],
+                [
+                    "171:175"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "n\u00f8ste opp i sideoppdrag"
+                ],
+                [
+                    "210:233"
+                ]
+            ],
+            "Target": [
+                [
+                    "oppdrag"
+                ],
+                [
+                    "102:109"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "n\u00f8ste"
+                ],
+                [
+                    "210:215"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Den estetisk sterke , dystre steampunk-verdenen , det gjennomarbeidede spilluniverset og de intrikate oppdragene gjorde at man spilte seg gjennom det flere ganger , for \u00e5 s\u00f8ke nye m\u00e5ter \u00e5 l\u00f8se ting p\u00e5 og for \u00e5 n\u00f8ste opp i sideoppdrag .",
+    "sent_id": "000913-05-01"
+}

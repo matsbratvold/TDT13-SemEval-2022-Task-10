@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "\u00d8yafestivalen"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "begynner"
+                ],
+                [
+                    "14:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "\u00d8yafestivalen"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "\u00d8yafestivalen"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "klubbmusikk"
+                ],
+                [
+                    "36:47"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "\u00d8yafestivalen"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 alvor"
+                ],
+                [
+                    "49:56"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "\u00d8yafestivalen begynner endelig \u00e5 ta klubbmusikk p\u00e5 alvor .",
+    "sent_id": "302108-03-02"
+}

@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jo"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "tid"
+                ],
+                [
+                    "7:10"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "bedre"
+                ],
+                [
+                    "50:55"
+                ]
+            ],
+            "Target": [
+                [
+                    "utnyttet"
+                ],
+                [
+                    "64:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kan man utnyttet Emilys eller Corvos personlige egenskaper"
+                ],
+                [
+                    "56:114"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Jo mer tid man bruker til \u00e5 skaffe seg runer , jo bedre kan man utnyttet Emilys eller Corvos personlige egenskaper .",
+    "sent_id": "000913-22-01"
+}

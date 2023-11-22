@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Authorities"
+                ],
+                [
+                    "9:20"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "released"
+                ],
+                [
+                    "44:52"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "AMMAN -- Authorities on Sunday [ 24 March ] released an alleged business associate of Majd Shamayleh , the prime suspect in a bank fraud case under investigation , on JD1 million bail bond , nearly two weeks after he was detained in connection with this case , judicial sources said yesterday .",
+    "sent_id": "20020326/20.55.44-16289-0"
+}

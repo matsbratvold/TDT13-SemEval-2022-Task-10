@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "navy craft"
+                ],
+                [
+                    "4:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "small boat"
+                ],
+                [
+                    "34:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "thinking it was in distress"
+                ],
+                [
+                    "45:72"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "elderly man"
+                ],
+                [
+                    "79:90"
+                ]
+            ],
+            "Target": [
+                [
+                    "navy craft"
+                ],
+                [
+                    "4:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "put up a white flag"
+                ],
+                [
+                    "135:154"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "teenager"
+                ],
+                [
+                    "95:103"
+                ]
+            ],
+            "Target": [
+                [
+                    "navy craft"
+                ],
+                [
+                    "4:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "put up a white flag"
+                ],
+                [
+                    "135:154"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "another person"
+                ],
+                [
+                    "108:122"
+                ]
+            ],
+            "Target": [
+                [
+                    "navy craft"
+                ],
+                [
+                    "4:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "put up a white flag"
+                ],
+                [
+                    "135:154"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The navy craft had approached the small boat thinking it was in distress as an elderly man , a teenager and another person onboard had put up a white flag .",
+    "sent_id": "20010916/21.24.32-9824-7"
+}

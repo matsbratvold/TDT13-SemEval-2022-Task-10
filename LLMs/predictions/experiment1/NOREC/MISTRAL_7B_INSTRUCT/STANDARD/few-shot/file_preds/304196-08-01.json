@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Rogers Waters"
+                ],
+                [
+                    "34:47"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pink Floyd"
+                ],
+                [
+                    "85:95"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "innr\u00f8mme"
+                ],
+                [
+                    "23:31"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Rogers Waters"
+                ],
+                [
+                    "34:47"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pink Floyd"
+                ],
+                [
+                    "85:95"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "soloartist"
+                ],
+                [
+                    "100:110"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Rogers Waters"
+                ],
+                [
+                    "34:47"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pink Floyd"
+                ],
+                [
+                    "85:95"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "debuten"
+                ],
+                [
+                    "126:133"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Rogers Waters"
+                ],
+                [
+                    "34:47"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pink Floyd"
+                ],
+                [
+                    "85:95"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Amused To Death"
+                ],
+                [
+                    "186:201"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Samtidig er det bare \u00e5 innr\u00f8mme , Rogers Waters klarte aldri \u00e5 kopiere suksessen fra Pink Floyd som soloartist , sj\u00f8l om b\u00e5de debuten \u00ab The Pros And Cons Of Hitch Hiking \u00bb ( 1984 ) og \u00ab Amused To Death \u00bb ( 1992 ) har mye for seg .",
+    "sent_id": "304196-08-01"
+}

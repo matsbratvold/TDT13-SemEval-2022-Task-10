@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "balladen"
+                ],
+                [
+                    "23:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "un\u00f8dvendig"
+                ],
+                [
+                    "32:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "EP"
+                ],
+                [
+                    "49:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "overlegent produkt"
+                ],
+                [
+                    "76:94"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I dette tilfellet blir balladen un\u00f8dvendig p\u00e5 en EP som for det meste er et overlegent produkt av avhengighetsskapende bangers .",
+    "sent_id": "003121-05-03"
+}

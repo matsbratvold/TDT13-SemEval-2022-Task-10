@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Admiral P"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "feat"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "."
+                ],
+                [
+                    "15:16"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Admiral P feat .",
+    "sent_id": "103988-03-01"
+}

@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "35:40"
+                ]
+            ],
+            "Target": [
+                [
+                    "the 11 September events in the United States"
+                ],
+                [
+                    "89:133"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is the first ever by an important country"
+                ],
+                [
+                    "41:82"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "United States"
+                ],
+                [
+                    "120:133"
+                ]
+            ],
+            "Target": [
+                [
+                    "the United States"
+                ],
+                [
+                    "116:133"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has been very openly told"
+                ],
+                [
+                    "172:197"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Iranian President Mohammed Khatami"
+                ],
+                [
+                    "321:355"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "protested against"
+                ],
+                [
+                    "397:414"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "500:514"
+                ]
+            ],
+            "Target": [
+                [
+                    "Iran , Iraq and North Korea"
+                ],
+                [
+                    "523:550"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "terming Iran , Iraq and North Korea as ' axis of evil '"
+                ],
+                [
+                    "515:570"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The above - mentioned statement by China is the first ever by an important country after the 11 September events in the United States . In the document , the United States has been very openly told that it has become the number one country in damaging solidarity of other countries and violating human rights there . The Iranian President Mohammed Khatami , on the start of his visit to Austria , protested against this dictatorial move by the United States . He also condemned the statement made by President Bush terming Iran , Iraq and North Korea as ' axis of evil ' and that these countries are preparing weapons of mass destruction .",
+    "sent_id": "20020315/20.21.54-4382-2"
+}

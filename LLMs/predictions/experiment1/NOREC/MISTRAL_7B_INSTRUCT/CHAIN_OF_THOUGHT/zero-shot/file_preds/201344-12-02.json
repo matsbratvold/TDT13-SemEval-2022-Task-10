@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "denne montert"
+                ],
+                [
+                    "11:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "30:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "minner"
+                ],
+                [
+                    "44:50"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er med denne montert , at Fenix Chronos minner mest om en tradisjonell klokke .",
+    "sent_id": "201344-12-02"
+}

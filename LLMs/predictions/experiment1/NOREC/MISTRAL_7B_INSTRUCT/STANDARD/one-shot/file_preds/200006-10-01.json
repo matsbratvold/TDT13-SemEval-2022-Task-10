@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Mindre praktisk design"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Mindre praktisk design",
+    "sent_id": "200006-10-01"
+}

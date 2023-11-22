@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "right"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "gun home"
+                ],
+                [
+                    "39:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cannot take"
+                ],
+                [
+                    "23:34"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "gun home"
+                ],
+                [
+                    "39:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cannot take"
+                ],
+                [
+                    "23:34"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "exactly"
+                ],
+                [
+                    "11:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "gun home"
+                ],
+                [
+                    "39:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cannot take"
+                ],
+                [
+                    "23:34"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "sign up here"
+                ],
+                [
+                    "80:92"
+                ]
+            ],
+            "Target": [
+                [
+                    "gun home"
+                ],
+                [
+                    "39:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cannot take"
+                ],
+                [
+                    "23:34"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "right yeah exactly you cannot take the gun home until you 've taken this course sign up here something like that",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-21"
+}

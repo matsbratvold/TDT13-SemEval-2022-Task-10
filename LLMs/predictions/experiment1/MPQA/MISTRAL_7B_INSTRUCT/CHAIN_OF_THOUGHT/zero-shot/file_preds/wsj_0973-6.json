@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Westinghouse"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "economy"
+                ],
+                [
+                    "76:83"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "meet its corporate goals"
+                ],
+                [
+                    "24:48"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Mr. Marous"
+                ],
+                [
+                    "202:212"
+                ]
+            ],
+            "Target": [
+                [
+                    "GNP"
+                ],
+                [
+                    "220:223"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "handle that"
+                ],
+                [
+                    "186:197"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Westinghouse expects to meet its corporate goals despite a softening in the economy . Even if the gross national product is either flat or in the growth range of 2 % to 2.5 % , \" we can handle that , \" Mr. Marous said . GNP is the total value of the nation 's output of goods and services .",
+    "sent_id": "xbank/wsj_0973-6"
+}

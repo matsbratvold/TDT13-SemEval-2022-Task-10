@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "17:20"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I praksis virker det mer som om man jobber knallhardt med \u00e5 formidle f\u00f8lelsen av hvordan det er \u00e5 sitte inne :",
+    "sent_id": "103992-17-02"
+}

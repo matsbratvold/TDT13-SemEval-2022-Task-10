@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "eventyr"
+                ],
+                [
+                    "10:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "glad"
+                ],
+                [
+                    "43:47"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "rollefigurer"
+                ],
+                [
+                    "22:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "du blir glad i"
+                ],
+                [
+                    "35:49"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "rollefigurer"
+                ],
+                [
+                    "22:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som du bryr deg om hvordan det g\u00e5r med"
+                ],
+                [
+                    "52:90"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det er et eventyr med rollefigurer du blir glad i , som du bryr deg om hvordan det g\u00e5r med .",
+    "sent_id": "000298-24-01"
+}

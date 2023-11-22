@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jan L\u00f6\u00f6f"
+                ],
+                [
+                    "17:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "innvandringsdebatten"
+                ],
+                [
+                    "57:77"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det er tegnet av Jan L\u00f6\u00f6f , som et innlegg i den svenske innvandringsdebatten .",
+    "sent_id": "704372-03-04"
+}

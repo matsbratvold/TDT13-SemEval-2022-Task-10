@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "roman"
+                ],
+                [
+                    "14:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "flykter"
+                ],
+                [
+                    "38:45"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "familie"
+                ],
+                [
+                    "26:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bor"
+                ],
+                [
+                    "72:75"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "asyls\u00f8knaden"
+                ],
+                [
+                    "127:139"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "avslag"
+                ],
+                [
+                    "117:123"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Se for deg en roman om en familie som flykter fra et krigsherjet land , bor et halv\u00e5r p\u00e5 mottak i Norge , f\u00f8r de f\u00e5r avslag p\u00e5 asyls\u00f8knaden .",
+    "sent_id": "302975-03-01"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ni Liv"
+                ],
+                [
+                    "51:57"
+                ]
+            ],
+            "Target": [
+                [
+                    "r\u00e5terialet"
+                ],
+                [
+                    "33:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "synd"
+                ],
+                [
+                    "7:11"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Ni Liv"
+                ],
+                [
+                    "51:57"
+                ]
+            ],
+            "Target": [
+                [
+                    "r\u00e5terialet"
+                ],
+                [
+                    "33:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tidvis h\u00f8y kvalitet"
+                ],
+                [
+                    "67:86"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det er synd , for selve l\u00e5tene \u2013 r\u00e5terialet \u2013 p\u00e5 \u00ab Ni Liv \u00bb holder tidvis h\u00f8y kvalitet .",
+    "sent_id": "501385-06-01"
+}

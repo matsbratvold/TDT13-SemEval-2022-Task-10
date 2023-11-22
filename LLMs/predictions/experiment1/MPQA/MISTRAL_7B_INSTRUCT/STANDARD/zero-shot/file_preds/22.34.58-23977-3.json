@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Zhang"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "Washington"
+                ],
+                [
+                    "35:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "expressed alarm"
+                ],
+                [
+                    "14:29"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Zhang further expressed alarm over Washington 's announcement Wednesday that defense department officials will soon visit Taiwan to discuss the sale of eight diesel electric submarines .",
+    "sent_id": "temp_fbis/22.34.58-23977-3"
+}

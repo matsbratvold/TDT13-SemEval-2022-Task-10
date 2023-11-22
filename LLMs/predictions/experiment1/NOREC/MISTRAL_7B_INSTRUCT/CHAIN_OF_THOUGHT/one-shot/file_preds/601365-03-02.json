@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Veneziansk spaserstokk med elefanthode"
+                ],
+                [
+                    "0:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Veneziansk spaserstokk med elefanthode"
+                ],
+                [
+                    "0:38"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Veneziansk spaserstokk med elefanthode .",
+    "sent_id": "601365-03-02"
+}

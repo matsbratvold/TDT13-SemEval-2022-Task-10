@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "muskler"
+                ],
+                [
+                    "21:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til \u00e5 h\u00e5ndtere kraftige h\u00f8yttalere uten \u00e5 klage"
+                ],
+                [
+                    "29:76"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Denne receiveren har muskler til \u00e5 h\u00e5ndtere kraftige h\u00f8yttalere uten \u00e5 klage .",
+    "sent_id": "202063-02-01"
+}

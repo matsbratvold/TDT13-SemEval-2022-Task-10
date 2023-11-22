@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "takh\u00f8yden"
+                ],
+                [
+                    "13:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00e5 lenge"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "bilen"
+                ],
+                [
+                    "64:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00f8les heller ikke"
+                ],
+                [
+                    "46:63"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men s\u00e5 lenge takh\u00f8yden er s\u00e5 bra som her , s\u00e5 f\u00f8les heller ikke bilen liten .",
+    "sent_id": "202298-25-05"
+}

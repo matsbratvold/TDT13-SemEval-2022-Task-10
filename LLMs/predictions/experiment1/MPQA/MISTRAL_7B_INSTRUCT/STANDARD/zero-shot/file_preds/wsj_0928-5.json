@@ -1,0 +1,142 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sun"
+                ],
+                [
+                    "147:150"
+                ]
+            ],
+            "Target": [
+                [
+                    "manufacturing"
+                ],
+                [
+                    "16:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "problems"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sun"
+                ],
+                [
+                    "147:150"
+                ]
+            ],
+            "Target": [
+                [
+                    "forecasting"
+                ],
+                [
+                    "32:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "problems"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sun"
+                ],
+                [
+                    "147:150"
+                ]
+            ],
+            "Target": [
+                [
+                    "management information system"
+                ],
+                [
+                    "85:114"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bugs"
+                ],
+                [
+                    "67:71"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sun"
+                ],
+                [
+                    "147:150"
+                ]
+            ],
+            "Target": [
+                [
+                    "newest computers"
+                ],
+                [
+                    "174:190"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sun"
+                ],
+                [
+                    "147:150"
+                ]
+            ],
+            "Target": [
+                [
+                    "loss"
+                ],
+                [
+                    "277:281"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "$ 20.3 million"
+                ],
+                [
+                    "262:276"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "But problems in manufacturing , forecasting demand and getting the bugs out of a new management information system made it extremely difficult for Sun to meet demand for its newest computers well into the summer . These problems also resulted in Sun reporting a $ 20.3 million loss for its fourth quarter ended June 30 .",
+    "sent_id": "xbank/wsj_0928-5"
+}

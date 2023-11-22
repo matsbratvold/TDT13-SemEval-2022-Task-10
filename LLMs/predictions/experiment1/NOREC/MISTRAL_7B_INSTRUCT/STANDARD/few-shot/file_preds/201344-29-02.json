@@ -1,0 +1,50 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Chronos"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Chronos"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "innpakning"
+                ],
+                [
+                    "107:117"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Chronos er f\u00f8rst og fremst en meget god tur- og treningskamerat , men i en langt mer estetisk appellerende innpakning enn hva vi vanligvis kjenner fra klokker i denne kategorien .",
+    "sent_id": "201344-29-02"
+}

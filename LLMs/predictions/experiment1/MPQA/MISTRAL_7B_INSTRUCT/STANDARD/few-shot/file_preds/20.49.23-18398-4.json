@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Saini"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "rebels"
+                ],
+                [
+                    "15:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "had recently entered"
+                ],
+                [
+                    "59:79"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Saini said the rebels , most of them foreign mercenaries , had recently entered the district across the Line of Control -- the de facto border that divides Kashmir between India and Pakistan .",
+    "sent_id": "20011111/20.49.23-18398-4"
+}

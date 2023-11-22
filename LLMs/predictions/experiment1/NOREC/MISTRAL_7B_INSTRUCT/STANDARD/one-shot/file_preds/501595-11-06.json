@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Lammeskanken"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "smakene"
+                ],
+                [
+                    "62:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "saftig"
+                ],
+                [
+                    "21:27"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "men"
+                ],
+                [
+                    "30:33"
+                ]
+            ],
+            "Target": [
+                [
+                    "smakene"
+                ],
+                [
+                    "62:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mangler det en helhet"
+                ],
+                [
+                    "38:59"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Lammeskanken er ogs\u00e5 saftig , men her mangler det en helhet i smakene .",
+    "sent_id": "501595-11-06"
+}

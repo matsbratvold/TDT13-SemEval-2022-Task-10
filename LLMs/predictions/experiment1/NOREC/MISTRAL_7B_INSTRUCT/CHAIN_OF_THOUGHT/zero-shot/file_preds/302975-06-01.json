@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sp\u00f8rsm\u00e5l"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "fasitsvar"
+                ],
+                [
+                    "12:21"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Sp\u00f8rsm\u00e5l og fasitsvar",
+    "sent_id": "302975-06-01"
+}

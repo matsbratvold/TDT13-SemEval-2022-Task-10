@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Carreno"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "their conduct"
+                ],
+                [
+                    "86:99"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "prompted the statement"
+                ],
+                [
+                    "165:187"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Carreno"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "reports that Venezuela has relations with organizations categorized as terrorist by the Bush administration"
+                ],
+                [
+                    "249:356"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is more concerned about"
+                ],
+                [
+                    "225:248"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Carreno"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Powell 's statement"
+                ],
+                [
+                    "374:393"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "indicated"
+                ],
+                [
+                    "399:408"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Carreno said : \" This is what they are trying to accomplish through this campaign and their conduct , which is not that of journalists but of opposition activists , prompted the statement . \" However , he did explain that he is more concerned about reports that Venezuela has relations with organizations categorized as terrorist by the Bush administration than he is about Powell 's statement . He indicated : \" These reports have tried to suggest the existence of ties between Miraflores [ Presidential Palace ] and terrorist groups : There are documents presumably drafted by the FAN [ National Armed Forces ] expressing discontent with the government ; the video disclosed by the journalists ; and [ Justice First Deputy ] Gerardo Blyde 's remarks on the creation of militia groups trained by the guerrillas . All this has sounded the alarm for the US Executive and suits the opposition 's objectives to bring about an intervention or a blockade , which would hurt the people it claims to defend . \"",
+    "sent_id": "20020207/20.22.42-14586-11"
+}

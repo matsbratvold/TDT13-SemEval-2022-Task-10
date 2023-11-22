@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "De"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "klatrer rundt i publikum"
+                ],
+                [
+                    "25:49"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "De"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ler mens de hopper fram mot konklusjonen"
+                ],
+                [
+                    "53:93"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "De har lekne innfall som klatrer rundt i publikum og ler mens de hopper fram mot konklusjonen .",
+    "sent_id": "104659-10-03"
+}

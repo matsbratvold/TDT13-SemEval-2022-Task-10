@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "A wall and miles of fences is not the best of solutions"
+                ],
+                [
+                    "0:55"
+                ]
+            ],
+            "Target": [
+                [
+                    "Israel"
+                ],
+                [
+                    "116:122"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not the best of solutions"
+                ],
+                [
+                    "30:55"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Does anybody believe that the intifada can end as long as Israel persists in the occupation of the territories and Palestinians are willing to die in large numbers to deny Israel that privilege ?"
+                ],
+                [
+                    "58:253"
+                ]
+            ],
+            "Target": [
+                [
+                    "Israel"
+                ],
+                [
+                    "116:122"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Israel persists in the occupation of the territories and Palestinians are willing to die in large numbers to deny Israel that privilege"
+                ],
+                [
+                    "116:251"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A wall and miles of fences is not the best of solutions . Does anybody believe that the intifada can end as long as Israel persists in the occupation of the territories and Palestinians are willing to die in large numbers to deny Israel that privilege ?",
+    "sent_id": "20020225/21.00.49-23712-6"
+}

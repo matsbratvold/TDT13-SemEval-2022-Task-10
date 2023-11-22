@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "If"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "One Lies on a Stove"
+                ],
+                [
+                    "3:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "If"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "If One Lies on a Stove ...",
+    "sent_id": "temp_fbis/21.10.31-12974-13"
+}

@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Glimrende spilldesign"
+                ],
+                [
+                    "0:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "flott"
+                ],
+                [
+                    "24:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "tegneserieaktig grafikk"
+                ],
+                [
+                    "32:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tegneserieaktig grafikk"
+                ],
+                [
+                    "32:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "utfordringer"
+                ],
+                [
+                    "63:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til at b\u00e5de store og sm\u00e5 kan holde p\u00e5 lenge"
+                ],
+                [
+                    "76:119"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Glimrende spilldesign , flott , tegneserieaktig grafikk og nok utfordringer til at b\u00e5de store og sm\u00e5 kan holde p\u00e5 lenge .",
+    "sent_id": "704794-03-04"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dermed"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "ser"
+                ],
+                [
+                    "7:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "man ingen ting"
+                ],
+                [
+                    "11:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dermed ser man ingen ting av det som vises p\u00e5 skjermen uten \u00e5 dekke for med h\u00e5nden over .",
+    "sent_id": "202298-27-04"
+}

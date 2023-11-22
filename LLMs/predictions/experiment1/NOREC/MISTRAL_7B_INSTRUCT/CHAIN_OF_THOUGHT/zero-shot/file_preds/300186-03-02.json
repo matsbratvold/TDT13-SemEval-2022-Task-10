@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det store spranget"
+                ],
+                [
+                    "2:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "en spenstig nyvinning"
+                ],
+                [
+                    "26:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "23:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab Det store spranget \u00bb er en spenstig nyvinning :",
+    "sent_id": "300186-03-02"
+}

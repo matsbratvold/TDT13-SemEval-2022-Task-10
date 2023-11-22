@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "musikk"
+                ],
+                [
+                    "3:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mangler det siste"
+                ],
+                [
+                    "10:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "P\u00e5 musikk mangler det siste for \u00e5 sl\u00e5 konkurrentene .",
+    "sent_id": "202063-02-04"
+}

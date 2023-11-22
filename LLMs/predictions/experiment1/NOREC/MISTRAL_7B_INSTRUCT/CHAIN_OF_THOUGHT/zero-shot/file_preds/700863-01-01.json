@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Blant"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "orker"
+                ],
+                [
+                    "6:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "magikere"
+                ],
+                [
+                    "14:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Blant"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "mennesker"
+                ],
+                [
+                    "26:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "magikere"
+                ],
+                [
+                    "14:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Blant orker , magikere og mennesker",
+    "sent_id": "700863-01-01"
+}

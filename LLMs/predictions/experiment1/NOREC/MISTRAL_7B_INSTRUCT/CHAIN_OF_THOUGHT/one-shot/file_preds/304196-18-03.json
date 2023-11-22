@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Og Beck"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Paul McCartney og Travis"
+                ],
+                [
+                    "10:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med flere"
+                ],
+                [
+                    "37:46"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Og Beck , Paul McCartney og Travis , med flere .",
+    "sent_id": "304196-18-03"
+}

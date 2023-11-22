@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "If the glaciers of Antarctica and Greenland melt down"
+                ],
+                [
+                    "0:53"
+                ]
+            ],
+            "Target": [
+                [
+                    "the level of the world 's oceans will rise"
+                ],
+                [
+                    "56:98"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "will rise"
+                ],
+                [
+                    "89:98"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Russia has quite a lot of low - lying areas"
+                ],
+                [
+                    "101:144"
+                ]
+            ],
+            "Target": [
+                [
+                    "such as St. Petersburg"
+                ],
+                [
+                    "147:169"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "such as"
+                ],
+                [
+                    "147:154"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "The enormous territory of Western Siberia risks turning into a sea"
+                ],
+                [
+                    "172:238"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "risks turning into a sea"
+                ],
+                [
+                    "214:238"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "If the glaciers of Antarctica and Greenland melt down , the level of the world 's oceans will rise . Russia has quite a lot of low - lying areas , such as St. Petersburg . The enormous territory of Western Siberia risks turning into a sea .",
+    "sent_id": "temp_fbis/21.10.31-12974-43"
+}

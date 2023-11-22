@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jose Anibal"
+                ],
+                [
+                    "52:63"
+                ]
+            ],
+            "Target": [
+                [
+                    "Cardoso"
+                ],
+                [
+                    "88:95"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "placed himself at the disposal of the Argentine Government"
+                ],
+                [
+                    "108:166"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Jose Anibal"
+                ],
+                [
+                    "52:63"
+                ]
+            ],
+            "Target": [
+                [
+                    "an open posture with relation to Argentina"
+                ],
+                [
+                    "250:292"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "noted"
+                ],
+                [
+                    "220:225"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "PSDB [ Brazilian Social Democracy Party ] President Jose Anibal ( Sao Paulo ) said that Cardoso has already placed himself at the disposal of the Argentine Government to talk to international financial institutions . He noted , \" Brazil should adopt an open posture with relation to Argentina , which is experiencing a tragedy . \"",
+    "sent_id": "20011231/21.05.45-10422-6"
+}

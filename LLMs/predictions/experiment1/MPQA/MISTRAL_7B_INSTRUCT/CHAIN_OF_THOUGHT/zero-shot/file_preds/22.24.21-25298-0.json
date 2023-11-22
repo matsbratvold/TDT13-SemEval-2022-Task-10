@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "France"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "joint US - European action on Mideast"
+                ],
+                [
+                    "30:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "time is right"
+                ],
+                [
+                    "12:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "France says time is right for joint US - European action on Mideast",
+    "sent_id": "20020410/22.24.21-25298-0"
+}

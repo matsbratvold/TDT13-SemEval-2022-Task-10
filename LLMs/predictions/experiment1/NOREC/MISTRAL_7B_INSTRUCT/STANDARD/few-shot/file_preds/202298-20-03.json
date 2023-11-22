@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Nettopp"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "den"
+                ],
+                [
+                    "18:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "9:11"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Toyota"
+                ],
+                [
+                    "59:65"
+                ]
+            ],
+            "Target": [
+                [
+                    "de"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bekrefter"
+                ],
+                [
+                    "66:75"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Nettopp derfor er den ikke en del av hybridl\u00f8sningen , men Toyota bekrefter at de for tiden jobber med en egen og ny generasjon 1,5-liter tilpasset hybridene .",
+    "sent_id": "202298-20-03"
+}

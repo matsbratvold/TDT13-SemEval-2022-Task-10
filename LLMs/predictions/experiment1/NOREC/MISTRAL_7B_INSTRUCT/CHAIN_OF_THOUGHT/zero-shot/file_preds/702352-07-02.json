@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Julieta"
+                ],
+                [
+                    "10:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gammel form"
+                ],
+                [
+                    "117:128"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Men med \u00ab Julieta \u00bb , som tar utgangspunkt i tre noveller av Nobelpris-vinneren Alice Munro , er han tilbake i god , gammel form .",
+    "sent_id": "702352-07-02"
+}

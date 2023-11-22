@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "v\u00e5r venn"
+                ],
+                [
+                    "14:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "hjelp"
+                ],
+                [
+                    "23:28"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Cranky"
+                ],
+                [
+                    "52:58"
+                ]
+            ],
+            "Target": [
+                [
+                    "hjelp"
+                ],
+                [
+                    "23:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hver med sine egenskaper"
+                ],
+                [
+                    "77:101"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Heldigvis f\u00e5r v\u00e5r venn hjelp av sine tre sidekicker Cranky , Diddy og Dixi , hver med sine egenskaper .",
+    "sent_id": "704794-03-08"
+}

@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "N\u00e5 er han"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "N\u00e5 er han finansmann i Hellas med 29-\u00e5rig italiensk-gresk kone og baby .",
+    "sent_id": "703572-06-03"
+}

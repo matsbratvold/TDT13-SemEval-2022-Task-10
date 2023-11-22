@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Varslene"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "tidlig"
+                ],
+                [
+                    "16:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kommer"
+                ],
+                [
+                    "9:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "de"
+                ],
+                [
+                    "28:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "tidlig"
+                ],
+                [
+                    "16:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kan ikke bare handle om"
+                ],
+                [
+                    "31:54"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "familien"
+                ],
+                [
+                    "58:66"
+                ]
+            ],
+            "Target": [
+                [
+                    "er pinlig ber\u00f8rt av onkelen som er enkel og har f\u00e5tt seg en like enkel kj\u00e6reste"
+                ],
+                [
+                    "67:146"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "13:15"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Varslene kommer tidlig , og de kan ikke bare handle om at familien er pinlig ber\u00f8rt av onkelen som er enkel og har f\u00e5tt seg en like enkel kj\u00e6reste .",
+    "sent_id": "703256-09-02"
+}

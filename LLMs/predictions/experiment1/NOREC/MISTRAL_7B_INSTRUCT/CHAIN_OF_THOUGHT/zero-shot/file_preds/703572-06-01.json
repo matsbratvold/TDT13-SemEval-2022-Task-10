@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Datteren"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "moren"
+                ],
+                [
+                    "21:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "karriereinvalid"
+                ],
+                [
+                    "32:47"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Datteren m\u00e5 innse at moren er \u00ab karriereinvalid \u00bb , der de to lever sammen i et innbyrdes avhengighetsforhold som har f\u00e5tt datteren til \u00e5 sette eget liv og karriere p\u00e5 vent ( hun er etnografisk doktorgradsstudent , og skulle ha l\u00e6rt \u00e5 betrakte mennesker i samspill ) , og samtidig fritatt henne fra \u00e5 ta i tak med et eget liv , yrke og forhold til andre mennesker enn moren .",
+    "sent_id": "703572-06-01"
+}

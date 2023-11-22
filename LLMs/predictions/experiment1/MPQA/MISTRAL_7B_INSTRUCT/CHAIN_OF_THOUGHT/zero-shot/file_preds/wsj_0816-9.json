@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Stock prices"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "fell"
+                ],
+                [
+                    "13:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fell"
+                ],
+                [
+                    "13:17"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Volume"
+                ],
+                [
+                    "46:52"
+                ]
+            ],
+            "Target": [
+                [
+                    "totaled"
+                ],
+                [
+                    "84:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "totaled"
+                ],
+                [
+                    "84:91"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Declining issues"
+                ],
+                [
+                    "115:131"
+                ]
+            ],
+            "Target": [
+                [
+                    "outstripped"
+                ],
+                [
+                    "149:160"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "outstripped"
+                ],
+                [
+                    "149:160"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "outstripped"
+                ],
+                [
+                    "149:160"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "outstripped"
+                ],
+                [
+                    "149:160"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Stock prices fell sharply in active trading . Volume on the New York Stock Exchange totaled 175.2 million shares . Declining issues on the Big Board outstripped gainers 1,141 to 406 .",
+    "sent_id": "xbank/wsj_0816-9"
+}

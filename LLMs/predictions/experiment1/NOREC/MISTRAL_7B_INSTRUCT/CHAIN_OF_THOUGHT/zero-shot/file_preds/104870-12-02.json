@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Running"
+                ],
+                [
+                    "2:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "out of Road"
+                ],
+                [
+                    "10:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Running"
+                ],
+                [
+                    "2:9"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab Running out of Road \u00bb",
+    "sent_id": "104870-12-02"
+}

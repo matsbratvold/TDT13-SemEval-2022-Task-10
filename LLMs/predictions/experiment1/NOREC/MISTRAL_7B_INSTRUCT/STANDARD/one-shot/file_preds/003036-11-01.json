@@ -1,0 +1,51 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "album"
+                ],
+                [
+                    "31:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ordentlig"
+                ],
+                [
+                    "19:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "album"
+                ],
+                [
+                    "31:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "annonserte"
+                ],
+                [
+                    "93:103"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det meldes om et \u201c ordentlig \u201d album som skal ut i l\u00f8pet av helgen , den akk s\u00e5 mange ganger annonserte Boys Don \u2019 t Cry ( med forbehold at tittelen byttes ut ) .",
+    "sent_id": "003036-11-01"
+}

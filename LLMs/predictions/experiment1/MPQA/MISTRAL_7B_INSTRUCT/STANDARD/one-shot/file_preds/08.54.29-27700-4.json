@@ -1,0 +1,102 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "revolted"
+                ],
+                [
+                    "147:155"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Business groups and labor unions"
+                ],
+                [
+                    "245:277"
+                ]
+            ],
+            "Target": [
+                [
+                    "Chavez"
+                ],
+                [
+                    "236:242"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "joined in a giant protest"
+                ],
+                [
+                    "278:303"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "gunshots were fired during a march on the presidential palace"
+                ],
+                [
+                    "378:439"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forced Chavez to step aside"
+                ],
+                [
+                    "501:528"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "the generals"
+                ],
+                [
+                    "610:622"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forced the generals to let him take office again"
+                ],
+                [
+                    "603:651"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "His two - day removal from office began when he tried to stack the board of the state - owned oil company in his favor . The company 's executives revolted , threatening a cutoff of oil . That was a catalyst for pent - up opposition to Chavez . Business groups and labor unions joined in a giant protest , perhaps knowing that portions of the military were on their side . When gunshots were fired during a march on the presidential palace last Thursday , killing more than a dozen , military leaders forced Chavez to step aside . But then international pressure and renewed domestic support for Chavez forced the generals to let him take office again .",
+    "sent_id": "non_fbis/08.54.29-27700-4"
+}

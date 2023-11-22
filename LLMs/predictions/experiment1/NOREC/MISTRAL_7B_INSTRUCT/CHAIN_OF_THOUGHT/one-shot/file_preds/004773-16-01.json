@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Newcastle"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "historien foreg\u00e5r i"
+                ],
+                [
+                    "18:37"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Loach"
+                ],
+                [
+                    "74:79"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skitne bakgatene som er Loach sin arena"
+                ],
+                [
+                    "50:89"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Newcastle er byen historien foreg\u00e5r i , og det er skitne bakgatene som er Loach sin arena .",
+    "sent_id": "004773-16-01"
+}

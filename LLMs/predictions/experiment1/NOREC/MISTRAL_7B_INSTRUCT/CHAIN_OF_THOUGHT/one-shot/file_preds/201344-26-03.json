@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Man"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "batteritid"
+                ],
+                [
+                    "21:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "aldri f\u00e5"
+                ],
+                [
+                    "8:16"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Man"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "tallene"
+                ],
+                [
+                    "38:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "absolutt godkjent"
+                ],
+                [
+                    "49:66"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Man"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "tekniske funksjoner"
+                ],
+                [
+                    "99:118"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sitter p\u00e5 innsiden av urkassen"
+                ],
+                [
+                    "131:161"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Man kan aldri f\u00e5 nok batteritid , men tallene er absolutt godkjent , spesielt sett i lys av hvilke tekniske funksjoner som faktisk sitter p\u00e5 innsiden av urkassen .",
+    "sent_id": "201344-26-03"
+}

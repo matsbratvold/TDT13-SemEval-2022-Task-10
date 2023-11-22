@@ -1,0 +1,65 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Batteriene"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Batteriene"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "leverer den effektivt tilbake"
+                ],
+                [
+                    "36:65"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Batteriene"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "uten \u00e5 m\u00e5tte fylle bilen med et digert og tungt batteri"
+                ],
+                [
+                    "68:123"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Batteriene opptar energi raskt , og leverer den effektivt tilbake , uten \u00e5 m\u00e5tte fylle bilen med et digert og tungt batteri .",
+    "sent_id": "202298-12-02"
+}

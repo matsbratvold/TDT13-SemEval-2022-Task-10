@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "U.S. President George W. Bush"
+                ],
+                [
+                    "0:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "Argentina"
+                ],
+                [
+                    "66:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "worried"
+                ],
+                [
+                    "52:59"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "U.S. President George W. Bush"
+                ],
+                [
+                    "0:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "Argentina"
+                ],
+                [
+                    "66:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "confident"
+                ],
+                [
+                    "86:95"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "U.S. President George W. Bush said yesterday he was worried about Argentina , but was confident the country would \" stay together \" until it chooses a new leader while offering",
+    "sent_id": "non_fbis/12.04.00-12904-19"
+}

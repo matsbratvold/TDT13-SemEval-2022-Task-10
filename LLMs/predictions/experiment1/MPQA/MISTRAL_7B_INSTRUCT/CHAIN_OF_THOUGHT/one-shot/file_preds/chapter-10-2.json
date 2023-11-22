@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The President"
+                ],
+                [
+                    "449:462"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "completed"
+                ],
+                [
+                    "463:472"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "The Secret Service"
+                ],
+                [
+                    "919:937"
+                ]
+            ],
+            "Target": [
+                [
+                    "Offutt Air Force Base"
+                ],
+                [
+                    "748:769"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "recommended"
+                ],
+                [
+                    "670:681"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "When Air Force One landed at Barksdale at about 11:45 , personnel from the local Secret Service office were still en route to the airfield . The motorcade consisted of a military police lead vehicle and a van ; the proposed briefing theater had no phones or electrical outlets . Staff scrambled to prepare another room for the President 's remarks , while the lead Secret Service agent reviewed the security situation with superiors in Washington . The President completed his statement , which for security reasons was taped and not broadcast live , and the traveling party returned to Air Force One . The next destination was discussed : once again the Secret Service recommended against returning to Washington , and the Vice President agreed . Offutt Air Force Base in Nebraska was chosen because of its elaborate command and control facilities , and because it could accommodate overnight lodging for 50 persons . The Secret Service wanted a place where the President could spend several days , if necessary .",
+    "sent_id": "ula/chapter-10-2"
+}

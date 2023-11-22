@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Now I am getting way too philosophical"
+                ],
+                [
+                    "0:38"
+                ]
+            ],
+            "Target": [
+                [
+                    "this is my final missive"
+                ],
+                [
+                    "45:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "why not"
+                ],
+                [
+                    "75:82"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Perhaps you could hasten a prediction of where this is all going"
+                ],
+                [
+                    "85:149"
+                ]
+            ],
+            "Target": [
+                [
+                    "this is my final missive"
+                ],
+                [
+                    "45:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "why not"
+                ],
+                [
+                    "75:82"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "As for me , I 'll stick with my philosophy of reporting and , I guess , life -- nobody knows"
+                ],
+                [
+                    "152:244"
+                ]
+            ],
+            "Target": [
+                [
+                    "this is my final missive"
+                ],
+                [
+                    "45:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "why not"
+                ],
+                [
+                    "75:82"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Now I am getting way too philosophical , but this is my final missive , so why not ? Perhaps you could hasten a prediction of where this is all going . As for me , I 'll stick with my philosophy of reporting and , I guess , life -- nobody knows .",
+    "sent_id": "ula/Article247_3500-8"
+}

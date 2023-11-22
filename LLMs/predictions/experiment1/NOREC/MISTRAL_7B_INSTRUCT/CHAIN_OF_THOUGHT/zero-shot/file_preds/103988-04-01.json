@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "P-ene"
+                ],
+                [
+                    "30:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "slo"
+                ],
+                [
+                    "26:29"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Sist admiralen og onkelen slo P-ene sine sammen var p\u00e5 den forglemmelige \u00ab Hatere \u00bb for tre \u00e5r siden .",
+    "sent_id": "103988-04-01"
+}

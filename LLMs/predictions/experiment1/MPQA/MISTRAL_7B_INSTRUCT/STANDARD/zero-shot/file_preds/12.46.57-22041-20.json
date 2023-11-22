@@ -1,0 +1,102 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ray"
+                ],
+                [
+                    "28:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "Camp X"
+                ],
+                [
+                    "19:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "jokes"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Ray"
+                ],
+                [
+                    "28:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "Camp X"
+                ],
+                [
+                    "19:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "danger"
+                ],
+                [
+                    "49:55"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "toothbrushes"
+                ],
+                [
+                    "90:102"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "comb"
+                ],
+                [
+                    "225:229"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "There are jokes at Camp X - Ray but the sense of danger is ever present . The detainees ' toothbrushes are shortened so that they cannot be used as weapons . During a trial in New York in 1998 , an al - Qa'eda suspect used a comb to stab a prison warder through the eye into his brain .",
+    "sent_id": "non_fbis/12.46.57-22041-20"
+}

@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bond prices"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "barely higher"
+                ],
+                [
+                    "17:30"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Yield on the issue"
+                ],
+                [
+                    "89:107"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rose fractionally"
+                ],
+                [
+                    "69:86"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Bond prices were barely higher . The Treasury 's benchmark 30 - year rose fractionally . Yield on the issue was 7.88 % .",
+    "sent_id": "xbank/wsj_0816-10"
+}

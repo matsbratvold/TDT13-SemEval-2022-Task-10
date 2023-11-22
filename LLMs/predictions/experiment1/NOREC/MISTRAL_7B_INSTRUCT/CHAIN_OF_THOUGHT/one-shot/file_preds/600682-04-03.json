@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "kvinnen"
+                ],
+                [
+                    "38:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gifte seg med kvinnen"
+                ],
+                [
+                    "24:45"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "kvinnen"
+                ],
+                [
+                    "38:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "innlagt p\u00e5 mentalsykehus"
+                ],
+                [
+                    "57:81"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "kvinnen"
+                ],
+                [
+                    "38:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ta hele formuen hennes"
+                ],
+                [
+                    "90:112"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Han lager en plan for \u00e5 gifte seg med kvinnen , f\u00e5 henne innlagt p\u00e5 mentalsykehus , og s\u00e5 ta hele formuen hennes .",
+    "sent_id": "600682-04-03"
+}

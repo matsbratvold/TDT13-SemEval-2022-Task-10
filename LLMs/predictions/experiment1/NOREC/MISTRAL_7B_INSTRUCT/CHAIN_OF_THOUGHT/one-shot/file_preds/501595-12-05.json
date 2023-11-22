@@ -1,0 +1,74 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "desserter"
+                ],
+                [
+                    "88:97"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "desserter"
+                ],
+                [
+                    "88:97"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lurer p\u00e5 om det ikke finnes noen mer kreative peruanske desserter"
+                ],
+                [
+                    "32:97"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "desserter"
+                ],
+                [
+                    "88:97"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bidratt til et mer helhetlig og nyskapende konsept"
+                ],
+                [
+                    "110:160"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men jeg sitter likevel igjen og lurer p\u00e5 om det ikke finnes noen mer kreative peruanske desserter , som ville bidratt til et mer helhetlig og nyskapende konsept .",
+    "sent_id": "501595-12-05"
+}

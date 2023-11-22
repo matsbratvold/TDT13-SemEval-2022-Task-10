@@ -1,0 +1,83 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Man"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "utvide funksjonene"
+                ],
+                [
+                    "30:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "muligheten til \u00e5"
+                ],
+                [
+                    "13:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "tredjepartsapper"
+                ],
+                [
+                    "67:83"
+                ]
+            ],
+            "Target": [
+                [
+                    "utvide funksjonene"
+                ],
+                [
+                    "30:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fra Garmin sin butikk"
+                ],
+                [
+                    "84:105"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Connect IQ"
+                ],
+                [
+                    "108:118"
+                ]
+            ],
+            "Target": [
+                [
+                    "utvide funksjonene"
+                ],
+                [
+                    "30:48"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Man har ogs\u00e5 muligheten til \u00e5 utvide funksjonene ytterligere , med tredjepartsapper fra Garmin sin butikk , Connect IQ .",
+    "sent_id": "201344-21-05"
+}

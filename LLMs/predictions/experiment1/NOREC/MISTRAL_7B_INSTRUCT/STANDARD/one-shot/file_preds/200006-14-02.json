@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fitbit"
+                ],
+                [
+                    "60:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ordentlig vanntett"
+                ],
+                [
+                    "23:41"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Den er imidlertid ikke ordentlig vanntett , derfor frar\u00e5der Fitbit \u00e5 dusje og bade med den , leser vi p\u00e5 deres eget supportforum .",
+    "sent_id": "200006-14-02"
+}

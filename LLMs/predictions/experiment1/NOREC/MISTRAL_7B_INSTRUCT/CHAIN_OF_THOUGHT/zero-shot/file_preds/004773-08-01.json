@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Katie"
+                ],
+                [
+                    "39:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "unge alenemoren"
+                ],
+                [
+                    "23:38"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "system"
+                ],
+                [
+                    "151:157"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "virker \u00e5 motarbeide dem"
+                ],
+                [
+                    "162:185"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Han blir kjent med den unge alenemoren Katie ( Hayley Squires ) som heller ikke f\u00e5r den bistanden hun s\u00e5 s\u00e5rt trenger , og de hjelper hverandre mot et system som virker \u00e5 motarbeide dem .",
+    "sent_id": "004773-08-01"
+}

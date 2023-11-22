@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Anette H."
+                ],
+                [
+                    "39:48"
+                ]
+            ],
+            "Target": [
+                [
+                    "senere utdypet"
+                ],
+                [
+                    "9:23"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Dette er senere utdypet blant annet av Anette H.",
+    "sent_id": "601408-04-03"
+}

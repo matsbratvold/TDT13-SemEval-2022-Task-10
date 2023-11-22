@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "kanskje bare Sigrid som lilles\u00f8stra til Tellef Raabe"
+                ],
+                [
+                    "14:66"
+                ]
+            ],
+            "Target": [
+                [
+                    "Sigrid Raabe"
+                ],
+                [
+                    "73:85"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kanskje bare"
+                ],
+                [
+                    "14:26"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Sigrid Raabe er n\u00e5 long gone med null spor fra tidligere utgivelser"
+                ],
+                [
+                    "73:140"
+                ]
+            ],
+            "Target": [
+                [
+                    "Sigrid Raabe"
+                ],
+                [
+                    "73:85"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er n\u00e5 long gone med null spor"
+                ],
+                [
+                    "86:115"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "F\u00f8r kjente vi kanskje bare Sigrid som lilles\u00f8stra til Tellef Raabe , men Sigrid Raabe er n\u00e5 long gone med null spor fra tidligere utgivelser .",
+    "sent_id": "003121-03-02"
+}

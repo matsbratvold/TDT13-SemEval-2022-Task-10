@@ -1,0 +1,40 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "uendelig"
+                ],
+                [
+                    "10:18"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "\u00f8mt"
+                ],
+                [
+                    "30:33"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Og det er uendelig , uendelig \u00f8mt .",
+    "sent_id": "703256-02-03"
+}

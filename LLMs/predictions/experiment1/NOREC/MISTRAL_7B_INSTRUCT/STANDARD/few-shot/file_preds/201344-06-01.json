@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Smartklokke"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i urmakerkvalitet"
+                ],
+                [
+                    "12:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Smartklokke i urmakerkvalitet",
+    "sent_id": "201344-06-01"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "scientists"
+                ],
+                [
+                    "132:142"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "attempted to define"
+                ],
+                [
+                    "232:251"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "And a few days ago , on the initiative of the Foundation for Integrated Applied Research , the problem was taken up by well - known scientists . A small circle of experts , in the presence of an even smaller circle of journalists , attempted to define Russia 's place in global climatic strategy .",
+    "sent_id": "temp_fbis/21.10.31-12974-1"
+}

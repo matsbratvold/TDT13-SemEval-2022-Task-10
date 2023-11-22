@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "rene sti"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lengst"
+                ],
+                [
+                    "16:22"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Den rene sti er lengst",
+    "sent_id": "000913-14-01"
+}

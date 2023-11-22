@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "officials"
+                ],
+                [
+                    "47:56"
+                ]
+            ],
+            "Target": [
+                [
+                    "the death of one of the detainees"
+                ],
+                [
+                    "129:162"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bracing"
+                ],
+                [
+                    "83:90"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "While calm has returned to Fleet Hospital 20 , officials elsewhere on the base are bracing for what they say may be inevitable : the death of one of the detainees . Not at the hands of the guards . But with 300 already in custody , and scores in poor health to begin with , they say something is bound to happen .",
+    "sent_id": "non_fbis/06.44.52-19992-76"
+}

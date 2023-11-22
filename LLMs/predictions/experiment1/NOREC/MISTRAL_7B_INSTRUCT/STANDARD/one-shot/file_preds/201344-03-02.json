@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "2016"
+                ],
+                [
+                    "14:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ikke akkurat v\u00e6rt et \u00e5r"
+                ],
+                [
+                    "19:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "trenden"
+                ],
+                [
+                    "83:90"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "g\u00e5r mot \u00f8kt mangfold og konkurranse"
+                ],
+                [
+                    "91:126"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Allikevel har 2016 ikke akkurat v\u00e6rt et \u00e5r hvor ting har st\u00e5tt p\u00e5 stedet hvil , og trenden g\u00e5r mot \u00f8kt mangfold og konkurranse i de \u00f8vre smartklokke-segmentene .",
+    "sent_id": "201344-03-02"
+}

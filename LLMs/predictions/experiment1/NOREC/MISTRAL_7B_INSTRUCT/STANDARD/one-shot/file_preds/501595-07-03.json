@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "denne"
+                ],
+                [
+                    "5:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "menyene"
+                ],
+                [
+                    "32:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "oppf\u00f8rt med tre anbefalte viner til"
+                ],
+                [
+                    "43:78"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "B\u00e5de denne og de to andre faste menyene er oppf\u00f8rt med tre anbefalte viner til .",
+    "sent_id": "501595-07-03"
+}

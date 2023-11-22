@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "they"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "some forms"
+                ],
+                [
+                    "24:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "had to fill out"
+                ],
+                [
+                    "8:23"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "16:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "California"
+                ],
+                [
+                    "47:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "might be tougher"
+                ],
+                [
+                    "58:74"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "they he had to fill out some forms but i guess California might be tougher i do n't know",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-8"
+}

@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "the new company"
+                ],
+                [
+                    "111:126"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "injecting"
+                ],
+                [
+                    "134:143"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Oy Waertsilae"
+                ],
+                [
+                    "193:206"
+                ]
+            ],
+            "Target": [
+                [
+                    "the new company"
+                ],
+                [
+                    "111:126"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "contribute"
+                ],
+                [
+                    "213:223"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Under an accord signed yesterday , the government and Union Bank of Finland would become major shareholders in the new company , each injecting 100 million Finnish markkaa ( $ 23.5 million ) . Oy Waertsilae is to contribute 200 million markkaa , most of it as subordinated debt , and take a minority stake in the new company .",
+    "sent_id": "xbank/wsj_0187-4"
+}

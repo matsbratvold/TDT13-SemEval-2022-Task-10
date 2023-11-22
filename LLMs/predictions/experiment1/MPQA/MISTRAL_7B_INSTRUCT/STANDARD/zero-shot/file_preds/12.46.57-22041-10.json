@@ -1,0 +1,66 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Gitmo"
+                ],
+                [
+                    "120:125"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Gitmo"
+                ],
+                [
+                    "120:125"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Gitmo"
+                ],
+                [
+                    "120:125"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Seized by 646 Marines in whaling boats in 1898 during the Spanish - American War , it has been in US hands ever since - Gitmo , for short , or the Pearl of the Caribbean for those soldiers with a sense of humour . On entering Camp X - Ray , one inmate vowed to kill an American before he left . Another detainee bit a guard trying to subdue him and , two days ago , another spat on a military policeman .",
+    "sent_id": "non_fbis/12.46.57-22041-10"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Mesterlig oppvisning"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "underspill"
+                ],
+                [
+                    "23:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Mesterlig"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Mesterlig oppvisning i underspill",
+    "sent_id": "400175-10-01"
+}

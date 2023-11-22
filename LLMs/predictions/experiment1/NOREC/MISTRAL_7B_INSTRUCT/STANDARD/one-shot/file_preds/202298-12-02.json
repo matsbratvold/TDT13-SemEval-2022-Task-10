@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Batteriene"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "energi"
+                ],
+                [
+                    "18:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "opptar"
+                ],
+                [
+                    "11:17"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "energi"
+                ],
+                [
+                    "18:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "tilbake"
+                ],
+                [
+                    "58:65"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "leverer"
+                ],
+                [
+                    "36:43"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "energi"
+                ],
+                [
+                    "18:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "bilen"
+                ],
+                [
+                    "87:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fylle"
+                ],
+                [
+                    "81:86"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Batteriene opptar energi raskt , og leverer den effektivt tilbake , uten \u00e5 m\u00e5tte fylle bilen med et digert og tungt batteri .",
+    "sent_id": "202298-12-02"
+}

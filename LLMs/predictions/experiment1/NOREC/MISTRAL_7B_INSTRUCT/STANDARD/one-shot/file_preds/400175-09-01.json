@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "De unge soldatene"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "De unge soldatene"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "uerfarne"
+                ],
+                [
+                    "24:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "minene"
+                ],
+                [
+                    "75:81"
+                ]
+            ],
+            "Target": [
+                [
+                    "De unge soldatene"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "drept"
+                ],
+                [
+                    "66:71"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "guttene"
+                ],
+                [
+                    "116:123"
+                ]
+            ],
+            "Target": [
+                [
+                    "De unge soldatene"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "psykologiske effekten"
+                ],
+                [
+                    "91:112"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "De unge soldatene er s\u00e5 uerfarne at flere av de ganske snart blir drept av minene , og den psykologiske effekten p\u00e5 guttene er forferdelig .",
+    "sent_id": "400175-09-01"
+}

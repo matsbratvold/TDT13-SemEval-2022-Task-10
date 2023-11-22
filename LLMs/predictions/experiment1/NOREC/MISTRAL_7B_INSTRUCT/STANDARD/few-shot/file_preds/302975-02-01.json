@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Samir"
+                ],
+                [
+                    "2:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "den lange reisa"
+                ],
+                [
+                    "11:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "undervurderer"
+                ],
+                [
+                    "29:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "barneleseren"
+                ],
+                [
+                    "43:55"
+                ]
+            ],
+            "Target": [
+                [
+                    "Samir og den lange reisa"
+                ],
+                [
+                    "2:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "undervurderer"
+                ],
+                [
+                    "29:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab Samir og den lange reisa \u00bb undervurderer barneleseren .",
+    "sent_id": "302975-02-01"
+}

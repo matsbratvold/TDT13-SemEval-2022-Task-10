@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Tenet"
+                ],
+                [
+                    "105:110"
+                ]
+            ],
+            "Target": [
+                [
+                    "a plan for collecting intelligence and mounting covert operations"
+                ],
+                [
+                    "238:303"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "described"
+                ],
+                [
+                    "228:237"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "510:524"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "praised"
+                ],
+                [
+                    "531:538"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Present were Vice President Cheney , Rice , Hadley , Powell , Armitage , Rumsfeld , Ashcroft , Mueller , Tenet , Deputy Secretary of Defense Paul Wolfowitz , and Cofer Black , chief of the DCI 's Counterterrorist Center . Tenet described a plan for collecting intelligence and mounting covert operations . He proposed inserting CIA teams into Afghanistan to work with Afghan warlords who would join the fight against al Qaeda . These CIA teams would act jointly with the military 's Special Operations units . President Bush later praised this proposal , saying it had been a turning point in his thinking .",
+    "sent_id": "ula/chapter-10-38"
+}

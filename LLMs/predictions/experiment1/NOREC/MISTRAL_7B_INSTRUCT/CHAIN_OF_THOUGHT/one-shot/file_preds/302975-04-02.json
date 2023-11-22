@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Manifest forlag"
+                ],
+                [
+                    "30:45"
+                ]
+            ],
+            "Target": [
+                [
+                    "En politisk barnebok"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "if\u00f8lge"
+                ],
+                [
+                    "23:29"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "En politisk barnebok , if\u00f8lge Manifest forlag .",
+    "sent_id": "302975-04-02"
+}

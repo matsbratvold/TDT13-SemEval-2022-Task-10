@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ingeborg Solbrekken"
+                ],
+                [
+                    "90:109"
+                ]
+            ],
+            "Target": [
+                [
+                    "Konspirasjonen mot Kirsten Flagstad"
+                ],
+                [
+                    "117:152"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "staten gjorde henne sterkt skadelidende"
+                ],
+                [
+                    "170:209"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Som ektefellen til Kirsten Flagstad er hans historie trukket frem flere ganger , senest i Ingeborg Solbrekkens bok \" Konspirasjonen mot Kirsten Flagstad \" ( 2016 ) , der staten gjorde henne sterkt skadelidende p\u00e5 grunn av mannens rolle under krigen .",
+    "sent_id": "601408-06-03"
+}

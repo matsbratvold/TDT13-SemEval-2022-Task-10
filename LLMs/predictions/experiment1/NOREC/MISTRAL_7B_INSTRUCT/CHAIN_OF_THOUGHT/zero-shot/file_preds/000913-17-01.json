@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "NPCene"
+                ],
+                [
+                    "47:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "generelt h\u00f8yere oppvakthet"
+                ],
+                [
+                    "16:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "brettene"
+                ],
+                [
+                    "61:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "frustrerende"
+                ],
+                [
+                    "70:82"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "f\u00f8les alltid verdt det til slutt"
+                ],
+                [
+                    "89:121"
+                ]
+            ],
+            "Target": [
+                [
+                    "NPCene"
+                ],
+                [
+                    "47:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "generelt h\u00f8yere oppvakthet"
+                ],
+                [
+                    "16:42"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Dette , samt en generelt h\u00f8yere oppvakthet hos NPCene , gj\u00f8r brettene frustrerende - men f\u00f8les alltid verdt det til slutt .",
+    "sent_id": "000913-17-01"
+}

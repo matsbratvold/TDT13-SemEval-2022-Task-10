@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "some of them"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "crazy"
+                ],
+                [
+                    "17:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "crazy"
+                ],
+                [
+                    "17:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "some of them"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "drunk"
+                ],
+                [
+                    "68:73"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "drunk"
+                ],
+                [
+                    "68:73"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "some of them"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "shooting"
+                ],
+                [
+                    "84:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "shooting"
+                ],
+                [
+                    "84:92"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "some of them are crazy too whew yeah yeah they go out there and get drunk and start shooting",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-26"
+}

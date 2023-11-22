@@ -1,0 +1,76 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The average number of per employee work hours"
+                ],
+                [
+                    "0:45"
+                ]
+            ],
+            "Target": [
+                [
+                    "was unchanged in February"
+                ],
+                [
+                    "46:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "The average number of per employee work hours was unchanged in February"
+                ],
+                [
+                    "0:71"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "following an annualized 2.5 % decline in January"
+                ],
+                [
+                    "74:122"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "following an annualized 2.5 % decline in January"
+                ],
+                [
+                    "74:122"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "and a 4.8 % drop in the trend data for all of 2001"
+                ],
+                [
+                    "123:173"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "and a 4.8 % drop in the trend data for all of 2001"
+                ],
+                [
+                    "123:173"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The average number of per employee work hours was unchanged in February , following an annualized 2.5 % decline in January and a 4.8 % drop in the trend data for all of 2001 .",
+    "sent_id": "20020424/21.45.56-26903-5"
+}

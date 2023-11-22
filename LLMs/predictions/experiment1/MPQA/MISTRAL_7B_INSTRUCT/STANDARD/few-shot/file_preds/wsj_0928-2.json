@@ -1,0 +1,13 @@
+{
+    "sales": {
+        "amount": 538.5,
+        "quarter": "Q3",
+        "year": "1998"
+    },
+    "earnings": {
+        "amount": 20.6,
+        "period": "1988"
+    },
+    "text": "Sun , a maker of computer workstations , reported sales of $ 538.5 million for the quarter ended Sept. 29 , up 39 % from $ 388.5 million a year earlier . In the 1988 period , the company earned $ 20.6 million , or 26 cents a share .",
+    "sent_id": "xbank/wsj_0928-2"
+}

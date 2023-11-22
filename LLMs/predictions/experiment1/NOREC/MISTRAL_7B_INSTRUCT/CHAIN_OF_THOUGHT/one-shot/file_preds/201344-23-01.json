@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "enkle \u00e5 leve med i praksis"
+                ],
+                [
+                    "58:84"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det er en kjensgjerning at smartklokker ikke alltid er s\u00e5 enkle \u00e5 leve med i praksis .",
+    "sent_id": "201344-23-01"
+}

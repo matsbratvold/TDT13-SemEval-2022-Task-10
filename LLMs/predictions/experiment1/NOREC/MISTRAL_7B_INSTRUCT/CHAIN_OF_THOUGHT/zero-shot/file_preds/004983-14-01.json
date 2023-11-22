@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "De norske stemmene"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "Isak"
+                ],
+                [
+                    "38:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "troverdige"
+                ],
+                [
+                    "130:140"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "De norske stemmene"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "Simen"
+                ],
+                [
+                    "68:73"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "troverdige"
+                ],
+                [
+                    "130:140"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "De norske stemmene"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "Camilla"
+                ],
+                [
+                    "98:105"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "troverdige"
+                ],
+                [
+                    "130:140"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "De norske stemmene til hovedpersonene Isak ( Petter Blom-Hellum ) , Simen ( Jesper Leporanta ) og Camilla ( Oda Sundsb\u00f8 ) leverer troverdige oversettelser som kler rollefigurene og filmens \u00f8vrige tone .",
+    "sent_id": "004983-14-01"
+}

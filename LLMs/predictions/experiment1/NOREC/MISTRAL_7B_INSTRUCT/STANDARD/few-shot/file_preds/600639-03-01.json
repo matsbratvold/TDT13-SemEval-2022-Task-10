@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Rachel"
+                ],
+                [
+                    "48:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "har forf\u00f8rt og myrdet vergen hans"
+                ],
+                [
+                    "72:105"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Unge Philip ( Sam Claflin ) er overbevist om at Rachel ( Rachel Weisz ) har forf\u00f8rt og myrdet vergen hans .",
+    "sent_id": "600639-03-01"
+}

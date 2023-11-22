@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Etter pause"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "avsl\u00f8ringen og dilemmaet"
+                ],
+                [
+                    "19:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00e5r vi"
+                ],
+                [
+                    "12:18"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Etter pause f\u00e5r vi avsl\u00f8ringen og dilemmaet :",
+    "sent_id": "703256-17-01"
+}

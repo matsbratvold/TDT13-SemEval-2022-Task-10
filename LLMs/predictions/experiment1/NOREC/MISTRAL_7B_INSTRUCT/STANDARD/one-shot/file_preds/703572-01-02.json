@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Stilisert og elegant"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Stilisert og elegant",
+    "sent_id": "703572-01-02"
+}

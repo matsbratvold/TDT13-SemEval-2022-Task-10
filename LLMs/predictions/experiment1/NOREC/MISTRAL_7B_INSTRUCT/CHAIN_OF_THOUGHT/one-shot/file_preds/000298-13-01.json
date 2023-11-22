@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "settingen"
+                ],
+                [
+                    "13:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "liker"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Jeg liker at settingen er s\u00e5pass annerledes fra den f\u00f8rste sesongen .",
+    "sent_id": "000298-13-01"
+}

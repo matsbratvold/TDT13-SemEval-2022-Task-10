@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fortunately"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "Europe"
+                ],
+                [
+                    "14:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Fortunately"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "But"
+                ],
+                [
+                    "60:63"
+                ]
+            ],
+            "Target": [
+                [
+                    "Europe"
+                ],
+                [
+                    "14:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "But"
+                ],
+                [
+                    "60:63"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "it must demand"
+                ],
+                [
+                    "64:78"
+                ]
+            ],
+            "Target": [
+                [
+                    "Africa"
+                ],
+                [
+                    "36:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "it must demand"
+                ],
+                [
+                    "64:78"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "that the countries of Africa put their own house in order"
+                ],
+                [
+                    "79:136"
+                ]
+            ],
+            "Target": [
+                [
+                    "Africa"
+                ],
+                [
+                    "36:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "that the countries of Africa put their own house in order"
+                ],
+                [
+                    "79:136"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Fortunately , Europe is no longer \" Africa 's policeman . \" But it must demand that the countries of Africa put their own house in order .",
+    "sent_id": "20020316/20.35.03-16511-4"
+}

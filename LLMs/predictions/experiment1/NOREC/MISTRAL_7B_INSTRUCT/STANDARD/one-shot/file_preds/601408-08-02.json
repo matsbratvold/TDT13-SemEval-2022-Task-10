@@ -1,0 +1,83 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det er for s\u00e5 vidt"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "greit nok"
+                ],
+                [
+                    "19:28"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bokformen"
+                ],
+                [
+                    "35:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "krever"
+                ],
+                [
+                    "45:51"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "utvalget"
+                ],
+                [
+                    "118:126"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tiln\u00e6rming og begrunnelse"
+                ],
+                [
+                    "88:113"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "utgivelsen"
+                ],
+                [
+                    "143:153"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det er for s\u00e5 vidt greit nok , men bokformen krever , etter mitt syn , en mer analytisk tiln\u00e6rming og begrunnelse for utvalget , ja , for hele utgivelsen .",
+    "sent_id": "601408-08-02"
+}

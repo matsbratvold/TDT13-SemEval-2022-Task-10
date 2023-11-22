@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Shivute"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "American detention of 300 people"
+                ],
+                [
+                    "18:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cited"
+                ],
+                [
+                    "8:13"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Shivute cited the American detention of 300 people at a US naval base at Guantanamo Bay without bringing them to trial .",
+    "sent_id": "temp_fbis/21.31.45-20536-4"
+}

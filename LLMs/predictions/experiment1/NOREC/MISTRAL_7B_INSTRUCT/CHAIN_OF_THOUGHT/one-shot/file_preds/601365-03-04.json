@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "meg"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "kenguru"
+                ],
+                [
+                    "15:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "har"
+                ],
+                [
+                    "8:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "For meg har en kenguru til n\u00e5 v\u00e6rt en kenguru .",
+    "sent_id": "601365-03-04"
+}

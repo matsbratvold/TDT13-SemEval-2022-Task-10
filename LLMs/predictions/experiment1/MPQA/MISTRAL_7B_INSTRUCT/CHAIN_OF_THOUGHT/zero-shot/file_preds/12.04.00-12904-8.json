@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "country"
+                ],
+                [
+                    "4:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "more shop looting and violence"
+                ],
+                [
+                    "54:84"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "living in fear"
+                ],
+                [
+                    "36:50"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "country"
+                ],
+                [
+                    "4:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "more riots"
+                ],
+                [
+                    "134:144"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "erupted on Friday"
+                ],
+                [
+                    "161:178"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "country"
+                ],
+                [
+                    "4:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "more misery"
+                ],
+                [
+                    "186:197"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "grinds on"
+                ],
+                [
+                    "231:240"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The country of 36 million people is living in fear of more shop looting and violence that killed 27 people before De la Rua quit , of more riots like those that erupted on Friday and of more misery as a four - year - old recession grinds on .",
+    "sent_id": "non_fbis/12.04.00-12904-8"
+}

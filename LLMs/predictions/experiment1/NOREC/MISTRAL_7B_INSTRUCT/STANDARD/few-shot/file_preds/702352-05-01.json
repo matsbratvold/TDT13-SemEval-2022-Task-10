@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Pedro Aldom\u00f3var"
+                ],
+                [
+                    "30:45"
+                ]
+            ],
+            "Target": [
+                [
+                    "filmer"
+                ],
+                [
+                    "47:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "h\u00f8yt elskede"
+                ],
+                [
+                    "4:16"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "fanskare"
+                ],
+                [
+                    "66:74"
+                ]
+            ],
+            "Target": [
+                [
+                    "filmer"
+                ],
+                [
+                    "47:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stor"
+                ],
+                [
+                    "61:65"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "distinkt signatur"
+                ],
+                [
+                    "99:116"
+                ]
+            ],
+            "Target": [
+                [
+                    "filmer"
+                ],
+                [
+                    "47:53"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "mellommenneskelige relasjoner"
+                ],
+                [
+                    "150:179"
+                ]
+            ],
+            "Target": [
+                [
+                    "filmer"
+                ],
+                [
+                    "47:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fargesprakende og sanselige innpakninger"
+                ],
+                [
+                    "182:222"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den h\u00f8yt elskede filmskaperen Pedro Aldom\u00f3vars filmer har en stor fanskare , og har alltid hatt en distinkt signatur : store f\u00f8lelser og dramatiske , mellommenneskelige relasjoner i fargesprakende og sanselige innpakninger .",
+    "sent_id": "702352-05-01"
+}

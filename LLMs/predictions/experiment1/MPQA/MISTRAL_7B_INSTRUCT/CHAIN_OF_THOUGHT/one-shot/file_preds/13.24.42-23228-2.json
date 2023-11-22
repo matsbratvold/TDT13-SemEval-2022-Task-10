@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "NASA officials"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "the potential problem"
+                ],
+                [
+                    "45:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not clear"
+                ],
+                [
+                    "27:36"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "NASA officials said it was not clear whether the potential problem would delay tonight 's planned launch of space shuttle Endeavour on a station delivery mission .",
+    "sent_id": "non_fbis/13.24.42-23228-2"
+}

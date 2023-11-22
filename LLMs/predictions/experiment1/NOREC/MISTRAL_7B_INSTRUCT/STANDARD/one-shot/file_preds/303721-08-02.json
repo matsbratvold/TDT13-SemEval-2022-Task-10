@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ved gjentatte lytt"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "den"
+                ],
+                [
+                    "29:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "imidlertid som en beskjeden juvel"
+                ],
+                [
+                    "37:70"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "mildt melankolsk p\u00e5 samme m\u00e5te som en skj\u00f8nn h\u00f8stdag"
+                ],
+                [
+                    "73:125"
+                ]
+            ],
+            "Target": [
+                [
+                    "den"
+                ],
+                [
+                    "29:32"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Ved gjentatte lytt \u00e5penbarer den seg imidlertid som en beskjeden juvel , mildt melankolsk p\u00e5 samme m\u00e5te som en skj\u00f8nn h\u00f8stdag .",
+    "sent_id": "303721-08-02"
+}

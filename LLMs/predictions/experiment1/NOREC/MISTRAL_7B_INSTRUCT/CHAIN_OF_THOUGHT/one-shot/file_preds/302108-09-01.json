@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "han"
+                ],
+                [
+                    "29:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "Operator ( DJ Koze's Disco Edit \u00bb , tyskerens fabelaktige remiks av det britiske poph\u00e5pet L\u00e5psley"
+                ],
+                [
+                    "57:154"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skjer for alvor"
+                ],
+                [
+                    "4:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det skjer for alvor f\u00f8rst da han velger \u00e5 runde av med \u00ab Operator ( DJ Koze's Disco Edit \u00bb , tyskerens fabelaktige remiks av det britiske poph\u00e5pet L\u00e5psley .",
+    "sent_id": "302108-09-01"
+}

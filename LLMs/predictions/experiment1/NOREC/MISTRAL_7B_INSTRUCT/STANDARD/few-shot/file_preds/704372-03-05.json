@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "svenskene"
+                ],
+                [
+                    "11:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "u\u00f8nsket"
+                ],
+                [
+                    "28:35"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "land"
+                ],
+                [
+                    "43:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "styrt av dyr"
+                ],
+                [
+                    "48:60"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Her er det svenskene som er u\u00f8nsket , i et land styrt av dyr .",
+    "sent_id": "704372-03-05"
+}

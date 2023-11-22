@@ -1,0 +1,116 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "du"
+                ],
+                [
+                    "7:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "h\u00e5ndleddet"
+                ],
+                [
+                    "10:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skal"
+                ],
+                [
+                    "23:27"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "skjermen"
+                ],
+                [
+                    "28:36"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "og"
+                ],
+                [
+                    "37:39"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "skjermen"
+                ],
+                [
+                    "28:36"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "skjermen"
+                ],
+                [
+                    "28:36"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "armb\u00e5ndet"
+                ],
+                [
+                    "97:106"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "og"
+                ],
+                [
+                    "37:39"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "L\u00f8fter du h\u00e5ndleddet , skal skjermen ogs\u00e5 tennes , men dette skjer heller ikke alltid - og siden armb\u00e5ndet ogs\u00e5 kan gi oss ulike varsler , blir det fort frustrerende .",
+    "sent_id": "200006-21-01"
+}

@@ -1,0 +1,76 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Mulig"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "Endless"
+                ],
+                [
+                    "9:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bonus"
+                ],
+                [
+                    "23:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Endless"
+                ],
+                [
+                    "9:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er en bonus i denne sammenhengen"
+                ],
+                [
+                    "17:49"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Endless"
+                ],
+                [
+                    "9:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "men det er uansett den f\u00f8rste utgivelsen p\u00e5 fire \u00e5r som kan kalles et album fra den kanten"
+                ],
+                [
+                    "52:142"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Mulig at Endless er en bonus i denne sammenhengen , men det er uansett den f\u00f8rste utgivelsen p\u00e5 fire \u00e5r som kan kalles et album fra den kanten .",
+    "sent_id": "003036-11-02"
+}

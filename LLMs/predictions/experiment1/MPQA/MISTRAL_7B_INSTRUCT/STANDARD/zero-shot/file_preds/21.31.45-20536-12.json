@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Shivute"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Namibia"
+                ],
+                [
+                    "13:20"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Shivute"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Namibia"
+                ],
+                [
+                    "13:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "carried a lot of factual inaccuracies"
+                ],
+                [
+                    "84:121"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Shivute"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Namibia"
+                ],
+                [
+                    "13:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mere reproduction of unverified and unsubstantiated reports"
+                ],
+                [
+                    "134:193"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Shivute said Namibia attached \" little value \" to the latest US rights report as it carried a lot of factual inaccuracies and was a \" mere reproduction of unverified and unsubstantiated reports \" .",
+    "sent_id": "temp_fbis/21.31.45-20536-12"
+}

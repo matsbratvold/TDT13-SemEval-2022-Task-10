@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Rice"
+                ],
+                [
+                    "13:17"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "was really engaged at Camp David"
+                ],
+                [
+                    "71:103"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Rice"
+                ],
+                [
+                    "13:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "the administration was concerned that Iraq would take advantage of the 9/11 attacks"
+                ],
+                [
+                    "220:303"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "recalled"
+                ],
+                [
+                    "310:318"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Rice"
+                ],
+                [
+                    "13:17"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "made the case"
+                ],
+                [
+                    "472:485"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "According to Rice , the issue of what , if anything , to do about Iraq was really engaged at Camp David . Briefing papers on Iraq , along with many others , were in briefing materials for the participants . Rice told us the administration was concerned that Iraq would take advantage of the 9/11 attacks . She recalled that in the first Camp David session chaired by the President , Rumsfeld asked what the administration should do about Iraq . Deputy Secretary Wolfowitz made the case for striking Iraq during \" this round \" of the war on terrorism .",
+    "sent_id": "ula/chapter-10-53"
+}

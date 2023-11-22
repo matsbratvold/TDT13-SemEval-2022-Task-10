@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "For"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "14:16"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "ikke"
+                ],
+                [
+                    "17:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "skjermen"
+                ],
+                [
+                    "22:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ber\u00f8ringsf\u00f8lsom"
+                ],
+                [
+                    "31:46"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "slik"
+                ],
+                [
+                    "47:51"
+                ]
+            ],
+            "Target": [
+                [
+                    "vi"
+                ],
+                [
+                    "52:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "etter"
+                ],
+                [
+                    "55:60"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "har"
+                ],
+                [
+                    "67:70"
+                ]
+            ],
+            "Target": [
+                [
+                    "blitt"
+                ],
+                [
+                    "71:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vant"
+                ],
+                [
+                    "77:81"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "til"
+                ],
+                [
+                    "82:85"
+                ]
+            ],
+            "Target": [
+                [
+                    "p\u00e5"
+                ],
+                [
+                    "86:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lignende"
+                ],
+                [
+                    "89:97"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "For det andre er ikke skjermen ber\u00f8ringsf\u00f8lsom slik vi etter hvert har blitt vant til p\u00e5 lignende dingser .",
+    "sent_id": "200006-17-01"
+}

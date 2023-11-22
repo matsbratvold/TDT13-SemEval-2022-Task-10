@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Brazil and Germany"
+                ],
+                [
+                    "294:312"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Kyoto Protocol take effect by the Sustainable Development Summit ( Rio+ 10 )"
+                ],
+                [
+                    "159:239"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "call on"
+                ],
+                [
+                    "318:325"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Brasilia , 14 ( Agencia Brasil - ABr ) - In a document entitled Partnership Brasil - Germany : Action Plan , both countrires have expressed interest in seeing the Kyoto Protocol take effect by the Sustainable Development Summit ( Rio+ 10 ) , that takes place in South Africa , next September . Brazil and Germany also call on other countries to ratify the protocol and work to enforce it .",
+    "sent_id": "non_fbis/15.26.56-25086-1"
+}

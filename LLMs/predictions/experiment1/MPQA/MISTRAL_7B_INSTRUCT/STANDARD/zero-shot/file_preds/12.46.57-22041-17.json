@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Brig Michael Lehnert"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "would be given eight to 75 Swiss francs per month"
+                ],
+                [
+                    "51:100"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Brig Michael Lehnert said each al - Qa'eda fighter would be given eight to 75 Swiss francs per month - as per the Geneva Convention - if their rank was revealed and PoW status accorded .",
+    "sent_id": "non_fbis/12.46.57-22041-17"
+}

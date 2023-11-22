@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Sea Calls Me Home"
+                ],
+                [
+                    "46:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "avslutteren"
+                ],
+                [
+                    "32:43"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Og ikke minst den sirkussj\u00f8syke avslutteren \u00ab Sea Calls Me Home \u00bb .",
+    "sent_id": "104659-10-05"
+}

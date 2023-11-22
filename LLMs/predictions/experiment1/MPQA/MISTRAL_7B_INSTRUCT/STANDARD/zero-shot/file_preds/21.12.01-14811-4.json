@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Turkey"
+                ],
+                [
+                    "205:211"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "advantages of investments"
+                ],
+                [
+                    "364:389"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Given the stake at play , namely electricity exports , other countries have also voiced interest in contributing to the finalization of works on reactor III and IV at Cernavoda . One of these countries is Turkey , a net importer of energy . On a recent visit to Turkey , Romania 's Prime Minister Adrian Nastase presented his Turkish counterpart Bulent Ecevit the advantages of investments in the plant at Cernavoda , which include a generation price of $ 12 / MWh .",
+    "sent_id": "20020228/21.12.01-14811-4"
+}

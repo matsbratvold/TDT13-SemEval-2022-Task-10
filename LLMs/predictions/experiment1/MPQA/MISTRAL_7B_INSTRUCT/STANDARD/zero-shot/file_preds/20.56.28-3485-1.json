@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Daily Nation"
+                ],
+                [
+                    "35:47"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kenya"
+                ],
+                [
+                    "18:23"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Daily Nation"
+                ],
+                [
+                    "35:47"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kenya"
+                ],
+                [
+                    "18:23"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Text of report by Kenyan newspaper Daily Nation web site on 11 | February",
+    "sent_id": "20020211/20.56.28-3485-1"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Barring any reversal to the trend"
+                ],
+                [
+                    "0:33"
+                ]
+            ],
+            "Target": [
+                [
+                    "Beijing"
+                ],
+                [
+                    "99:106"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "might bring the island to its knees"
+                ],
+                [
+                    "107:142"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Barring any reversal to the trend , the weekly quoted U.S. magazine Business Weekly as saying that Beijing might bring the island to its knees without firing one bullet .",
+    "sent_id": "20010713/00.42.05-29788-4"
+}

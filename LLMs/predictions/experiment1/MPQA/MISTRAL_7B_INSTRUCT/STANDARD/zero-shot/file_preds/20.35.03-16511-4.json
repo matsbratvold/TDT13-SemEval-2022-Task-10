@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fortunately"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "Europe"
+                ],
+                [
+                    "14:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is no longer"
+                ],
+                [
+                    "21:33"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "But"
+                ],
+                [
+                    "60:63"
+                ]
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "64:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "must demand"
+                ],
+                [
+                    "67:78"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "that"
+                ],
+                [
+                    "79:83"
+                ]
+            ],
+            "Target": [
+                [
+                    "the countries of Africa"
+                ],
+                [
+                    "84:107"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "put their own house in order"
+                ],
+                [
+                    "108:136"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Fortunately , Europe is no longer \" Africa 's policeman . \" But it must demand that the countries of Africa put their own house in order .",
+    "sent_id": "20020316/20.35.03-16511-4"
+}

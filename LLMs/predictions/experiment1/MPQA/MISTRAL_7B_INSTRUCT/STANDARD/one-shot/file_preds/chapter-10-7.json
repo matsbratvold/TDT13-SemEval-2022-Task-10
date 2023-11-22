@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "23:37"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "met again"
+                ],
+                [
+                    "38:47"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Following his speech , President Bush met again with his National Security Council ( NSC ) , expanded to include Secretary of Transportation Norman Mineta and Joseph Allbaugh , the director of the Federal Emergency Management Agency . Secretary of State Colin Powell , who had returned from Peru after hearing of the attacks , joined the discussion . They reviewed the day 's events .",
+    "sent_id": "ula/chapter-10-7"
+}

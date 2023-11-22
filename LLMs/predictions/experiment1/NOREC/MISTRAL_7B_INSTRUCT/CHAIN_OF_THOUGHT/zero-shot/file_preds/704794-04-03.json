@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Noen baner er lagt opp"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "slik at man kj\u00f8rer berg-og-dalbane"
+                ],
+                [
+                    "23:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mesteparten av brettet"
+                ],
+                [
+                    "58:80"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "brettet"
+                ],
+                [
+                    "73:80"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "variasjonen"
+                ],
+                [
+                    "120:131"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Noen baner er lagt opp slik at man kj\u00f8rer berg-og-dalbane mesteparten av brettet , noe som bidrar til den allerede gode variasjonen .",
+    "sent_id": "704794-04-03"
+}

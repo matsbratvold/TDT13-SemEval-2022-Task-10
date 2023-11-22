@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "stille"
+                ],
+                [
+                    "15:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "var s\u00e5 stille"
+                ],
+                [
+                    "8:21"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "prater br\u00e5tt som en foss"
+                ],
+                [
+                    "24:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "prater br\u00e5tt som en foss"
+                ],
+                [
+                    "24:48"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Han som var s\u00e5 stille , prater br\u00e5tt som en foss .",
+    "sent_id": "302975-13-02"
+}

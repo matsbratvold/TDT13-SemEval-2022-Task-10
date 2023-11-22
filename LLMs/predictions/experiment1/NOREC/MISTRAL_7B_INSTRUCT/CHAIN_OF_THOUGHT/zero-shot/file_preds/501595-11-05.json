@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "dem"
+                ],
+                [
+                    "17:20"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "spr\u00f8tt"
+                ],
+                [
+                    "24:30"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "kj\u00f8ttet"
+                ],
+                [
+                    "51:58"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "saftig"
+                ],
+                [
+                    "62:68"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Behandlingen gir dem et spr\u00f8tt ytre , samtidig som kj\u00f8ttet er saftig p\u00e5 innsiden .",
+    "sent_id": "501595-11-05"
+}

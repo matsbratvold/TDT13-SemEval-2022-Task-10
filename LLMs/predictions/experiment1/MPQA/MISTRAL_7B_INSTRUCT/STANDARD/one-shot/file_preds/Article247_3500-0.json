@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Entrepreneur Is the New Madonna"
+                ],
+                [
+                    "0:35"
+                ]
+            ],
+            "Target": [
+                [
+                    "The Entrepreneur"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Is"
+                ],
+                [
+                    "17:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The Entrepreneur Is the New Madonna",
+    "sent_id": "ula/Article247_3500-0"
+}

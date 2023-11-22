@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "noe"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "det eneste hun sier"
+                ],
+                [
+                    "28:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en ganske generisk hyllest"
+                ],
+                [
+                    "77:103"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "noe"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "Oslo"
+                ],
+                [
+                    "107:111"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "I \u2019 m very happy"
+                ],
+                [
+                    "130:146"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "S\u00e5nn sett morsomt at noe av det eneste hun sier i l\u00f8pet av hele konserten er en ganske generisk hyllest av Oslo , avsluttet med \u00ab I \u2019 m very happy \u00bb .",
+    "sent_id": "104659-12-01"
+}

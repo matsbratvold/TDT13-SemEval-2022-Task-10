@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "kan du se"
+                ],
+                [
+                    "26:35"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Sesong 1 av \u00ab Outlander \u00bb kan du se i Netflix og Viaplay .",
+    "sent_id": "000298-25-01"
+}

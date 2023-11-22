@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Hjernen"
+                ],
+                [
+                    "2:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "alene"
+                ],
+                [
+                    "13:18"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "\u00ab Hjernen er alene \u00bb",
+    "sent_id": "303032-08-01"
+}

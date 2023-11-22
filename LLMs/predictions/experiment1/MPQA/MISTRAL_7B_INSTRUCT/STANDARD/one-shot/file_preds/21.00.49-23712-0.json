@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ariel Sharon"
+                ],
+                [
+                    "22:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "buffer zones"
+                ],
+                [
+                    "4:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "intends to establish"
+                ],
+                [
+                    "35:55"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Ariel Sharon"
+                ],
+                [
+                    "22:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "building a Great Wall of China in the Middle East"
+                ],
+                [
+                    "232:281"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The buffer zones that Ariel Sharon intends to establish are an explicit admission that Israelis can no longer live by the sword , that the occupation is not working , and Israeli reprisals are not meeting with success . Thinking of building a Great Wall of China in the Middle East , replete with elaborate fences and tunnels , is conceding that Israel is not safe , not a normal country . It can not integrate itself into the region , it is an alien seedling and , thus , it is better to isolate and fortify itself as a lowly outpost .",
+    "sent_id": "20020225/21.00.49-23712-0"
+}

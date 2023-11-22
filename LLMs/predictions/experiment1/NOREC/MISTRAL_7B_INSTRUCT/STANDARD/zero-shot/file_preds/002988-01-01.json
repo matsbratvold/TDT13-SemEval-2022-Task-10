@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ensformig"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "kraftfull"
+                ],
+                [
+                    "10:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kjedelig"
+                ],
+                [
+                    "26:34"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "Ensformig"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "kjedelig"
+                ],
+                [
+                    "26:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "monoton"
+                ],
+                [
+                    "35:42"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "Ensformig"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "kraftfull"
+                ],
+                [
+                    "10:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "monoton"
+                ],
+                [
+                    "35:42"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Ensformig kraftfull eller kjedelig monoton ?",
+    "sent_id": "002988-01-01"
+}

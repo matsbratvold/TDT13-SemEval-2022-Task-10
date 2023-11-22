@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Siste gang"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "var i det godes tjeneste"
+                ],
+                [
+                    "11:35"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Live 8"
+                ],
+                [
+                    "46:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "konserten i 2005"
+                ],
+                [
+                    "56:72"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Siste gang var i det godes tjeneste , under \u00ab Live 8 \u00bb -konserten i 2005 .",
+    "sent_id": "304196-06-02"
+}

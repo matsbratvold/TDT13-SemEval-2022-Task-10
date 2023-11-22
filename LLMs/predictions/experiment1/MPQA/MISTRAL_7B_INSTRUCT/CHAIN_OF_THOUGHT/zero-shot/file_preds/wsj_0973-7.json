@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "A bright spot"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "company 's power - generation business"
+                ],
+                [
+                    "21:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "surge of growth"
+                ],
+                [
+                    "86:101"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Mr. Marous"
+                ],
+                [
+                    "132:142"
+                ]
+            ],
+            "Target": [
+                [
+                    "company 's power - generation business"
+                ],
+                [
+                    "21:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "higher sales"
+                ],
+                [
+                    "174:186"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A bright spot is the company 's power - generation business , which is experiencing a surge of growth for the first time in years . Mr. Marous said the business will achieve higher sales this year than the company 's target goal of 8.5 % .",
+    "sent_id": "xbank/wsj_0973-7"
+}

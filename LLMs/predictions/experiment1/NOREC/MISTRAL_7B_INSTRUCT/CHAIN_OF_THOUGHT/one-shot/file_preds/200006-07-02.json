@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Joda"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "7:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "pent nok"
+                ],
+                [
+                    "14:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Joda"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "produktbildene"
+                ],
+                [
+                    "37:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "flotte ut"
+                ],
+                [
+                    "56:65"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Joda"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "den svarte utgaven"
+                ],
+                [
+                    "72:90"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "litt traust ut"
+                ],
+                [
+                    "134:148"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Joda , det er pent nok , og spesielt produktbildene ser flotte ut , men den svarte utgaven vi fikk inn til test synes vi fortsatt ser litt traust ut .",
+    "sent_id": "200006-07-02"
+}

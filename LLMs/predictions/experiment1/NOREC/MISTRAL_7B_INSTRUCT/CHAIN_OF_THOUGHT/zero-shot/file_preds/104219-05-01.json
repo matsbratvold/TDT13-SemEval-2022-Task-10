@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Familiehistorien"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "svik"
+                ],
+                [
+                    "28:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "svik"
+                ],
+                [
+                    "28:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Familiehistorien"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "omsorgssvikt"
+                ],
+                [
+                    "36:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "omsorgssvikt"
+                ],
+                [
+                    "36:48"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Familiehistorien inneholder svik og omsorgssvikt .",
+    "sent_id": "104219-05-01"
+}

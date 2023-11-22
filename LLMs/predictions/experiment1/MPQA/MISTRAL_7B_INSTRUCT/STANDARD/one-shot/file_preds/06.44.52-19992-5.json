@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "It"
+                ],
+                [
+                    "35:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "a shiny speck"
+                ],
+                [
+                    "48:61"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "begins"
+                ],
+                [
+                    "38:44"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "flies low over the tarmac"
+                ],
+                [
+                    "215:240"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "flies"
+                ],
+                [
+                    "215:220"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "the deep blue waters of the Caribbean"
+                ],
+                [
+                    "340:377"
+                ]
+            ],
+            "Target": [
+                [
+                    "serve as the postcard backdrop"
+                ],
+                [
+                    "378:408"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "serve"
+                ],
+                [
+                    "378:383"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "GUANTANAMO BAY NAVAL BASE , Cuba - It begins as a shiny speck in the southeast skies of the lone landing strip here at Gitmo , the oldest U.S. base overseas . Within minutes the lumbering , gray C - 141B Starlifter flies low over the tarmac and over a patch of palm trees , as if part of an annual air show . On a hot and windy afternoon , the deep blue waters of the Caribbean serve as the postcard backdrop .",
+    "sent_id": "non_fbis/06.44.52-19992-5"
+}

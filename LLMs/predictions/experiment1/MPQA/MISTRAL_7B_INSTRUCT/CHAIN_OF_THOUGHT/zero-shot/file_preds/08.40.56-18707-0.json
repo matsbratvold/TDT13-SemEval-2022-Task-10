@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ministry"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "U.S. Report"
+                ],
+                [
+                    "31:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Odious"
+                ],
+                [
+                    "22:28"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Ministry Criticizes ' Odious ' U.S. Report",
+    "sent_id": "non_fbis/08.40.56-18707-0"
+}

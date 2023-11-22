@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Pentagon"
+                ],
+                [
+                    "35:43"
+                ]
+            ],
+            "Target": [
+                [
+                    "captives"
+                ],
+                [
+                    "15:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "refused to classify"
+                ],
+                [
+                    "48:67"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Pentagon"
+                ],
+                [
+                    "35:43"
+                ]
+            ],
+            "Target": [
+                [
+                    "captives"
+                ],
+                [
+                    "15:23"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Pentagon"
+                ],
+                [
+                    "35:43"
+                ]
+            ],
+            "Target": [
+                [
+                    "Geneva Convention"
+                ],
+                [
+                    "205:222"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "refused to classify"
+                ],
+                [
+                    "48:67"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A total of 158 captives , whom the Pentagon has refused to classify as prisoners of war , are already being held and interrogated at Guantanamo amid criticism they have not been treated properly under the Geneva Convention .",
+    "sent_id": "non_fbis/04.28.09-24241-10"
+}

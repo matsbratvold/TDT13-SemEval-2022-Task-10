@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "These"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "right to life"
+                ],
+                [
+                    "17:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "right to life"
+                ],
+                [
+                    "17:30"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "These"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "freedom of expression and religion"
+                ],
+                [
+                    "33:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "freedom of expression and religion"
+                ],
+                [
+                    "33:67"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "These"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "freedom from torture"
+                ],
+                [
+                    "72:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "freedom from torture"
+                ],
+                [
+                    "72:92"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "These"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "retroactive imposition of more severe penalties for crimes"
+                ],
+                [
+                    "124:182"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "retroactive imposition of more severe penalties for crimes"
+                ],
+                [
+                    "124:182"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "These were : the right to life , freedom of expression and religion and freedom from torture , while it also urged that the retroactive imposition of more severe penalties for crimes be avoided .",
+    "sent_id": "20011130/12.26.48-19550-9"
+}

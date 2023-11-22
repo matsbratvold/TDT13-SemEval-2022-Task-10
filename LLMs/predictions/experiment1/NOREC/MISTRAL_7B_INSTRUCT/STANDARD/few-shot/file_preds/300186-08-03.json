@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "vond rygg"
+                ],
+                [
+                    "3:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en"
+                ],
+                [
+                    "15:17"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "litt kjeftete datter"
+                ],
+                [
+                    "18:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en"
+                ],
+                [
+                    "15:17"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hest som ikke lystrer"
+                ],
+                [
+                    "44:65"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en"
+                ],
+                [
+                    "15:17"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "En vond rygg , en litt kjeftete datter , en hest som ikke lystrer .",
+    "sent_id": "300186-08-03"
+}

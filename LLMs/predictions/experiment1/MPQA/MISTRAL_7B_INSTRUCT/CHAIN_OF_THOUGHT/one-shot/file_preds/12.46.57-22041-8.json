@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "US Marines"
+                ],
+                [
+                    "46:56"
+                ]
+            ],
+            "Target": [
+                [
+                    "captured Taliban and al - Qa'eda fighters"
+                ],
+                [
+                    "173:214"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stand guard"
+                ],
+                [
+                    "93:104"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A Humvee moves slowly around the perimeter as US Marines , M16 assault rifles at the ready , stand guard . From seven wooden watchtowers , guards train their weapons on the captured Taliban and al - Qa'eda fighters , who are clad in orange jump suits . One man is moved back to his cage , his ankles and wrists in shackles .",
+    "sent_id": "non_fbis/12.46.57-22041-8"
+}

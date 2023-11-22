@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Nouvel Observateur"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "Beijing"
+                ],
+                [
+                    "33:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "likely to annex Taiwan by force"
+                ],
+                [
+                    "46:77"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The Nouvel Observateur"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "Beijing"
+                ],
+                [
+                    "33:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "resorting to smarter tactics"
+                ],
+                [
+                    "176:204"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The Nouvel Observateur"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "Beijing"
+                ],
+                [
+                    "33:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bringing the Taiwan authorities to heel through Taiwan businessmen"
+                ],
+                [
+                    "207:273"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The Nouvel Observateur said that Beijing is unlikely to annex Taiwan by force , despite its deployment of missiles along its coastal provinces opposite Taiwan , but is instead resorting to smarter tactics , bringing the Taiwan authorities to heel through Taiwan businessmen who are eager to explore the mainland Chinese market .",
+    "sent_id": "20010713/00.42.05-29788-2"
+}

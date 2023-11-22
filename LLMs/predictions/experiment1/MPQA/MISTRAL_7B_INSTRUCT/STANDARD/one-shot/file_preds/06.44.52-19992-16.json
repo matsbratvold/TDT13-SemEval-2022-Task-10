@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "her colleague"
+                ],
+                [
+                    "34:47"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "chimes in"
+                ],
+                [
+                    "24:33"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" It must be freaky , \" chimes in her colleague .",
+    "sent_id": "non_fbis/06.44.52-19992-16"
+}

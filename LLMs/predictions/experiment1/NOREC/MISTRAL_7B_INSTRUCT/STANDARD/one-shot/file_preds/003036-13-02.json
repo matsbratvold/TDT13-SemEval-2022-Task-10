@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Albumet"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilgjengelig via Apple Music"
+                ],
+                [
+                    "15:43"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Albumet er kun tilgjengelig via Apple Music .",
+    "sent_id": "003036-13-02"
+}

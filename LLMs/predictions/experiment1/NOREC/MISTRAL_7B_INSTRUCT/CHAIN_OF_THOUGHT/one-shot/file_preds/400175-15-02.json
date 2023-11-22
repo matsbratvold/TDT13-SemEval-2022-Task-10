@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "scener"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tangerer humanismen"
+                ],
+                [
+                    "22:41"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "scener"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Intet nytt fra vestfronten"
+                ],
+                [
+                    "75:101"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "scener"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00e6rlig scenen"
+                ],
+                [
+                    "104:117"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "scener"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en av soldatene fors\u00f8ker \u00e5 gj\u00f8re en mus til sitt kj\u00e6ledyr"
+                ],
+                [
+                    "122:179"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er scener her som tangerer humanismen i klassiske antikrigsdramaer som Intet nytt fra vestfronten , s\u00e6rlig scenen der en av soldatene fors\u00f8ker \u00e5 gj\u00f8re en mus til sitt kj\u00e6ledyr .",
+    "sent_id": "400175-15-02"
+}

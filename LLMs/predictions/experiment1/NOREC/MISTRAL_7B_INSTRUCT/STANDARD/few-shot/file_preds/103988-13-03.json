@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bob-e-ler"
+                ],
+                [
+                    "22:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "heftig"
+                ],
+                [
+                    "13:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bob-e-ler"
+                ],
+                [
+                    "22:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00e5 sexy"
+                ],
+                [
+                    "32:39"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bob-e-ler"
+                ],
+                [
+                    "22:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som s\u00e5pe"
+                ],
+                [
+                    "52:60"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bob-e-ler"
+                ],
+                [
+                    "22:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som Pepsi"
+                ],
+                [
+                    "73:82"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab Overalt er heftig , bob-e-ler s\u00e5 sexy , bob-e-ler som s\u00e5pe , bob-e-ler som Pepsi \u00bb kunne man ha danset til p\u00e5 repeat i flere minutter .",
+    "sent_id": "103988-13-03"
+}

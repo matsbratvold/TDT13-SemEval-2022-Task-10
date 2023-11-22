@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "weekly"
+                ],
+                [
+                    "4:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "mainland China"
+                ],
+                [
+                    "21:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "attracted"
+                ],
+                [
+                    "40:49"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "weekly"
+                ],
+                [
+                    "4:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "Taiwan"
+                ],
+                [
+                    "95:101"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "investment"
+                ],
+                [
+                    "79:89"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Taipei authorities"
+                ],
+                [
+                    "123:141"
+                ]
+            ],
+            "Target": [
+                [
+                    "mainland China"
+                ],
+                [
+                    "21:35"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The weekly said that mainland China has attracted more than US $ 50 billion in investment from Taiwan thus far , while the Taipei authorities bowed to pressure from its own businessmen to lift restrictions on investment in mainland China in May , a move expected to speed up the flow of Taiwan capital to its arch rival .",
+    "sent_id": "20010713/00.42.05-29788-3"
+}

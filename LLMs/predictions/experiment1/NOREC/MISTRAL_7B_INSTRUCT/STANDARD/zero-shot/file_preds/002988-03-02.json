@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Slik"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "Karpe Diems"
+                ],
+                [
+                    "11:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5pner"
+                ],
+                [
+                    "5:10"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Slik"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "Heisann Montebello"
+                ],
+                [
+                    "73:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "femte l\u00e5t"
+                ],
+                [
+                    "23:32"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Slik"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "Heisann Montebello"
+                ],
+                [
+                    "73:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "alternative albumslipprosjektet"
+                ],
+                [
+                    "41:72"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Slik \u00e5pner Karpe Diems femte l\u00e5t fra det alternative albumslipprosjektet Heisann Montebello .",
+    "sent_id": "002988-03-02"
+}

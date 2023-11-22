@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "doctor"
+                ],
+                [
+                    "8:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "buddy"
+                ],
+                [
+                    "69:74"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Good job"
+                ],
+                [
+                    "58:66"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Another doctor , speaking with a French accent , adds , \" Good job , buddy . \"",
+    "sent_id": "non_fbis/06.44.52-19992-73"
+}

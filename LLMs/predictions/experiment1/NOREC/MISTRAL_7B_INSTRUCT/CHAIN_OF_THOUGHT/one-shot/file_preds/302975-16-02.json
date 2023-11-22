@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bildet"
+                ],
+                [
+                    "10:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ligner"
+                ],
+                [
+                    "3:9"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "kjente ovenfra og ned-fotografiene"
+                ],
+                [
+                    "20:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "av overfylte flyktningeb\u00e5ter"
+                ],
+                [
+                    "55:83"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Da ligner bildet de kjente ovenfra og ned-fotografiene av overfylte flyktningeb\u00e5ter i Middelhavet .",
+    "sent_id": "302975-16-02"
+}

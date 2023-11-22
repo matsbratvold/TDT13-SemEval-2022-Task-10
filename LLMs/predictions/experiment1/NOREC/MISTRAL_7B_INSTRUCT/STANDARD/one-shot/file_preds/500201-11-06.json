@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Guatemala"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "Guatemala"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "har en lang , stygg historie med menneskehandel og bortf\u00f8ring av sm\u00e5barn med tanke p\u00e5 utenlandsadopsjon"
+                ],
+                [
+                    "10:113"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Guatemala har en lang , stygg historie med menneskehandel og bortf\u00f8ring av sm\u00e5barn med tanke p\u00e5 utenlandsadopsjon .",
+    "sent_id": "500201-11-06"
+}

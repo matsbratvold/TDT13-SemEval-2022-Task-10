@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "the start of the Muslim month of pilgrimage"
+                ],
+                [
+                    "18:61"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "detects"
+                ],
+                [
+                    "129:136"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Base officials"
+                ],
+                [
+                    "164:178"
+                ]
+            ],
+            "Target": [
+                [
+                    "a special meal for March 10"
+                ],
+                [
+                    "195:222"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "are considering"
+                ],
+                [
+                    "179:194"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "He says that with the start of the Muslim month of pilgrimage , during which the faithful journey to the holy city of Mecca , he detects more anxiety in the camp . Base officials are considering a special meal for March 10 .",
+    "sent_id": "non_fbis/06.44.52-19992-39"
+}

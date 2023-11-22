@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Folkens"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "rap om samfunn og politikk"
+                ],
+                [
+                    "19:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "et forhold som ikke kan eller b\u00f8r g\u00e5 den andre veien"
+                ],
+                [
+                    "48:100"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Folkens , dette er rap om samfunn og politikk , et forhold som ikke kan eller b\u00f8r g\u00e5 den andre veien .",
+    "sent_id": "002988-04-03"
+}

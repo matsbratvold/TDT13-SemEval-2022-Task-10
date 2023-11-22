@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "En"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "vond rygg"
+                ],
+                [
+                    "3:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rygg"
+                ],
+                [
+                    "8:12"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "en"
+                ],
+                [
+                    "15:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "litt kjeftete datter"
+                ],
+                [
+                    "18:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kjeftete datter"
+                ],
+                [
+                    "23:38"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "en"
+                ],
+                [
+                    "15:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "hest som ikke lystrer"
+                ],
+                [
+                    "44:65"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hest som ikke lystrer"
+                ],
+                [
+                    "44:65"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "En vond rygg , en litt kjeftete datter , en hest som ikke lystrer .",
+    "sent_id": "300186-08-03"
+}

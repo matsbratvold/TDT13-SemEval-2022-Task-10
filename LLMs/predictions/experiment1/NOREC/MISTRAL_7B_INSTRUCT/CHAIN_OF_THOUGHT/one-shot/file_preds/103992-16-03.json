@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Problemet med denne nesten minutt-for-minutt dekningen"
+                ],
+                [
+                    "0:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skjer for lite interessant"
+                ],
+                [
+                    "65:91"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Problemet med denne nesten minutt-for-minutt dekningen er at det skjer for lite interessant .",
+    "sent_id": "103992-16-03"
+}

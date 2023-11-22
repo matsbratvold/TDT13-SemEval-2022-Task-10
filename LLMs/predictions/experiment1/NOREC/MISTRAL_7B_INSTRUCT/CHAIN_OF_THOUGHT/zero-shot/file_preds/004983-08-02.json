@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Et"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "nytt hierarki"
+                ],
+                [
+                    "3:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00f8ter"
+                ],
+                [
+                    "17:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "gutten"
+                ],
+                [
+                    "23:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "nytt hierarki"
+                ],
+                [
+                    "3:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00f8ter"
+                ],
+                [
+                    "17:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Et nytt hierarki m\u00f8ter gutten .",
+    "sent_id": "004983-08-02"
+}

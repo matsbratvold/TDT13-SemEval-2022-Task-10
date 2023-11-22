@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "they"
+                ],
+                [
+                    "5:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "might be"
+                ],
+                [
+                    "10:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "might be"
+                ],
+                [
+                    "10:18"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "11:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "a hunter"
+                ],
+                [
+                    "80:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i'm not much of a hunter"
+                ],
+                [
+                    "92:116"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "yeah they might be or you know how we are here in Texas it 's like everybody 's a hunter so i'm not much of a hunter but",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-9"
+}

@@ -1,0 +1,65 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "priset"
+                ],
+                [
+                    "11:17"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "smartklokker"
+                ],
+                [
+                    "29:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lignende opplevde kvalitet"
+                ],
+                [
+                    "45:71"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "smartklokker"
+                ],
+                [
+                    "29:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "h\u00f8y sammenlignet med det brede markedet"
+                ],
+                [
+                    "81:120"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Klokken er priset i tr\u00e5d med smartklokker av lignende opplevde kvalitet , men er h\u00f8y sammenlignet med det brede markedet av smartklokker .",
+    "sent_id": "201344-30-01"
+}

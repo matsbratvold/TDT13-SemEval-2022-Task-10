@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "motor"
+                ],
+                [
+                    "41:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5pnes"
+                ],
+                [
+                    "47:52"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "utsatt"
+                ],
+                [
+                    "80:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en st\u00f8rre fortelling om"
+                ],
+                [
+                    "53:76"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "undertrykket"
+                ],
+                [
+                    "90:102"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "minoritet"
+                ],
+                [
+                    "103:112"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Med dette forholdsvis enkle sujettet som motor \u00e5pnes en st\u00f8rre fortelling om en utsatt og undertrykket minoritet .",
+    "sent_id": "500201-06-01"
+}

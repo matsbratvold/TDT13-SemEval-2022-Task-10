@@ -1,0 +1,46 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Balfe og Heughan"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "gj\u00f8r at jeg heier p\u00e5 forholdet deres"
+                ],
+                [
+                    "69:105"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Balfe og Heughan utstr\u00e5ler en n\u00e6rhet som er sv\u00e6rt troverdig , og som gj\u00f8r at jeg heier p\u00e5 forholdet deres .",
+    "sent_id": "000298-18-01"
+}

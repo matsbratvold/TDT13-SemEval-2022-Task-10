@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "And"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Taliban"
+                ],
+                [
+                    "115:122"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "strangely"
+                ],
+                [
+                    "6:15"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "base officials"
+                ],
+                [
+                    "149:163"
+                ]
+            ],
+            "Target": [
+                [
+                    "U.S. military"
+                ],
+                [
+                    "62:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "try to glean"
+                ],
+                [
+                    "164:176"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "And , strangely , they get to write home . It 's not that the U.S. military has a soft spot for the mothers of the Taliban or al - Qaida . Instead , base officials try to glean the prisoners ' real names from the letters , as many tend to give multiple aliases during interrogations .",
+    "sent_id": "non_fbis/06.44.52-19992-28"
+}

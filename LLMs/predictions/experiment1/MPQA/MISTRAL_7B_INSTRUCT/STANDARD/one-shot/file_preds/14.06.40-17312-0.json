@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Swedish and US authorities"
+                ],
+                [
+                    "97:127"
+                ]
+            ],
+            "Target": [
+                [
+                    "people who might have been exposed to dangerous radiation"
+                ],
+                [
+                    "144:201"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "looking for"
+                ],
+                [
+                    "132:143"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "looking for"
+                ],
+                [
+                    "132:143"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A container from the Swedish nuclear technology firm Studsvik has leaked radioactive materials . The Swedish and US authorities are looking for people who might have been exposed to dangerous radiation , but there is no indication that the container started to leak in Sweden . This is Sweden 's most serious incident so far involving radiation .",
+    "sent_id": "20020109/14.06.40-17312-0"
+}

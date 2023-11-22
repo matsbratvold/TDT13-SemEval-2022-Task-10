@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "General Shelton"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "the preliminary plan for Afghanistan"
+                ],
+                [
+                    "42:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "drew on the Infinite Resolve \" phased campaign \" plan"
+                ],
+                [
+                    "119:172"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "General Shelton"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "the possible significant use of ground forces"
+                ],
+                [
+                    "329:374"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "added a new element"
+                ],
+                [
+                    "307:326"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "395:409"
+                ]
+            ],
+            "Target": [
+                [
+                    "the possible significant use of ground forces"
+                ],
+                [
+                    "329:374"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "focused his attention"
+                ],
+                [
+                    "421:442"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "General Shelton briefed the principals on the preliminary plan for Afghanistan that the military had put together . It drew on the Infinite Resolve \" phased campaign \" plan the Pentagon had begun developing in November 2000 as an addition to the strike options it had been refining since 1998 . But Shelton added a new element - the possible significant use of ground forces - and that is where President Bush reportedly focused his attention .",
+    "sent_id": "ula/chapter-10-39"
+}

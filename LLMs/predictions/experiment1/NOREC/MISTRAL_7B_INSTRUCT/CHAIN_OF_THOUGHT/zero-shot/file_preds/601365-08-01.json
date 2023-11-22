@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "2:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "til himmelen"
+                ],
+                [
+                    "38:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kj\u00f8pe"
+                ],
+                [
+                    "64:69"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "2:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "til himmelen"
+                ],
+                [
+                    "38:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "g\u00e5"
+                ],
+                [
+                    "94:96"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "2:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "til himmelen"
+                ],
+                [
+                    "38:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kino"
+                ],
+                [
+                    "100:104"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "2:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "til himmelen"
+                ],
+                [
+                    "38:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Jon"
+                ],
+                [
+                    "116:119"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "2:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "til himmelen"
+                ],
+                [
+                    "38:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "den amerikanske science fictionmesteren Ray Bradbury"
+                ],
+                [
+                    "123:175"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "\u00ab Jeg tenker at hvis jeg kommer dit ( til himmelen ) , skal jeg kj\u00f8pe en b\u00f8tte med popcorn og g\u00e5 p\u00e5 kino sammen med Jon og den amerikanske science fictionmesteren Ray Bradbury \u00bb heter det innledningsvis .",
+    "sent_id": "601365-08-01"
+}

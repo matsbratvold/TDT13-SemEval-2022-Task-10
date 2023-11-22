@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Cabinet"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "ratification draft"
+                ],
+                [
+                    "14:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "OK"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Cabinet OK 's ratification draft",
+    "sent_id": "non_fbis/04.24.14-26782-13"
+}

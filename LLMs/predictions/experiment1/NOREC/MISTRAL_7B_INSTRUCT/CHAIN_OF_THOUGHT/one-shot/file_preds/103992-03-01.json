@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Orange Is the New Black"
+                ],
+                [
+                    "2:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sesong 5"
+                ],
+                [
+                    "30:38"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "\u00ab Orange Is the New Black \u00bb , sesong 5",
+    "sent_id": "103992-03-01"
+}

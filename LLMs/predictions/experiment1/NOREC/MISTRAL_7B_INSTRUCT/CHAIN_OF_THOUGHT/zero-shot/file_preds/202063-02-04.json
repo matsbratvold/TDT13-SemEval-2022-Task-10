@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "musikk"
+                ],
+                [
+                    "3:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "konkurrentene"
+                ],
+                [
+                    "38:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sl\u00e5"
+                ],
+                [
+                    "34:37"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "P\u00e5 musikk mangler det siste for \u00e5 sl\u00e5 konkurrentene .",
+    "sent_id": "202063-02-04"
+}

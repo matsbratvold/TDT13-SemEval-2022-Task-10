@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Oklahoma City energy and defense concern"
+                ],
+                [
+                    "4:44"
+                ]
+            ],
+            "Target": [
+                [
+                    "defense group"
+                ],
+                [
+                    "97:110"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "record a $ 7.5 million reserve"
+                ],
+                [
+                    "58:88"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Oklahoma City energy and defense concern"
+                ],
+                [
+                    "4:44"
+                ]
+            ],
+            "Target": [
+                [
+                    "defense group"
+                ],
+                [
+                    "97:110"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Oklahoma City energy and defense concern"
+                ],
+                [
+                    "4:44"
+                ]
+            ],
+            "Target": [
+                [
+                    "defense group"
+                ],
+                [
+                    "97:110"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The Oklahoma City energy and defense concern said it will record a $ 7.5 million reserve for its defense group , including a $ 4.7 million charge related to problems under a fixed - price development contract and $ 2.8 million in overhead costs that wo n't be reimbursed .",
+    "sent_id": "xbank/wsj_0161-2"
+}

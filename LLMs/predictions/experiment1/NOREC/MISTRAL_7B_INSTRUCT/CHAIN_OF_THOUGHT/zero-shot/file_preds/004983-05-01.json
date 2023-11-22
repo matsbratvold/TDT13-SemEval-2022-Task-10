@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Regiss\u00f8r Claude Barras"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "unna det som er vanskelig og ubehagelig"
+                ],
+                [
+                    "35:74"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "styrer"
+                ],
+                [
+                    "23:29"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Regiss\u00f8r Claude Barras"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "m\u00f8rket og barnas usikkerhet"
+                ],
+                [
+                    "102:129"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ledsager"
+                ],
+                [
+                    "81:89"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Regiss\u00f8r Claude Barras"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "kj\u00e6rlighet"
+                ],
+                [
+                    "134:144"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skildres"
+                ],
+                [
+                    "186:194"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Regiss\u00f8r Claude Barras"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "humor og forst\u00e5else"
+                ],
+                [
+                    "147:166"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skildres"
+                ],
+                [
+                    "186:194"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Regiss\u00f8r Claude Barras styrer ikke unna det som er vanskelig og ubehagelig , men ledsager oss gjennom m\u00f8rket og barnas usikkerhet med kj\u00e6rlighet , humor og forst\u00e5else for individene som skildres .",
+    "sent_id": "004983-05-01"
+}

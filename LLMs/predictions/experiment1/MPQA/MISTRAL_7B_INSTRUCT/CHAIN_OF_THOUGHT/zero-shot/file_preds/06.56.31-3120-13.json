@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "MDC"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Bulawayo"
+                ],
+                [
+                    "94:102"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "surrounded"
+                ],
+                [
+                    "50:60"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Harare townships"
+                ],
+                [
+                    "150:166"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "moved into"
+                ],
+                [
+                    "139:149"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The MDC said dozens of heavily armed soldiers had surrounded its office in the second city of Bulawayo . Small groups of armed riot police moved into Harare townships loyal to Tsvangirai .",
+    "sent_id": "non_fbis/06.56.31-3120-13"
+}

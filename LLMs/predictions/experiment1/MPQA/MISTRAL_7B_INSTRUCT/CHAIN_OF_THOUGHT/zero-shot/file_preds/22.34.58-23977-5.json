@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "she"
+                ],
+                [
+                    "100:103"
+                ]
+            ],
+            "Target": [
+                [
+                    "Taiwan issue"
+                ],
+                [
+                    "6:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "most important and sensitive issue"
+                ],
+                [
+                    "26:60"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" The Taiwan issue is the most important and sensitive issue at the core of Sino - US relations , \" she said at the biweekly ministry briefing .",
+    "sent_id": "temp_fbis/22.34.58-23977-5"
+}

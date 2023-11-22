@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dessverre"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ut f\u00f8r den f\u00e5r utspilt sin rolle"
+                ],
+                [
+                    "20:52"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dessverre siles den ut f\u00f8r den f\u00e5r utspilt sin rolle .",
+    "sent_id": "302108-13-02"
+}

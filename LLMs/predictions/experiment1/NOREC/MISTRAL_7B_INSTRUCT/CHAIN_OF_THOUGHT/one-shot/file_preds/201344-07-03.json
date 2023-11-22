@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "31:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "8:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med Fenix Chronos"
+                ],
+                [
+                    "4:21"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "31:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "31:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 ha lansert deres f\u00f8rste klokke"
+                ],
+                [
+                    "38:70"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "31:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "31:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i \u00ab tradisjonell urmakerkvalitet \u00bb"
+                ],
+                [
+                    "71:105"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Men med Fenix Chronos , hevder Garmin \u00e5 ha lansert deres f\u00f8rste klokke i \u00ab tradisjonell urmakerkvalitet \u00bb .",
+    "sent_id": "201344-07-03"
+}

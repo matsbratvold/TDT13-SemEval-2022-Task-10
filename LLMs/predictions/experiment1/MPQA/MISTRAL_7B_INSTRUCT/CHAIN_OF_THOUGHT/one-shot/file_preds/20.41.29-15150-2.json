@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Accord"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "must cut or limit"
+                ],
+                [
+                    "60:77"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "According to the accord , about 40 industrialized countries must cut or limit emissions of carbon dioxide and other heat - trapping gases by an average of 5.2 percent from 1990 levels by 2012 .",
+    "sent_id": "20011115/20.41.29-15150-2"
+}

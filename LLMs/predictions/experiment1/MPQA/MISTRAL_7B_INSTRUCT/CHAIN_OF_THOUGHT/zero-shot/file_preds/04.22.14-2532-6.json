@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "United States"
+                ],
+                [
+                    "17:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "China"
+                ],
+                [
+                    "178:183"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "distorted human rights conditions"
+                ],
+                [
+                    "89:122"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "United States"
+                ],
+                [
+                    "17:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "China"
+                ],
+                [
+                    "178:183"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "accused them of human rights violations"
+                ],
+                [
+                    "190:229"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "United States"
+                ],
+                [
+                    "17:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "United States"
+                ],
+                [
+                    "17:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "turning a blind eye to its own human rights - related problems"
+                ],
+                [
+                    "246:308"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" Once again the United States , assuming the role of `world judge of human rights ' has distorted human rights conditions in many countries and regions in the world , including China , and accused them of human rights violations , all the while turning a blind eye to its own human rights - related problems , \" the Chinese report said .",
+    "sent_id": "non_fbis/04.22.14-2532-6"
+}

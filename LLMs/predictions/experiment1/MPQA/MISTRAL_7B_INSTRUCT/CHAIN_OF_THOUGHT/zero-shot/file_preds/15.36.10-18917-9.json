@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Iran"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "Venezuela"
+                ],
+                [
+                    "50:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "return of the rule of law"
+                ],
+                [
+                    "78:103"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Iran"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "Venezuela"
+                ],
+                [
+                    "50:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reinstatement of the legitimate government of President Chavez"
+                ],
+                [
+                    "108:170"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Iran , Sunday last week , sent congratulations to Venezuela on hearing of the return of the rule of law and reinstatement of the legitimate government of President Chavez after the two - day military collapsed .",
+    "sent_id": "non_fbis/15.36.10-18917-9"
+}

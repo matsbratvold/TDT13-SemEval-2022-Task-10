@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Russian government"
+                ],
+                [
+                    "22:44"
+                ]
+            ],
+            "Target": [
+                [
+                    "a new mechanism to cover the export of dual - purpose technology to Iraq"
+                ],
+                [
+                    "61:133"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "established"
+                ],
+                [
+                    "49:60"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "The Russian government"
+                ],
+                [
+                    "22:44"
+                ]
+            ],
+            "Target": [
+                [
+                    "a number of documents on exports of controlled goods and technology to Iraq"
+                ],
+                [
+                    "267:342"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "made obsolete"
+                ],
+                [
+                    "381:394"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The Russian government"
+                ],
+                [
+                    "22:44"
+                ]
+            ],
+            "Target": [
+                [
+                    "the United Nations Supervision , Control , and Inspection Commission and the International Atomic Energy Agency"
+                ],
+                [
+                    "569:680"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "directed"
+                ],
+                [
+                    "503:511"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Moscow , 17 January : The Russian government has established a new mechanism to cover the export of dual - purpose technology to Iraq , which is subject to international supervision and control , the government information department said . In connection with this , a number of documents on exports of controlled goods and technology to Iraq , passed in 1997 and 2001 , have been made obsolete . The federal executive authorities , in particular the Economic Development and Trade Ministry , have been directed through the Russian Foreign Ministry \" to cooperate with the United Nations Supervision , Control , and Inspection Commission and the International Atomic Energy Agency on issues connected with the functioning of the international mechanism for constant supervision and control in relations to Iraq \" .",
+    "sent_id": "20020117/21.20.15-24907-1"
+}

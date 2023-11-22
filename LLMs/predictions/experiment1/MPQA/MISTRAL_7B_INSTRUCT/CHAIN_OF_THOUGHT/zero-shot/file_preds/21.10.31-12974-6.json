@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the author"
+                ],
+                [
+                    "44:54"
+                ]
+            ],
+            "Target": [
+                [
+                    "the sun - screening space umbrella"
+                ],
+                [
+                    "7:41"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Indeed"
+                ],
+                [
+                    "155:161"
+                ]
+            ],
+            "Target": [
+                [
+                    "the idea"
+                ],
+                [
+                    "164:172"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has not yet captivated the masses"
+                ],
+                [
+                    "173:206"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Mr. Gudkov"
+                ],
+                [
+                    "490:500"
+                ]
+            ],
+            "Target": [
+                [
+                    "global warming"
+                ],
+                [
+                    "368:382"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is a threat only to the southern countries"
+                ],
+                [
+                    "618:660"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "True , the sun - screening space umbrella ( the author 's name ) does not have much chance of opening up , due to \" political - economic circumstances . \" Indeed , the idea has not yet captivated the masses so much that they would remove their last trousers to start investing immediately in the project . But the expert urged everyone to despair , \" since control of global warming without Russia is impossible ; the country is becoming the owner of the controlling block of shares . \" In Mr. Gudkov 's view , everything is developing well , we can take our time , and we can do nothing at all , since global warming is a threat only to the southern countries .",
+    "sent_id": "temp_fbis/21.10.31-12974-6"
+}

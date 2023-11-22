@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "country"
+                ],
+                [
+                    "4:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto Protocol"
+                ],
+                [
+                    "99:113"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "States"
+                ],
+                [
+                    "136:142"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto Protocol"
+                ],
+                [
+                    "99:113"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "behave badly"
+                ],
+                [
+                    "143:155"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Our country has something like a controlling block of shares , since without Russia and the US the Kyoto Protocol will die . And if the States behave badly , we are simply obligated to ratify this document -- this was the conclusion arrived at by the round table .",
+    "sent_id": "temp_fbis/21.10.31-12974-14"
+}

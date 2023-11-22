@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bing og Bringsv\u00e6rd"
+                ],
+                [
+                    "2:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "norsk litteratur"
+                ],
+                [
+                    "50:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "23:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab Bing og Bringsv\u00e6rd \u00bb er en etablert st\u00f8rrelse i norsk litteratur .",
+    "sent_id": "601365-07-01"
+}

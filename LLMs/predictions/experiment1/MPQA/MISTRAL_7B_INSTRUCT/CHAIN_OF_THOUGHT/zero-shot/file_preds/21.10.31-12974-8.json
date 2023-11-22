@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "speaker"
+                ],
+                [
+                    "4:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "Sergey Kapitsa"
+                ],
+                [
+                    "52:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cooled"
+                ],
+                [
+                    "25:31"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "speaker"
+                ],
+                [
+                    "4:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "predicted amount of future warming"
+                ],
+                [
+                    "175:209"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "speaker"
+                ],
+                [
+                    "4:11"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "believes"
+                ],
+                [
+                    "240:248"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The speaker 's ardor was cooled by the well - known Sergey Kapitsa , who is not inclined to give way to rapture over the advantages promised to Russia . He also questions the predicted amount of future warming . Six degrees , the professor believes , is unlikely , since that kind of thing has not happened on the planet in the past 420,000 years . This is indicated by a well drilled in the ice cap of Antarctica 30 years ago , which helps to comprehend what has happened to climate .",
+    "sent_id": "temp_fbis/21.10.31-12974-8"
+}

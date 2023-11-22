@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "he"
+                ],
+                [
+                    "6:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "GCEP"
+                ],
+                [
+                    "45:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hopes to attract more funding"
+                ],
+                [
+                    "50:79"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "he"
+                ],
+                [
+                    "6:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "international community"
+                ],
+                [
+                    "101:124"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "efforts in reducing greenhouse gases"
+                ],
+                [
+                    "128:164"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "he"
+                ],
+                [
+                    "6:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "earth"
+                ],
+                [
+                    "190:195"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "he"
+                ],
+                [
+                    "6:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "climate change"
+                ],
+                [
+                    "223:237"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "causing climate change"
+                ],
+                [
+                    "215:237"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "With the signing of the protocol , he said , GCEP hopes to attract more funding to contribute to the international community 's efforts in reducing greenhouse gases , which trap heat in the earth 's atmosphere thus causing climate change .",
+    "sent_id": "20020306/20.49.12-24038-4"
+}

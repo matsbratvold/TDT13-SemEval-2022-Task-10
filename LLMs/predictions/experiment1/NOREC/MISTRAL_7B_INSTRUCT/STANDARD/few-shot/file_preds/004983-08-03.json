@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "verden"
+                ],
+                [
+                    "3:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "av vold , mobbing og voksne som hele tiden vurderer og gj\u00f8r seg opp meninger"
+                ],
+                [
+                    "10:86"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "En verden av vold , mobbing og voksne som hele tiden vurderer og gj\u00f8r seg opp meninger .",
+    "sent_id": "004983-08-03"
+}

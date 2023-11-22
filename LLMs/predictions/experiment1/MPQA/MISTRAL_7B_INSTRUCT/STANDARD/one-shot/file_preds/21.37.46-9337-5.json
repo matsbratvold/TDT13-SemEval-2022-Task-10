@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jin Yongjian"
+                ],
+                [
+                    "113:125"
+                ]
+            ],
+            "Target": [
+                [
+                    "the UN spirit of not interfering in other countries ' internal affairs"
+                ],
+                [
+                    "33:103"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "violated"
+                ],
+                [
+                    "24:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" The United States has violated the UN spirit of not interfering in other countries ' internal affairs , \" said Jin Yongjian , a former deputy secretary - general of the United Nations .",
+    "sent_id": "temp_fbis/21.37.46-9337-5"
+}

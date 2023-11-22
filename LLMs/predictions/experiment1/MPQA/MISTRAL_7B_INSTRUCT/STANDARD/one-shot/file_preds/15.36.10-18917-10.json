@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "the ouster of the democratically elected president of Venezuela"
+                ],
+                [
+                    "29:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "condemned"
+                ],
+                [
+                    "15:24"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "On Saturday it condemned the the ouster of the democratically elected president of Venezuela , saying , \" resorting to a coup and the use of force is not an acceptable method to bring about political change and the method is not in conformity with the norms of present human society . \"",
+    "sent_id": "non_fbis/15.36.10-18917-10"
+}

@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "GHG emissions"
+                ],
+                [
+                    "50:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "start cutting back"
+                ],
+                [
+                    "28:46"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "South Korea"
+                ],
+                [
+                    "114:125"
+                ]
+            ],
+            "Target": [
+                [
+                    "carbon dioxide - producing country"
+                ],
+                [
+                    "155:189"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "will become the seventh most"
+                ],
+                [
+                    "126:154"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "If industrialized countries start cutting back on GHG emissions from 2008 , when the first target period begins , South Korea will become the seventh most carbon dioxide - producing country in the world , according to IEA figures .",
+    "sent_id": "20011115/20.41.29-15150-9"
+}

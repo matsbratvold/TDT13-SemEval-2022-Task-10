@@ -1,0 +1,65 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Prisene"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "starter"
+                ],
+                [
+                    "8:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "1-literen"
+                ],
+                [
+                    "38:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "171.500 kroner"
+                ],
+                [
+                    "19:33"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hybriden"
+                ],
+                [
+                    "65:73"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Prisene starter p\u00e5 171.500 kroner for 1-literen , og 207.100 for hybriden .",
+    "sent_id": "202298-30-01"
+}

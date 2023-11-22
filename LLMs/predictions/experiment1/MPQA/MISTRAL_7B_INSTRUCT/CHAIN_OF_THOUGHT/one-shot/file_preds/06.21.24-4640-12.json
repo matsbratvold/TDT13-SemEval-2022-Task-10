@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Already"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "intelligence gathered from other al Qaeda detainees"
+                ],
+                [
+                    "10:61"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "uncovered"
+                ],
+                [
+                    "66:75"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "instruction books on how to build chemical and biological weapons"
+                ],
+                [
+                    "239:304"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "found"
+                ],
+                [
+                    "233:238"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The type of work that is occurring at Camp X - Ray"
+                ],
+                [
+                    "372:422"
+                ]
+            ],
+            "Target": [
+                [
+                    "may prove critical to preventing a new attack"
+                ],
+                [
+                    "423:468"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "prove"
+                ],
+                [
+                    "427:432"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Already , intelligence gathered from other al Qaeda detainees has uncovered potential plots to attack American embassies , nuclear power plants and public water facilities . In the caves and hideouts of al Qaeda operatives , we have found instruction books on how to build chemical and biological weapons , detailed maps of American cities and descriptions of landmarks . The type of work that is occurring at Camp X - Ray may prove critical to preventing a new attack .",
+    "sent_id": "non_fbis/06.21.24-4640-12"
+}

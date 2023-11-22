@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "penere aktivitetsarmb\u00e5nd"
+                ],
+                [
+                    "22:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ble"
+                ],
+                [
+                    "49:52"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det som skulle bli et penere aktivitetsarmb\u00e5nd , ble et dyrere , med f\u00e6rre funksjoner .",
+    "sent_id": "200006-02-01"
+}

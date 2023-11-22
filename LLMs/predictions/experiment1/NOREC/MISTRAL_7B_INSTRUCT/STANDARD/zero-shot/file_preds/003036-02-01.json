@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "sin tid"
+                ],
+                [
+                    "13:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tatt sin tid"
+                ],
+                [
+                    "8:20"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det har tatt sin tid .",
+    "sent_id": "003036-02-01"
+}

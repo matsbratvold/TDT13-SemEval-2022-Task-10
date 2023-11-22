@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Efe"
+                ],
+                [
+                    "38:41"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Text of report by Spanish news agency Efe",
+    "sent_id": "temp_fbis/20.36.23-26588-1"
+}

@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bush administration"
+                ],
+                [
+                    "4:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "coup"
+                ],
+                [
+                    "45:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "welcomed"
+                ],
+                [
+                    "32:40"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Bush administration"
+                ],
+                [
+                    "4:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "coup"
+                ],
+                [
+                    "45:49"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Bush administration"
+                ],
+                [
+                    "4:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "role"
+                ],
+                [
+                    "70:74"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has a reason to repent"
+                ],
+                [
+                    "115:137"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The Bush administration all but welcomed the coup , tarnishing the US role as a champion of democracy . It , too , has a reason to repent .",
+    "sent_id": "non_fbis/08.54.29-27700-5"
+}

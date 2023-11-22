@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Et av de aller sterkeste virkemidlene"
+                ],
+                [
+                    "0:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "Julieta"
+                ],
+                [
+                    "42:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "uforutsigbarheten"
+                ],
+                [
+                    "55:72"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Et av de aller sterkeste virkemidlene i \u00ab Julieta \u00bb er uforutsigbarheten , som gir en intens spenning .",
+    "sent_id": "702352-10-01"
+}

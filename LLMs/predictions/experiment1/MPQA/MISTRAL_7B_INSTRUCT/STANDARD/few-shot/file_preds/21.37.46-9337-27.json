@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ma"
+                ],
+                [
+                    "71:73"
+                ]
+            ],
+            "Target": [
+                [
+                    "the US crackdown on terrorists in Afghanistan"
+                ],
+                [
+                    "21:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is analogous to"
+                ],
+                [
+                    "5:20"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "\" It is analogous to the US crackdown on terrorists in Afghanistan , \" Ma said .",
+    "sent_id": "temp_fbis/21.37.46-9337-27"
+}

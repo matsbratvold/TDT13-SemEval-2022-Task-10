@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "goes like this"
+                ],
+                [
+                    "35:49"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "After prayer , the detainees ' day goes like this : breakfast , a shower ( every other day ) , sick call , noon prayer , lunch , recreation ( 15 minutes a couple of times a week ) , mail call , sunset prayer , dinner , evening prayer and bedtime around 9 p.m .",
+    "sent_id": "non_fbis/06.44.52-19992-31"
+}

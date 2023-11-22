@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "H\u00f8yere oppl\u00f8sning"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "trukket mer str\u00f8m"
+                ],
+                [
+                    "33:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vill"
+                ],
+                [
+                    "18:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "nettopp batteritid"
+                ],
+                [
+                    "56:74"
+                ]
+            ],
+            "Target": [
+                [
+                    "produkter som dette"
+                ],
+                [
+                    "87:106"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er viktig"
+                ],
+                [
+                    "75:84"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "H\u00f8yere oppl\u00f8sning ville dessuten trukket mer str\u00f8m , og nettopp batteritid er viktig i produkter som dette .",
+    "sent_id": "201344-25-03"
+}

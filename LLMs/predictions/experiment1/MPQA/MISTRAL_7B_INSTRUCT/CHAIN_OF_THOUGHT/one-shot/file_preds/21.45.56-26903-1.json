@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Trend figures"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "industrial output"
+                ],
+                [
+                    "56:73"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "decline"
+                ],
+                [
+                    "45:52"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Trend figures for all of 2001 showed a 5.5 % decline in industrial output .",
+    "sent_id": "20020424/21.45.56-26903-1"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Og det i et noks\u00e5 tilgjort barnespr\u00e5k"
+                ],
+                [
+                    "0:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "barnespr\u00e5k"
+                ],
+                [
+                    "27:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "minner om m\u00e5ten voksne snakker n\u00e5r de skal forklare barn noe vanskelig"
+                ],
+                [
+                    "44:114"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Og det i et noks\u00e5 tilgjort barnespr\u00e5k , som minner om m\u00e5ten voksne snakker n\u00e5r de skal forklare barn noe vanskelig :",
+    "sent_id": "302975-13-03"
+}

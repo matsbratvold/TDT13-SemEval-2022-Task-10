@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "hindrer"
+                ],
+                [
+                    "22:29"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er det eneste som hindrer meg fra \u00e5 gi denne filmen en sekser p\u00e5 terningen .",
+    "sent_id": "400175-18-02"
+}

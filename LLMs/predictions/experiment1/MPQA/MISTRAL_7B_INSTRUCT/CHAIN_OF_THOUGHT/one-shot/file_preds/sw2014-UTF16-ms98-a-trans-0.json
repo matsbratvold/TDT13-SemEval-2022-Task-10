@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "uh"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "gun control"
+                ],
+                [
+                    "25:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "how do you feel about"
+                ],
+                [
+                    "3:24"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "uh how do you feel about gun control",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-0"
+}

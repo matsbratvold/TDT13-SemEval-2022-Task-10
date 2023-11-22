@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "filmens budskap"
+                ],
+                [
+                    "12:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "strekker seg ut i samfunnet"
+                ],
+                [
+                    "28:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "v\u00e5re politiske valg og praktiske hensyn"
+                ],
+                [
+                    "79:118"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kan f\u00e5 katastrofale f\u00f8lger"
+                ],
+                [
+                    "119:145"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "dem som er mest utsatt"
+                ],
+                [
+                    "150:172"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "viser oss"
+                ],
+                [
+                    "61:70"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det gj\u00f8r at filmens budskap strekker seg ut i samfunnet , og viser oss hvordan v\u00e5re politiske valg og praktiske hensyn kan f\u00e5 katastrofale f\u00f8lger for dem som er mest utsatt .",
+    "sent_id": "004983-10-03"
+}

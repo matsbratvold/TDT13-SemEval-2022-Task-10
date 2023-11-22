@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Carnival Cruise Lines Inc."
+                ],
+                [
+                    "55:81"
+                ]
+            ],
+            "Target": [
+                [
+                    "Waertsilae Marine"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "presented claims for $ 1.5 billion damages"
+                ],
+                [
+                    "149:191"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Waertsilae Marine 's biggest creditor is Miami - based Carnival Cruise Lines Inc. Carnival , which has three ships on order from Waertsilae Marine , presented claims for $ 1.5 billion damages in the bankruptcy court this week .",
+    "sent_id": "xbank/wsj_0187-6"
+}

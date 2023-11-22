@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00e5te skuffer"
+                ],
+                [
+                    "5:17"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Jakten p\u00e5 Olavsskrinet !"
+                ],
+                [
+                    "23:47"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "heller ikke"
+                ],
+                [
+                    "50:61"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I s\u00e5 m\u00e5te skuffer da \u00ab Jakten p\u00e5 Olavsskrinet ! \u00bb heller ikke .",
+    "sent_id": "600725-04-03"
+}

@@ -1,0 +1,61 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "ny funksjon"
+                ],
+                [
+                    "3:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "pris p\u00e5"
+                ],
+                [
+                    "25:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "gj\u00f8r akkurat det navnet lover"
+                ],
+                [
+                    "72:101"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "minner deg p\u00e5 \u00e5 bevege deg"
+                ],
+                [
+                    "104:130"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "\u00c9n ny funksjon vi setter pris p\u00e5 er de nye bevegelsesp\u00e5minnelsene , som gj\u00f8r akkurat det navnet lover , minner deg p\u00e5 \u00e5 bevege deg .",
+    "sent_id": "200006-30-01"
+}

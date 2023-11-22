@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Denne gang"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "politikken"
+                ],
+                [
+                    "37:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "n\u00e6rmer"
+                ],
+                [
+                    "11:17"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Denne gang n\u00e6rmer han seg til og med politikken .",
+    "sent_id": "704372-03-02"
+}

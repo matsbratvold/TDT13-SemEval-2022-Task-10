@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "INTERNATIONAL"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "ECONOMIC"
+                ],
+                [
+                    "14:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ECONOMIC"
+                ],
+                [
+                    "14:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "INTERNATIONAL"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "POLITICAL"
+                ],
+                [
+                    "37:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "POLITICAL"
+                ],
+                [
+                    "37:46"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "INTERNATIONAL"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "TECHNOLOGY"
+                ],
+                [
+                    "47:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "TECHNOLOGY"
+                ],
+                [
+                    "47:57"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "INTERNATIONAL ECONOMIC INTERNATIONAL POLITICAL TECHNOLOGY",
+    "sent_id": "20020523/22.37.46-10374-1"
+}

@@ -1,0 +1,74 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The British chemical and textile company"
+                ],
+                [
+                    "0:40"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "analysts"
+                ],
+                [
+                    "226:234"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "between # 300 million ( $ 473 million ) and # 400 million"
+                ],
+                [
+                    "166:223"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The establishment of the separate company"
+                ],
+                [
+                    "242:283"
+                ]
+            ],
+            "Target": [
+                [
+                    "to be called Courtaulds Textiles"
+                ],
+                [
+                    "286:318"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The British chemical and textile company 's plan , which requires shareholder approval , would create a new , listed U.K. stock with a probable market capitalization between # 300 million ( $ 473 million ) and # 400 million , analysts said . The establishment of the separate company , to be called Courtaulds Textiles , could be effective as early as next year 's first quarter .",
+    "sent_id": "xbank/wsj_0376-2"
+}

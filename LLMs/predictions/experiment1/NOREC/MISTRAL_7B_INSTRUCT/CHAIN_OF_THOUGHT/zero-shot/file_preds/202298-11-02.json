@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "\u00e5 akselerere s\u00e5 raskt som mulig"
+                ],
+                [
+                    "10:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 akselerere s\u00e5 raskt som mulig"
+                ],
+                [
+                    "10:41"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "slakke av og gi bilen mulighet til \u00e5 flyte p\u00e5 elektrisk drift"
+                ],
+                [
+                    "57:118"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "slakke av og gi bilen mulighet til \u00e5 flyte p\u00e5 elektrisk drift"
+                ],
+                [
+                    "57:118"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dette ved \u00e5 akselerere s\u00e5 raskt som mulig , for deretter slakke av og gi bilen mulighet til \u00e5 flyte p\u00e5 elektrisk drift .",
+    "sent_id": "202298-11-02"
+}

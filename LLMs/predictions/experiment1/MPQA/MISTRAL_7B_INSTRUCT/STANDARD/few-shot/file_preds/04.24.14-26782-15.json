@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the government"
+                ],
+                [
+                    "34:48"
+                ]
+            ],
+            "Target": [
+                [
+                    "a framework that would achieve the protocol 's target on greenhouse gas emissions"
+                ],
+                [
+                    "69:150"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has already adopted"
+                ],
+                [
+                    "49:68"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "the Diet"
+                ],
+                [
+                    "159:167"
+                ]
+            ],
+            "Target": [
+                [
+                    "work will begin on cutting gas emissions"
+                ],
+                [
+                    "192:232"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "In preparation for ratification , the government has already adopted a framework that would achieve the protocol 's target on greenhouse gas emissions . After the Diet ratifies the protocol , work will begin on cutting gas emissions .",
+    "sent_id": "non_fbis/04.24.14-26782-15"
+}

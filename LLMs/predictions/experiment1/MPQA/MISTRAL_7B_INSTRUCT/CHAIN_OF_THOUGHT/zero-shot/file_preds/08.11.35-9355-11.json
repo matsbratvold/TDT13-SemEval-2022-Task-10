@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Pedro Carmona"
+                ],
+                [
+                    "18:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "Chavez"
+                ],
+                [
+                    "41:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "replaces"
+                ],
+                [
+                    "32:40"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Pedro Carmona"
+                ],
+                [
+                    "18:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "National Assembly"
+                ],
+                [
+                    "85:102"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dissolves"
+                ],
+                [
+                    "71:80"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Pedro Carmona"
+                ],
+                [
+                    "18:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "Supreme Court"
+                ],
+                [
+                    "119:132"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dismisses"
+                ],
+                [
+                    "105:114"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Pedro Carmona"
+                ],
+                [
+                    "18:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "Chavez decrees"
+                ],
+                [
+                    "160:174"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "revokes"
+                ],
+                [
+                    "135:142"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Pedro Carmona"
+                ],
+                [
+                    "18:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "Presidential elections"
+                ],
+                [
+                    "189:211"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "announces"
+                ],
+                [
+                    "179:188"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "- Business leader Pedro Carmona replaces Chavez as the new President , dissolves the National Assembly , dismisses the Supreme Court , revokes 49 controversial Chavez decrees and announces Presidential elections in one year .",
+    "sent_id": "non_fbis/08.11.35-9355-11"
+}

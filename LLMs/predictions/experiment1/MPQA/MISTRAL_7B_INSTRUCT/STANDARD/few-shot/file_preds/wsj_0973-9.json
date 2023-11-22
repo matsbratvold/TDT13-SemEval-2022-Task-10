@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Westinghouse"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "sell steam turbine and gas turbine plants to independent power producers"
+                ],
+                [
+                    "40:112"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is well positioned to"
+                ],
+                [
+                    "18:39"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Mr. Lego"
+                ],
+                [
+                    "267:275"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Westinghouse also is well positioned to sell steam turbine and gas turbine plants to independent power producers . The company 's ability to respond to energy needs world - wide will be enhanced through a recently announced venture with Mitsubishi Heavy Industries , Mr. Lego said .",
+    "sent_id": "xbank/wsj_0973-9"
+}

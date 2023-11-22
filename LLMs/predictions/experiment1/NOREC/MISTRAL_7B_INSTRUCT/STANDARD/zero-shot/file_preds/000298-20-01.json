@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "F\u00f8rst og fremst"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "et eventyr"
+                ],
+                [
+                    "16:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "et"
+                ],
+                [
+                    "16:18"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "F\u00f8rst og fremst et eventyr",
+    "sent_id": "000298-20-01"
+}

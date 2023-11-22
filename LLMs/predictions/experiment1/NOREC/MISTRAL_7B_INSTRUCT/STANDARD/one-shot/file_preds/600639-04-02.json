@@ -1,0 +1,72 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "vet"
+                ],
+                [
+                    "23:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "undertegnede"
+                ],
+                [
+                    "10:22"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "vet"
+                ],
+                [
+                    "23:26"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Du Mauriers roman"
+                ],
+                [
+                    "74:91"
+                ]
+            ],
+            "Target": [
+                [
+                    "vet"
+                ],
+                [
+                    "23:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "henger igjen fra"
+                ],
+                [
+                    "57:73"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "( For alt undertegnede vet , kan d\u00e9t v\u00e6re et problem som henger igjen fra Du Mauriers roman . )",
+    "sent_id": "600639-04-02"
+}

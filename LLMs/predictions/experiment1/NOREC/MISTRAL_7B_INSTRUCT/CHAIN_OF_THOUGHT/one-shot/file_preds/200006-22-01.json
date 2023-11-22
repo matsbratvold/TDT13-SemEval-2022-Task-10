@@ -1,0 +1,40 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "gj\u00f8r ogs\u00e5"
+                ],
+                [
+                    "26:35"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "vises frem"
+                ],
+                [
+                    "104:114"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "At skjermen er p\u00e5 h\u00f8ykant gj\u00f8r ogs\u00e5 at vi m\u00e5 vri p\u00e5 hodet for \u00e5 kunne lese de nevnte varslene , som kun vises frem horisontalt .",
+    "sent_id": "200006-22-01"
+}

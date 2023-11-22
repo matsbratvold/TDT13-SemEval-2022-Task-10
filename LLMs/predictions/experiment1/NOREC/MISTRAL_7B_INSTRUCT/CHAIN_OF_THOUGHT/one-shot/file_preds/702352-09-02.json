@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "et kort og tilfeldig m\u00f8te p\u00e5 gata"
+                ],
+                [
+                    "4:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00e5r henne"
+                ],
+                [
+                    "38:47"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "b\u00e5de til \u00e5 endre fremtidsplanene og \u00e5 hente fram igjen traumer fra fortiden"
+                ],
+                [
+                    "48:123"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men et kort og tilfeldig m\u00f8te p\u00e5 gata f\u00e5r henne b\u00e5de til \u00e5 endre fremtidsplanene og \u00e5 hente fram igjen traumer fra fortiden .",
+    "sent_id": "702352-09-02"
+}

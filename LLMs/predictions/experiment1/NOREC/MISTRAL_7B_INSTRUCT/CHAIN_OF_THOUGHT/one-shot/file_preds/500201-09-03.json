@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "8:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "over"
+                ],
+                [
+                    "3:7"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Ut over det har ingen av de medvirkende noen skuespillererfaring .",
+    "sent_id": "500201-09-03"
+}

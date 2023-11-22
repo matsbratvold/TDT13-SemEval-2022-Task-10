@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "No one"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "climate"
+                ],
+                [
+                    "73:80"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "wanted to argue"
+                ],
+                [
+                    "7:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "A consensus"
+                ],
+                [
+                    "41:52"
+                ]
+            ],
+            "Target": [
+                [
+                    "climate"
+                ],
+                [
+                    "73:80"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has always changed"
+                ],
+                [
+                    "81:99"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "A consensus"
+                ],
+                [
+                    "41:52"
+                ]
+            ],
+            "Target": [
+                [
+                    "climate"
+                ],
+                [
+                    "73:80"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "but it has never occurred with such speed"
+                ],
+                [
+                    "102:143"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "No one wanted to argue with the master . A consensus was arrived at that climate has always changed , but it has never occurred with such speed .",
+    "sent_id": "temp_fbis/21.10.31-12974-10"
+}

@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The staff"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "reporters"
+                ],
+                [
+                    "16:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gives"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "The staff"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "photographs"
+                ],
+                [
+                    "66:77"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "The staff"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "sections"
+                ],
+                [
+                    "86:94"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "photographs"
+                ],
+                [
+                    "66:77"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The staff gives reporters a quick tour of the hospital , allowing photographs of some sections but not of the patients .",
+    "sent_id": "non_fbis/06.44.52-19992-69"
+}

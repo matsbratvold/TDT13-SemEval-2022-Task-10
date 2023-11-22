@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Men i boka"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gj\u00f8r de lite annet enn \u00e5 gjenfortelle teksten"
+                ],
+                [
+                    "21:66"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Men i boka for \u00f8vrig gj\u00f8r de lite annet enn \u00e5 gjenfortelle teksten .",
+    "sent_id": "302975-15-02"
+}

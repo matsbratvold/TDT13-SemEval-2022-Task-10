@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "West German and French authorities"
+                ],
+                [
+                    "0:34"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "cleared"
+                ],
+                [
+                    "40:47"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "West German and French authorities have cleared Dresdner Bank AG 's takeover of a majority stake in Banque Internationale de Placement ( BIP ) , Dresdner Bank said .",
+    "sent_id": "xbank/wsj_0713-1"
+}

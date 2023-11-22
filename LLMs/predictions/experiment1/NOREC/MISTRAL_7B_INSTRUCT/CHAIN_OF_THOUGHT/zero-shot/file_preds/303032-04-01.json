@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Musikalsk"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "halvakustisk , organisk , med innslag av bl\u00e5sere"
+                ],
+                [
+                    "39:87"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "feelgood"
+                ],
+                [
+                    "17:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "halvakustisk , organisk , med innslag av bl\u00e5sere"
+                ],
+                [
+                    "39:87"
+                ]
+            ],
+            "Target": [
+                [
+                    "iscenesatt og styrt av produsent Kyrre S\u00e6tran"
+                ],
+                [
+                    "90:135"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "feelgood"
+                ],
+                [
+                    "17:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Musikalsk er det feelgood hele veien ; halvakustisk , organisk , med innslag av bl\u00e5sere - iscenesatt og styrt av produsent Kyrre S\u00e6tran .",
+    "sent_id": "303032-04-01"
+}

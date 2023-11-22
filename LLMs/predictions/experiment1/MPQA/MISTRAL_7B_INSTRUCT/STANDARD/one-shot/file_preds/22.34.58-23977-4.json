@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Zhang"
+                ],
+                [
+                    "134:139"
+                ]
+            ],
+            "Target": [
+                [
+                    "official exchanges or military intercourse"
+                ],
+                [
+                    "50:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "opposed"
+                ],
+                [
+                    "30:37"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" China has always resolutely opposed any form of official exchanges or military intercourse between the United States and Taiwan , \" Zhang said .",
+    "sent_id": "temp_fbis/22.34.58-23977-4"
+}

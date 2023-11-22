@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The morning run to Fleet Hospital 20 takes place as scheduled"
+                ],
+                [
+                    "0:61"
+                ]
+            ],
+            "Target": [
+                [
+                    "The morning run to Fleet Hospital 20"
+                ],
+                [
+                    "0:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "This is for prisoners needing medical attention"
+                ],
+                [
+                    "64:111"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Some are underweight"
+                ],
+                [
+                    "136:156"
+                ]
+            ],
+            "Target": [
+                [
+                    "The morning run to Fleet Hospital 20"
+                ],
+                [
+                    "0:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Some are underweight"
+                ],
+                [
+                    "136:156"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "The morning run to Fleet Hospital 20"
+                ],
+                [
+                    "0:36"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The morning run to Fleet Hospital 20 takes place as scheduled . This is for prisoners needing medical attention , as a fair number do . Some are underweight , others are missing toes , fingers and limbs .",
+    "sent_id": "non_fbis/06.44.52-19992-55"
+}

@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "757:771"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "We will make no distinction"
+                ],
+                [
+                    "936:963"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "757:771"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "No American"
+                ],
+                [
+                    "1129:1140"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "757:771"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "No American"
+                ],
+                [
+                    "1129:1140"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "For the first time in history , all nonemergency civilian aircraft in the United States were grounded , stranding tens of thousands of passengers across the country . Contingency plans for the continuity of government and the evacuation of leaders had been implemented . The Pentagon had been struck ; the White House or the Capitol had narrowly escaped direct attack . Extraordinary security precautions were put in place at the nation 's borders and ports . In the late afternoon , the President overruled his aides ' continuing reluctance to have him return to Washington and ordered Air Force One back to Andrews Air Force Base . He was flown by helicopter back to the White House , passing over the still - smoldering Pentagon . At 8:30 that evening , President Bush addressed the nation from the White House . After emphasizing that the first priority was to help the injured and protect against any further attacks , he said : \" We will make no distinction between the terrorists who committed these acts and those who harbor them . \" He quoted Psalm 23 - \" though I walk through the valley of the shadow of death . . . \" No American , he said , \" will ever forget this day . \"",
+    "sent_id": "ula/chapter-10-6"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Mohammad Khatami"
+                ],
+                [
+                    "28:54"
+                ]
+            ],
+            "Target": [
+                [
+                    "Venezuelan government and nation"
+                ],
+                [
+                    "91:123"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "congratulated"
+                ],
+                [
+                    "73:86"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Tehran , April 20 , IRNA -- President Mohammad Khatami on Friday evening congratulated the Venezuelan government and nation for the victory and restoration of the legitimate government of President Hugo Chavez after a failed military coup in that country .",
+    "sent_id": "non_fbis/15.36.10-18917-1"
+}

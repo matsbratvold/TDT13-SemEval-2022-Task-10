@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Yaris Hybrid"
+                ],
+                [
+                    "16:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "virket undermotorisert"
+                ],
+                [
+                    "29:51"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Frem til n\u00e5 har Yaris Hybrid virket undermotorisert , noe vi sa fra om allerede under lanseringen i 2012 .",
+    "sent_id": "202298-05-02"
+}

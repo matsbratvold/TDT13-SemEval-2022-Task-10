@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "fremsto de mer"
+                ],
+                [
+                    "7:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som"
+                ],
+                [
+                    "22:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men da fremsto de mer som innskytelser enn retninger .",
+    "sent_id": "104870-07-03"
+}

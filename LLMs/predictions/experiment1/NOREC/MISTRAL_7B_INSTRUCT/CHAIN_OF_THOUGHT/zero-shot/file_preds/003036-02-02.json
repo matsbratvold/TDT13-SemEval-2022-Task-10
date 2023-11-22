@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Frank Ocean"
+                ],
+                [
+                    "13:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skuffer"
+                ],
+                [
+                    "25:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men r&b-sjef Frank Ocean skuffer ei .",
+    "sent_id": "003036-02-02"
+}

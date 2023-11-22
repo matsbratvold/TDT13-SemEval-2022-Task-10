@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "det skjedde"
+                ],
+                [
+                    "36:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "husker fortsatt"
+                ],
+                [
+                    "4:19"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Jeg husker fortsatt hvor jeg var da det skjedde .",
+    "sent_id": "304196-06-03"
+}

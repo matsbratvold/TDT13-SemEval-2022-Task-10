@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Gomez og hans fortryllende assistentdatter"
+                ],
+                [
+                    "0:42"
+                ]
+            ],
+            "Target": [
+                [
+                    "nesten"
+                ],
+                [
+                    "43:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "umerkelig l\u00f8ser opp for dem"
+                ],
+                [
+                    "50:77"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Rose"
+                ],
+                [
+                    "108:112"
+                ]
+            ],
+            "Target": [
+                [
+                    "Rose"
+                ],
+                [
+                    "108:112"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forgremmede mor"
+                ],
+                [
+                    "92:107"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Rose"
+                ],
+                [
+                    "108:112"
+                ]
+            ],
+            "Target": [
+                [
+                    "Rose"
+                ],
+                [
+                    "108:112"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sertifikatl\u00f8se , \u00ab lubben og late \u00bb , datter"
+                ],
+                [
+                    "176:220"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Gomez og hans fortryllende assistentdatter nesten umerkelig l\u00f8ser opp for dem , slik at den forgremmede mor Rose som ved et under observeres spaserende p\u00e5 stranden , og hennes sertifikatl\u00f8se , \u00ab lubben og late \u00bb , datter plutselig kj\u00f8rer grassat p\u00e5 veiene .",
+    "sent_id": "703572-06-05"
+}

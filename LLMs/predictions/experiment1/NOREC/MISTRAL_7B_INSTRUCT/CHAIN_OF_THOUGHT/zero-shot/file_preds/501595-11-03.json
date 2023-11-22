@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "svinet"
+                ],
+                [
+                    "41:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "svinet"
+                ],
+                [
+                    "41:47"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men tross umenneskelige mengder mat , er svinet altfor godt til \u00e5 g\u00e5 til spille .",
+    "sent_id": "501595-11-03"
+}

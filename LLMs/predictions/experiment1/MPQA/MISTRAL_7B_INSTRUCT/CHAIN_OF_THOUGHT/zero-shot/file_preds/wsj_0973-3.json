@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "company"
+                ],
+                [
+                    "14:21"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "$ 822.8 million"
+                ],
+                [
+                    "29:44"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "company"
+                ],
+                [
+                    "14:21"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "$ 5.66 a share"
+                ],
+                [
+                    "50:64"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "company"
+                ],
+                [
+                    "14:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "sales"
+                ],
+                [
+                    "70:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "$ 12.49 billion"
+                ],
+                [
+                    "79:94"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In 1988 , the company earned $ 822.8 million , or $ 5.66 a share , on sales of $ 12.49 billion .",
+    "sent_id": "xbank/wsj_0973-3"
+}

@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "navy craft"
+                ],
+                [
+                    "4:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "small boat"
+                ],
+                [
+                    "34:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "thinking"
+                ],
+                [
+                    "45:53"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "navy craft"
+                ],
+                [
+                    "4:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "elderly man"
+                ],
+                [
+                    "79:90"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "thinking"
+                ],
+                [
+                    "45:53"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "navy craft"
+                ],
+                [
+                    "4:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "teenager"
+                ],
+                [
+                    "95:103"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "thinking"
+                ],
+                [
+                    "45:53"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "navy craft"
+                ],
+                [
+                    "4:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "another person"
+                ],
+                [
+                    "108:122"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "thinking"
+                ],
+                [
+                    "45:53"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "navy craft"
+                ],
+                [
+                    "4:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "small boat"
+                ],
+                [
+                    "34:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "put up a white flag"
+                ],
+                [
+                    "135:154"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The navy craft had approached the small boat thinking it was in distress as an elderly man , a teenager and another person onboard had put up a white flag .",
+    "sent_id": "20010916/21.24.32-9824-7"
+}

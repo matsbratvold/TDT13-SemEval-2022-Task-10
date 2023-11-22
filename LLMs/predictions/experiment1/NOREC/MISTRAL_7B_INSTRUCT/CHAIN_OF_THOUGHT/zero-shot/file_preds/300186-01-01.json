@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Mye"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Det store spranget"
+                ],
+                [
+                    "37:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "varme"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Mye"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Det store spranget"
+                ],
+                [
+                    "37:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "magi"
+                ],
+                [
+                    "28:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Mye hjertevarme , litt lite magi i \u00ab Det store spranget \u00bb",
+    "sent_id": "300186-01-01"
+}

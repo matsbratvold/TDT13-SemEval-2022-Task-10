@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hadson Corp."
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "a third - quarter net loss"
+                ],
+                [
+                    "39:65"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "expects"
+                ],
+                [
+                    "21:28"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hadson Corp. said it expects to report a third - quarter net loss of $ 17 million to $ 19 million because of special reserves and continued low natural - gas prices .",
+    "sent_id": "xbank/wsj_0161-1"
+}

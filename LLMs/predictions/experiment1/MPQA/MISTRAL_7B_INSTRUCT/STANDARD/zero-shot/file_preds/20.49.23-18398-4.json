@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Saini"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "rebels"
+                ],
+                [
+                    "15:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "had recently entered the district"
+                ],
+                [
+                    "59:92"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Saini"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "rebels"
+                ],
+                [
+                    "15:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "most of them foreign mercenaries"
+                ],
+                [
+                    "24:56"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Saini"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "Line of Control"
+                ],
+                [
+                    "104:119"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "divides Kashmir between India and Pakistan"
+                ],
+                [
+                    "148:190"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Saini said the rebels , most of them foreign mercenaries , had recently entered the district across the Line of Control -- the de facto border that divides Kashmir between India and Pakistan .",
+    "sent_id": "20011111/20.49.23-18398-4"
+}

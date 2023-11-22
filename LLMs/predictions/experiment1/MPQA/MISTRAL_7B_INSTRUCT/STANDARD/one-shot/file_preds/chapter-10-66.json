@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Franks"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "robust planning on military responses in Iraq"
+                ],
+                [
+                    "60:105"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "148:162"
+                ]
+            ],
+            "Target": [
+                [
+                    "robust planning on military responses in Iraq"
+                ],
+                [
+                    "60:105"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "denied"
+                ],
+                [
+                    "163:169"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Franks told us that he was pushing independently to do more robust planning on military responses in Iraq during the summer before 9/11 - a request President Bush denied , arguing that the time was not right . ( CENTCOM also began dusting off plans for a full invasion of Iraq during this period , Franks said . ) The CENTCOM commander told us he renewed his appeal for further military planning to respond to Iraqi moves shortly after 9/11 , both because he personally felt that Iraq and al Qaeda might be engaged in some form of collusion and because he worried that Saddam might take advantage of the attacks to move against his internal enemies in the northern or southern parts of Iraq , where the United States was flying regular missions to enforce Iraqi no - fly zones . Franks said that President Bush again turned down the request .",
+    "sent_id": "ula/chapter-10-66"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "\u00c5rets bok"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "Berlinhistorier"
+                ],
+                [
+                    "14:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "15:17"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "\u00c5rets bok , \u00ab Berlinhistorier \u00bb , er en videref\u00f8ring eller utdyping av den forrige boka , lagd over samme lest .",
+    "sent_id": "301242-03-02"
+}

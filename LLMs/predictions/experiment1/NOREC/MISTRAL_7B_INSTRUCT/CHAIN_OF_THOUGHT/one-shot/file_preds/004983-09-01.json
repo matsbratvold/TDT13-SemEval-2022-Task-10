@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "er ogs\u00e5 et sted hvor alle deler samme skjebne"
+                ],
+                [
+                    "17:62"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Men barnehjemmet er ogs\u00e5 et sted hvor alle deler samme skjebne .",
+    "sent_id": "004983-09-01"
+}

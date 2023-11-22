@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Det er"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "interessant \u00e5 se en serie"
+                ],
+                [
+                    "12:37"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "kvinnen er den sterkeste parten"
+                ],
+                [
+                    "42:73"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "uten at dette plager mannen"
+                ],
+                [
+                    "74:101"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er ogs\u00e5 interessant \u00e5 se en serie der kvinnen er den sterkeste parten uten at dette plager mannen nevneverdig .",
+    "sent_id": "000298-18-02"
+}

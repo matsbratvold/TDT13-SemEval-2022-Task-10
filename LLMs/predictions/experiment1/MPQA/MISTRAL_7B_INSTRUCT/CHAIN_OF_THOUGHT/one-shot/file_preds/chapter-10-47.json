@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The pre-9/11 draft presidential directive on al Qaeda"
+                ],
+                [
+                    "0:53"
+                ]
+            ],
+            "Target": [
+                [
+                    "a global war on terrorism"
+                ],
+                [
+                    "233:258"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "evolved"
+                ],
+                [
+                    "54:61"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The new directive"
+                ],
+                [
+                    "511:528"
+                ]
+            ],
+            "Target": [
+                [
+                    "a global war on terrorism"
+                ],
+                [
+                    "233:258"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "incorporated"
+                ],
+                [
+                    "292:304"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The new directive"
+                ],
+                [
+                    "511:528"
+                ]
+            ],
+            "Target": [
+                [
+                    "a global war on terrorism"
+                ],
+                [
+                    "233:258"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "included"
+                ],
+                [
+                    "405:413"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The new directive"
+                ],
+                [
+                    "511:528"
+                ]
+            ],
+            "Target": [
+                [
+                    "a global war on terrorism"
+                ],
+                [
+                    "233:258"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "formally signed"
+                ],
+                [
+                    "531:546"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The pre-9/11 draft presidential directive on al Qaeda evolved into a new directive , National Security Presidential Directive 9 , now titled \" Defeating the Terrorist Threat to the United States . \" The directive would now extend to a global war on terrorism , not just on al Qaeda . It also incorporated the President 's determination not to distinguish between terrorists and those who harbor them . It included a determination to use military force if necessary to end al Qaeda 's sanctuary in Afghanistan . The new directive - formally signed on October 25 , after the fighting in Afghanistan had already begun - included new material followed by annexes discussing each targeted terrorist group . The old draft directive on al Qaeda became , in effect , the first annex .",
+    "sent_id": "ula/chapter-10-47"
+}

@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "retten"
+                ],
+                [
+                    "17:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "syrlighet"
+                ],
+                [
+                    "5:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "spisskummen-dominerte kj\u00f8ttet"
+                ],
+                [
+                    "47:76"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "quinotto"
+                ],
+                [
+                    "83:91"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Litt syrlighet i retten ville ha balansert det spisskummen-dominerte kj\u00f8ttet og en quinotto , en blanding av risotto og quinoa laget med parmesan .",
+    "sent_id": "501595-11-07"
+}

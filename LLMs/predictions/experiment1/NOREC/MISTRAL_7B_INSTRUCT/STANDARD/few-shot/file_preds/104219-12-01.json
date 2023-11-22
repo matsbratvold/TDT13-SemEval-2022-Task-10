@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Anmeldt av"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Anmeldt av :",
+    "sent_id": "104219-12-01"
+}

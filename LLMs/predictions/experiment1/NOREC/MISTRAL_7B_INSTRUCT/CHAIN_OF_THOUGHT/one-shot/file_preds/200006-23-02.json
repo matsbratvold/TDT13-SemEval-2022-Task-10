@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "nesten umulig \u00e5 se"
+                ],
+                [
+                    "20:38"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Ute i sollys er det nesten umulig \u00e5 se hva som st\u00e5r p\u00e5 skjermen .",
+    "sent_id": "200006-23-02"
+}

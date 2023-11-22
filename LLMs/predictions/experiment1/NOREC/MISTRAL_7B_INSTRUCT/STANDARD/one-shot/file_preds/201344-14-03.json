@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Det hele"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sv\u00e6rt solid"
+                ],
+                [
+                    "15:26"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det hele f\u00f8les sv\u00e6rt solid .",
+    "sent_id": "201344-14-03"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Det er varmt og sart og \u00f8mt"
+                ],
+                [
+                    "0:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "varmt og sart og \u00f8mt"
+                ],
+                [
+                    "7:27"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Det er varmt og sart og \u00f8mt , \u00f8mt , \u00f8mt .",
+    "sent_id": "703256-18-04"
+}

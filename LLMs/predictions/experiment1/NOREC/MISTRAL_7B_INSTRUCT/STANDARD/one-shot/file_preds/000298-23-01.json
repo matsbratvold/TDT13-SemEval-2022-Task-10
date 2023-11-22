@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Voksing"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "praksis p\u00e5 1700-tallet"
+                ],
+                [
+                    "33:55"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Voksing"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det er ikke s\u00e5 n\u00f8ye"
+                ],
+                [
+                    "62:81"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Voksing var s\u00e5 vidt jeg vet ikke praksis p\u00e5 1700-tallet , men det er ikke s\u00e5 n\u00f8ye .",
+    "sent_id": "000298-23-01"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "minne"
+                ],
+                [
+                    "21:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Designmessig kan den minne litt om TAG Heuer , men ogs\u00e5 om klokker som Seiko Astron , og Casio Edifice"
+                ],
+                [
+                    "0:102"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Designmessig kan den minne litt om TAG Heuer , men ogs\u00e5 om klokker som Seiko Astron , og Casio Edifice .",
+    "sent_id": "201344-09-02"
+}

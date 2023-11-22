@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Rob-ert Mugabe"
+                ],
+                [
+                    "0:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "Zimbabwe"
+                ],
+                [
+                    "48:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "swept back to power"
+                ],
+                [
+                    "25:44"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "local monitors"
+                ],
+                [
+                    "107:121"
+                ]
+            ],
+            "Target": [
+                [
+                    "Zimbabwe"
+                ],
+                [
+                    "48:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "condemned"
+                ],
+                [
+                    "94:103"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "opposition"
+                ],
+                [
+                    "128:138"
+                ]
+            ],
+            "Target": [
+                [
+                    "Zimbabwe"
+                ],
+                [
+                    "48:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "condemned"
+                ],
+                [
+                    "94:103"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "West"
+                ],
+                [
+                    "147:151"
+                ]
+            ],
+            "Target": [
+                [
+                    "Zimbabwe"
+                ],
+                [
+                    "48:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "condemned"
+                ],
+                [
+                    "94:103"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "African nations"
+                ],
+                [
+                    "167:182"
+                ]
+            ],
+            "Target": [
+                [
+                    "Zimbabwe"
+                ],
+                [
+                    "48:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "praised"
+                ],
+                [
+                    "156:163"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "President Rob-ert Mugabe swept back to power in Zimbabwe yesterday after an election fiercely condemned by local monitors , the opposition and the West but praised by African nations .",
+    "sent_id": "non_fbis/06.56.31-3120-1"
+}

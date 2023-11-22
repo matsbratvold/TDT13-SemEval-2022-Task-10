@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "2:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "the US"
+                ],
+                [
+                    "12:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "demand"
+                ],
+                [
+                    "5:11"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "2:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "the US"
+                ],
+                [
+                    "12:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "correct its erroneous acts or remarks"
+                ],
+                [
+                    "76:113"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "2:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "the US"
+                ],
+                [
+                    "12:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "avoid new harm to China - US relations"
+                ],
+                [
+                    "123:161"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" We demand the US strictly abide by the commitments it has made to China , correct its erroneous acts or remarks so as to avoid new harm to China - US relations . \"",
+    "sent_id": "temp_fbis/22.34.58-23977-2"
+}

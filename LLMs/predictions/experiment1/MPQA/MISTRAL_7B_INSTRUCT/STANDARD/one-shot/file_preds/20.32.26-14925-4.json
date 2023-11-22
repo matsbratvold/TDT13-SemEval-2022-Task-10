@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the report"
+                ],
+                [
+                    "13:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "Turkish and Greek flagged ships , fishing boats and speed boats"
+                ],
+                [
+                    "26:89"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "were used by human smugglers"
+                ],
+                [
+                    "90:118"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "According to the report , Turkish and Greek flagged ships , fishing boats and speed boats were used by human smugglers .",
+    "sent_id": "20011215/20.32.26-14925-4"
+}

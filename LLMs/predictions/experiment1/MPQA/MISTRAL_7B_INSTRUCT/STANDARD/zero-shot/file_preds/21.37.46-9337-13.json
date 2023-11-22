@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Italian parliamentary delegation"
+                ],
+                [
+                    "37:69"
+                ]
+            ],
+            "Target": [
+                [
+                    "Tibet"
+                ],
+                [
+                    "17:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "agreeing"
+                ],
+                [
+                    "96:104"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "After a visit to Tibet in 2000 , the Italian parliamentary delegation issued a press communique agreeing that the development of Tibet is far better than what has been reported by some Western media .",
+    "sent_id": "temp_fbis/21.37.46-9337-13"
+}

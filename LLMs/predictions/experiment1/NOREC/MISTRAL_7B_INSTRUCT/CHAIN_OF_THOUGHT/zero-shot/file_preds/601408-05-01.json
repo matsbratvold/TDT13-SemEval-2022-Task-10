@@ -1,0 +1,110 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Journalisten Ola Karlsen"
+                ],
+                [
+                    "0:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "nazi-regimet"
+                ],
+                [
+                    "71:83"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hentet frem"
+                ],
+                [
+                    "29:40"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Journalisten Ola Karlsen"
+                ],
+                [
+                    "0:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "nazi-regimet"
+                ],
+                [
+                    "71:83"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fikk sin dom"
+                ],
+                [
+                    "87:99"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "nazi-regimet"
+                ],
+                [
+                    "71:83"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hentet frem"
+                ],
+                [
+                    "29:40"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "nazi-regimet"
+                ],
+                [
+                    "71:83"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fikk sin dom"
+                ],
+                [
+                    "87:99"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Journalisten Ola Karlsen har hentet frem 14 personer som skodde seg p\u00e5 nazi-regimet og fikk sin dom for det , forretningsfolk som ikke h\u00f8rte til samfunnets toppsjikt da krigen br\u00f8t ut .",
+    "sent_id": "601408-05-01"
+}

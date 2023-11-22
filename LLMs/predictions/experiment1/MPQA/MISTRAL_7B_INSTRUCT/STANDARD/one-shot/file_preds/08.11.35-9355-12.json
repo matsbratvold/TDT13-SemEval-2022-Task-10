@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Latin American leaders"
+                ],
+                [
+                    "2:24"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "denounce"
+                ],
+                [
+                    "66:74"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "- Latin American leaders meeting in Costa Rica for a trade summit denounce Venezuela 's breakdown of constitutional order .",
+    "sent_id": "non_fbis/08.11.35-9355-12"
+}

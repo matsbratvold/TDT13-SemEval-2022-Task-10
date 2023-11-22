@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "dukker"
+                ],
+                [
+                    "10:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ganger"
+                ],
+                [
+                    "3:9"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "forfatteren og illustrat\u00f8ren"
+                ],
+                [
+                    "17:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "selv opp i boka"
+                ],
+                [
+                    "46:61"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "snakker direkte til leseren"
+                ],
+                [
+                    "93:120"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "To ganger dukker forfatteren og illustrat\u00f8ren selv opp i boka , b\u00e5de i tegning og tekst , og snakker direkte til leseren .",
+    "sent_id": "302975-07-02"
+}

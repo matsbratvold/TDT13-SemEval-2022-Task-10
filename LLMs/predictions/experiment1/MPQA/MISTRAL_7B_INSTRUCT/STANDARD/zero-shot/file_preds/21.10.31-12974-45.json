@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "All"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Our Activities"
+                ],
+                [
+                    "7:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Ruining"
+                ],
+                [
+                    "26:33"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "All of Our Activities Are Ruining Nature",
+    "sent_id": "temp_fbis/21.10.31-12974-45"
+}

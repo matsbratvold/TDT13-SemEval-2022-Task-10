@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Base officials"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "reporters"
+                ],
+                [
+                    "23:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "allowed"
+                ],
+                [
+                    "15:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Base officials"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "reporters"
+                ],
+                [
+                    "23:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "refused"
+                ],
+                [
+                    "160:167"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Base officials allowed reporters to record audio and report the landings live via cell phone for the first time since the flights began arriving Jan. 11 . They refused to allow cameras .",
+    "sent_id": "non_fbis/06.44.52-19992-21"
+}

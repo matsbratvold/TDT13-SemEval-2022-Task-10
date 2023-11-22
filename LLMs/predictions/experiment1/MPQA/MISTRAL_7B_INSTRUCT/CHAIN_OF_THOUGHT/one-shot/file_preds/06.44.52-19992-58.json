@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The growth of the base"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "a suburban - style military community"
+                ],
+                [
+                    "67:104"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "left"
+                ],
+                [
+                    "27:31"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The growth of the base has left Camp X - Ray surprisingly close to a suburban - style military community of beige , green and yellow houses in subdivisions with names like Caribbean Circle and West Iguana .",
+    "sent_id": "non_fbis/06.44.52-19992-58"
+}

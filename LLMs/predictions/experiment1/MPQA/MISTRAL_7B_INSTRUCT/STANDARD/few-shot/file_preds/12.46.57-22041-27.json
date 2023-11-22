@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "America"
+                ],
+                [
+                    "108:115"
+                ]
+            ],
+            "Target": [
+                [
+                    "defeated fighters"
+                ],
+                [
+                    "57:74"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "controls"
+                ],
+                [
+                    "142:150"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A sign pointing to Mecca has just been erected , but the defeated fighters are never allowed to forget that America , their sworn enemy , now controls them .",
+    "sent_id": "non_fbis/12.46.57-22041-27"
+}

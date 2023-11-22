@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Silja Sol"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mest interessante musikere"
+                ],
+                [
+                    "27:53"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Silja Sol er en av landets mest interessante musikere .",
+    "sent_id": "501385-04-01"
+}

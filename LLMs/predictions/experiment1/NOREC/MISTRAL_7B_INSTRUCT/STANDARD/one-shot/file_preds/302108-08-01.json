@@ -1,0 +1,76 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Derfor"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "10:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "synd"
+                ],
+                [
+                    "17:21"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "10:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snaut halvannen time lange settet til DJ Koze"
+                ],
+                [
+                    "29:74"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "DJ Koze"
+                ],
+                [
+                    "67:74"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "glimtvis klarer \u00e5 mane til slike tilstander"
+                ],
+                [
+                    "79:122"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Derfor er det s\u00e5 synd at det snaut halvannen time lange settet til DJ Koze kun glimtvis klarer \u00e5 mane til slike tilstander .",
+    "sent_id": "302108-08-01"
+}

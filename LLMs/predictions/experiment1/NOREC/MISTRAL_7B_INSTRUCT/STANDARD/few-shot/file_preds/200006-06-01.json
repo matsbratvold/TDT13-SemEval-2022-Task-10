@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fitbits aktivitetsarmb\u00e5nd"
+                ],
+                [
+                    "22:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blant de aller beste"
+                ],
+                [
+                    "59:79"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "men"
+                ],
+                [
+                    "82:85"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fitbits aktivitetsarmb\u00e5nd"
+                ],
+                [
+                    "22:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "syntes at designen har v\u00e6rt i kjedeligste laget"
+                ],
+                [
+                    "90:137"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Vi har alltid vurdert Fitbits aktivitetsarmb\u00e5nd til \u00e5 v\u00e6re blant de aller beste , men har syntes at designen har v\u00e6rt i kjedeligste laget .",
+    "sent_id": "200006-06-01"
+}

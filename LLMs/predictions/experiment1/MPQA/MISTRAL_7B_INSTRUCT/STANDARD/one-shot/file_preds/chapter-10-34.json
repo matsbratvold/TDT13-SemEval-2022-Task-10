@@ -1,0 +1,106 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The State Department"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "delivering an ultimatum to the Taliban"
+                ],
+                [
+                    "30:68"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "proposed"
+                ],
+                [
+                    "21:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The State Department"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Taliban"
+                ],
+                [
+                    "57:68"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The State Department"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The State Department"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "America would use all its resources to eliminate terrorism as a threat"
+                ],
+                [
+                    "641:711"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "detailed a public U.S. stance"
+                ],
+                [
+                    "609:638"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The State Department proposed delivering an ultimatum to the Taliban : produce Bin Ladin and his deputies and shut down al Qaeda camps within 24 to 48 hours , or the United States will use all necessary means to destroy the terrorist infrastructure . The State Department did not expect the Taliban to comply . Therefore , State and Defense would plan to build an international coalition to go into Afghanistan . Both departments would consult with NATO and other allies and request intelligence , basing , and other support from countries , according to their capabilities and resources . Finally , the plan detailed a public U.S. stance : America would use all its resources to eliminate terrorism as a threat , punish those responsible for the 9/11 attacks , hold states and other actors responsible for providing sanctuary to terrorists , work with a coalition to eliminate terrorist groups and networks , and avoid malice toward any people , religion , or culture .",
+    "sent_id": "ula/chapter-10-34"
+}

@@ -1,0 +1,65 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Forbruket"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00f8kte"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Forbruket"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til 0,47 liter per mil"
+                ],
+                [
+                    "23:45"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "med kanskje en av de minst effektive"
+                ],
+                [
+                    "55:91"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Forbruket \u00f8kte derimot til 0,47 liter per mil , og det med kanskje en av de minst effektive kj\u00f8restilene man kan tenke seg .",
+    "sent_id": "202298-11-05"
+}

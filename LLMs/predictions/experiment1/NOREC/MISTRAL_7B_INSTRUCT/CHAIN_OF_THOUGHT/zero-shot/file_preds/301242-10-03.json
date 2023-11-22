@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Karl-Heinz Dellwo"
+                ],
+                [
+                    "70:87"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "interessante"
+                ],
+                [
+                    "10:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "hendelser i Hamburg og Stockholm"
+                ],
+                [
+                    "108:140"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "interessante"
+                ],
+                [
+                    "10:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "modne erkjennelser fra fengselet"
+                ],
+                [
+                    "149:181"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "interessante"
+                ],
+                [
+                    "10:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det sv\u00e6rt interessante intervjuet Dypvik har med en av terroristene , Karl-Heinz Dellwo , er konsentrert om hendelser i Hamburg og Stockholm , og om modne erkjennelser fra fengselet .",
+    "sent_id": "301242-10-03"
+}

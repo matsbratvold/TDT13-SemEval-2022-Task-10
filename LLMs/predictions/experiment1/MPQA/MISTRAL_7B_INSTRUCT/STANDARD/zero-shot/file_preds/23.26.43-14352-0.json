@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "DEFENCE FORCE CHIEF IN CHINA"
+                ],
+                [
+                    "25:53"
+                ]
+            ],
+            "Target": [
+                [
+                    "DEFENCE FORCE CHIEF IN CHINA"
+                ],
+                [
+                    "25:53"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "JOHANNESBURG Aug 19 Sapa DEFENCE FORCE CHIEF IN CHINA",
+    "sent_id": "20010819/23.26.43-14352-0"
+}

@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "LAT"
+                ],
+                [
+                    "110:113"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "examines"
+                ],
+                [
+                    "131:139"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "USAT"
+                ],
+                [
+                    "237:241"
+                ]
+            ],
+            "Target": [
+                [
+                    "Tony Blair"
+                ],
+                [
+                    "320:330"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "conferred"
+                ],
+                [
+                    "335:344"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "WP"
+                ],
+                [
+                    "250:252"
+                ]
+            ],
+            "Target": [
+                [
+                    "Diana"
+                ],
+                [
+                    "23:28"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Much of the continuing Diana coverage is spinning off into the realm of meta - and meta - meta - pieces . The LAT , for instance , examines what it takes to be a new \" cuddly - feely \" Britain born of the national grief experience . But USAT and the WP also each run pretty newsy Diana pieces as well . Both reveal that Tony Blair had conferred with Diana about a goodwill ambassador job shortly before her death , and USAT reports that Le Figaro says a dying Diana gave two crash witnesses a message for her family and children .",
+    "sent_id": "ula/Article247_400-7"
+}

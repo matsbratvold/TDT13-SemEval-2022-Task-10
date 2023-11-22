@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bildet"
+                ],
+                [
+                    "10:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "de kjente ovenfra og ned-fotografiene"
+                ],
+                [
+                    "17:54"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Da ligner bildet de kjente ovenfra og ned-fotografiene av overfylte flyktningeb\u00e5ter i Middelhavet .",
+    "sent_id": "302975-16-02"
+}

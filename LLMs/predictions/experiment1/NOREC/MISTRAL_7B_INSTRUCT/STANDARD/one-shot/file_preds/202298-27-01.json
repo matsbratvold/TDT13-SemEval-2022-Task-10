@@ -1,0 +1,51 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Rattet"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "fireveis"
+                ],
+                [
+                    "11:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "justering"
+                ],
+                [
+                    "20:29"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "fireveis"
+                ],
+                [
+                    "11:19"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Rattet har fireveis justering , men i lengderetning kan det kun justeres fra ille til verre .",
+    "sent_id": "202298-27-01"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "De f\u00f8rste bilene"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "landet"
+                ],
+                [
+                    "30:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ruller inn"
+                ],
+                [
+                    "17:27"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "lansering hos forhandlerne"
+                ],
+                [
+                    "63:89"
+                ]
+            ],
+            "Target": [
+                [
+                    "bilene"
+                ],
+                [
+                    "10:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skjer"
+                ],
+                [
+                    "90:95"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "De f\u00f8rste bilene ruller inn i landet i begynnelsen av mai , og lansering hos forhandlerne skjer i slutten av m\u00e5neden .",
+    "sent_id": "202298-31-01"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "observers from South Africa , Namibia and Nigeria"
+                ],
+                [
+                    "4:53"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "legitimate"
+                ],
+                [
+                    "89:99"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "But observers from South Africa , Namibia and Nigeria all said Mugabe 's re-election was legitimate .",
+    "sent_id": "non_fbis/06.56.31-3120-10"
+}

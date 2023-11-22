@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Slagene"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "dataanimert"
+                ],
+                [
+                    "11:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "etter alle kunstens regler"
+                ],
+                [
+                    "23:49"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Slagene"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "noen f\u00e5 skikkelser"
+                ],
+                [
+                    "74:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "st\u00e5r ut i mengden"
+                ],
+                [
+                    "93:110"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "engasjere meg"
+                ],
+                [
+                    "139:152"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en smule i hvem som vinner og taper"
+                ],
+                [
+                    "153:188"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Slagene er dataanimert etter alle kunstens regler , men det viktige er at noen f\u00e5 skikkelser st\u00e5r ut i mengden slik at , jo , jeg gidder \u00e5 engasjere meg en smule i hvem som vinner og taper .",
+    "sent_id": "700863-06-04"
+}

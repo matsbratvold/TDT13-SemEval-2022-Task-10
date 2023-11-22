@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Some lousy earnings reports"
+                ],
+                [
+                    "0:27"
+                ]
+            ],
+            "Target": [
+                [
+                    "the stock market"
+                ],
+                [
+                    "36:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "whacked"
+                ],
+                [
+                    "28:35"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "bond prices"
+                ],
+                [
+                    "59:70"
+                ]
+            ],
+            "Target": [
+                [
+                    "fell only slightly"
+                ],
+                [
+                    "71:89"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fell"
+                ],
+                [
+                    "71:75"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "the dollar"
+                ],
+                [
+                    "94:104"
+                ]
+            ],
+            "Target": [
+                [
+                    "rose a little against most major currencies"
+                ],
+                [
+                    "105:148"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rose"
+                ],
+                [
+                    "105:109"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Some lousy earnings reports whacked the stock market , but bond prices fell only slightly and the dollar rose a little against most major currencies .",
+    "sent_id": "xbank/wsj_0816-1"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "guns"
+                ],
+                [
+                    "135:139"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "carrying"
+                ],
+                [
+                    "126:134"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "i've never even bought a gun myself my dad 's given it to me or someone 's given me one so i'm probably real illegal you know carrying guns that are n't even mine",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-11"
+}

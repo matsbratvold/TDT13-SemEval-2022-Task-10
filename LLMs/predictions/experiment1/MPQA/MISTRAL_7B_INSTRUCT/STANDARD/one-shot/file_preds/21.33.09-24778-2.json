@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "be accepted"
+                ],
+                [
+                    "136:147"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "foreseen to be accepted"
+                ],
+                [
+                    "124:147"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "An ``Action Plan`` on how the process should function in coming period and which issues that the process should focus on is foreseen to be accepted at the meeting in which political , economic , social and cultural issues concerning the Mediterranean basin will be discussed .",
+    "sent_id": "20020421/21.33.09-24778-2"
+}

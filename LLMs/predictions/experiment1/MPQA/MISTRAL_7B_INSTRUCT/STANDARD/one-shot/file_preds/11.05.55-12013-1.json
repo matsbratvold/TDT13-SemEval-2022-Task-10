@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "FLORIDA ASTRONAUTS"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "FLORIDA ASTRONAUTS REPAIR SPACE STATION WINGS",
+    "sent_id": "non_fbis/11.05.55-12013-1"
+}

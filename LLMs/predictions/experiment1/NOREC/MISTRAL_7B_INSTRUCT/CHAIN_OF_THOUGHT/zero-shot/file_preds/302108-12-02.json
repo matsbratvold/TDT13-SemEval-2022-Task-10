@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "musikk"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "enkelt \u00e5 falle tilbake p\u00e5"
+                ],
+                [
+                    "21:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "musikk"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er musikk det er enkelt \u00e5 falle tilbake p\u00e5 :",
+    "sent_id": "302108-12-02"
+}

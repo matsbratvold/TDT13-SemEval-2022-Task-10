@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "she"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "detainees"
+                ],
+                [
+                    "19:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "patients"
+                ],
+                [
+                    "32:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "she"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "detainees"
+                ],
+                [
+                    "19:28"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "she"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "detainees"
+                ],
+                [
+                    "19:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "related to this or related to that"
+                ],
+                [
+                    "160:194"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "she"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "detainees"
+                ],
+                [
+                    "19:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "patients"
+                ],
+                [
+                    "32:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "While she sees the detainees as patients , she allows that they 're not \" regular patients . \" She often finds herself thinking , \" Oh , my God , they could be related to this or related to that . But I still try to treat them as a patient . \"",
+    "sent_id": "non_fbis/06.44.52-19992-65"
+}

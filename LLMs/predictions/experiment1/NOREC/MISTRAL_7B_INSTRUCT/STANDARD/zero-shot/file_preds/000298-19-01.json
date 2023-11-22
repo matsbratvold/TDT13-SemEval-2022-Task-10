@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Heughan"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "varme"
+                ],
+                [
+                    "23:28"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Heughan spiller med en varme som ikke bare er karakteristisk for rollefiguren , men som gjennomsyrer hele serien .",
+    "sent_id": "000298-19-01"
+}

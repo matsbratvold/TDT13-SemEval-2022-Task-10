@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "4:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "platen"
+                ],
+                [
+                    "35:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    " #10 dream "
+                ],
+                [
+                    "47:58"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "F\u00f8r vi kommer s\u00e5 langt , \u00e5pner han platen med \" #10 dream \" .",
+    "sent_id": "704372-12-01"
+}

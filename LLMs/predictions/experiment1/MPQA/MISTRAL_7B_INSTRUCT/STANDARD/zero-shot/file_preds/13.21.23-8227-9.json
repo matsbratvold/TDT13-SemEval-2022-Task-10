@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "The 44 - foot - long , 27,000 - pound ' ' S - Zero ' ' structure"
+                ],
+                [
+                    "0:64"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The 44 - foot - long , 27,000 - pound ' ' S - Zero ' ' structure 's first job will be to support a new solar energy array nearly an acre in size , stretching more than a football field in length .",
+    "sent_id": "non_fbis/13.21.23-8227-9"
+}

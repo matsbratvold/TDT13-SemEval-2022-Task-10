@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det positive"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "forbedringspotensialet"
+                ],
+                [
+                    "19:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stort"
+                ],
+                [
+                    "45:50"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det positive er at forbedringspotensialet er stort .",
+    "sent_id": "202298-28-02"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "De"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "st\u00e5r tett"
+                ],
+                [
+                    "3:12"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "De st\u00e5r tett nok til at du h\u00f8rer alle samtalene fra bordene rundt deg .",
+    "sent_id": "501595-03-02"
+}

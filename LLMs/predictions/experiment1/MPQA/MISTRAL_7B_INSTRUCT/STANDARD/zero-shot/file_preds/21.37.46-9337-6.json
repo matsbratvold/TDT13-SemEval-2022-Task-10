@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jin"
+                ],
+                [
+                    "75:78"
+                ]
+            ],
+            "Target": [
+                [
+                    "The United Nations"
+                ],
+                [
+                    "2:20"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" The United Nations has held the high goal of protecting human rights , \" Jin said . \" But it never requested or authorized the United States to compile or release such reports . \"",
+    "sent_id": "temp_fbis/21.37.46-9337-6"
+}

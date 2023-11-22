@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "my mom"
+                ],
+                [
+                    "20:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "purchased a gun"
+                ],
+                [
+                    "52:67"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "my mom"
+                ],
+                [
+                    "20:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "getting a rifle for my brother"
+                ],
+                [
+                    "82:112"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "i'm from California my mom the last time i was like purchased a gun my my mom was getting a rifle for my brother that he wanted like an antique one and",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-6"
+}

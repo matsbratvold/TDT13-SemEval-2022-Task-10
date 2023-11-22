@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Courtaulds PLC"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "spin off its textiles operations"
+                ],
+                [
+                    "34:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "announced plans"
+                ],
+                [
+                    "15:30"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Courtaulds PLC announced plans to spin off its textiles operations to existing shareholders in a restructuring to boost shareholder value .",
+    "sent_id": "xbank/wsj_0376-1"
+}

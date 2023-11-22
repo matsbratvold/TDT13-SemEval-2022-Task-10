@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the radicals"
+                ],
+                [
+                    "70:82"
+                ]
+            ],
+            "Target": [
+                [
+                    "all kinds of weapons"
+                ],
+                [
+                    "93:113"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "gun control"
+                ],
+                [
+                    "45:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "the only problem"
+                ],
+                [
+                    "16:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "it really is uh the only problem i have with gun control is that they the radicals wanna ban all kinds of weapons and then the only people carrying guns are gonna be be the people who are gonna kill you anyway",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-13"
+}

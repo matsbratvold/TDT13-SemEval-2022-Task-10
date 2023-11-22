@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bustamante"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "film"
+                ],
+                [
+                    "46:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vokste selv opp"
+                ],
+                [
+                    "11:26"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Bustamante"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "film"
+                ],
+                [
+                    "46:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "laget filmen"
+                ],
+                [
+                    "40:52"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "lokalbefolkningen"
+                ],
+                [
+                    "74:91"
+                ]
+            ],
+            "Target": [
+                [
+                    "film"
+                ],
+                [
+                    "46:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "laget filmen"
+                ],
+                [
+                    "40:52"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Bustamante vokste selv opp her , og har laget filmen i n\u00e6rt samarbeid med lokalbefolkningen .",
+    "sent_id": "500201-04-02"
+}

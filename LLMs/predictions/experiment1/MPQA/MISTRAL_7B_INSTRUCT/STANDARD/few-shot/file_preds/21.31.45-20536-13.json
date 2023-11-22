@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "the report"
+                ],
+                [
+                    "8:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "claimed"
+                ],
+                [
+                    "36:43"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "He said the report , for instance , claimed that the Swapo publication Namibia Today , the ruling party paper , was a Government - owned magazine .",
+    "sent_id": "temp_fbis/21.31.45-20536-13"
+}

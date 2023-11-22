@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Kimberly - Clark"
+                ],
+                [
+                    "71:87"
+                ]
+            ],
+            "Target": [
+                [
+                    "consumer businesses in North America , Brazil and Korea"
+                ],
+                [
+                    "135:190"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gains"
+                ],
+                [
+                    "199:204"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Kimberly - Clark"
+                ],
+                [
+                    "71:87"
+                ]
+            ],
+            "Target": [
+                [
+                    "newsprint earnings"
+                ],
+                [
+                    "50:68"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "flat second quarter"
+                ],
+                [
+                    "8:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Kimberly - Clark"
+                ],
+                [
+                    "71:87"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "depressed"
+                ],
+                [
+                    "410:419"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "After a flat second quarter tied largely to lower newsprint earnings , Kimberly - Clark attributed the gain to improved results in its consumer businesses in North America , Brazil and Korea . Those gains came from higher prices , particularly for disposable diapers and tissue products , and from increased sales , primarily for feminine - care products , the company said . Newsprint results continued to be depressed , the company added , because of industrywide price discounting .",
+    "sent_id": "xbank/wsj_0292-3"
+}

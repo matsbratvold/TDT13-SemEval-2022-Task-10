@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "mennesket"
+                ],
+                [
+                    "37:46"
+                ]
+            ],
+            "Target": [
+                [
+                    "systemet"
+                ],
+                [
+                    "50:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dras linja mellom"
+                ],
+                [
+                    "19:36"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Daniel"
+                ],
+                [
+                    "98:104"
+                ]
+            ],
+            "Target": [
+                [
+                    "skjema"
+                ],
+                [
+                    "129:135"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "maskinaktig"
+                ],
+                [
+                    "140:151"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Daniel"
+                ],
+                [
+                    "98:104"
+                ]
+            ],
+            "Target": [
+                [
+                    "skjema"
+                ],
+                [
+                    "129:135"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "uengasjert stemme"
+                ],
+                [
+                    "154:171"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Daniel"
+                ],
+                [
+                    "98:104"
+                ]
+            ],
+            "Target": [
+                [
+                    "skjema"
+                ],
+                [
+                    "129:135"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stadig mer fortvilet og desillusjonert"
+                ],
+                [
+                    "191:229"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Allerede i starten dras linja mellom mennesket og systemet , der vi h\u00f8rer en helsearbeider sp\u00f8rre Daniel absurde sp\u00f8rsm\u00e5l fra et skjema med maskinaktig , uengasjert stemme , mens Daniel blir stadig mer fortvilet og desillusjonert over \u00e5 ikke bli h\u00f8rt .",
+    "sent_id": "004773-09-01"
+}

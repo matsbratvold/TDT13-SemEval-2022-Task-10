@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sapa / gf/am"
+                ],
+                [
+                    "9:21"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Source : Sapa / gf/am Date : 19 Aug 2001 16:41",
+    "sent_id": "20010819/23.26.43-14352-5"
+}

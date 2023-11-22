@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "politiske intriger"
+                ],
+                [
+                    "24:42"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "overd\u00e5dige hoffball"
+                ],
+                [
+                    "45:64"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "p\u00e5kostede kjoler"
+                ],
+                [
+                    "68:84"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "en forandring"
+                ],
+                [
+                    "87:100"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fryder og engasjerer"
+                ],
+                [
+                    "105:125"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er dermed duket for politiske intriger , overd\u00e5dige hoffball og p\u00e5kostede kjoler \u2013 en forandring som fryder og engasjerer .",
+    "sent_id": "000298-04-02"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Chinese Foreign Ministry Spokeswoman Zhang Qiyue"
+                ],
+                [
+                    "197:245"
+                ]
+            ],
+            "Target": [
+                [
+                    "the current difficulties"
+                ],
+                [
+                    "106:130"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "believes"
+                ],
+                [
+                    "42:50"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Beijing , December 20 ( XINHUA ) -- China believes that the Argentine government and people will overcome the current difficulties , revive their economy and maintain their social stability , said Chinese Foreign Ministry Spokeswoman Zhang Qiyue here Thursday .",
+    "sent_id": "20011220/21.12.51-10332-0"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "the protocol"
+                ],
+                [
+                    "36:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "pulled out of"
+                ],
+                [
+                    "22:35"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "a voluntary U.S. plan to slow the growth of global warming gasses"
+                ],
+                [
+                    "153:218"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "announced"
+                ],
+                [
+                    "131:140"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The United States has pulled out of the protocol , which obliges developed countries to reduce emissions of greenhouse gases , and announced in February a voluntary U.S. plan to slow the growth of global warming gasses .",
+    "sent_id": "non_fbis/04.24.14-26782-5"
+}

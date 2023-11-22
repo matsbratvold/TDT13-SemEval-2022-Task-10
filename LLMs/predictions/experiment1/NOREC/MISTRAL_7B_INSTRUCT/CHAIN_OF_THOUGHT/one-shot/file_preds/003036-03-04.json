@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "kuri\u00f8st opplegg"
+                ],
+                [
+                    "3:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mildt"
+                ],
+                [
+                    "34:39"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Et kuri\u00f8st opplegg , for \u00e5 si det mildt .",
+    "sent_id": "003036-03-04"
+}

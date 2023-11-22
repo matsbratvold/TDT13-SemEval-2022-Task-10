@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "South Korea"
+                ],
+                [
+                    "3:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Annex I parties"
+                ],
+                [
+                    "34:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not included"
+                ],
+                [
+                    "18:30"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "As South Korea is not included in the Annex I parties , composed of industrialized countries , the accord , which is expected to go into effect some time next year , is not likely to affect the country for a while .",
+    "sent_id": "20011115/20.41.29-15150-4"
+}

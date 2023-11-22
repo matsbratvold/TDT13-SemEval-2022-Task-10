@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Rollen"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "uten et knippe begavede unge tyske skuespillere"
+                ],
+                [
+                    "42:89"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Rollen ville ikke v\u00e6rt like virkningsfull uten et knippe begavede unge tyske skuespillere som det er hjerteskj\u00e6rende \u00e5 f\u00f8lge .",
+    "sent_id": "400175-13-02"
+}

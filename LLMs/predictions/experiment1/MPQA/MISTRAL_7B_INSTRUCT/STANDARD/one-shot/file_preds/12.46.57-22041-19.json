@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Staff Sgt Monte Webster"
+                ],
+                [
+                    "56:79"
+                ]
+            ],
+            "Target": [
+                [
+                    "water"
+                ],
+                [
+                    "26:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "got"
+                ],
+                [
+                    "39:42"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "When the detainees wanted water , they got water , said Staff Sgt Monte Webster , an MP . The camp interpreters had even devised a set of hand signals if a Taliban leader was caught short and needed to use the portable lavatory .",
+    "sent_id": "non_fbis/12.46.57-22041-19"
+}

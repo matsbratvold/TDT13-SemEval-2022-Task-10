@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Amnesty International"
+                ],
+                [
+                    "60:81"
+                ]
+            ],
+            "Target": [
+                [
+                    "The killings"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "call"
+                ],
+                [
+                    "24:28"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The killings prompted a call by London - based rights group Amnesty International for an inquiry into the affair .",
+    "sent_id": "20011130/12.26.48-19550-6"
+}

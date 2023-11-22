@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Juneidi"
+                ],
+                [
+                    "222:229"
+                ]
+            ],
+            "Target": [
+                [
+                    "Jordan"
+                ],
+                [
+                    "91:97"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "commitment"
+                ],
+                [
+                    "159:169"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Although developed countries are the world 's main source of large - scale air pollution , Jordan 's decision to sign the protocol is aimed at stressing its \" commitment towards the different international conventions , \" Juneidi said .",
+    "sent_id": "non_fbis/06.39.11-29583-4"
+}

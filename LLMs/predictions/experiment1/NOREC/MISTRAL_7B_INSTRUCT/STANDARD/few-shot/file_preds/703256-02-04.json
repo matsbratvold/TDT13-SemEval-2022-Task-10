@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Tore Renberg"
+                ],
+                [
+                    "18:30"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "\u00ab Indianeren \u00bb er Tore Renberg p\u00e5 sitt beste .",
+    "sent_id": "703256-02-04"
+}

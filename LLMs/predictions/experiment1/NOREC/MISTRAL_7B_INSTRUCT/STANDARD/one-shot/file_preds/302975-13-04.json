@@ -1,0 +1,41 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Det var blitt krig"
+                ],
+                [
+                    "2:20"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "pappa"
+                ],
+                [
+                    "26:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "dei som bestemte"
+                ],
+                [
+                    "52:68"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "\u00ab Det var blitt krig , og pappa var ikkje einig med dei som bestemte .",
+    "sent_id": "302975-13-04"
+}

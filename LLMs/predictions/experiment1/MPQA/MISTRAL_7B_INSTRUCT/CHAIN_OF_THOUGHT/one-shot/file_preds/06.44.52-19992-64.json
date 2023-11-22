@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jerome"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "the hospital"
+                ],
+                [
+                    "12:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "feels no different"
+                ],
+                [
+                    "25:43"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Jerome says the hospital feels no different than a hospital in the states , save for the high security and the various languages the detainees speak , including French , Russian , Urdu and Arabic . Most understand a little English , she says .",
+    "sent_id": "non_fbis/06.44.52-19992-64"
+}

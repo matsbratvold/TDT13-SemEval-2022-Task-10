@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "PS4"
+                ],
+                [
+                    "3:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "s\u00f8ml\u00f8st og bugfritt"
+                ],
+                [
+                    "31:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fullstendig"
+                ],
+                [
+                    "19:30"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "PS4"
+                ],
+                [
+                    "3:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "innfl\u00f8kte og delikat oppbygde brett"
+                ],
+                [
+                    "93:128"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00f8ml\u00f8st"
+                ],
+                [
+                    "31:38"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "PS4"
+                ],
+                [
+                    "3:6"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00f8tet med"
+                ],
+                [
+                    "145:154"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "P\u00e5 PS4 spiller det fullstendig s\u00f8ml\u00f8st og bugfritt ; det er en nytelse \u00e5 suse rundt i s\u00e5pass innfl\u00f8kte og delikat oppbygde brett ( i s\u00e6rdeleshet m\u00f8tet med skapelsene til Dr. Moreau / The Joker-aktige Kirin Jindosh ) .",
+    "sent_id": "000913-19-01"
+}

@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Mer"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "leken"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enn f\u00f8r"
+                ],
+                [
+                    "10:17"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "og"
+                ],
+                [
+                    "24:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "m\u00f8rkere til sinns"
+                ],
+                [
+                    "29:46"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Mer leken enn f\u00f8r , men ogs\u00e5 m\u00f8rkere til sinns .",
+    "sent_id": "704372-02-01"
+}

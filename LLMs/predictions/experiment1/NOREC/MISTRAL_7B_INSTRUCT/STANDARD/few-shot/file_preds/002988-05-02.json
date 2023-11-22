@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Karpe"
+                ],
+                [
+                    "37:42"
+                ]
+            ],
+            "Target": [
+                [
+                    "den unge garde"
+                ],
+                [
+                    "4:18"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Til den unge garde derimot , snakker Karpe hovmodig .",
+    "sent_id": "002988-05-02"
+}

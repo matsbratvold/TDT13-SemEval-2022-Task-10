@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The report"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "US President George W. Bush 's administration"
+                ],
+                [
+                    "24:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "slammed"
+                ],
+                [
+                    "16:23"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The report also slammed US President George W. Bush 's administration for withdrawing from the Kyoto Protocol on cutting greenhouse gases .",
+    "sent_id": "non_fbis/04.22.14-2532-4"
+}

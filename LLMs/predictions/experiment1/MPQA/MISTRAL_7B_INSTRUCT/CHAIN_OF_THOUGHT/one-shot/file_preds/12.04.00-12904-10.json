@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Shameful"
+                ],
+                [
+                    "2:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "Shameful"
+                ],
+                [
+                    "2:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Shameful"
+                ],
+                [
+                    "2:10"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "` Shameful '",
+    "sent_id": "non_fbis/12.04.00-12904-10"
+}

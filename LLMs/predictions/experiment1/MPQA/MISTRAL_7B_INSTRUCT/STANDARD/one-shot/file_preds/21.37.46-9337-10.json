@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Xirao - Nima"
+                ],
+                [
+                    "166:178"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "seen"
+                ],
+                [
+                    "43:47"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Xirao - Nima"
+                ],
+                [
+                    "166:178"
+                ]
+            ],
+            "Target": [
+                [
+                    "US politicians with ulterior motives"
+                ],
+                [
+                    "105:141"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "described"
+                ],
+                [
+                    "147:156"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" I have been to Tibet many times . I have seen the truth there , which is very different from what some US politicians with ulterior motives have described , \" said Xirao - Nima , who is a Tibetan .",
+    "sent_id": "temp_fbis/21.37.46-9337-10"
+}

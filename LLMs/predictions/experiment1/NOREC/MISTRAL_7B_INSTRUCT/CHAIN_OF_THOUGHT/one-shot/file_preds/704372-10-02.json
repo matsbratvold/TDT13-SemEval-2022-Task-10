@@ -1,0 +1,40 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "som sies \u00e5 v\u00e6re et h\u00f8ydepunkt p\u00e5 konserter"
+                ],
+                [
+                    "30:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som sies \u00e5 v\u00e6re et h\u00f8ydepunkt p\u00e5 konserter"
+                ],
+                [
+                    "30:72"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Ingen umiddelbar hitl\u00e5t , men som sies \u00e5 v\u00e6re et h\u00f8ydepunkt p\u00e5 konserter .",
+    "sent_id": "704372-10-02"
+}

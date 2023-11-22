@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Yo La Tengo"
+                ],
+                [
+                    "27:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stadig balanserer mellom det fascinerende og det kjedsommelige"
+                ],
+                [
+                    "76:138"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Av den grunn minner den om Yo La Tengo , et annet septembervennlig band som stadig balanserer mellom det fascinerende og det kjedsommelige .",
+    "sent_id": "303721-10-02"
+}

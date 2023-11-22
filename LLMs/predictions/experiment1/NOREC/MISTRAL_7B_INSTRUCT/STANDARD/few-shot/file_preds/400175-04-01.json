@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "d\u00f8de eller fikk fatale skader under arbeidet langs de danske strendene"
+                ],
+                [
+                    "18:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "et faktum som ikke nevnes i danske oppslagsverk om krigsoppgj\u00f8ret"
+                ],
+                [
+                    "91:156"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Halvparten av dem d\u00f8de eller fikk fatale skader under arbeidet langs de danske strendene , et faktum som ikke nevnes i danske oppslagsverk om krigsoppgj\u00f8ret .",
+    "sent_id": "400175-04-01"
+}

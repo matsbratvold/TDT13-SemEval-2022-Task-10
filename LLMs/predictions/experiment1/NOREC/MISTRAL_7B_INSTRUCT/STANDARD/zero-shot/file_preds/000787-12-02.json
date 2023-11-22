@@ -1,0 +1,111 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "godt"
+                ],
+                [
+                    "7:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "og"
+                ],
+                [
+                    "14:16"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "ja"
+                ],
+                [
+                    "17:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "og"
+                ],
+                [
+                    "14:16"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "enda litt bedre enn sist"
+                ],
+                [
+                    "22:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "men"
+                ],
+                [
+                    "49:52"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Tropical Freeze"
+                ],
+                [
+                    "128:143"
+                ]
+            ],
+            "Target": [
+                [
+                    "kommer Tropical Freeze til kort"
+                ],
+                [
+                    "121:152"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Det er godt , og ja , enda litt bedre enn sist , men i m\u00f8te med de siste \u00e5renes utrolige kvalitetsniv\u00e5 p\u00e5 plattformspill kommer Tropical Freeze til kort",
+    "sent_id": "000787-12-02"
+}

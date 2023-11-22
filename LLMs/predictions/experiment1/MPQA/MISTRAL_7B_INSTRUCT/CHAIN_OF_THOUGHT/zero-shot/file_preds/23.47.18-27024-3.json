@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Taleban senior commander"
+                ],
+                [
+                    "32:56"
+                ]
+            ],
+            "Target": [
+                [
+                    "Mazar military fort"
+                ],
+                [
+                    "95:114"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "instructed"
+                ],
+                [
+                    "80:90"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Taleban"
+                ],
+                [
+                    "32:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "Andarab area in Baghlan Province"
+                ],
+                [
+                    "216:248"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "launched"
+                ],
+                [
+                    "187:195"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "According to another report , [ Taleban senior commander ] Abdorrazaq Nafis has instructed the Mazar military fort to supply battle zones with the necessary means . The Taleban have also launched an offensive in the Andarab area in Baghlan Province .",
+    "sent_id": "20010718/23.47.18-27024-3"
+}

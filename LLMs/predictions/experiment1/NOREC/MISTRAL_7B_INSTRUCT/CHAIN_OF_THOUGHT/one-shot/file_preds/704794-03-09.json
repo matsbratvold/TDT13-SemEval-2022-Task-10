@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "De"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "brukes"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "De"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00e5 man v\u00e6re to"
+                ],
+                [
+                    "103:117"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "De kan brukes som medhjelpere i enspillerdelen eller som ekstrafigur i tospillerdelen , og noen steder m\u00e5 man v\u00e6re to for \u00e5 f\u00e5 tak i alt .",
+    "sent_id": "704794-03-09"
+}

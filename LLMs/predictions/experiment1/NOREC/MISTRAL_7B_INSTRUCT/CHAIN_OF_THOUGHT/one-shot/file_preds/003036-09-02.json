@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den Sjelfulle"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "r&b-melodien"
+                ],
+                [
+                    "14:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fremtredende"
+                ],
+                [
+                    "89:101"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den Sjelfulle r&b-melodien , hj\u00f8rnesteinen til den Long Beach-bosatte artisten , er like fremtredende som den b\u00f8r v\u00e6re .",
+    "sent_id": "003036-09-02"
+}

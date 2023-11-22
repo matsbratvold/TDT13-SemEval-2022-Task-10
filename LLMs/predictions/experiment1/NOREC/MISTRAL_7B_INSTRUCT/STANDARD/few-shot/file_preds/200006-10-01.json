@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "praktisk design"
+                ],
+                [
+                    "7:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Mindre"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Mindre praktisk design",
+    "sent_id": "200006-10-01"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "FBI"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "passengers"
+                ],
+                [
+                    "121:131"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "concluded"
+                ],
+                [
+                    "94:103"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "FBI"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "passengers"
+                ],
+                [
+                    "121:131"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "found no evidence"
+                ],
+                [
+                    "181:198"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "independent review"
+                ],
+                [
+                    "235:253"
+                ]
+            ],
+            "Target": [
+                [
+                    "Saudi nationals"
+                ],
+                [
+                    "261:276"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "confirms"
+                ],
+                [
+                    "286:294"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The FBI interviewed all persons of interest on these flights prior to their departures . They concluded that none of the passengers was connected to the 9/11 attacks and have since found no evidence to change that conclusion . Our own independent review of the Saudi nationals involved confirms that no one with known links to terrorism departed on these flights .",
+    "sent_id": "ula/chapter-10-25"
+}

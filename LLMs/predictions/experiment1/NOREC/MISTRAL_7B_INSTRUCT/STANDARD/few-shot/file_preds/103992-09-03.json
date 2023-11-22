@@ -1,0 +1,44 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Vaktene"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "settes i bur"
+                ],
+                [
+                    "8:20"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00e5r muligheten til \u00e5 finne ut hva de vil bruke sin \u00e5penbart midlertidige frihet til"
+                ],
+                [
+                    "34:117"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Vaktene settes i bur , og fangene f\u00e5r muligheten til \u00e5 finne ut hva de vil bruke sin \u00e5penbart midlertidige frihet til .",
+    "sent_id": "103992-09-03"
+}

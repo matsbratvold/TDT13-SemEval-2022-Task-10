@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Top military leaders"
+                ],
+                [
+                    "2:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "Carmona"
+                ],
+                [
+                    "44:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "support"
+                ],
+                [
+                    "33:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Top military leaders"
+                ],
+                [
+                    "2:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "democratic institutions"
+                ],
+                [
+                    "87:110"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "respecting"
+                ],
+                [
+                    "76:86"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Top military leaders"
+                ],
+                [
+                    "2:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "Chavez"
+                ],
+                [
+                    "124:130"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "allowing"
+                ],
+                [
+                    "115:123"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "- Top military leaders say their support of Carmona is conditional upon his respecting democratic institutions and allowing Chavez to leave Venezuela freely .",
+    "sent_id": "non_fbis/08.11.35-9355-19"
+}

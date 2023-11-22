@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00e5nn at utseendet ikke betyr alt"
+                ],
+                [
+                    "18:50"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "N\u00e5 er det en gang s\u00e5nn at utseendet ikke betyr alt .",
+    "sent_id": "200006-11-01"
+}

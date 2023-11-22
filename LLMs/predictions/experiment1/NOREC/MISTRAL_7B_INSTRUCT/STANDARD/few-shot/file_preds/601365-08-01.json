@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "til himmelen"
+                ],
+                [
+                    "38:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skal jeg kj\u00f8pe en b\u00f8tte med popcorn og g\u00e5 p\u00e5 kino"
+                ],
+                [
+                    "55:104"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Jon"
+                ],
+                [
+                    "116:119"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "g\u00e5 p\u00e5 kino sammen med"
+                ],
+                [
+                    "94:115"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Ray Bradbury"
+                ],
+                [
+                    "163:175"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "den amerikanske science fictionmesteren"
+                ],
+                [
+                    "123:162"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "\u00ab Jeg tenker at hvis jeg kommer dit ( til himmelen ) , skal jeg kj\u00f8pe en b\u00f8tte med popcorn og g\u00e5 p\u00e5 kino sammen med Jon og den amerikanske science fictionmesteren Ray Bradbury \u00bb heter det innledningsvis .",
+    "sent_id": "601365-08-01"
+}

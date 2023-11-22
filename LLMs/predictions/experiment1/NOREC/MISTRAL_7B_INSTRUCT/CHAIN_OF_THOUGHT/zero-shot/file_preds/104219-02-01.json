@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sondre Midthuns"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "nye roman"
+                ],
+                [
+                    "16:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ambisi\u00f8s"
+                ],
+                [
+                    "32:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sondre Midthuns"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "ambisi\u00f8s"
+                ],
+                [
+                    "32:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tankevekkende"
+                ],
+                [
+                    "44:57"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sondre Midthuns"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "fortelling"
+                ],
+                [
+                    "58:68"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "l\u00f8gn"
+                ],
+                [
+                    "72:76"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sondre Midthuns"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "fortelling"
+                ],
+                [
+                    "58:68"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forstillelse"
+                ],
+                [
+                    "80:92"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Sondre Midthuns nye roman er en ambisi\u00f8s og tankevekkende fortelling om l\u00f8gn og forstillelse .",
+    "sent_id": "104219-02-01"
+}

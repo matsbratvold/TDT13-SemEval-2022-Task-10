@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "New Argentine president"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "quits"
+                ],
+                [
+                    "24:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "quits"
+                ],
+                [
+                    "24:29"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "March vote"
+                ],
+                [
+                    "45:55"
+                ]
+            ],
+            "Target": [
+                [
+                    "nixed"
+                ],
+                [
+                    "56:61"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nixed"
+                ],
+                [
+                    "56:61"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "New Argentine president quits after a week ; March vote nixed",
+    "sent_id": "non_fbis/12.04.00-12904-0"
+}

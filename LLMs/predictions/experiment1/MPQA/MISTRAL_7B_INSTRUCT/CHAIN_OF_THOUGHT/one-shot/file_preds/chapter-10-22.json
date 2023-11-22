@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Andrew Card"
+                ],
+                [
+                    "36:47"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Saudi request"
+                ],
+                [
+                    "85:102"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "remembered"
+                ],
+                [
+                    "48:58"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "The President and Vice President"
+                ],
+                [
+                    "213:245"
+                ]
+            ],
+            "Target": [
+                [
+                    "the issue"
+                ],
+                [
+                    "277:286"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "told us"
+                ],
+                [
+                    "246:253"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "None of the officials we interviewed"
+                ],
+                [
+                    "338:374"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "recalled"
+                ],
+                [
+                    "375:383"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Although White House Chief of Staff Andrew Card remembered someone telling him about the Saudi request shortly after 9/11 , he said he had not talked to the Saudis and did not ask anyone to do anything about it . The President and Vice President told us they were not aware of the issue at all until it surfaced much later in the media . None of the officials we interviewed recalled any intervention or direction on this matter from any political appointee .",
+    "sent_id": "ula/chapter-10-22"
+}

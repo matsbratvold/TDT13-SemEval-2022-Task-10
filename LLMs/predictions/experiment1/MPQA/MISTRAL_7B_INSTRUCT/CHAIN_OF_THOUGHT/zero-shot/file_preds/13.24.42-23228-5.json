@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "NASA"
+                ],
+                [
+                    "4:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "Russian flight controllers"
+                ],
+                [
+                    "20:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "did not receive the expected indication"
+                ],
+                [
+                    "62:101"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "But NASA later said Russian flight controllers outside Moscow did not receive the expected indication that the hooks had closed and latched .",
+    "sent_id": "non_fbis/13.24.42-23228-5"
+}

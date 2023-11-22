@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "All three groups"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "governments"
+                ],
+                [
+                    "44:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "legitimate national security concerns"
+                ],
+                [
+                    "83:120"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "All three groups"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "governments"
+                ],
+                [
+                    "44:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fundamental freedoms"
+                ],
+                [
+                    "125:145"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "All three groups"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "governments"
+                ],
+                [
+                    "44:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "balance"
+                ],
+                [
+                    "65:72"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "All three groups"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "governments"
+                ],
+                [
+                    "44:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "international law commitments"
+                ],
+                [
+                    "182:211"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "All three groups said it was essential that governments strike a balance between \" legitimate national security concerns and fundamental freedoms that is fully consistent with their international law commitments . \"",
+    "sent_id": "20011130/12.26.48-19550-7"
+}

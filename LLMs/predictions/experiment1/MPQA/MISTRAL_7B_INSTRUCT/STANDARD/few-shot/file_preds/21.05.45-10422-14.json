@@ -1,0 +1,74 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sader"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "is to permit decay"
+                ],
+                [
+                    "69:87"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sader"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sader"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pakistan , China , and Russia"
+                ],
+                [
+                    "136:165"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Sader affirmed , \" The new policy of ( US President George W. ) Bush is to permit decay . The concern now is security . All eyes are on Pakistan , China , and Russia . \"",
+    "sent_id": "20011231/21.05.45-10422-14"
+}

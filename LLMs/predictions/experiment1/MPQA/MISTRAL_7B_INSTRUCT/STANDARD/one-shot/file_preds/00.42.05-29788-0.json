@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Computer"
+                ],
+                [
+                    "2:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "selected and disseminated"
+                ],
+                [
+                    "11:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "without FBIS editorial intervention"
+                ],
+                [
+                    "37:72"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "[ Computer selected and disseminated without FBIS editorial intervention ]",
+    "sent_id": "20010713/00.42.05-29788-0"
+}

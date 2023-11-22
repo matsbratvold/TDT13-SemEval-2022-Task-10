@@ -1,0 +1,71 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "greit \u00e5 holde seg til"
+                ],
+                [
+                    "25:46"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "et sted"
+                ],
+                [
+                    "76:83"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "skal jo m\u00e5lgruppa bli kjent med klisjeene"
+                ],
+                [
+                    "84:125"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "men bare lite grann mer humor og fortellermessig overskudd hadde neppe skadet"
+                ],
+                [
+                    "128:205"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "skadet"
+                ],
+                [
+                    "199:205"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "N\u00e5 er det p\u00e5 sett og vis greit \u00e5 holde seg til oppskriften i slike serier \u2013 et sted skal jo m\u00e5lgruppa bli kjent med klisjeene \u2013 men bare lite grann mer humor og fortellermessig overskudd hadde neppe skadet .",
+    "sent_id": "600725-06-02"
+}

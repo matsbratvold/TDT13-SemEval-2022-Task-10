@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "det"
+                ],
+                [
+                    "12:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "musikken"
+                ],
+                [
+                    "38:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stilleg\u00e5ende"
+                ],
+                [
+                    "25:37"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "det"
+                ],
+                [
+                    "12:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "musikken"
+                ],
+                [
+                    "38:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilgjengelig"
+                ],
+                [
+                    "47:59"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "de"
+                ],
+                [
+                    "12:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "av oss som ikke klager p\u00e5 Festspillenes kunstneriske profil"
+                ],
+                [
+                    "67:126"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "klager"
+                ],
+                [
+                    "83:89"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Samtidig er det den mest stilleg\u00e5ende musikken tilgjengelig for de av oss som ikke klager p\u00e5 Festspillenes kunstneriske profil .",
+    "sent_id": "104659-05-01"
+}

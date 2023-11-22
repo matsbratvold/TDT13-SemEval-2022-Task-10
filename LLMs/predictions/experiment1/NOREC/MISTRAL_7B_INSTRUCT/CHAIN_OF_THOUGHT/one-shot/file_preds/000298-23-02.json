@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Outlander"
+                ],
+                [
+                    "51:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er et historisk drama"
+                ],
+                [
+                    "23:44"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Outlander"
+                ],
+                [
+                    "51:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er f\u00f8rst og frem et eventyr"
+                ],
+                [
+                    "58:85"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "For selv om dette ogs\u00e5 er et historisk drama s\u00e5 er Outlander f\u00f8rst og frem et eventyr .",
+    "sent_id": "000298-23-02"
+}

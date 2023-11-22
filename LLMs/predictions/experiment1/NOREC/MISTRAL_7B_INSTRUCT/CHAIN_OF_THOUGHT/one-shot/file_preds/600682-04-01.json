@@ -1,0 +1,44 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Filmen"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er adaptert fra romanen \u00ab Renkesmed \u00bb av Sarah Waters"
+                ],
+                [
+                    "7:60"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "er flyttet fra England i viktoriatiden til Korea tidlig p\u00e5 1930-tallet"
+                ],
+                [
+                    "77:147"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Filmen er adaptert fra romanen \u00ab Renkesmed \u00bb av Sarah Waters , og handlingen er flyttet fra England i viktoriatiden til Korea tidlig p\u00e5 1930-tallet , da landet var under japansk styre .",
+    "sent_id": "600682-04-01"
+}

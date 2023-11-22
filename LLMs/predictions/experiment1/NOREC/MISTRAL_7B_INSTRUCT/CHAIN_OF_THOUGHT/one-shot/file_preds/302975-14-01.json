@@ -1,0 +1,61 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Foruten"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dramatisk episode"
+                ],
+                [
+                    "11:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "jevn"
+                ],
+                [
+                    "68:72"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "slak spenningskurve"
+                ],
+                [
+                    "75:94"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Foruten \u00e9n dramatisk episode under flukten , f\u00f8lger fortellingen en jevn , slak spenningskurve .",
+    "sent_id": "302975-14-01"
+}

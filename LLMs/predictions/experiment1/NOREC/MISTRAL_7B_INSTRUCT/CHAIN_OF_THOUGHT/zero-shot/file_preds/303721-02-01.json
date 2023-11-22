@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Altcountryhelter"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "med"
+                ],
+                [
+                    "17:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "beina p\u00e5 bordet"
+                ],
+                [
+                    "21:36"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Altcountryhelter med beina p\u00e5 bordet .",
+    "sent_id": "303721-02-01"
+}

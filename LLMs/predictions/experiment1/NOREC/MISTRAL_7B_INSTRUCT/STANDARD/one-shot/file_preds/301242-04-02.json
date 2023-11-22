@@ -1,0 +1,97 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "De"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "strategene"
+                ],
+                [
+                    "20:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ikke de store"
+                ],
+                [
+                    "6:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "men"
+                ],
+                [
+                    "33:36"
+                ]
+            ],
+            "Target": [
+                [
+                    "strategene"
+                ],
+                [
+                    "20:30"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "sm\u00e5"
+                ],
+                [
+                    "37:40"
+                ]
+            ],
+            "Target": [
+                [
+                    "brikker"
+                ],
+                [
+                    "41:48"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "gjenstander"
+                ],
+                [
+                    "51:62"
+                ]
+            ],
+            "Target": [
+                [
+                    "historien"
+                ],
+                [
+                    "67:76"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "De er ikke de store strategene , men sm\u00e5 brikker , gjenstander for historien .",
+    "sent_id": "301242-04-02"
+}

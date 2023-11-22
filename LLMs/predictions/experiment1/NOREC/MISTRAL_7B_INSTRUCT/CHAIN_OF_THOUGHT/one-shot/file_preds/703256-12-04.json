@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Irene ( Mareike Wang )"
+                ],
+                [
+                    "21:43"
+                ]
+            ],
+            "Target": [
+                [
+                    "kj\u00e6resten Irene ( Mareike Wang )"
+                ],
+                [
+                    "11:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "har s\u00e5 mye begeistret energ"
+                ],
+                [
+                    "44:71"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "noe denne familien"
+                ],
+                [
+                    "170:188"
+                ]
+            ],
+            "Target": [
+                [
+                    "kj\u00e6resten Irene ( Mareike Wang )"
+                ],
+                [
+                    "11:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "virkelig trenger"
+                ],
+                [
+                    "189:205"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Ogs\u00e5 fordi kj\u00e6resten Irene ( Mareike Wang ) har s\u00e5 mye begeistret energi at hun fyller hele hagen og hele teatret med Liverpool-sanger og befriende filterfri oppf\u00f8rsel - noe denne familien virkelig trenger .",
+    "sent_id": "703256-12-04"
+}

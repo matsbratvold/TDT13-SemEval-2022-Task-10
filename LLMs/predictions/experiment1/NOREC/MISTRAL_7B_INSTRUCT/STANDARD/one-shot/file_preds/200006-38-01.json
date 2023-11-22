@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "appen"
+                ],
+                [
+                    "11:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "s\u00f8vnverkt\u00f8y"
+                ],
+                [
+                    "40:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "riktignok et oppdatert"
+                ],
+                [
+                    "17:39"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "s\u00f8vnverkt\u00f8y"
+                ],
+                [
+                    "40:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lar deg sette opp en s\u00e5kalt \" sleep schedule \""
+                ],
+                [
+                    "58:104"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Nylig fikk appen riktignok et oppdatert s\u00f8vnverkt\u00f8y , som lar deg sette opp en s\u00e5kalt \" sleep schedule \" , hvor du setter opp hvor mange timer du \u00f8nsker \u00e5 sove per natt .",
+    "sent_id": "200006-38-01"
+}

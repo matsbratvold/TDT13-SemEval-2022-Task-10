@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "blir liksom ikke nok"
+                ],
+                [
+                    "8:28"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Men det blir liksom ikke nok .",
+    "sent_id": "300186-13-01"
+}

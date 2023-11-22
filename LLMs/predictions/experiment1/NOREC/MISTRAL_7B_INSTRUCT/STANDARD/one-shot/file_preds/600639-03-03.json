@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "overf\u00f8rer han"
+                ],
+                [
+                    "3:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "br\u00e5tt hele arven sin til henne"
+                ],
+                [
+                    "17:47"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Da overf\u00f8rer han br\u00e5tt hele arven sin til henne .",
+    "sent_id": "600639-03-03"
+}

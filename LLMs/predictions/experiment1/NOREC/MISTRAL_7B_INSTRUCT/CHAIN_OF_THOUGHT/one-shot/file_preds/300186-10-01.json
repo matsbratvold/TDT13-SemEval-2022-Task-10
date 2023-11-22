@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Serien"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "realitykonkurranser"
+                ],
+                [
+                    "20:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ligner"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Serien"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "realitykonkurranser"
+                ],
+                [
+                    "20:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mangler"
+                ],
+                [
+                    "94:101"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Serien"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "realitykonkurranser"
+                ],
+                [
+                    "20:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mangler det forf\u00f8rende elementet som gj\u00f8r at du blir sittende og glo"
+                ],
+                [
+                    "94:162"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Serien ligner andre realitykonkurranser , som \u00ab Mesternes mester \u00bb og \u00ab Skal vi danse \u00bb , men mangler det forf\u00f8rende elementet som gj\u00f8r at du blir sittende og glo , selv om du egentlig hadde tenkt \u00e5 gj\u00f8re noe annet .",
+    "sent_id": "300186-10-01"
+}

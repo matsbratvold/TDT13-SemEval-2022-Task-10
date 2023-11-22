@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Karunaratne"
+                ],
+                [
+                    "149:160"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "continued"
+                ],
+                [
+                    "9:18"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Fighting continued two hours after the initial exchange of fire in high seas and the navy had called in more gun ships to beat back the guerrillas , Karunaratne said .",
+    "sent_id": "20010916/21.24.32-9824-3"
+}

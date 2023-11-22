@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "they"
+                ],
+                [
+                    "40:44"
+                ]
+            ],
+            "Target": [
+                [
+                    "drugs"
+                ],
+                [
+                    "119:124"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "they will always have a way"
+                ],
+                [
+                    "83:110"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "yeah exactly right it really is because they 're gonna get them one way or another they will always have a way look at drugs they always have a way to get that so",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-15"
+}

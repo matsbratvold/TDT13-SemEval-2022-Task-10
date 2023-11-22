@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "According to estimates"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "will be 20 percent below the 1990 level"
+                ],
+                [
+                    "150:189"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "According to estimates by the Ministry of Economic Development and the Ministry of Energy , Russia 's total carbon - dioxide emissions in 2008 - 2012 will be 20 percent below the 1990 level . This means that Russia will be able to offer the carbon market emission quotas of up to 3 billion tons . The cash equivalent could be several tens of billions of dollars .",
+    "sent_id": "temp_fbis/21.10.31-12974-30"
+}

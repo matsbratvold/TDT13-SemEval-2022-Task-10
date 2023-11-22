@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "boka"
+                ],
+                [
+                    "20:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "preges"
+                ],
+                [
+                    "13:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "tapet"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "av n\u00e6r venn , kollega og skrivebror Jon Bing"
+                ],
+                [
+                    "34:78"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Jon Bing"
+                ],
+                [
+                    "70:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "( \u00ab for tiden er i himmelen \u00bb ) d\u00f8de i 2014"
+                ],
+                [
+                    "83:126"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Denne gangen preges boka av tapet av n\u00e6r venn , kollega og skrivebror Jon Bing som ( \u00ab for tiden er i himmelen \u00bb ) d\u00f8de i 2014 .",
+    "sent_id": "601365-06-01"
+}

@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skal ikke mer til enn ett lytt"
+                ],
+                [
+                    "4:34"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "ett lytt"
+                ],
+                [
+                    "26:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00f8r en tar seg selv i \u00e5 dundre gjennom de tynne kollektivveggene"
+                ],
+                [
+                    "35:99"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "ett lytt"
+                ],
+                [
+                    "26:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med Sigrid i h\u00f8yttalerne"
+                ],
+                [
+                    "100:124"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det skal ikke mer til enn ett lytt f\u00f8r en tar seg selv i \u00e5 dundre gjennom de tynne kollektivveggene med Sigrid i h\u00f8yttalerne .",
+    "sent_id": "003121-06-03"
+}

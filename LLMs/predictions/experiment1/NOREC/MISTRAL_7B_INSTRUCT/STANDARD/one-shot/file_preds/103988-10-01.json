@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Ordet"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "metafor for rumpe og twerking"
+                ],
+                [
+                    "31:60"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Ordet"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "selvf\u00f8lgelig ogs\u00e5 sjampis og goood stemning"
+                ],
+                [
+                    "67:110"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Ordet brukes stort sett som en metafor for rumpe og twerking , men selvf\u00f8lgelig ogs\u00e5 sjampis og goood stemning .",
+    "sent_id": "103988-10-01"
+}

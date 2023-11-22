@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Jakten"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "g\u00e5r"
+                ],
+                [
+                    "7:10"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Norge"
+                ],
+                [
+                    "33:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjennom stor deler av"
+                ],
+                [
+                    "11:32"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Jakten g\u00e5r gjennom stor deler av Norge .",
+    "sent_id": "600725-05-04"
+}

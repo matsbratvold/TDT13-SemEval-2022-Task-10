@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Zhang"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "Paul Wolfowitz"
+                ],
+                [
+                    "73:87"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bashed"
+                ],
+                [
+                    "11:17"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Zhang"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "Tang Yao - Ming"
+                ],
+                [
+                    "162:177"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "attended"
+                ],
+                [
+                    "114:122"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Zhang also bashed remarks made last month by US Deputy Defense Secretary Paul Wolfowitz at a meeting in Florida , attended by visiting Taiwanese Defense Minister Tang Yao - Ming .",
+    "sent_id": "temp_fbis/22.34.58-23977-10"
+}

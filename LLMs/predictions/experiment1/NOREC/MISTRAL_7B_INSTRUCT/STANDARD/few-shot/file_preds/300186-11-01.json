@@ -1,0 +1,44 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "deltakerne"
+                ],
+                [
+                    "3:13"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "deltakerne"
+                ],
+                [
+                    "3:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5rsak"
+                ],
+                [
+                    "49:54"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "At deltakerne ikke er kjendiser , er selvsagt \u00e9n \u00e5rsak .",
+    "sent_id": "300186-11-01"
+}

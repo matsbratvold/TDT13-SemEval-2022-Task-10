@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The chairman"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "the countries will do their best to ensure 1997 Kyoto Protocol is put into effect in 2002 to curb global warming"
+                ],
+                [
+                    "34:146"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stated"
+                ],
+                [
+                    "22:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "The chairman"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "developed countries would give financial and technical support to those countries vulnerable to climate change"
+                ],
+                [
+                    "164:274"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stated"
+                ],
+                [
+                    "22:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "The chairman"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "stated"
+                ],
+                [
+                    "22:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The chairman 's paper stated that the countries will do their best to ensure 1997 Kyoto Protocol is put into effect in 2002 to curb global warming . It also stated developed countries would give financial and technical support to those countries vulnerable to climate change , such as island nations , and alleviate the global warming 's impact by introducing devices such as satellite observation systems to monitor rising sea levels .",
+    "sent_id": "non_fbis/04.24.14-26782-8"
+}

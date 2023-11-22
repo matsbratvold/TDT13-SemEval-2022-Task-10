@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "bakteppe"
+                ],
+                [
+                    "7:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det er bakteppe til denne sterke danske filmen som Martin Zandvliet har skrevet og regissert .",
+    "sent_id": "400175-05-01"
+}

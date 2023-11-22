@@ -1,0 +1,130 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "They"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "get"
+                ],
+                [
+                    "5:8"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "American soldiers"
+                ],
+                [
+                    "60:77"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "get"
+                ],
+                [
+                    "5:8"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "American soldiers"
+                ],
+                [
+                    "60:77"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "do"
+                ],
+                [
+                    "53:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "American soldiers"
+                ],
+                [
+                    "60:77"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "do"
+                ],
+                [
+                    "53:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "American soldiers"
+                ],
+                [
+                    "60:77"
+                ]
+            ],
+            "Target": [
+                [
+                    "popcorn and pizzas"
+                ],
+                [
+                    "149:167"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "are"
+                ],
+                [
+                    "168:171"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "They get \" culturally appropriate \" halal meals . So do the American soldiers , at Cuba 's only McDonald 's restaurant or the all - ranks bars where popcorn and pizzas are the only fare .",
+    "sent_id": "non_fbis/12.46.57-22041-18"
+}

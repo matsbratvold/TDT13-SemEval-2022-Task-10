@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "det h\u00f8res"
+                ],
+                [
+                    "9:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "naivt ut"
+                ],
+                [
+                    "19:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "alt klaffer"
+                ],
+                [
+                    "72:83"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til gode \u00e5 overv\u00e6re"
+                ],
+                [
+                    "37:56"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Synes du det h\u00f8res naivt ut , har du til gode \u00e5 overv\u00e6re et dj-sett der alt klaffer :",
+    "sent_id": "302108-05-02"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "41:55"
+                ]
+            ],
+            "Target": [
+                [
+                    "Rice"
+                ],
+                [
+                    "71:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "assign tasks"
+                ],
+                [
+                    "329:341"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "After hearing from his senior advisers , President Bush discussed with Rice the contents of the directives he would issue to set all the plans into motion . Rice prepared a paper that President Bush then considered with principals on Monday morning , September 17 . \" The purpose of this meeting , \" he recalled saying , \" is to assign tasks for the first wave of the war against terrorism . It starts today . \"",
+    "sent_id": "ula/chapter-10-40"
+}

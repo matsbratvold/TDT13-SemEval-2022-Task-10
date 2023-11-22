@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "abuses in its own land"
+                ],
+                [
+                    "136:158"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "accusing"
+                ],
+                [
+                    "90:98"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "criticizing other countries for theirs"
+                ],
+                [
+                    "165:203"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "accusing"
+                ],
+                [
+                    "90:98"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "turning a blind eye to abuses in its own land"
+                ],
+                [
+                    "113:158"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "accusing"
+                ],
+                [
+                    "90:98"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "BEIJING - China issued its annual report on human rights in the United States on Monday , accusing Washington of turning a blind eye to abuses in its own land while criticizing other countries for theirs .",
+    "sent_id": "non_fbis/04.22.14-2532-1"
+}

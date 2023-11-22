@@ -1,0 +1,111 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sette"
+                ],
+                [
+                    "8:13"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "oss"
+                ],
+                [
+                    "14:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sette"
+                ],
+                [
+                    "8:13"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "andres sted"
+                ],
+                [
+                    "20:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sette"
+                ],
+                [
+                    "8:13"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "gj\u00f8re"
+                ],
+                [
+                    "42:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "slik gj\u00f8re"
+                ],
+                [
+                    "37:47"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "komplekse sammenhenger"
+                ],
+                [
+                    "69:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "slik gj\u00f8re"
+                ],
+                [
+                    "37:47"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den kan sette oss i andres sted , og slik gj\u00f8re det lettere \u00e5 forst\u00e5 komplekse sammenhenger .",
+    "sent_id": "302975-10-02"
+}

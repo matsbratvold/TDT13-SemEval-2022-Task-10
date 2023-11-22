@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "alt"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er selvf\u00f8lgelig ikke fryd og gammen"
+                ],
+                [
+                    "8:43"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Men alt er selvf\u00f8lgelig ikke fryd og gammen .",
+    "sent_id": "000298-15-01"
+}

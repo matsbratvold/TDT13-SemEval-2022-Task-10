@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "han"
+                ],
+                [
+                    "12:15"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "beviser"
+                ],
+                [
+                    "4:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "han"
+                ],
+                [
+                    "12:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "orgel-skank"
+                ],
+                [
+                    "72:83"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skank"
+                ],
+                [
+                    "78:83"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det beviser han ved \u00e5 bryte rappingen med stakkato linjer over en enkel orgel-skank :",
+    "sent_id": "103988-13-02"
+}

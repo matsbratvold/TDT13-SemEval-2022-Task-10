@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "glaciers"
+                ],
+                [
+                    "7:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "Antarctica"
+                ],
+                [
+                    "19:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "melt down"
+                ],
+                [
+                    "44:53"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "glaciers"
+                ],
+                [
+                    "7:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "Greenland"
+                ],
+                [
+                    "34:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "melt down"
+                ],
+                [
+                    "44:53"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "territory"
+                ],
+                [
+                    "185:194"
+                ]
+            ],
+            "Target": [
+                [
+                    "Western Siberia"
+                ],
+                [
+                    "198:213"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "risks turning into a sea"
+                ],
+                [
+                    "214:238"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "territory"
+                ],
+                [
+                    "185:194"
+                ]
+            ],
+            "Target": [
+                [
+                    "Russia"
+                ],
+                [
+                    "101:107"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "low - lying areas"
+                ],
+                [
+                    "127:144"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "If the glaciers of Antarctica and Greenland melt down , the level of the world 's oceans will rise . Russia has quite a lot of low - lying areas , such as St. Petersburg . The enormous territory of Western Siberia risks turning into a sea .",
+    "sent_id": "temp_fbis/21.10.31-12974-43"
+}

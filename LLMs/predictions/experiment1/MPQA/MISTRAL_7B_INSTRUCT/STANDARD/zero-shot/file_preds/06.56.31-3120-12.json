@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Zimbabwe security forces"
+                ],
+                [
+                    "0:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "Harare"
+                ],
+                [
+                    "74:80"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "erected roadblocks"
+                ],
+                [
+                    "48:66"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Zimbabwe security forces went on high alert and erected roadblocks around Harare after the result was announced .",
+    "sent_id": "non_fbis/06.56.31-3120-12"
+}

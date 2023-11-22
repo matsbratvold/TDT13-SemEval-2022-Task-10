@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bensinbiler"
+                ],
+                [
+                    "36:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "5 prosent"
+                ],
+                [
+                    "21:30"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hybrider"
+                ],
+                [
+                    "62:70"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "95 prosent"
+                ],
+                [
+                    "51:61"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "I fjor var forholdet 5 prosent rene bensinbiler og 95 prosent hybrider .",
+    "sent_id": "202298-21-02"
+}

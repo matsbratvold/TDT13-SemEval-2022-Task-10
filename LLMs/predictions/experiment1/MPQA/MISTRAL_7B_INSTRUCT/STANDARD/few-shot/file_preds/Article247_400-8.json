@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the Times"
+                ],
+                [
+                    "633:642"
+                ]
+            ],
+            "Target": [
+                [
+                    "Mother Teresa"
+                ],
+                [
+                    "32:45"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "the Times"
+                ],
+                [
+                    "633:642"
+                ]
+            ],
+            "Target": [
+                [
+                    "Mother Teresa"
+                ],
+                [
+                    "32:45"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Christopher Hitchens"
+                ],
+                [
+                    "703:723"
+                ]
+            ],
+            "Target": [
+                [
+                    "Mother Teresa"
+                ],
+                [
+                    "32:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "made virtually no significant changes in the social structure of this collapsing city 's poor neighborhoods"
+                ],
+                [
+                    "300:407"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Give the NYT credit for getting Mother Teresa back on the front page and a bonus point for including some criticism of her in the story . \" Not everyone in Calcutta , or India for that matter , is unanimous in praising the nun , whose organization was able to raise millions of dollars worldwide but made virtually no significant changes in the social structure of this collapsing city 's poor neighborhoods . Salvation -- hers and that of the destitute she rescued from the gutters -- was her aim , not economic or social development as many others understand it , she said . \" It 's odd , however , that in repeating this charge , the Times did n't interview the man most closely associated with it , Christopher Hitchens , or refer to the book where he set it out , The Missionary Position . Hmmm , wanna bet there was a copy of the book on somebody 's desk at the Times though ?",
+    "sent_id": "ula/Article247_400-8"
+}

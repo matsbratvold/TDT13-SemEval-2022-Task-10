@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sony"
+                ],
+                [
+                    "20:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "Jon Peters and Peter Guber"
+                ],
+                [
+                    "53:79"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Still unresolved"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Still unresolved is Sony 's effort to hire producers Jon Peters and Peter Guber to run the studio . Sony 's planned acquisition of Guber / Peters Entertainment Co. for $ 200 million is scheduled to close Monday . Guber / Peters has been locked in litigation with Warner Communications Inc. in an attempt to get out of an exclusive production contract with Warner . Both sides are in talks to settle the dispute .",
+    "sent_id": "xbank/wsj_0175-3"
+}

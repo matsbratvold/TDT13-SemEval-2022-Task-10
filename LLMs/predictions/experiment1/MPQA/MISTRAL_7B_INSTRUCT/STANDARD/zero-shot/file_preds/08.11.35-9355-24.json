@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Emergency workers"
+                ],
+                [
+                    "2:19"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "- Emergency workers say that in total , at least 41 people have been killed and 323 injured in rioting around the country since Thursday .",
+    "sent_id": "non_fbis/08.11.35-9355-24"
+}

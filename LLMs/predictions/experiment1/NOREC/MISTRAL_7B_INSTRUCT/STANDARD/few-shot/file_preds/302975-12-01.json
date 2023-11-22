@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bilde"
+                ],
+                [
+                    "8:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "godt"
+                ],
+                [
+                    "3:7"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Et godt bilde",
+    "sent_id": "302975-12-01"
+}

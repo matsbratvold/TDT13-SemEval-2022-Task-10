@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Shivute"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "total confusion"
+                ],
+                [
+                    "41:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "carried"
+                ],
+                [
+                    "29:36"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Shivute also said the report carried a \" total confusion \" of historical data by claiming that the National Union of Namibian Workers ( NUNW ) was no longer affiliated to the Swapo Party .",
+    "sent_id": "temp_fbis/21.31.45-20536-14"
+}

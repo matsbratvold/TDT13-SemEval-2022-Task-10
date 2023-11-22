@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "International Maritime Bureau"
+                ],
+                [
+                    "17:46"
+                ]
+            ],
+            "Target": [
+                [
+                    "piracy"
+                ],
+                [
+                    "120:126"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "exceeding the record high"
+                ],
+                [
+                    "250:275"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "International Maritime Bureau"
+                ],
+                [
+                    "17:46"
+                ]
+            ],
+            "Target": [
+                [
+                    "piracy"
+                ],
+                [
+                    "120:126"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "According to the International Maritime Bureau , a civic organ which acts on reports of suspicious shipping movements , piracy , and armed robbery at sea anywhere in the world , the number of pirate attacks in the first half of this year stood 165 , exceeding the record high of 161 pirate attacks in 2000 . Ninety of the attacks , approximately half of attacks that took place in the world , were reported in Southeast Asian waters .",
+    "sent_id": "20011003/21.57.16-1319-1"
+}

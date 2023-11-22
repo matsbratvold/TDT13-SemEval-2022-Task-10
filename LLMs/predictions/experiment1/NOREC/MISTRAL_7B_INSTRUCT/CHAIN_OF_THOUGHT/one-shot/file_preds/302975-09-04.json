@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Samir"
+                ],
+                [
+                    "22:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00f8tt"
+                ],
+                [
+                    "17:21"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Samir"
+                ],
+                [
+                    "22:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blitt kjent med ham"
+                ],
+                [
+                    "40:59"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Samir"
+                ],
+                [
+                    "22:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00f8lger videre"
+                ],
+                [
+                    "76:89"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Etter at hun har m\u00f8tt Samir , og vi har blitt kjent med ham , er det ham vi f\u00f8lger videre .",
+    "sent_id": "302975-09-04"
+}

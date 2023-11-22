@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "programskaperne"
+                ],
+                [
+                    "8:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "spenningen"
+                ],
+                [
+                    "86:96"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "pumpe opp"
+                ],
+                [
+                    "76:85"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det vet programskaperne ogs\u00e5 , og det blir veldig tydelig n\u00e5r de fors\u00f8ker \u00e5 pumpe opp spenningen :",
+    "sent_id": "300186-08-02"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "han"
+                ],
+                [
+                    "11:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "onkel Johs"
+                ],
+                [
+                    "19:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sv\u00e6rt hjerte"
+                ],
+                [
+                    "48:60"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "han"
+                ],
+                [
+                    "11:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "onkel Johs"
+                ],
+                [
+                    "19:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enest\u00e5ende evne til \u00e5 bruke ord og formuleringer"
+                ],
+                [
+                    "108:156"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dels fordi han gir onkel Johs ( Espen Hana ) et sv\u00e6rt hjerte som rommer hele familien og vel s\u00e5 det , og en enest\u00e5ende evne til \u00e5 bruke ord og formuleringer som viser at han s\u00e5visst har dannelse , til tross for at han ikke fikk den skarpeste kniven i skapet .",
+    "sent_id": "703256-12-03"
+}

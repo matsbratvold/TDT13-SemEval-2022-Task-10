@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Tropical Freeze"
+                ],
+                [
+                    "128:143"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "godt"
+                ],
+                [
+                    "7:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Tropical Freeze"
+                ],
+                [
+                    "128:143"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "og ja"
+                ],
+                [
+                    "14:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Tropical Freeze"
+                ],
+                [
+                    "128:143"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enda litt bedre enn sist"
+                ],
+                [
+                    "22:46"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Tropical Freeze"
+                ],
+                [
+                    "128:143"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "men i m\u00f8te med de siste \u00e5renes utrolige kvalitetsniv\u00e5 p\u00e5 plattformspill kommer Tropical Freeze til kort"
+                ],
+                [
+                    "49:152"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er godt , og ja , enda litt bedre enn sist , men i m\u00f8te med de siste \u00e5renes utrolige kvalitetsniv\u00e5 p\u00e5 plattformspill kommer Tropical Freeze til kort",
+    "sent_id": "000787-12-02"
+}

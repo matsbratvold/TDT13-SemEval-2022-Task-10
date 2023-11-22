@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Smil"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "og"
+                ],
+                [
+                    "5:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "og"
+                ],
+                [
+                    "5:7"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "og"
+                ],
+                [
+                    "5:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "latter"
+                ],
+                [
+                    "8:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "latter"
+                ],
+                [
+                    "8:14"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Smil og latter .",
+    "sent_id": "302975-03-03"
+}

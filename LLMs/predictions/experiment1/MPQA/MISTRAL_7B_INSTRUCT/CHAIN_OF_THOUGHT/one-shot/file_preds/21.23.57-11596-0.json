@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Youths Nidal Sanduqah and Ra' fat al - Bajjali"
+                ],
+                [
+                    "0:46"
+                ]
+            ],
+            "Target": [
+                [
+                    "a strong explosion"
+                ],
+                [
+                    "83:101"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "seriously injured"
+                ],
+                [
+                    "52:69"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Our correspondent"
+                ],
+                [
+                    "140:157"
+                ]
+            ],
+            "Target": [
+                [
+                    "causes of the explosion"
+                ],
+                [
+                    "168:191"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "unknown"
+                ],
+                [
+                    "265:272"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "concerned agencies"
+                ],
+                [
+                    "350:368"
+                ]
+            ],
+            "Target": [
+                [
+                    "investigation into the incident"
+                ],
+                [
+                    "386:417"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "launched"
+                ],
+                [
+                    "374:382"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Youths Nidal Sanduqah and Ra' fat al - Bajjali were seriously injured as result of a strong explosion that rocked the center of Bethlehem . Our correspondent said that causes of the explosion , which took place in a house in Al - Saf Street in the city , are still unknown . He added that a third person was moderately wounded in the explosion . The concerned agencies have launched an investigation into the incident .",
+    "sent_id": "20011203/21.23.57-11596-0"
+}

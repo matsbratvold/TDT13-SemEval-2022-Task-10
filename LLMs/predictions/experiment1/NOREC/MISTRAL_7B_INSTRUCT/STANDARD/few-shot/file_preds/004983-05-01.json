@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Claude Barras"
+                ],
+                [
+                    "9:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "Regiss\u00f8r"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "styrer ikke unna det som er vanskelig og ubehagelig"
+                ],
+                [
+                    "23:74"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Regiss\u00f8r"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "ledsager oss gjennom m\u00f8rket og barnas usikkerhet"
+                ],
+                [
+                    "81:129"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Regiss\u00f8r Claude Barras styrer ikke unna det som er vanskelig og ubehagelig , men ledsager oss gjennom m\u00f8rket og barnas usikkerhet med kj\u00e6rlighet , humor og forst\u00e5else for individene som skildres .",
+    "sent_id": "004983-05-01"
+}

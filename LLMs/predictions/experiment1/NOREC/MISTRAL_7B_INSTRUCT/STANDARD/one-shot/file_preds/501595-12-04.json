@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Tiramisuen"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "den beste jeg har f\u00e5tt servert i Bergen"
+                ],
+                [
+                    "110:149"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Tiramisuen med frisk ostekrem , fingerkjeks som enda ikke er blitt helt soggy og sjokoladebiter i bunnen , er den beste jeg har f\u00e5tt servert i Bergen .",
+    "sent_id": "501595-12-04"
+}

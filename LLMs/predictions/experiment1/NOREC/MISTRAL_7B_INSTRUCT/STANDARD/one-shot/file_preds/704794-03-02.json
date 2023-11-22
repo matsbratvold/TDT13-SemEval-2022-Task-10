@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "3DS-spillet Donkey Kong Country Returns"
+                ],
+                [
+                    "11:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "var absolutt et stilig bekjentskap"
+                ],
+                [
+                    "60:94"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I fjor kom 3DS-spillet Donkey Kong Country Returns , og det var absolutt et stilig bekjentskap .",
+    "sent_id": "704794-03-02"
+}

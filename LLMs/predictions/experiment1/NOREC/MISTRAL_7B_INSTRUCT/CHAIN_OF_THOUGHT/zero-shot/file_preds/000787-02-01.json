@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "vikingpingviner"
+                ],
+                [
+                    "5:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "sydhavet"
+                ],
+                [
+                    "28:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "inntar"
+                ],
+                [
+                    "21:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Onde vikingpingviner inntar sydhavet .",
+    "sent_id": "000787-02-01"
+}

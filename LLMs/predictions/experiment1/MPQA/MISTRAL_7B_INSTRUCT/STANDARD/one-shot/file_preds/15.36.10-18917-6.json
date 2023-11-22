@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Chavez"
+                ],
+                [
+                    "85:91"
+                ]
+            ],
+            "Target": [
+                [
+                    "those who were behind the military coup in Venezuela"
+                ],
+                [
+                    "30:82"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "wanted"
+                ],
+                [
+                    "103:109"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Referring to the objective of those who were behind the military coup in Venezuela , Chavez said they wwanted to have Venezuela come out from the Organization of the Petroleum Exporting Countries ( OPEC ) and therefore tried to produce more oil in order to undermine the organization .",
+    "sent_id": "non_fbis/15.36.10-18917-6"
+}

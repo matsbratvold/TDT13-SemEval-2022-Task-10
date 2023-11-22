@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The lawyers"
+                ],
+                [
+                    "282:293"
+                ]
+            ],
+            "Target": [
+                [
+                    "a stack of documents"
+                ],
+                [
+                    "61:81"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "received"
+                ],
+                [
+                    "52:60"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "A few days after filing the complaint , the lawyers received a stack of documents in Hebrew and in English regarding the 1982 Israeli invasion of Lebanon and the Sabra and Shatila events . The documents include meeting reports , and intelligence service and interrogation reports . The lawyers refused to reveal the source of the documents .",
+    "sent_id": "20011127/21.22.54-17837-2"
+}

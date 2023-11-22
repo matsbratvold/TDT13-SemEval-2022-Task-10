@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "al - Jazeera television crew"
+                ],
+                [
+                    "6:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "gunshot wound"
+                ],
+                [
+                    "148:161"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "amputated"
+                ],
+                [
+                    "121:130"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "As an al - Jazeera television crew walks through , the staff rolls out a patient who has just had his right index finger amputated as a result of a gunshot wound . The cameraman continues filming while a nurse covers the patient 's face .",
+    "sent_id": "non_fbis/06.44.52-19992-70"
+}

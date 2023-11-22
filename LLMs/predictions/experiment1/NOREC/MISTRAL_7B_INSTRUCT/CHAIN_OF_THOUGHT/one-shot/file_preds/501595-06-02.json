@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Simon"
+                ],
+                [
+                    "32:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "18:20"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "kamerat"
+                ],
+                [
+                    "44:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som kokkelerer"
+                ],
+                [
+                    "52:66"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Inne p\u00e5 kj\u00f8kkenet er det s\u00f8nnen Simon og en kamerat som kokkelerer .",
+    "sent_id": "501595-06-02"
+}

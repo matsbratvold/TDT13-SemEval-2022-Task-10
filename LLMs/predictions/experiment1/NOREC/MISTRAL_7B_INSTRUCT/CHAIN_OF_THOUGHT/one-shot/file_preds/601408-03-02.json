@@ -1,0 +1,46 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ingen"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "de som hevdet det"
+                ],
+                [
+                    "61:78"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Ingen letter p\u00e5 et \u00f8yenbryn over en slik p\u00e5stand i dag , men de som hevdet det mens landssvikoppgj\u00f8ret p\u00e5gikk , fikk sterk motb\u00f8r .",
+    "sent_id": "601408-03-02"
+}

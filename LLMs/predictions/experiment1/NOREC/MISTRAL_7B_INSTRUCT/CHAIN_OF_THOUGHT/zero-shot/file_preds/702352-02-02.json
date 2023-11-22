@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Aldom\u00f3var-filmen"
+                ],
+                [
+                    "16:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "Julieta"
+                ],
+                [
+                    "35:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ubegripelig sjokk"
+                ],
+                [
+                    "70:87"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I den betagende Aldom\u00f3var-filmen \u00ab Julieta \u00bb f\u00e5r hovedpersonen seg et ubegripelig sjokk .",
+    "sent_id": "702352-02-02"
+}

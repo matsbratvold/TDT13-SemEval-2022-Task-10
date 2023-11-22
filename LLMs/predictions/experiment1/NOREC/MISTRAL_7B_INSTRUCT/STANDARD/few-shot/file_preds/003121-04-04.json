@@ -1,0 +1,41 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Sigrid"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ingen fisefin liten jente"
+                ],
+                [
+                    "10:35"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "ei hardbarka og genuin dame"
+                ],
+                [
+                    "42:69"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Sigrid er ingen fisefin liten jente , men ei hardbarka og genuin dame .",
+    "sent_id": "003121-04-04"
+}

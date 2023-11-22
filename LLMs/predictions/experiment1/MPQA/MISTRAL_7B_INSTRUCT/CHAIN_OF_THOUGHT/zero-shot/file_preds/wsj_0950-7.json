@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "GM Hughes"
+                ],
+                [
+                    "21:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "GM Hughes net"
+                ],
+                [
+                    "21:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fell"
+                ],
+                [
+                    "35:39"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "GM Hughes"
+                ],
+                [
+                    "21:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "Revenue"
+                ],
+                [
+                    "128:135"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rose"
+                ],
+                [
+                    "136:140"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "In the nine months , GM Hughes net fell 6.6 % to $ 486.6 million , or $ 1.48 a share , from $ 521 million , or $ 1.58 a share . Revenue rose 3.5 % to $ 8.47 billion from $ 8.18 billion .",
+    "sent_id": "xbank/wsj_0950-7"
+}

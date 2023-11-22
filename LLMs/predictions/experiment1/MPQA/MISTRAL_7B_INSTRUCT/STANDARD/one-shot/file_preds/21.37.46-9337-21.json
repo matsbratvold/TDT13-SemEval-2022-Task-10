@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The sect"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "has been banned"
+                ],
+                [
+                    "9:24"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The sect has been banned because of its activities in China in the 1980s .",
+    "sent_id": "temp_fbis/21.37.46-9337-21"
+}

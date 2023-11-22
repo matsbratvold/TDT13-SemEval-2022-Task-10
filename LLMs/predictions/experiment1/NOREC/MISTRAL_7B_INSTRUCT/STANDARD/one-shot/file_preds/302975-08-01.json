@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "De"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "synest"
+                ],
+                [
+                    "5:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "De \u00ab synest at Noreg har s\u00e5 mange pengar og s\u00e5 god plass at me b\u00f8r la Samir og andre born som han f\u00e5 lov til \u00e5 vere her \u00bb .",
+    "sent_id": "302975-08-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "fortellingen"
+                ],
+                [
+                    "20:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "utviklet"
+                ],
+                [
+                    "33:41"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det var ikke dithen fortellingen utviklet seg !",
+    "sent_id": "302975-14-04"
+}

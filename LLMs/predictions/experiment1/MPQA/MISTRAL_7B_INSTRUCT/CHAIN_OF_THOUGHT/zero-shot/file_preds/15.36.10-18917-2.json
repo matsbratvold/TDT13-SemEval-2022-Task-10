@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Khatami"
+                ],
+                [
+                    "34:51"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "return of the legitimate president and government to power"
+                ],
+                [
+                    "119:177"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "During a telephone conversation , President Khatami told his Venezuelan counterpart , President Hugo Chavex , that the return of the legitimate president and government to power was a victory of justice and freedom .",
+    "sent_id": "non_fbis/15.36.10-18917-2"
+}

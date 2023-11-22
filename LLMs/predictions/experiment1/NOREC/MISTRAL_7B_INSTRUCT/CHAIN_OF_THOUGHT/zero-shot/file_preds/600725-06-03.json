@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jakten p\u00e5 Olavsskrinet"
+                ],
+                [
+                    "2:24"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "skal likevel ha"
+                ],
+                [
+                    "27:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab Jakten p\u00e5 Olavsskrinet \u00bb skal likevel ha for ikke \u00e5 kjede oss .",
+    "sent_id": "600725-06-03"
+}

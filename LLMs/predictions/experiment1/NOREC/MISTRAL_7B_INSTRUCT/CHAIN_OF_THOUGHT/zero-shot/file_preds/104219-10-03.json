@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Del II"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "barber"
+                ],
+                [
+                    "29:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kunne med fordel v\u00e6rt"
+                ],
+                [
+                    "7:28"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Del II"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "journalistmilj\u00f8et"
+                ],
+                [
+                    "65:82"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Del II kunne med fordel v\u00e6rt barbert ; de mange skildringene fra journalistmilj\u00f8et i Oslo gir f.eks . lite nytt .",
+    "sent_id": "104219-10-03"
+}

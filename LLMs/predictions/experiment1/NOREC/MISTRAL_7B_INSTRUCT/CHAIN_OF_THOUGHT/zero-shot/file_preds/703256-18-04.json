@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "varmt og sart og \u00f8mt"
+                ],
+                [
+                    "7:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00f8mt"
+                ],
+                [
+                    "24:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "varmt og sart og \u00f8mt"
+                ],
+                [
+                    "7:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00f8mt"
+                ],
+                [
+                    "24:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "varmt og sart og \u00f8mt"
+                ],
+                [
+                    "7:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00f8mt"
+                ],
+                [
+                    "24:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er varmt og sart og \u00f8mt , \u00f8mt , \u00f8mt .",
+    "sent_id": "703256-18-04"
+}

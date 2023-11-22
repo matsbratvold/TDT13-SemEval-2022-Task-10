@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Tropical Freeze"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "skinner rent visuelt"
+                ],
+                [
+                    "35:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Tropical Freeze p\u00e5 Wii U-konsollen skinner rent visuelt .",
+    "sent_id": "000787-05-02"
+}

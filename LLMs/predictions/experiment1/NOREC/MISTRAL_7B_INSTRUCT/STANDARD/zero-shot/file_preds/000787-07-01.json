@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Gamle kjente"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "eldre bekjentskaper"
+                ],
+                [
+                    "16:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "eldre bekjentskaper"
+                ],
+                [
+                    "16:35"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Gamle kjente og eldre bekjentskaper",
+    "sent_id": "000787-07-01"
+}

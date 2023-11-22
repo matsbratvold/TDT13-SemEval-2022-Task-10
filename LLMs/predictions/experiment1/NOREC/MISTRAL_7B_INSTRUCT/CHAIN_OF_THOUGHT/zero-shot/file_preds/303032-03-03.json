@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "jeg"
+                ],
+                [
+                    "8:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "han"
+                ],
+                [
+                    "17:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tror"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "jeg"
+                ],
+                [
+                    "8:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "vokalen"
+                ],
+                [
+                    "45:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "temmet"
+                ],
+                [
+                    "62:68"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "jeg"
+                ],
+                [
+                    "8:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "vokalen"
+                ],
+                [
+                    "45:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "disiplinert"
+                ],
+                [
+                    "72:83"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Uten at jeg tror han legger b\u00e5nd p\u00e5 seg , er vokalen ogs\u00e5 mer temmet og disiplinert p\u00e5 \u00ab Feelosophy \u00bb .",
+    "sent_id": "303032-03-03"
+}

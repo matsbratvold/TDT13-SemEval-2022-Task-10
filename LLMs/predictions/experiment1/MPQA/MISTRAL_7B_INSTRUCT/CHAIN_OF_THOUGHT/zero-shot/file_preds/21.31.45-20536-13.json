@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "report"
+                ],
+                [
+                    "12:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "claimed"
+                ],
+                [
+                    "36:43"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Namibia Today"
+                ],
+                [
+                    "71:84"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "was a Government - owned magazine"
+                ],
+                [
+                    "112:145"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "He said the report , for instance , claimed that the Swapo publication Namibia Today , the ruling party paper , was a Government - owned magazine .",
+    "sent_id": "temp_fbis/21.31.45-20536-13"
+}

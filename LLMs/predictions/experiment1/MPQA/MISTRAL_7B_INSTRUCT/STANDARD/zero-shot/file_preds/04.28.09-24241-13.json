@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Gitmo"
+                ],
+                [
+                    "19:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "detainees"
+                ],
+                [
+                    "4:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "are of various nationalities"
+                ],
+                [
+                    "60:88"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The detainees at \" Gitmo , \" as US soldiers call the base , are of various nationalities . Saudi officials have said that 100 are from the Gulf kingdom and have demanded they be returned to face justice at home .",
+    "sent_id": "non_fbis/04.28.09-24241-13"
+}

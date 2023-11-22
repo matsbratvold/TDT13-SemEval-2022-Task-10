@@ -1,0 +1,83 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "undermotorisert"
+                ],
+                [
+                    "11:26"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "noe"
+                ],
+                [
+                    "29:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bidro til at den ble pisket ekstra i bruk"
+                ],
+                [
+                    "37:78"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "noe"
+                ],
+                [
+                    "29:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "igjen f\u00f8rte til et langt h\u00f8yere forbruk enn det oppgitte"
+                ],
+                [
+                    "89:145"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den f\u00f8ltes undermotorisert , noe som bidro til at den ble pisket ekstra i bruk , noe som igjen f\u00f8rte til et langt h\u00f8yere forbruk enn det oppgitte .",
+    "sent_id": "202298-05-04"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Central Eurasia"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "Russia"
+                ],
+                [
+                    "16:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Russia"
+                ],
+                [
+                    "16:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Central Eurasia Russia Russia",
+    "sent_id": "20020523/22.37.46-10374-3"
+}

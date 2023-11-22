@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "a number of their troops"
+                ],
+                [
+                    "48:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dispatched"
+                ],
+                [
+                    "37:47"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Over the last few days , the Taleban dispatched a number of their troops from [ the capital of northern Balkh Province ] Mazar-e Sharif under the command of Qayum and Hashim to Takhar . At the same time , a number of troops were sent to the Dara-e Suf area [ Samangan Province ] led by commander Yari and commander Samar from the Dehdadi military fort near Mazar-e Sharif .",
+    "sent_id": "20010718/23.47.18-27024-2"
+}

@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bare"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "smak p\u00e5 ordet \u00ab boble \u00bb"
+                ],
+                [
+                    "5:28"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "eller"
+                ],
+                [
+                    "31:36"
+                ]
+            ],
+            "Target": [
+                [
+                    "dens angliske slektning"
+                ],
+                [
+                    "37:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "eller"
+                ],
+                [
+                    "31:36"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "for den saks skyld"
+                ],
+                [
+                    "76:94"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "for den saks skyld"
+                ],
+                [
+                    "76:94"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Bare smak p\u00e5 ordet \u00ab boble \u00bb , eller dens angliske slektning , \u00ab bubble \u00bb , for den saks skyld .",
+    "sent_id": "103988-08-01"
+}

@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Cult Drugs"
+                ],
+                [
+                    "34:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fint lite"
+                ],
+                [
+                    "19:28"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "band"
+                ],
+                [
+                    "64:68"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "famler etter nytt fotfeste"
+                ],
+                [
+                    "73:99"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er i alle fall fint lite p\u00e5 \u00ab Cult Drugs \u00bb som minner om et band som famler etter nytt fotfeste .",
+    "sent_id": "301662-03-04"
+}

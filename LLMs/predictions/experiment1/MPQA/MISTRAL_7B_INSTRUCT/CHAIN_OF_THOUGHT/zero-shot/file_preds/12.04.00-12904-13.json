@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "security chief Juan Jose Alvarez"
+                ],
+                [
+                    "127:159"
+                ]
+            ],
+            "Target": [
+                [
+                    "New Year celebrations"
+                ],
+                [
+                    "5:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "canceled"
+                ],
+                [
+                    "27:35"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "security chief Juan Jose Alvarez"
+                ],
+                [
+                    "127:159"
+                ]
+            ],
+            "Target": [
+                [
+                    "capital"
+                ],
+                [
+                    "169:176"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "strongly reinforced"
+                ],
+                [
+                    "188:207"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "With New Year celebrations canceled for fear of violence in the worst crisis since the country 's last military coup in 1976 , security chief Juan Jose Alvarez said the capital had been \" strongly reinforced with patrols by the federal police , the coast guard and the border police . \"",
+    "sent_id": "non_fbis/12.04.00-12904-13"
+}

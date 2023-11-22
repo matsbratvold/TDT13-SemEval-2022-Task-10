@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "greske"
+                ],
+                [
+                    "4:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "far p\u00e5 69"
+                ],
+                [
+                    "11:20"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Sin greske far p\u00e5 69 har hun ikke sett siden han stakk da hun var fem .",
+    "sent_id": "703572-06-02"
+}

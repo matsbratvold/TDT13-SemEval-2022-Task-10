@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "A wall and miles of fences"
+                ],
+                [
+                    "0:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "the best of solutions"
+                ],
+                [
+                    "34:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not"
+                ],
+                [
+                    "30:33"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Israel persists in the occupation of the territories"
+                ],
+                [
+                    "116:168"
+                ]
+            ],
+            "Target": [
+                [
+                    "the intifada can end"
+                ],
+                [
+                    "84:104"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "as long as"
+                ],
+                [
+                    "105:115"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Palestinians are willing to die in large numbers"
+                ],
+                [
+                    "173:221"
+                ]
+            ],
+            "Target": [
+                [
+                    "to deny Israel that privilege"
+                ],
+                [
+                    "222:251"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "to"
+                ],
+                [
+                    "162:164"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A wall and miles of fences is not the best of solutions . Does anybody believe that the intifada can end as long as Israel persists in the occupation of the territories and Palestinians are willing to die in large numbers to deny Israel that privilege ?",
+    "sent_id": "20020225/21.00.49-23712-6"
+}

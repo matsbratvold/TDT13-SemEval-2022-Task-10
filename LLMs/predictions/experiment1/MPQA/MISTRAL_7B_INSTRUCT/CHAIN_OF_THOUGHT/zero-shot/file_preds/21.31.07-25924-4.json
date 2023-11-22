@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "El Salvador"
+                ],
+                [
+                    "20:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "took a different position"
+                ],
+                [
+                    "32:57"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "other Latin American countries"
+                ],
+                [
+                    "73:103"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "because at the present time it presides over the Permanent Council of the OAS"
+                ],
+                [
+                    "104:181"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "He explained that \" El Salvador took a different position \" from that of other Latin American countries because at the present time it presides over the Permanent Council of the OAS .",
+    "sent_id": "20020419/21.31.07-25924-4"
+}

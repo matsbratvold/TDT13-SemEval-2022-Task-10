@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "the six major risks China will confront"
+                ],
+                [
+                    "18:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "suggested"
+                ],
+                [
+                    "3:12"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "the development of medium - sized and small enterprises"
+                ],
+                [
+                    "66:121"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "the setting up of a sound social security system and a society ruled by law"
+                ],
+                [
+                    "128:203"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "He suggested that the six major risks China will confront include the development of medium - sized and small enterprises , and the setting up of a sound social security system and a society ruled by law .",
+    "sent_id": "20011024/21.14.53-15562-6"
+}

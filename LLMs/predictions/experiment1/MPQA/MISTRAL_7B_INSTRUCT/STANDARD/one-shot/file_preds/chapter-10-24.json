@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Saudi government"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "agreed to the FBI 's requirements"
+                ],
+                [
+                    "40:73"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "agreed"
+                ],
+                [
+                    "40:46"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The Saudi government was advised of and agreed to the FBI 's requirements that passengers be identified and checked against various databases before the flights departed . The Federal Aviation Administration representative working in the FBI operations center made sure that the FBI was aware of the flights of Saudi nationals and was able to screen the passengers before they were allowed to depart .",
+    "sent_id": "ula/chapter-10-24"
+}

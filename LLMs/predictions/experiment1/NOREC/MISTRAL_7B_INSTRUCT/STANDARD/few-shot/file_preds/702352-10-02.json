@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "trenger eller b\u00f8r"
+                ],
+                [
+                    "14:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en vite stort mer om den konkrete handlingen enn det"
+                ],
+                [
+                    "32:84"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Derfor verken trenger eller b\u00f8r en vite stort mer om den konkrete handlingen enn det .",
+    "sent_id": "702352-10-02"
+}

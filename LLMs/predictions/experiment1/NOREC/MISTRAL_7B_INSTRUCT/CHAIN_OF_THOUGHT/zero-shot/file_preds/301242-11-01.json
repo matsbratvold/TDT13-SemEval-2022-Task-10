@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Utvilsomt"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "et av bokas beste kapitler"
+                ],
+                [
+                    "10:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "et av bokas beste kapitler"
+                ],
+                [
+                    "10:36"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "men"
+                ],
+                [
+                    "39:42"
+                ]
+            ],
+            "Target": [
+                [
+                    "det er med"
+                ],
+                [
+                    "46:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det er med"
+                ],
+                [
+                    "46:56"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "viser"
+                ],
+                [
+                    "59:64"
+                ]
+            ],
+            "Target": [
+                [
+                    "at Berlin-innrammingen Dypvik har gitt boka"
+                ],
+                [
+                    "65:108"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "at Berlin-innrammingen Dypvik har gitt boka"
+                ],
+                [
+                    "65:108"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "er"
+                ],
+                [
+                    "34:36"
+                ]
+            ],
+            "Target": [
+                [
+                    "for trang"
+                ],
+                [
+                    "114:123"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "34:36"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Utvilsomt et av bokas beste kapitler , men at det er med , viser at Berlin-innrammingen Dypvik har gitt boka , er for trang .",
+    "sent_id": "301242-11-01"
+}

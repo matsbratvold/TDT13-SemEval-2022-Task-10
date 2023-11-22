@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sterk"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "og bevegende"
+                ],
+                [
+                    "6:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Sterk"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Sterk og bevegende",
+    "sent_id": "004773-12-01"
+}

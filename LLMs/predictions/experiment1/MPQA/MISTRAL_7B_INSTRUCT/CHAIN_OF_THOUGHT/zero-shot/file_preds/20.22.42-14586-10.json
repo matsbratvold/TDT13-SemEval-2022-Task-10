@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "the four journalists"
+                ],
+                [
+                    "11:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "accused"
+                ],
+                [
+                    "3:10"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "the four journalists"
+                ],
+                [
+                    "11:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stressed"
+                ],
+                [
+                    "166:174"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "the four journalists"
+                ],
+                [
+                    "11:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "should be tried"
+                ],
+                [
+                    "198:213"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "the four journalists"
+                ],
+                [
+                    "11:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "instigates interventionist actions"
+                ],
+                [
+                    "283:317"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "the four journalists"
+                ],
+                [
+                    "11:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is considered treason against the homeland"
+                ],
+                [
+                    "318:360"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "He accused the four journalists of plotting with powerful economic groups that presumably contributed the funds to purchase the video from an intelligence agent . He stressed that these journalists should be tried since , according to Article 122 of the Penal Code , any action that instigates interventionist actions is considered treason against the homeland .",
+    "sent_id": "20020207/20.22.42-14586-10"
+}

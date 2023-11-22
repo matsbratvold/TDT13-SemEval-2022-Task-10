@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Admiralen"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "greia"
+                ],
+                [
+                    "15:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gj\u00f8r"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Onkl"
+                ],
+                [
+                    "27:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "flytende p\u00e5 dancehall"
+                ],
+                [
+                    "48:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "viser"
+                ],
+                [
+                    "32:37"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Admiralen gj\u00f8r greia si og Onkl viser at han er flytende p\u00e5 dancehall .",
+    "sent_id": "103988-13-01"
+}

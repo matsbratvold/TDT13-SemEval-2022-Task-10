@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "En"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "seier"
+                ],
+                [
+                    "3:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for"
+                ],
+                [
+                    "9:12"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "seier"
+                ],
+                [
+                    "3:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "for"
+                ],
+                [
+                    "9:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "spillegleden"
+                ],
+                [
+                    "13:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "En seier for spillegleden .",
+    "sent_id": "000913-02-01"
+}

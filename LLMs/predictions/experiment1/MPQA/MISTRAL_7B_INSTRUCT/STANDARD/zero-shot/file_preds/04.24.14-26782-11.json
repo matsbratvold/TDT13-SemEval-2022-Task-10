@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "other developed countries"
+                ],
+                [
+                    "26:51"
+                ]
+            ],
+            "Target": [
+                [
+                    "global warming"
+                ],
+                [
+                    "165:179"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The general opinion among other developed countries , however , is that the scientific data is commonly interpreted as linking droughts , floods and rising tides to global warming .",
+    "sent_id": "non_fbis/04.24.14-26782-11"
+}

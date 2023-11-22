@@ -1,0 +1,65 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "automatisk registrering"
+                ],
+                [
+                    "16:39"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "trenings\u00f8kter"
+                ],
+                [
+                    "43:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjenkjenne"
+                ],
+                [
+                    "70:80"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "aktiviteter"
+                ],
+                [
+                    "87:98"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lagre"
+                ],
+                [
+                    "156:161"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det finnes ogs\u00e5 automatisk registrering av trenings\u00f8kter , og den kan gjenkjenne ulike aktiviteter ( som l\u00f8ping sykling , aerobic og s\u00e5 videre ) , for s\u00e5 \u00e5 lagre dem i treningsloggen din .",
+    "sent_id": "200006-34-02"
+}

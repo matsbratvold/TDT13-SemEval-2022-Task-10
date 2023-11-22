@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ny vokalist og ny start"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "lovende"
+                ],
+                [
+                    "45:52"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Ny vokalist og ny start for norsk punks mest lovende .",
+    "sent_id": "301662-02-01"
+}

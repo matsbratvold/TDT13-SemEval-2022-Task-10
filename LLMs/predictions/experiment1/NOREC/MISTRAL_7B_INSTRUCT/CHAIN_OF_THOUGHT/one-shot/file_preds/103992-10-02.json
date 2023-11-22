@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Noen"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "alle"
+                ],
+                [
+                    "20:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kjemper for at alle skal f\u00e5 det bedre"
+                ],
+                [
+                    "5:42"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Noen kjemper for at alle skal f\u00e5 det bedre .",
+    "sent_id": "103992-10-02"
+}

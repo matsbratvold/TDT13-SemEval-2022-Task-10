@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "dette"
+                ],
+                [
+                    "36:41"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Allerede dengang sa vi klart fra at dette ikke var en veldig effektiv l\u00f8sning .",
+    "sent_id": "202298-05-03"
+}

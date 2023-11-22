@@ -1,0 +1,110 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The bond market"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "economic statistics"
+                ],
+                [
+                    "35:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "unmoved"
+                ],
+                [
+                    "20:27"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "growth"
+                ],
+                [
+                    "99:105"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "preferred"
+                ],
+                [
+                    "89:98"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "inflation measures"
+                ],
+                [
+                    "151:169"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cheered"
+                ],
+                [
+                    "140:147"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Federal Reserve"
+                ],
+                [
+                    "287:302"
+                ]
+            ],
+            "Target": [
+                [
+                    "lower interest rates"
+                ],
+                [
+                    "306:326"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reasoned"
+                ],
+                [
+                    "350:358"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The bond market was unmoved by the economic statistics . While bond investors would have preferred growth to be a little slower , they were cheered by inflation measures in the data that showed prices rising at a modest annual rate of 2.9 % . That is another small encouragement for the Federal Reserve to lower interest rates in coming weeks , they reasoned .",
+    "sent_id": "xbank/wsj_0816-7"
+}

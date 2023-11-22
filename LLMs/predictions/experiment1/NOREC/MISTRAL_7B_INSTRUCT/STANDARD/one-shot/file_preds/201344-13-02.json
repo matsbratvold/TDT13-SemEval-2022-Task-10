@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "utstyrt"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "utstyrt"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "spesielle baretter"
+                ],
+                [
+                    "24:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gj\u00f8r skifte av lenke eller rem til en sv\u00e6rt enkel aff\u00e6re"
+                ],
+                [
+                    "49:105"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Samtlige er utstyrt med spesielle baretter , som gj\u00f8r skifte av lenke eller rem til en sv\u00e6rt enkel aff\u00e6re .",
+    "sent_id": "201344-13-02"
+}

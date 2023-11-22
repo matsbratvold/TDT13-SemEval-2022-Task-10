@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "sti"
+                ],
+                [
+                    "9:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lengst"
+                ],
+                [
+                    "16:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den rene sti er lengst",
+    "sent_id": "000913-14-01"
+}

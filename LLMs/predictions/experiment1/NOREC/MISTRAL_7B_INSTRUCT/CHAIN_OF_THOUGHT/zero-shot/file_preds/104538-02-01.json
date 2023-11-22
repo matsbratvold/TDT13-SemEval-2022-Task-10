@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "inn\u00f8vd takknemmelighet"
+                ],
+                [
+                    "18:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5pner seg"
+                ],
+                [
+                    "4:13"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Han \u00e5pner seg med inn\u00f8vd takknemmelighet .",
+    "sent_id": "104538-02-01"
+}

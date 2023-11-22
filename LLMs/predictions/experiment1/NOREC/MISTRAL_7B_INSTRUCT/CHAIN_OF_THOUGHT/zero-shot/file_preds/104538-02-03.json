@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "you"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "me"
+                ],
+                [
+                    "48:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "support"
+                ],
+                [
+                    "18:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "you"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "me"
+                ],
+                [
+                    "48:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "believe in me"
+                ],
+                [
+                    "105:118"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Thank you for you support and just rocking with me . You hear stuff , you read stuff , but you choose to believe in me .",
+    "sent_id": "104538-02-03"
+}

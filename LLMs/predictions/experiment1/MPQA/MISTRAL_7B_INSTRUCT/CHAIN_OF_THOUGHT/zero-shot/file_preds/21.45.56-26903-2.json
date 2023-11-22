@@ -1,0 +1,106 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The figure"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "high - tech crisis"
+                ],
+                [
+                    "20:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "continuing"
+                ],
+                [
+                    "42:52"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The figure"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "fell"
+                ],
+                [
+                    "74:78"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The figure"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "annualized 8 %"
+                ],
+                [
+                    "85:99"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The figure"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "following an 8.5 % drop in all of 2001"
+                ],
+                [
+                    "124:162"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The figure show the high - tech crisis is continuing . High - tech output fell by an annualized 8 % in January - February , following an 8.5 % drop in all of 2001 .",
+    "sent_id": "20020424/21.45.56-26903-2"
+}

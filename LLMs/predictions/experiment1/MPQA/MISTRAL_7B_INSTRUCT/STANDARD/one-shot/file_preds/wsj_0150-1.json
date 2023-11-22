@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "A.L. Williams Corp."
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "was merged"
+                ],
+                [
+                    "20:30"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "A.L. Williams Corp. was merged into Primerica Corp. , New York , after a special meeting of Williams shareholders cleared the transaction , the companies said .",
+    "sent_id": "xbank/wsj_0150-1"
+}

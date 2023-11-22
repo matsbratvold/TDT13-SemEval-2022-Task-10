@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "4:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "philosophy"
+                ],
+                [
+                    "184:194"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "getting way too philosophical"
+                ],
+                [
+                    "9:38"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "4:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "life"
+                ],
+                [
+                    "224:228"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nobody knows"
+                ],
+                [
+                    "232:244"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Now I am getting way too philosophical , but this is my final missive , so why not ? Perhaps you could hasten a prediction of where this is all going . As for me , I 'll stick with my philosophy of reporting and , I guess , life -- nobody knows .",
+    "sent_id": "ula/Article247_3500-8"
+}

@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Coast Guard Command"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "working on a report"
+                ],
+                [
+                    "33:52"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The Coast Guard Command"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "give detailed information"
+                ],
+                [
+                    "56:81"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The Coast Guard Command has been working on a report to give detailed information about its activities against human smuggling and number of foreigners intercepted between January 1 and November 26 , 2001 .",
+    "sent_id": "20011215/20.32.26-14925-3"
+}

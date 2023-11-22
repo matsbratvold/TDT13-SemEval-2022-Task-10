@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Saudi nationals"
+                ],
+                [
+                    "114:129"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Flights of Saudi Nationals Leaving the United States Three questions have arisen with respect to the departure of Saudi nationals from the United States in the immediate aftermath of 9/11 : ( 1 ) Did any flights of Saudi nationals take place before national airspace reopened on September 13 , 2001 ? ( 2 ) Was there any political intervention to facilitate the departure of Saudi nationals ? ( 3 ) Did the FBI screen Saudi nationals thoroughly before their departure ? First , we found no evidence that any flights of Saudi nationals , domestic or international , took place before the reopening of national airspace on the morning of September 13 , 2001 . To the contrary , every flight we have identified occurred after national airspace reopened .",
+    "sent_id": "ula/chapter-10-20"
+}

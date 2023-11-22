@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Tropical Freeze"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Tropical Freeze"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Tropical Freeze .",
+    "sent_id": "000787-09-02"
+}

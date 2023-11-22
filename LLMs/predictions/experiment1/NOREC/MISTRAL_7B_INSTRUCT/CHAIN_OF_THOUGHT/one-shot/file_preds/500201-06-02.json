@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "elementer"
+                ],
+                [
+                    "5:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjenkjennbare"
+                ],
+                [
+                    "18:31"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "elementer"
+                ],
+                [
+                    "5:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilsvarende historier om urbefolkning"
+                ],
+                [
+                    "36:73"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Noen elementer er gjenkjennbare fra tilsvarende historier om urbefolkning .",
+    "sent_id": "500201-06-02"
+}

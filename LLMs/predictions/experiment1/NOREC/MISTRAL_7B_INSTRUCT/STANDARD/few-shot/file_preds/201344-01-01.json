@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "urmakerkvalitet"
+                ],
+                [
+                    "17:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "satser p\u00e5"
+                ],
+                [
+                    "7:16"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Garmin satser p\u00e5 urmakerkvalitet",
+    "sent_id": "201344-01-01"
+}

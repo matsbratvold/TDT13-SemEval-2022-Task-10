@@ -1,0 +1,111 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "NRK Super"
+                ],
+                [
+                    "22:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tre sesonger"
+                ],
+                [
+                    "6:18"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Nora"
+                ],
+                [
+                    "41:45"
+                ]
+            ],
+            "Target": [
+                [
+                    "NRK Super"
+                ],
+                [
+                    "22:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "takler"
+                ],
+                [
+                    "34:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Simen"
+                ],
+                [
+                    "48:53"
+                ]
+            ],
+            "Target": [
+                [
+                    "NRK Super"
+                ],
+                [
+                    "22:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "takler"
+                ],
+                [
+                    "34:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Lars"
+                ],
+                [
+                    "57:61"
+                ]
+            ],
+            "Target": [
+                [
+                    "NRK Super"
+                ],
+                [
+                    "22:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "takler"
+                ],
+                [
+                    "34:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Etter tre sesonger p\u00e5 NRK Super , takler Nora , Simen og Lars overgangen til det store lerretet uten alt for alvorlige problemer .",
+    "sent_id": "600725-02-01"
+}

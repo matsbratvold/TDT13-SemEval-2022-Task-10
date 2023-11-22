@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Finalekampene"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "passe vanskelige"
+                ],
+                [
+                    "17:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "passe"
+                ],
+                [
+                    "17:22"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "sideoppdragene"
+                ],
+                [
+                    "120:134"
+                ]
+            ],
+            "Target": [
+                [
+                    "anstendige"
+                ],
+                [
+                    "138:148"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "anstendige"
+                ],
+                [
+                    "138:148"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "sideoppdragene"
+                ],
+                [
+                    "120:134"
+                ]
+            ],
+            "Target": [
+                [
+                    "anstendige"
+                ],
+                [
+                    "138:148"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "morsommere \u00e5 l\u00f8se"
+                ],
+                [
+                    "52:69"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Finalekampene er passe vanskelige ( disse blir ogs\u00e5 morsommere \u00e5 l\u00f8se dersom man ikke velger nedplaffingsvarianten ) og sideoppdragene er anstendige , dog ble ikke alle av dem l\u00f8st p\u00e5 de ca tyve timene jeg brukte f\u00f8r denne anmeldelsen .",
+    "sent_id": "000913-20-01"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "sangstemmen"
+                ],
+                [
+                    "35:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sedvanlig"
+                ],
+                [
+                    "24:33"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "sangstemmen"
+                ],
+                [
+                    "35:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "knekk i"
+                ],
+                [
+                    "51:58"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "sangstemmen"
+                ],
+                [
+                    "35:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "glade i"
+                ],
+                [
+                    "81:88"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "sangstemmen"
+                ],
+                [
+                    "35:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rapflyt"
+                ],
+                [
+                    "102:109"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Mannen veksler ogs\u00e5 den sedvanlige sangstemmen med knekk i - som vi har blitt s\u00e5 glade i - med finfin rapflyt ( \u201c Comme Des Garcons \u201d , \u201c Slide On Me \u201d ) .",
+    "sent_id": "003036-07-03"
+}

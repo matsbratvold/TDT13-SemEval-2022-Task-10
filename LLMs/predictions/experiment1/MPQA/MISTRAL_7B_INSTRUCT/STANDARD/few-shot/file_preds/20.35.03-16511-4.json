@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fortunately"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "is"
+                ],
+                [
+                    "21:23"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "But"
+                ],
+                [
+                    "60:63"
+                ]
+            ],
+            "Target": [
+                [
+                    "it must demand that the countries of Africa put their own house in order"
+                ],
+                [
+                    "64:136"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "demand"
+                ],
+                [
+                    "72:78"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Fortunately , Europe is no longer \" Africa 's policeman . \" But it must demand that the countries of Africa put their own house in order .",
+    "sent_id": "20020316/20.35.03-16511-4"
+}

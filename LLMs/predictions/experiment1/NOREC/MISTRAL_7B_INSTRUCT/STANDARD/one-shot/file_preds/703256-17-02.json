@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "illusjonen"
+                ],
+                [
+                    "3:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 leve i l\u00f8gnen"
+                ],
+                [
+                    "20:35"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "illusjonen"
+                ],
+                [
+                    "3:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "et fengsel eller en beskyttelse"
+                ],
+                [
+                    "38:69"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Er illusjonen , det \u00e5 leve i l\u00f8gnen , et fengsel eller en beskyttelse ?",
+    "sent_id": "703256-17-02"
+}

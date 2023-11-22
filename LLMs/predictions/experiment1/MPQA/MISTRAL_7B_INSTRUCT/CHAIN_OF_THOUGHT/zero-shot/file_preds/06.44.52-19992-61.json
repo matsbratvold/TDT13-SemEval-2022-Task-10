@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "20 - bed hospital"
+                ],
+                [
+                    "4:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "temper tent"
+                ],
+                [
+                    "225:236"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "temper"
+                ],
+                [
+                    "225:231"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The 20 - bed hospital is a high - tech , air - conditioned white tent which looks like a futuristic movie set , with low ceilings , fluorescent lighting , and padded white walls , floors and ceilings . The staff calls it a \" temper tent . \"",
+    "sent_id": "non_fbis/06.44.52-19992-61"
+}

@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the claim that the Islamic Republic enjoys no social base"
+                ],
+                [
+                    "36:93"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Islamic Republic"
+                ],
+                [
+                    "51:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enjoys"
+                ],
+                [
+                    "72:78"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "the massive participation of millions of Iranians in the grand rallies on Feb. 11"
+                ],
+                [
+                    "172:253"
+                ]
+            ],
+            "Target": [
+                [
+                    "the emptiness of U.S. charges against Iran"
+                ],
+                [
+                    "382:424"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "revealed"
+                ],
+                [
+                    "373:381"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "such baseless accusations are only made to tarnish the image of Iran"
+                ],
+                [
+                    "450:518"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "are only made to"
+                ],
+                [
+                    "476:492"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Among the unfounded allegations was the claim that the Islamic Republic enjoys no social base and is an unpopular system because of its human rights violations . However , the massive participation of millions of Iranians in the grand rallies on Feb. 11 to mark the anniversary of the victory of the Islamic Revolution and defy U.S. threats against this country once again revealed the emptiness of U.S. charges against Iran . It is quite clear that such baseless accusations are only made to tarnish the image of Iran , since it follows an independent policy and refuses to bow to U.S. domination .",
+    "sent_id": "temp_fbis/20.46.58-22510-2"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Flere andre steder"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "v\u00e6rt nevnt"
+                ],
+                [
+                    "25:35"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Flere andre steder kunne v\u00e6rt nevnt .",
+    "sent_id": "104219-10-04"
+}

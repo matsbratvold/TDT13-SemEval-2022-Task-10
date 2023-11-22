@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Twenty - one crewmen"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "rescued"
+                ],
+                [
+                    "26:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rescued"
+                ],
+                [
+                    "26:33"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "missing"
+                ],
+                [
+                    "59:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "missing"
+                ],
+                [
+                    "59:66"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Twenty - one crewmen were rescued , but another seven went missing after the attack .",
+    "sent_id": "20010916/21.24.32-9824-14"
+}

@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "S\u00e6rlig"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Semmenemme"
+                ],
+                [
+                    "9:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Semmenemme"
+                ],
+                [
+                    "9:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Omveien"
+                ],
+                [
+                    "26:33"
+                ]
+            ],
+            "Target": [
+                [
+                    "Ta fyr"
+                ],
+                [
+                    "40:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Ta fyr"
+                ],
+                [
+                    "40:46"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Silja Sol"
+                ],
+                [
+                    "78:87"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Silja Sol"
+                ],
+                [
+                    "78:87"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "S\u00e6rlig \u00ab Semmenemme \u00bb , \u00ab Omveien \u00bb , \u00ab Ta fyr \u00bb og tittelsporet vitner om at Silja Sol har modnet betraktelig som l\u00e5tskriver p\u00e5 f\u00e5 \u00e5r .",
+    "sent_id": "501385-06-02"
+}

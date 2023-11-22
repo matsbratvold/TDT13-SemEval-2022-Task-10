@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Magien"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "hestesporten"
+                ],
+                [
+                    "11:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ved"
+                ],
+                [
+                    "7:10"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "alle jentene"
+                ],
+                [
+                    "30:42"
+                ]
+            ],
+            "Target": [
+                [
+                    "snakker om"
+                ],
+                [
+                    "43:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "om"
+                ],
+                [
+                    "27:29"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "til"
+                ],
+                [
+                    "82:85"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til"
+                ],
+                [
+                    "82:85"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Magien ved hestesporten , som alle jentene snakker om , ser vi ogs\u00e5 litt for lite til .",
+    "sent_id": "300186-09-01"
+}

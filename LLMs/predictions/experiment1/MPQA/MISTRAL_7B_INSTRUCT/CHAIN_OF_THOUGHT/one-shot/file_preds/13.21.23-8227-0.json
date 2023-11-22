@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Shuttle Atlantis"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "space station"
+                ],
+                [
+                    "33:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "thunders"
+                ],
+                [
+                    "17:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Shuttle Atlantis thunders toward space station",
+    "sent_id": "non_fbis/13.21.23-8227-0"
+}

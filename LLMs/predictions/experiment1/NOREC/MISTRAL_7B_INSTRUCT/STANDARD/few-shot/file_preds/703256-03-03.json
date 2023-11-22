@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Tore Renbergs historie"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "uj\u00e5lete"
+                ],
+                [
+                    "38:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vidunderlig"
+                ],
+                [
+                    "26:37"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Tore Renbergs historie er vidunderlig uj\u00e5lete .",
+    "sent_id": "703256-03-03"
+}

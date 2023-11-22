@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "yep oh yeah"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "gun control"
+                ],
+                [
+                    "210:221"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "they do"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "yep oh yeah they do they get real emotional about it all the i've worked with a lot of people that hunt and they just they they do n't see any sense in it at all they think it 's ridiculous to have any kind of gun control but then of course they 're hunters they know what they 're doing they do n't realize there 're a bunch of crazy people out there that",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-25"
+}

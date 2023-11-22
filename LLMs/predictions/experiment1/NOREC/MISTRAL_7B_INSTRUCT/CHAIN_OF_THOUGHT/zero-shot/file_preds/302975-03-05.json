@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Her"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "flyktningene"
+                ],
+                [
+                    "40:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bestemmer"
+                ],
+                [
+                    "25:34"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "du"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "flyktningene"
+                ],
+                [
+                    "40:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gj\u00f8re"
+                ],
+                [
+                    "74:79"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Her f\u00e5r du vite hvem som bestemmer over flyktningene , og hva du selv kan gj\u00f8re .",
+    "sent_id": "302975-03-05"
+}

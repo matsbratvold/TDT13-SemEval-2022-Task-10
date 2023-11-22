@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Klokken"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "smartklokker"
+                ],
+                [
+                    "29:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "priset i tr\u00e5d med smartklokker av lignende opplevde kvalitet"
+                ],
+                [
+                    "11:71"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Klokken"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "smartklokker"
+                ],
+                [
+                    "29:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "h\u00f8y sammenlignet med det brede markedet av smartklokker"
+                ],
+                [
+                    "81:136"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Klokken er priset i tr\u00e5d med smartklokker av lignende opplevde kvalitet , men er h\u00f8y sammenlignet med det brede markedet av smartklokker .",
+    "sent_id": "201344-30-01"
+}

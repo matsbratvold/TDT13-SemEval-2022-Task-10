@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Samir"
+                ],
+                [
+                    "33:38"
+                ]
+            ],
+            "Target": [
+                [
+                    "spenningstoppen"
+                ],
+                [
+                    "13:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "der"
+                ],
+                [
+                    "29:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Samir"
+                ],
+                [
+                    "33:38"
+                ]
+            ],
+            "Target": [
+                [
+                    "Samir"
+                ],
+                [
+                    "33:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "havner"
+                ],
+                [
+                    "39:45"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Samir"
+                ],
+                [
+                    "33:38"
+                ]
+            ],
+            "Target": [
+                [
+                    "mamma"
+                ],
+                [
+                    "65:70"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en annen b\u00e5t"
+                ],
+                [
+                    "48:60"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Et unntak er spenningstoppen der Samir havner i en annen b\u00e5t enn mamma .",
+    "sent_id": "302975-16-01"
+}

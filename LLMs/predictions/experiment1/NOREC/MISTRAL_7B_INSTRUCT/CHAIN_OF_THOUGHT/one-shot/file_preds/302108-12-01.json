@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Folkekj\u00e6re"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "Bad Kingdom"
+                ],
+                [
+                    "13:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Bad Kingdom"
+                ],
+                [
+                    "13:24"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "kompisene hans"
+                ],
+                [
+                    "30:44"
+                ]
+            ],
+            "Target": [
+                [
+                    "Bad Kingdom"
+                ],
+                [
+                    "13:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Moderat f\u00f8les s\u00e6rlig lettvint"
+                ],
+                [
+                    "47:76"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "kompisene hans"
+                ],
+                [
+                    "30:44"
+                ]
+            ],
+            "Target": [
+                [
+                    "Bad Kingdom"
+                ],
+                [
+                    "13:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sier lite nytt om bunken med gr\u00e5farget techhouse som kom f\u00f8r den"
+                ],
+                [
+                    "82:146"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Folkekj\u00e6re \u00ab Bad Kingdom \u00bb av kompisene hans i Moderat f\u00f8les s\u00e6rlig lettvint , og sier lite nytt om bunken med gr\u00e5farget techhouse som kom f\u00f8r den .",
+    "sent_id": "302108-12-01"
+}

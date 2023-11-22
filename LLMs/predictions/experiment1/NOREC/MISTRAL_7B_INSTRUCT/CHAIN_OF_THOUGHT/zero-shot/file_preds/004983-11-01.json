@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dukker"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "store hjerter"
+                ],
+                [
+                    "11:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "store"
+                ],
+                [
+                    "11:16"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dukker med store hjerter",
+    "sent_id": "004983-11-01"
+}

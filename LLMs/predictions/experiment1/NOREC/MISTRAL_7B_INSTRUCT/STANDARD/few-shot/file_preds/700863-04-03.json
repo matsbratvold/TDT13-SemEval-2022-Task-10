@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "h\u00f8vdingen"
+                ],
+                [
+                    "36:45"
+                ]
+            ],
+            "Target": [
+                [
+                    "hvordan hans egen rase skal overleve"
+                ],
+                [
+                    "63:99"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bekymrer seg"
+                ],
+                [
+                    "46:58"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "heltene i kongeriket Azeroth"
+                ],
+                [
+                    "119:147"
+                ]
+            ],
+            "Target": [
+                [
+                    "menneskehetens framtid"
+                ],
+                [
+                    "160:182"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "frykter"
+                ],
+                [
+                    "148:155"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Mer menneskeliggj\u00f8ring f\u00f8lger av at h\u00f8vdingen bekymrer seg for hvordan hans egen rase skal overleve , p\u00e5 samme vis som heltene i kongeriket Azeroth frykter for menneskehetens framtid .",
+    "sent_id": "700863-04-03"
+}

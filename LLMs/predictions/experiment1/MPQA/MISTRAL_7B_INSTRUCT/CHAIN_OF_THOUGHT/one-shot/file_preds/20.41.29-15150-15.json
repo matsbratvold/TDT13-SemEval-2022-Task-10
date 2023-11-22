@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The international treaty"
+                ],
+                [
+                    "0:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "climate change"
+                ],
+                [
+                    "35:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "envisioned"
+                ],
+                [
+                    "60:70"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "The international treaty"
+                ],
+                [
+                    "0:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "climate change"
+                ],
+                [
+                    "35:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "yet to go into effect"
+                ],
+                [
+                    "266:287"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The international treaty to tackle climate change was first envisioned in Kyoto four years ago , but due to the conflicting interests of developed and developing countries as well as other contentious issues such as emission reduction mechanisms and targets , it is yet to go into effect .",
+    "sent_id": "20011115/20.41.29-15150-15"
+}

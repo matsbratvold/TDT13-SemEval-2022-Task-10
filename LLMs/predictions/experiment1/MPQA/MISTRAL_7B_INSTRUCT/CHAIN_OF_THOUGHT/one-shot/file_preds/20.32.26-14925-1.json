@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The decree"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "human smuggling incidents"
+                ],
+                [
+                    "21:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "increased"
+                ],
+                [
+                    "107:116"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The decree said that human smuggling incidents from the Turkish coasts to Greek islands , Italy and France increased recently due to economic , social and political reasons .",
+    "sent_id": "20011215/20.32.26-14925-1"
+}

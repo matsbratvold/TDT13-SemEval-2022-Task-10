@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Kristian Fjellanger og Jenny Jordahl"
+                ],
+                [
+                    "12:48"
+                ]
+            ],
+            "Target": [
+                [
+                    "denne boka"
+                ],
+                [
+                    "51:61"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gj\u00f8r"
+                ],
+                [
+                    "7:11"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Og det gj\u00f8r Kristian Fjellanger og Jenny Jordahl i denne boka .",
+    "sent_id": "302975-05-02"
+}

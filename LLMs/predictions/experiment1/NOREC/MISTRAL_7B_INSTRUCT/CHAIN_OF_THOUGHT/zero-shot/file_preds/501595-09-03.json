@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Blandingen"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "s\u00f8tpotetkake"
+                ],
+                [
+                    "27:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00f8tpotetkake"
+                ],
+                [
+                    "27:39"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Blandingen"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "canchita"
+                ],
+                [
+                    "69:77"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "canchita"
+                ],
+                [
+                    "69:77"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Blandingen"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "syrlige salatblader"
+                ],
+                [
+                    "112:131"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "syrlige salatblader"
+                ],
+                [
+                    "112:131"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Blandingen serveres med en s\u00f8tpotetkake p\u00e5 den ene siden av fatet og canchita , et slags peruansk popkorn , med syrlige salatblader p\u00e5 den andre siden .",
+    "sent_id": "501595-09-03"
+}

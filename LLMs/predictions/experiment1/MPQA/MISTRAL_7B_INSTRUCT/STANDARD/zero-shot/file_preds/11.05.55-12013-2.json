@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "International Space Station"
+                ],
+                [
+                    "146:173"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "went out on a repair job"
+                ],
+                [
+                    "49:73"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "International Space Station"
+                ],
+                [
+                    "146:173"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "wrapped thermal covers around a pair of motors"
+                ],
+                [
+                    "85:131"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "CAPE CANAVERAL -- Two space - walking astronauts went out on a repair job Monday and wrapped thermal covers around a pair of motors that turn the International Space Station 's giant solar wings .",
+    "sent_id": "non_fbis/11.05.55-12013-2"
+}

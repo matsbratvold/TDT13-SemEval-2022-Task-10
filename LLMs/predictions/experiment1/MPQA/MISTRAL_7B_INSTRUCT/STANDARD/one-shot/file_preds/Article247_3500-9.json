@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Kara"
+                ],
+                [
+                    "9:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Cheers"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Cheers"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Cheers , Kara",
+    "sent_id": "ula/Article247_3500-9"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The company"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "interest costs and amortization of goodwill"
+                ],
+                [
+                    "23:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "factors in the loss"
+                ],
+                [
+                    "70:89"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The company also cited interest costs and amortization of goodwill as factors in the loss .",
+    "sent_id": "xbank/wsj_0161-4"
+}

@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dette til tross"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blir det i l\u00f8pet av to timer"
+                ],
+                [
+                    "16:44"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "slagscener"
+                ],
+                [
+                    "71:81"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjentakelser"
+                ],
+                [
+                    "55:67"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "uendelig med magiske str\u00e5ler"
+                ],
+                [
+                    "88:116"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skal hindre"
+                ],
+                [
+                    "121:132"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dette til tross blir det i l\u00f8pet av to timer for mange gjentakelser av slagscener og av uendelig med magiske str\u00e5ler som skal hindre ditt og datt .",
+    "sent_id": "700863-09-01"
+}

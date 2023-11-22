@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Man"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Schmilco"
+                ],
+                [
+                    "31:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kaller ikke et album"
+                ],
+                [
+                    "4:24"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Man kaller ikke et album for \u00ab Schmilco \u00bb uten grunn .",
+    "sent_id": "303721-13-01"
+}

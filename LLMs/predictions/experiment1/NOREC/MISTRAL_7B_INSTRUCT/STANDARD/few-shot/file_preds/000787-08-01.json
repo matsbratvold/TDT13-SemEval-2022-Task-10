@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "To spillere"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "brettenes"
+                ],
+                [
+                    "37:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "l\u00f8se"
+                ],
+                [
+                    "32:36"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "To spillere kan samarbeide om \u00e5 l\u00f8se brettenes mange utfordringer .",
+    "sent_id": "000787-08-01"
+}

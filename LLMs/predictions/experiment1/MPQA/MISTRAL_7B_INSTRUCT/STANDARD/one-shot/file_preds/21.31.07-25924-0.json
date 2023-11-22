@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Francisco Flores"
+                ],
+                [
+                    "66:82"
+                ]
+            ],
+            "Target": [
+                [
+                    "support for the interim Venezuelan Government"
+                ],
+                [
+                    "119:164"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "defended"
+                ],
+                [
+                    "91:99"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "San Salvador , 17 April ( ACAN - EFE ) -- Salvadorian President , Francisco Flores , today defended his declaration of support for the interim Venezuelan Government headed by industrialist Pedro Carmona , indicating that the information that he had at the time was that Hugo Chavez had resigned the Presidency .",
+    "sent_id": "20020419/21.31.07-25924-0"
+}

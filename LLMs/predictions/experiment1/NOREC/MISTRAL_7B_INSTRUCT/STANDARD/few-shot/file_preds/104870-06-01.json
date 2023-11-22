@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "flere enkelt\u00f8yeblikk"
+                ],
+                [
+                    "8:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mestret fjellovergangen til radiovennlig kraftpop"
+                ],
+                [
+                    "39:88"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Selv om flere enkelt\u00f8yeblikk her hadde mestret fjellovergangen til radiovennlig kraftpop uten problemer .",
+    "sent_id": "104870-06-01"
+}

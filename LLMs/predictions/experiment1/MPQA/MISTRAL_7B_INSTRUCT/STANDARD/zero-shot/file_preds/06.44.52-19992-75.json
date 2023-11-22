@@ -1,0 +1,142 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "medical staff"
+                ],
+                [
+                    "4:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "linguists"
+                ],
+                [
+                    "28:37"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "medical staff"
+                ],
+                [
+                    "4:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "linguists"
+                ],
+                [
+                    "28:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "inventions"
+                ],
+                [
+                    "119:129"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "medical staff"
+                ],
+                [
+                    "4:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "linguists"
+                ],
+                [
+                    "28:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "list"
+                ],
+                [
+                    "151:155"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "patients"
+                ],
+                [
+                    "67:75"
+                ]
+            ],
+            "Target": [
+                [
+                    "medical staff"
+                ],
+                [
+                    "4:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "show"
+                ],
+                [
+                    "225:229"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "patients"
+                ],
+                [
+                    "67:75"
+                ]
+            ],
+            "Target": [
+                [
+                    "medical staff"
+                ],
+                [
+                    "4:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "list"
+                ],
+                [
+                    "151:155"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The medical staff relies on linguists to help communicate with the patients , but they 've also come up with their own inventions , such as a longhand list of English phrases and their Arabic counterparts . In a pinch , they show the patients the list , which includes the following phrases : I 'm in pain . Thirsty . Hungry . Bathroom . Urinate . Arm. Hand . Leg. Back. IV Hurts . Cold . Hot . Sick , will throw up .",
+    "sent_id": "non_fbis/06.44.52-19992-75"
+}

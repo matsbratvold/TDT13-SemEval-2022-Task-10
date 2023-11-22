@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "government of Japan"
+                ],
+                [
+                    "12:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto Protocol"
+                ],
+                [
+                    "110:124"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "intends to take all necessary steps"
+                ],
+                [
+                    "32:67"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "government of Japan"
+                ],
+                [
+                    "12:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "enactment of the required legislation"
+                ],
+                [
+                    "140:177"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "during the current Diet session"
+                ],
+                [
+                    "178:209"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "government of Japan"
+                ],
+                [
+                    "12:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "common rule"
+                ],
+                [
+                    "245:256"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "establish a common rule"
+                ],
+                [
+                    "233:256"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "government of Japan"
+                ],
+                [
+                    "12:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "all countries"
+                ],
+                [
+                    "276:289"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "including the United States and developing countries"
+                ],
+                [
+                    "290:342"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "\" While the government of Japan intends to take all necessary steps to ensure the approval by the Diet of the Kyoto Protocol as well as the enactment of the required legislation during the current Diet session ... it is important to establish a common rule in future in which all countries including the United States and developing countries participate , \" the statement said .",
+    "sent_id": "temp_fbis/20.44.41-9757-3"
+}

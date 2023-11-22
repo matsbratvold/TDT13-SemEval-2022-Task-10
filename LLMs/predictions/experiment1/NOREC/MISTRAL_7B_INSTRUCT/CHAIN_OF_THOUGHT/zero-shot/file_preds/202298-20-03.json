@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "den"
+                ],
+                [
+                    "18:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "hybridl\u00f8sningen"
+                ],
+                [
+                    "37:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "9:11"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Toyota"
+                ],
+                [
+                    "59:65"
+                ]
+            ],
+            "Target": [
+                [
+                    "hybridene"
+                ],
+                [
+                    "148:157"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bekrefter"
+                ],
+                [
+                    "66:75"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Nettopp derfor er den ikke en del av hybridl\u00f8sningen , men Toyota bekrefter at de for tiden jobber med en egen og ny generasjon 1,5-liter tilpasset hybridene .",
+    "sent_id": "202298-20-03"
+}

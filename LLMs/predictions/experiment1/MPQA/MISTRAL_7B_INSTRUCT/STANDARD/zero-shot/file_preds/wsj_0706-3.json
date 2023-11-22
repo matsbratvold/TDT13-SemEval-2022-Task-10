@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "La Jolla"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "La Jolla Bank & Trust Co."
+                ],
+                [
+                    "34:59"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "La Jolla is the parent company of La Jolla Bank & Trust Co. , which has 12 branches in San Diego County . As of Sept. 30 , the bank had assets of $ 511 million and deposits of $ 469 million , Security Pacific said .",
+    "sent_id": "xbank/wsj_0706-3"
+}

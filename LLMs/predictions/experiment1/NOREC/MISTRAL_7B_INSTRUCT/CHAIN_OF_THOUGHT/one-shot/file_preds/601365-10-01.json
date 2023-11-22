@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Om"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "alt"
+                ],
+                [
+                    "8:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "interessant"
+                ],
+                [
+                    "20:31"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "skal"
+                ],
+                [
+                    "43:47"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "48:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "godt gj\u00f8res \u00e5"
+                ],
+                [
+                    "52:65"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "\u00e5"
+                ],
+                [
+                    "64:65"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "noe her som vil interessere"
+                ],
+                [
+                    "77:104"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "nettopp"
+                ],
+                [
+                    "105:112"
+                ]
+            ],
+            "Target": [
+                [
+                    "den enkelte"
+                ],
+                [
+                    "113:124"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "interessere"
+                ],
+                [
+                    "93:104"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Om ikke alt er like interessant for alle , skal det godt gj\u00f8res \u00e5 ikke finne noe her som vil interessere nettopp den enkelte .",
+    "sent_id": "601365-10-01"
+}

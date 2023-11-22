@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the United States"
+                ],
+                [
+                    "36:53"
+                ]
+            ],
+            "Target": [
+                [
+                    "pragmatism in its foreign policy"
+                ],
+                [
+                    "111:143"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has become clearer and clearer"
+                ],
+                [
+                    "144:174"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Bush"
+                ],
+                [
+                    "320:324"
+                ]
+            ],
+            "Target": [
+                [
+                    "unilateralism and pragmatism"
+                ],
+                [
+                    "279:307"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "have become Bush 's main foreign policy line"
+                ],
+                [
+                    "308:352"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Following the end of the Cold War , the United States has become the world 's sole superpower and the trend of pragmatism in its foreign policy has become clearer and clearer . Pragmatism is , in the first place , the United States ' traditional policy . After coming to power , unilateralism and pragmatism have become Bush 's main foreign policy line . Alternate use of and complementary nature of pragmatism and unilateralism constitute the characteristics of the Bush administration 's diplomacy .",
+    "sent_id": "20011208/20.31.54-28680-0"
+}

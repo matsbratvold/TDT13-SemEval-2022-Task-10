@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "opplevde"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "kvaliteten"
+                ],
+                [
+                    "13:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er god"
+                ],
+                [
+                    "24:30"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "opplevde"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "kvaliteten"
+                ],
+                [
+                    "13:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er faktisk p\u00e5 h\u00f8yde"
+                ],
+                [
+                    "36:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "opplevde"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "klokker"
+                ],
+                [
+                    "77:84"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Den opplevde kvaliteten er god , og er faktisk p\u00e5 h\u00f8yde med en del \u00ab dumme \u00bb klokker i samme prisklasse .",
+    "sent_id": "201344-14-01"
+}

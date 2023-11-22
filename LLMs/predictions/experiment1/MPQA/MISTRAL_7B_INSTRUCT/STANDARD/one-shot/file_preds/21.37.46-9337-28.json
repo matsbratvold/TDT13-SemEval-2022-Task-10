@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "al - Qaida members and the Taliban"
+                ],
+                [
+                    "43:77"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "says"
+                ],
+                [
+                    "24:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The United States often says that although al - Qaida members and the Taliban are Muslims , US troops are bombing them because they are terrorists , not Muslims , he said .",
+    "sent_id": "temp_fbis/21.37.46-9337-28"
+}

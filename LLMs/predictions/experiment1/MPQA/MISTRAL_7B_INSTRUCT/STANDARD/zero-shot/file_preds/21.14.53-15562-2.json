@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The forum"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "attracted wide attention"
+                ],
+                [
+                    "10:34"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The forum attracted wide attention both at home and abroad , as China is to be admitted into the WTO at the forthcoming new round of WTO multilateral trade talks in Doha , Qatar , in November .",
+    "sent_id": "20011024/21.14.53-15562-2"
+}

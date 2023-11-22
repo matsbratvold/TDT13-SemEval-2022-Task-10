@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Flores"
+                ],
+                [
+                    "302:308"
+                ]
+            ],
+            "Target": [
+                [
+                    "a manipulation of the subject domestically"
+                ],
+                [
+                    "49:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "There is no international problem"
+                ],
+                [
+                    "2:35"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Flores"
+                ],
+                [
+                    "302:308"
+                ]
+            ],
+            "Target": [
+                [
+                    "the FMLN"
+                ],
+                [
+                    "123:131"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cause damage to this country"
+                ],
+                [
+                    "149:177"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Flores"
+                ],
+                [
+                    "302:308"
+                ]
+            ],
+            "Target": [
+                [
+                    "the FMLN"
+                ],
+                [
+                    "123:131"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hurt me"
+                ],
+                [
+                    "202:209"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" There is no international problem , but rather a manipulation of the subject domestically ; and once again I want to ask the FMLN that it does not cause damage to this country . And that in trying to hurt me , it ends up causing damage to the country . It is necessary to be loyal to El Salvador , \" Flores concluded .",
+    "sent_id": "20020419/21.31.07-25924-7"
+}

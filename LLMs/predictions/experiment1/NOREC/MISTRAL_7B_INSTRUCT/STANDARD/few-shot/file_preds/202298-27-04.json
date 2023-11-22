@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "det som vises p\u00e5 skjermen"
+                ],
+                [
+                    "29:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ingen ting"
+                ],
+                [
+                    "15:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dermed ser man ingen ting av det som vises p\u00e5 skjermen uten \u00e5 dekke for med h\u00e5nden over .",
+    "sent_id": "202298-27-04"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "astronauts"
+                ],
+                [
+                    "50:60"
+                ]
+            ],
+            "Target": [
+                [
+                    "the ' ' keystone ' ' center support unit"
+                ],
+                [
+                    "74:114"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "install"
+                ],
+                [
+                    "66:73"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In four space walks during the 11 - day mission , astronauts will install the ' ' keystone ' ' center support unit for the International Space Station .",
+    "sent_id": "non_fbis/13.21.23-8227-8"
+}

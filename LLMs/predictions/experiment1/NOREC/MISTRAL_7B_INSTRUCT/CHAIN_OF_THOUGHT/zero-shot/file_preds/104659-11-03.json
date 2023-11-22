@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "er"
+                ],
+                [
+                    "4:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fint"
+                ],
+                [
+                    "7:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "men"
+                ],
+                [
+                    "14:17"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "utfordrer"
+                ],
+                [
+                    "18:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "den indre og urolige seks\u00e5ringen"
+                ],
+                [
+                    "28:60"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er fint , men utfordrer den indre og urolige seks\u00e5ringen i oss alle .",
+    "sent_id": "104659-11-03"
+}

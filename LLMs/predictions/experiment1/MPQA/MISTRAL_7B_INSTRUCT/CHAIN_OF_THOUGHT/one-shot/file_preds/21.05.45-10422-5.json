@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Genoino"
+                ],
+                [
+                    "393:400"
+                ]
+            ],
+            "Target": [
+                [
+                    "an unpredictable , anarchical situation"
+                ],
+                [
+                    "10:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "unpredictable"
+                ],
+                [
+                    "13:26"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Genoino"
+                ],
+                [
+                    "393:400"
+                ]
+            ],
+            "Target": [
+                [
+                    "a very risky scenario"
+                ],
+                [
+                    "223:244"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "risky"
+                ],
+                [
+                    "230:235"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Genoino"
+                ],
+                [
+                    "393:400"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "backward"
+                ],
+                [
+                    "256:264"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" This is an unpredictable , anarchical situation . We do n't know where it will go , against whom . It is dangerous ! In addition to Argentina there are other countries in crisis , such as Colombia and Venezuela . We have a very risky scenario . Any step backward for democracy on the continent would be a disaster . Brazil cannot stand by with its hands folded just watching all of this , \" Genoino affirmed .",
+    "sent_id": "20011231/21.05.45-10422-5"
+}

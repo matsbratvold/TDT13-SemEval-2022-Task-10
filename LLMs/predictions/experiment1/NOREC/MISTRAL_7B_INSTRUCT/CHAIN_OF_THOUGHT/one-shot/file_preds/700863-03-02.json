@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "rollespillet"
+                ],
+                [
+                    "18:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "popul\u00e6rt"
+                ],
+                [
+                    "9:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hvor popul\u00e6rt rollespillet enn er hos brukerne"
+                ],
+                [
+                    "4:50"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "filmversjon"
+                ],
+                [
+                    "64:75"
+                ]
+            ],
+            "Target": [
+                [
+                    "hvor popul\u00e6rt rollespillet enn er hos brukerne"
+                ],
+                [
+                    "4:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00e5 det som filmversjon fungere som fortelling p\u00e5 kinolerretet"
+                ],
+                [
+                    "53:114"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Men hvor popul\u00e6rt rollespillet enn er hos brukerne , m\u00e5 det som filmversjon fungere som fortelling p\u00e5 kinolerretet .",
+    "sent_id": "700863-03-02"
+}

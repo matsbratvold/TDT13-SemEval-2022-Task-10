@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Yomiuri Shimbun"
+                ],
+                [
+                    "15:34"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Copyright 2002 The Yomiuri Shimbun",
+    "sent_id": "non_fbis/04.24.14-26782-16"
+}

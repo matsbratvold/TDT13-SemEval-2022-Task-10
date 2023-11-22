@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jordan"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto Protocol"
+                ],
+                [
+                    "15:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sign"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Jordan to sign Kyoto Protocol",
+    "sent_id": "non_fbis/06.39.11-29583-0"
+}

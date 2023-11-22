@@ -1,0 +1,50 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Del II"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "de mange skildringene"
+                ],
+                [
+                    "39:60"
+                ]
+            ],
+            "Target": [
+                [
+                    "journalistmilj\u00f8et"
+                ],
+                [
+                    "65:82"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Del II kunne med fordel v\u00e6rt barbert ; de mange skildringene fra journalistmilj\u00f8et i Oslo gir f.eks . lite nytt .",
+    "sent_id": "104219-10-03"
+}

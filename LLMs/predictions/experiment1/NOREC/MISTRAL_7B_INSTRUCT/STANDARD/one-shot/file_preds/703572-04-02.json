@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "sitt internasjonale portrettgalleri"
+                ],
+                [
+                    "4:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "\u00f8rkenlignende omgivelser"
+                ],
+                [
+                    "52:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "utforbi s\u00f8r-spanske Murcia"
+                ],
+                [
+                    "77:103"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "morsom og frivol eksponering"
+                ],
+                [
+                    "154:182"
+                ]
+            ],
+            "Target": [
+                [
+                    "sykdom og sunnhet"
+                ],
+                [
+                    "186:203"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "eksponering"
+                ],
+                [
+                    "171:182"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "makt og avmakt"
+                ],
+                [
+                    "206:220"
+                ]
+            ],
+            "Target": [
+                [
+                    "eksempelsamling"
+                ],
+                [
+                    "228:243"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dr\u00f8fting"
+                ],
+                [
+                    "248:256"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "eksponering"
+                ],
+                [
+                    "171:182"
+                ]
+            ],
+            "Target": [
+                [
+                    "av identitet"
+                ],
+                [
+                    "260:272"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dr\u00f8fting"
+                ],
+                [
+                    "248:256"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Med sitt internasjonale portrettgalleri hensatt til \u00f8rkenlignende omgivelser utforbi s\u00f8r-spanske Murcia er den en sjeldent mangefasettert og sprudlende , morsom og frivol eksponering av sykdom og sunnhet , makt og avmakt , samt eksempelsamling for dr\u00f8fting av av identitet .",
+    "sent_id": "703572-04-02"
+}

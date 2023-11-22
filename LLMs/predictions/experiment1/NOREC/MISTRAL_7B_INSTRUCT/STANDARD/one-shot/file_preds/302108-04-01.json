@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Det f\u00f8rste v\u00e5rtegnet"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kom riktignok i fjor"
+                ],
+                [
+                    "21:41"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det f\u00f8rste v\u00e5rtegnet kom riktignok i fjor , da en dedikert house- og technoscene ble reist i T\u00f8yenparken .",
+    "sent_id": "302108-04-01"
+}

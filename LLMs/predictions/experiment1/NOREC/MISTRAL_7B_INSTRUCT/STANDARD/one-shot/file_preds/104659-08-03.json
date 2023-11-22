@@ -1,0 +1,51 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Denne b\u00e5sen"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vanskelig \u00e5 sette"
+                ],
+                [
+                    "15:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Holters"
+                ],
+                [
+                    "41:48"
+                ]
+            ],
+            "Target": [
+                [
+                    "Denne b\u00e5sen"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Denne b\u00e5sen er vanskelig \u00e5 sette , men i Holters versjon best\u00e5r den av fire musikere , inkludert henne selv .",
+    "sent_id": "104659-08-03"
+}

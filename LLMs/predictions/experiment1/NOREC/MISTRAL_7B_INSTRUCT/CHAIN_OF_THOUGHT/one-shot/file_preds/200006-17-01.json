@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "andre"
+                ],
+                [
+                    "8:13"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "For det andre er ikke skjermen ber\u00f8ringsf\u00f8lsom slik vi etter hvert har blitt vant til p\u00e5 lignende dingser .",
+    "sent_id": "200006-17-01"
+}

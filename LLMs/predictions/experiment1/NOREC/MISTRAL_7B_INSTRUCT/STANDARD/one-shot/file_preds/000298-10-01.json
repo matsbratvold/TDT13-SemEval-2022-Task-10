@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Claire"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "jakobittoppr\u00f8rerne i Skottland"
+                ],
+                [
+                    "54:84"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Claire"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "krigen"
+                ],
+                [
+                    "119:125"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Claire"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Jareds kontakter blant jakobittene"
+                ],
+                [
+                    "199:233"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 infiltrere oppr\u00f8rsbevegelsen"
+                ],
+                [
+                    "238:268"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Claire er fast bestemt p\u00e5 at den eneste m\u00e5ten \u00e5 redde jakobittoppr\u00f8rerne i Skottland fra total utslettelse er \u00e5 stanse krigen f\u00f8r den har begynt , og med Jamie p\u00e5 laget bestemmer hun seg for \u00e5 bruke Jareds kontakter blant jakobittene til \u00e5 infiltrere oppr\u00f8rsbevegelsen .",
+    "sent_id": "000298-10-01"
+}

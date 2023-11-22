@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "sl\u00e5ende effekt"
+                ],
+                [
+                    "11:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sl\u00e5ende effekt"
+                ],
+                [
+                    "11:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "lar bildene"
+                ],
+                [
+                    "61:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lar bildene"
+                ],
+                [
+                    "61:72"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "historien"
+                ],
+                [
+                    "86:95"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "historien"
+                ],
+                [
+                    "86:95"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det gir en sl\u00e5ende effekt , og viser hva som kan skje n\u00e5r en lar bildene \u2013 og dernest historien \u2013 tale for seg .",
+    "sent_id": "302975-17-01"
+}

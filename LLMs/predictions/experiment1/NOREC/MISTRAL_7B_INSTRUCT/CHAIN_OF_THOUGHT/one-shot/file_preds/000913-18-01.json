@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Hovedhistorien"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lett \u00e5 glemme"
+                ],
+                [
+                    "22:35"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Hovedhistorien er dog lett \u00e5 glemme .",
+    "sent_id": "000913-18-01"
+}

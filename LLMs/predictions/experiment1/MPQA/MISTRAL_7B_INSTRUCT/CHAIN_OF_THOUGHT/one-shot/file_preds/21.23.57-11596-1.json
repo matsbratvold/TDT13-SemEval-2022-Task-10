@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "our correspondent in Bethlehem"
+                ],
+                [
+                    "20:50"
+                ]
+            ],
+            "Target": [
+                [
+                    "Ra' fat al - Bajjali"
+                ],
+                [
+                    "61:81"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "was martyred"
+                ],
+                [
+                    "82:94"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A short while ago , our correspondent in Bethlehem said that Ra' fat al - Bajjali was martyred of wounds he sustained in the explosion .",
+    "sent_id": "20011203/21.23.57-11596-1"
+}

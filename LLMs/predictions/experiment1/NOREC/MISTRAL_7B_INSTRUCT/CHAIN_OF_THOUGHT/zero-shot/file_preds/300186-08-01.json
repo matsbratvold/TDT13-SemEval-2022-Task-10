@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Visst"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "et konkurranseprogram"
+                ],
+                [
+                    "35:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "trenger litt temperatur"
+                ],
+                [
+                    "57:80"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Visst skal det v\u00e6re hyggelig , men et konkurranseprogram trenger litt temperatur .",
+    "sent_id": "300186-08-01"
+}

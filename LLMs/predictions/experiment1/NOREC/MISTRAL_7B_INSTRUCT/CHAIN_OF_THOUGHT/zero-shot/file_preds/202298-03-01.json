@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "tredje oppgraderingen av tredje generasjon Toyota Yaris"
+                ],
+                [
+                    "17:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kommer"
+                ],
+                [
+                    "6:12"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I mai kommer den tredje oppgraderingen av tredje generasjon Toyota Yaris .",
+    "sent_id": "202298-03-01"
+}

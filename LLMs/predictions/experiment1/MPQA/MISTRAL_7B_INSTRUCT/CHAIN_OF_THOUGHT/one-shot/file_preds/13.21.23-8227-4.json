@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Atlantis"
+                ],
+                [
+                    "70:78"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "belched"
+                ],
+                [
+                    "35:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Atlantis"
+                ],
+                [
+                    "70:78"
+                ]
+            ],
+            "Target": [
+                [
+                    "countdown"
+                ],
+                [
+                    "159:168"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "marred"
+                ],
+                [
+                    "148:154"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Atlantis"
+                ],
+                [
+                    "70:78"
+                ]
+            ],
+            "Target": [
+                [
+                    "launch pad"
+                ],
+                [
+                    "105:115"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "thundered off"
+                ],
+                [
+                    "79:92"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Riding three new main engines that belched an orange pillar of fire , Atlantis thundered off the seaside launch pad at 4:44 p.m . A computer glitch marred the countdown as engineers frantically reloaded software , finishing the job with just 11 seconds to spare .",
+    "sent_id": "non_fbis/13.21.23-8227-4"
+}

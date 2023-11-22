@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Times"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "larger geopolitical context"
+                ],
+                [
+                    "25:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "emphasizes"
+                ],
+                [
+                    "10:20"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The Times"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "the moderate Arab coalition"
+                ],
+                [
+                    "297:324"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is falling apart"
+                ],
+                [
+                    "386:402"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The Times emphasizes the larger geopolitical context . Given that the troubles on the West Bank have not only frosted relations between Arafat and Israel , but also those between Israel and Egypt and between Israel and Saudi Arabia , the paper states that the U.S. is now facing the prospect that the moderate Arab coalition it built after the Persian Gulf war to contain Iraq and Iran is falling apart .",
+    "sent_id": "ula/Article247_400-3"
+}

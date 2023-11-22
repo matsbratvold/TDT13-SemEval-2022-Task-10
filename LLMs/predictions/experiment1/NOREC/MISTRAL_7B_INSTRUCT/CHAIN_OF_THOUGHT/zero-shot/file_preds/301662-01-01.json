@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Blood Command"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "magen"
+                ],
+                [
+                    "31:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sl\u00e5r"
+                ],
+                [
+                    "14:18"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Blood Command sl\u00e5r deg hardt i magen",
+    "sent_id": "301662-01-01"
+}

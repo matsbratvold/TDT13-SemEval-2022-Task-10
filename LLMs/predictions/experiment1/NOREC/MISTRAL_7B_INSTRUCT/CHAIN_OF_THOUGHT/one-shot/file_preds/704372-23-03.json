@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Musikken"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "Bj\u00f6rn Olsson"
+                ],
+                [
+                    "40:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lagd"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Musikken"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "Bj\u00f6rn Olsson"
+                ],
+                [
+                    "40:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sammen med"
+                ],
+                [
+                    "19:29"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Bj\u00f6rn Olsson"
+                ],
+                [
+                    "40:52"
+                ]
+            ],
+            "Target": [
+                [
+                    "Musikken"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er en viktig brikke p\u00e5 platen"
+                ],
+                [
+                    "59:88"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Musikken er lagd i sammen med produsent Bj\u00f6rn Olsson , som er en viktig brikke p\u00e5 platen .",
+    "sent_id": "704372-23-03"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hitl\u00e5t"
+                ],
+                [
+                    "17:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "h\u00f8ydepunkt"
+                ],
+                [
+                    "49:59"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Ingen umiddelbar hitl\u00e5t , men som sies \u00e5 v\u00e6re et h\u00f8ydepunkt p\u00e5 konserter .",
+    "sent_id": "704372-10-02"
+}

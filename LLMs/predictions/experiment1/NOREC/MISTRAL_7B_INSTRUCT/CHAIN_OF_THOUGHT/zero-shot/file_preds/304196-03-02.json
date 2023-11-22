@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pink Floyd albumdebuterte"
+                ],
+                [
+                    "24:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Det er i \u00e5r 50 \u00e5r siden Pink Floyd albumdebuterte .",
+    "sent_id": "304196-03-02"
+}

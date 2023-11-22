@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Practically speaking"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "a buffer zone"
+                ],
+                [
+                    "23:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "will be near impossible to erect"
+                ],
+                [
+                    "37:69"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sharon"
+                ],
+                [
+                    "356:362"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "will not withdraw from a single settlement"
+                ],
+                [
+                    "378:420"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sharon"
+                ],
+                [
+                    "356:362"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "thinks that every settlement is important"
+                ],
+                [
+                    "426:467"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Practically speaking , a buffer zone will be near impossible to erect . A physical border between Israel and a new Palestinian state will be twisted and distorted to accommodate Jewish settlers in the West Bank and Gaza . Unilateral separation without a negotiated agreement could be realized - only if Israel is willing to uproot around 100 settlements . Sharon says flatly he will not withdraw from a single settlement . He thinks that every settlement is important and is determined that Israelis must retain as much land in the West Bank and Gaza Strip as possible .",
+    "sent_id": "20020225/21.00.49-23712-3"
+}

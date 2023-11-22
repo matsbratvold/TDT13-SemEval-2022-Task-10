@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Rice"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "10:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "began the meeting with the words"
+                ],
+                [
+                    "25:57"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Rice"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "Director of Central Intelligence George Tenet"
+                ],
+                [
+                    "89:134"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said the agency was still assessing who was responsible"
+                ],
+                [
+                    "135:190"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Rice"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "Deputies Committee"
+                ],
+                [
+                    "256:274"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "returned to the pending presidential directive"
+                ],
+                [
+                    "275:321"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Rice said President Bush began the meeting with the words , \" We 're at war , \" and that Director of Central Intelligence George Tenet said the agency was still assessing who was responsible , but the early signs all pointed to al Qaeda . That evening the Deputies Committee returned to the pending presidential directive they had labored over during the summer .",
+    "sent_id": "ula/chapter-10-4"
+}

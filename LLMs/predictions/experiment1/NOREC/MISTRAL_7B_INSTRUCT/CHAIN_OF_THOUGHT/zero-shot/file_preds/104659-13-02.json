@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Klarte"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "\u00d8yafestivalens bablende publikum"
+                ],
+                [
+                    "57:89"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 klappe igjen"
+                ],
+                [
+                    "94:108"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Klarte en samtidskunstner / musiker fra Los Angeles \u00e5 f\u00e5 \u00d8yafestivalens bablende publikum til \u00e5 klappe igjen ?",
+    "sent_id": "104659-13-02"
+}

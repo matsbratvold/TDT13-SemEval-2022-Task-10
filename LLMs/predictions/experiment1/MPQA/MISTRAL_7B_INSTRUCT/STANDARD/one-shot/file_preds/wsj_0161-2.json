@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Oklahoma City energy and defense concern"
+                ],
+                [
+                    "0:44"
+                ]
+            ],
+            "Target": [
+                [
+                    "a $ 7.5 million reserve"
+                ],
+                [
+                    "65:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said it will record"
+                ],
+                [
+                    "45:64"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "The Oklahoma City energy and defense concern"
+                ],
+                [
+                    "0:44"
+                ]
+            ],
+            "Target": [
+                [
+                    "problems under a fixed - price development contract"
+                ],
+                [
+                    "157:208"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "a $ 4.7 million charge related to"
+                ],
+                [
+                    "123:156"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The Oklahoma City energy and defense concern"
+                ],
+                [
+                    "0:44"
+                ]
+            ],
+            "Target": [
+                [
+                    "overhead costs that wo n't be reimbursed"
+                ],
+                [
+                    "230:270"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "$ 2.8 million in overhead costs that wo n't be reimbursed"
+                ],
+                [
+                    "213:270"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The Oklahoma City energy and defense concern said it will record a $ 7.5 million reserve for its defense group , including a $ 4.7 million charge related to problems under a fixed - price development contract and $ 2.8 million in overhead costs that wo n't be reimbursed .",
+    "sent_id": "xbank/wsj_0161-2"
+}

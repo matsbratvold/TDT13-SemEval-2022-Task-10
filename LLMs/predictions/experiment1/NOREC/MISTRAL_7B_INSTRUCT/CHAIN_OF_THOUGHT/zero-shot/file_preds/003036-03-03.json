@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Et album"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "ingenting"
+                ],
+                [
+                    "52:61"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00e5tte man"
+                ],
+                [
+                    "9:18"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Et album m\u00e5tte man midlertid se langt etter , fordi ingenting ble lansert .",
+    "sent_id": "003036-03-03"
+}

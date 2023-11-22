@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Wolfowitz"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "China"
+                ],
+                [
+                    "34:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "concern"
+                ],
+                [
+                    "20:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Wolfowitz expressed concern about China 's continuing deployment of forces and tactical missiles to areas across the straits from Taiwan .",
+    "sent_id": "temp_fbis/22.34.58-23977-13"
+}

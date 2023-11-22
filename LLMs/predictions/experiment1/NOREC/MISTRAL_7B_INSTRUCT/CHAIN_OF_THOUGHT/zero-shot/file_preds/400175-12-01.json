@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Her"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Roland M\u00f8ller"
+                ],
+                [
+                    "8:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "oss en mesterlig oppvisning"
+                ],
+                [
+                    "22:49"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "sersjanten"
+                ],
+                [
+                    "69:79"
+                ]
+            ],
+            "Target": [
+                [
+                    "de humane sidene"
+                ],
+                [
+                    "104:120"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gir etter for de humane sidene"
+                ],
+                [
+                    "90:120"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Her gir Roland M\u00f8ller oss en mesterlig oppvisning i underspill , n\u00e5r sersjanten motvillig gir etter for de humane sidene i seg som har g\u00e5tt i dvale under de hatefulle krigs\u00e5rene .",
+    "sent_id": "400175-12-01"
+}

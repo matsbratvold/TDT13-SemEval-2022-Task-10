@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Julieta"
+                ],
+                [
+                    "16:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "Julieta"
+                ],
+                [
+                    "16:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "godt"
+                ],
+                [
+                    "4:8"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Den godt voksne Julieta ( Emma Su\u00e1rez ) er i ferd med \u00e5 flytte fra Madrid til Portugal med sin kj\u00e6reste .",
+    "sent_id": "702352-09-01"
+}

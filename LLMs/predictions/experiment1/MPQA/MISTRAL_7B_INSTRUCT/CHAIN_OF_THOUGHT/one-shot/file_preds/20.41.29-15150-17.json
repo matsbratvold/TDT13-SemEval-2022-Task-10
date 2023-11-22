@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the global community"
+                ],
+                [
+                    "36:56"
+                ]
+            ],
+            "Target": [
+                [
+                    "a set of rules to implement the climate change treaty"
+                ],
+                [
+                    "107:160"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "agreed"
+                ],
+                [
+                    "97:103"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "But due to the strong initiative of the global community , led by the European Union , countries agreed on a set of rules to implement the climate change treaty _ with or without the U.S .",
+    "sent_id": "20011115/20.41.29-15150-17"
+}

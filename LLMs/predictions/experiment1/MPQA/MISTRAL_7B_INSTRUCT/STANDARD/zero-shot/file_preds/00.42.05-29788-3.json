@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The weekly"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "mainland China"
+                ],
+                [
+                    "21:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has attracted more than US $ 50 billion in investment"
+                ],
+                [
+                    "36:89"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Taipei authorities"
+                ],
+                [
+                    "123:141"
+                ]
+            ],
+            "Target": [
+                [
+                    "investment in mainland China"
+                ],
+                [
+                    "209:237"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bowed to pressure from its own businessmen"
+                ],
+                [
+                    "142:184"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Taipei authorities"
+                ],
+                [
+                    "123:141"
+                ]
+            ],
+            "Target": [
+                [
+                    "investment in mainland China"
+                ],
+                [
+                    "209:237"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lift restrictions on investment"
+                ],
+                [
+                    "188:219"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Taipei authorities"
+                ],
+                [
+                    "123:141"
+                ]
+            ],
+            "Target": [
+                [
+                    "investment in mainland China"
+                ],
+                [
+                    "209:237"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "expected to speed up the flow of Taiwan capital to its arch rival"
+                ],
+                [
+                    "254:319"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The weekly said that mainland China has attracted more than US $ 50 billion in investment from Taiwan thus far , while the Taipei authorities bowed to pressure from its own businessmen to lift restrictions on investment in mainland China in May , a move expected to speed up the flow of Taiwan capital to its arch rival .",
+    "sent_id": "20010713/00.42.05-29788-3"
+}

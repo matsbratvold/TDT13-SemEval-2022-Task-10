@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "United States"
+                ],
+                [
+                    "13:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "human rights"
+                ],
+                [
+                    "46:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "claims"
+                ],
+                [
+                    "27:33"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Although the United States claims to advocate human rights , its harsh treatment of its own citizens and its hegemonic and belligerent policy towards other nations prove that the claim is just empty rhetoric .",
+    "sent_id": "temp_fbis/20.46.58-22510-5"
+}

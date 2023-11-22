@@ -1,0 +1,41 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "v\u00e5re tre unge"
+                ],
+                [
+                    "28:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rettskafne og handlekraftige helter"
+                ],
+                [
+                    "44:79"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "kappl\u00f8p om \u00e5 finne det mystiske skrinet til Olav den hellige"
+                ],
+                [
+                    "95:155"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Som tittelen antyder , blir v\u00e5re tre unge , rettskafne og handlekraftige helter blandet inn et kappl\u00f8p om \u00e5 finne det mystiske skrinet til Olav den hellige .",
+    "sent_id": "600725-05-01"
+}

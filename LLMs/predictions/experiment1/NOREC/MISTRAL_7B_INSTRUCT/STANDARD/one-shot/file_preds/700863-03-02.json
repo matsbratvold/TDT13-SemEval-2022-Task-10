@@ -1,0 +1,93 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "rollespillet"
+                ],
+                [
+                    "18:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "popul\u00e6rt"
+                ],
+                [
+                    "9:17"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "rollespillet"
+                ],
+                [
+                    "18:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hos brukerne"
+                ],
+                [
+                    "38:50"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "rollespillet"
+                ],
+                [
+                    "18:30"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "rollespillet"
+                ],
+                [
+                    "18:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fungere som fortelling p\u00e5 kinolerretet"
+                ],
+                [
+                    "76:114"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Men hvor popul\u00e6rt rollespillet enn er hos brukerne , m\u00e5 det som filmversjon fungere som fortelling p\u00e5 kinolerretet .",
+    "sent_id": "700863-03-02"
+}

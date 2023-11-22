@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Prof. Viktor Danilov - Danilyan"
+                ],
+                [
+                    "64:95"
+                ]
+            ],
+            "Target": [
+                [
+                    "global climatic changes"
+                ],
+                [
+                    "150:173"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Prof. Viktor Danilov - Danilyan"
+                ],
+                [
+                    "64:95"
+                ]
+            ],
+            "Target": [
+                [
+                    "global climatic changes"
+                ],
+                [
+                    "150:173"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Prof. Viktor Danilov - Danilyan"
+                ],
+                [
+                    "64:95"
+                ]
+            ],
+            "Target": [
+                [
+                    "global climatic changes"
+                ],
+                [
+                    "150:173"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Some terminological refinements came up as well . For example , Prof. Viktor Danilov - Danilyan maintain that \" we must not speak of warming , but of global climatic changes ; warming is merely one aspect of these changes . \" What is cited as the reason for them , the scientist continues , \" is almost always the increase in the greenhouse effect due to a larger concentration of greenhouse gases in the atmosphere . This concentration grows , in turn , it is usually written , due to the burning of a huge quantity of organic fuel ( oil , natural gas , coal , wood , peat , etc. ) by industry , transport , agriculture and households . But this is not the only cause of climatic change . It is n't even the only cause of the increase in the greenhouse effect . \"",
+    "sent_id": "temp_fbis/21.10.31-12974-11"
+}

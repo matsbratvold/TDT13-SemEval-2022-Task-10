@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Our country"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "a controlling block of shares"
+                ],
+                [
+                    "31:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has"
+                ],
+                [
+                    "12:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Our country"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Kyoto Protocol"
+                ],
+                [
+                    "95:113"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "will die"
+                ],
+                [
+                    "114:122"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "behave badly"
+                ],
+                [
+                    "143:155"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "are simply obligated to ratify this document"
+                ],
+                [
+                    "161:205"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Our country has something like a controlling block of shares , since without Russia and the US the Kyoto Protocol will die . And if the States behave badly , we are simply obligated to ratify this document -- this was the conclusion arrived at by the round table .",
+    "sent_id": "temp_fbis/21.10.31-12974-14"
+}

@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Produsentene"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "jentene"
+                ],
+                [
+                    "66:73"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "b\u00f8te"
+                ],
+                [
+                    "27:31"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Produsentene"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Norge"
+                ],
+                [
+                    "93:98"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "klippe inn"
+                ],
+                [
+                    "45:55"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Produsentene"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "oppvisningssekvens"
+                ],
+                [
+                    "109:127"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Produsentene har fors\u00f8kt \u00e5 b\u00f8te p\u00e5 det ved \u00e5 klippe inn bilder av jentene in action hjemme i Norge , samt en oppvisningssekvens med den spanske mentoren .",
+    "sent_id": "300186-11-05"
+}

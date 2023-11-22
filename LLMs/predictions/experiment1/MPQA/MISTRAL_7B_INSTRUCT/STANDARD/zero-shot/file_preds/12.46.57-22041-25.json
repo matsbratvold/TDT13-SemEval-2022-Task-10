@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Brig Lehnert"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "the detainees"
+                ],
+                [
+                    "27:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "accepted"
+                ],
+                [
+                    "13:21"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Brig Lehnert"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "the detainees"
+                ],
+                [
+                    "27:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "argued"
+                ],
+                [
+                    "77:83"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Marine engineers"
+                ],
+                [
+                    "161:177"
+                ]
+            ],
+            "Target": [
+                [
+                    "the camp"
+                ],
+                [
+                    "150:158"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "saw and hammer away"
+                ],
+                [
+                    "178:197"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Brig Lehnert accepted that the detainees were living in basic conditions but argued that this would improve once permanent facilities were built . At the camp , Marine engineers saw and hammer away as an interrogation centre and new cages are finished . The target capacity is 2,000 .",
+    "sent_id": "non_fbis/12.46.57-22041-25"
+}

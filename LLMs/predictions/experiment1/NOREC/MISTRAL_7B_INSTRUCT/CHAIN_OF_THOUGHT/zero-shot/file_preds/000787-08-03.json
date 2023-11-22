@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "To personer"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "noen ganger"
+                ],
+                [
+                    "15:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "n\u00f8dvendig"
+                ],
+                [
+                    "27:36"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "To personer er noen ganger n\u00f8dvendig for \u00e5 samle alt .",
+    "sent_id": "000787-08-03"
+}

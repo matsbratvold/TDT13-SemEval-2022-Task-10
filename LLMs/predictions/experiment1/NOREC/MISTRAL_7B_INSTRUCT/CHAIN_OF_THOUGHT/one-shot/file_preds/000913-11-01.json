@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Selv"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "hakket lystigere enn Dunwall"
+                ],
+                [
+                    "22:50"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Selv"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "er ikke alt fryd og gammen her heller"
+                ],
+                [
+                    "81:118"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Selv om denne byen er hakket lystigere enn Dunwall , som vi kjenner fra eneren , er ikke alt fryd og gammen her heller .",
+    "sent_id": "000913-11-01"
+}

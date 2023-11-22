@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "42:47"
+                ]
+            ],
+            "Target": [
+                [
+                    "expanding military presence by the United States"
+                ],
+                [
+                    "152:200"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "serious criticism"
+                ],
+                [
+                    "118:135"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A detailed document has been issued after China 's recent State of Council session [ as published ] . In the document serious criticism was made on the expanding military presence by the United States at the international level and it was demanded that the United States should stop the policy of dominating the world .",
+    "sent_id": "20020315/20.21.54-4382-0"
+}

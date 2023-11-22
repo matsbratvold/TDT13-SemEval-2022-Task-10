@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Staff Sgt Chuck Albrecht"
+                ],
+                [
+                    "76:100"
+                ]
+            ],
+            "Target": [
+                [
+                    "chilling out"
+                ],
+                [
+                    "16:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "chilling out"
+                ],
+                [
+                    "16:28"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Staff Sgt Chuck Albrecht"
+                ],
+                [
+                    "76:100"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "dirty"
+                ],
+                [
+                    "125:130"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Staff Sgt Chuck Albrecht"
+                ],
+                [
+                    "76:100"
+                ]
+            ],
+            "Target": [
+                [
+                    "detainees"
+                ],
+                [
+                    "137:146"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "washing"
+                ],
+                [
+                    "151:158"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "\" They 're just chilling out , that 's exactly what they 're doing , \" said Staff Sgt Chuck Albrecht . \" Our guys are pretty dirty . The detainees are washing every day . They get granola bars , a box of apple jacks and fresh fruit . \"",
+    "sent_id": "non_fbis/12.46.57-22041-12"
+}

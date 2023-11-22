@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Seks hjerter"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "til en usedvanlig positiv opplevelse"
+                ],
+                [
+                    "27:63"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Seks hjerter viser derimot til en usedvanlig positiv opplevelse over all forventning .",
+    "sent_id": "501595-14-04"
+}

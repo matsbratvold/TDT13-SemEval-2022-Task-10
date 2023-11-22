@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "klokkeinteresserte"
+                ],
+                [
+                    "6:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "treningsklokkene"
+                ],
+                [
+                    "29:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rykte"
+                ],
+                [
+                    "84:89"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Blant klokkeinteresserte har treningsklokkene i lang tid hatt et forholdsvis d\u00e5rlig rykte .",
+    "sent_id": "201344-07-01"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Da freden kom til Danmark i 1945"
+                ],
+                [
+                    "0:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "landminer"
+                ],
+                [
+                    "53:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "l\u00e5 det millioner av"
+                ],
+                [
+                    "33:52"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "flere enn i noe annet europeisk land"
+                ],
+                [
+                    "82:118"
+                ]
+            ],
+            "Target": [
+                [
+                    "landminer"
+                ],
+                [
+                    "53:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en"
+                ],
+                [
+                    "7:9"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Da freden kom til Danmark i 1945 l\u00e5 det millioner av landminer langs vestkysten \u2013 flere enn i noe annet europeisk land .",
+    "sent_id": "400175-03-01"
+}

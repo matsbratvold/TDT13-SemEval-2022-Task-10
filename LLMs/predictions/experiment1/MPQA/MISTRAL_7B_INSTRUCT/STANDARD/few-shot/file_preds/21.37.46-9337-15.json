@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Renzo Gubert"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "local Tibetans enjoy a high level of religious freedom"
+                ],
+                [
+                    "60:114"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said"
+                ],
+                [
+                    "18:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "the United States"
+                ],
+                [
+                    "247:264"
+                ]
+            ],
+            "Target": [
+                [
+                    "the so - called China human rights report"
+                ],
+                [
+                    "193:234"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blindly accuses"
+                ],
+                [
+                    "273:288"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Renzo Gubert once said that what impressed him most is that local Tibetans enjoy a high level of religious freedom . The Italian senator 's words are in sharp contrast to what was contained in the so - called China human rights report compiled by the United States , which blindly accuses China of restricting religious freedom in Tibet .",
+    "sent_id": "temp_fbis/21.37.46-9337-15"
+}

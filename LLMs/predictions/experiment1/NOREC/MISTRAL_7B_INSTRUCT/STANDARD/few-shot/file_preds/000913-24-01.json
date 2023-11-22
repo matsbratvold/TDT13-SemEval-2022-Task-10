@@ -1,0 +1,44 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Tidsinvesteringen"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "l\u00f8nner seg"
+                ],
+                [
+                    "18:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "malerier og bl\u00e5kopier"
+                ],
+                [
+                    "46:67"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Tidsinvesteringen l\u00f8nner seg ogs\u00e5 i jakten p\u00e5 malerier og bl\u00e5kopier , som igjen gir deg kapital og utgangspunkt for \u00e5 gi karakteren din flere og sterke strenger \u00e5 spille p\u00e5 .",
+    "sent_id": "000913-24-01"
+}

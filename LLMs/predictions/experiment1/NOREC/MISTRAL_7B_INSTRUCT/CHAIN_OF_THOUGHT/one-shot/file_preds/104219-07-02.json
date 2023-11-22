@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "forteller"
+                ],
+                [
+                    "3:12"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Da forteller hun heller venninnene at han studerer til sivilingeni\u00f8r ...",
+    "sent_id": "104219-07-02"
+}

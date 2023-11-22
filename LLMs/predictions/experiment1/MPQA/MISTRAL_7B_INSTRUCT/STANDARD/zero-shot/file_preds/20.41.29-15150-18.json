@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "In order for the protocol to be implemented"
+                ],
+                [
+                    "0:43"
+                ]
+            ],
+            "Target": [
+                [
+                    "the protocol"
+                ],
+                [
+                    "13:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "must be ratified by at least 55 parties"
+                ],
+                [
+                    "49:88"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "In order for the protocol to be implemented"
+                ],
+                [
+                    "0:43"
+                ]
+            ],
+            "Target": [
+                [
+                    "the protocol"
+                ],
+                [
+                    "13:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "including enough industrialized countries to represent at least 55 percent of the total carbon dioxide emissions in 1990"
+                ],
+                [
+                    "91:211"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "In order for the protocol to be implemented , it must be ratified by at least 55 parties , including enough industrialized countries to represent at least 55 percent of the total carbon dioxide emissions in 1990 .",
+    "sent_id": "20011115/20.41.29-15150-18"
+}

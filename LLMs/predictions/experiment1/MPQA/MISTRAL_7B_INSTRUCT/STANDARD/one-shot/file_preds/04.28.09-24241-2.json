@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "2:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Geneva Convention"
+                ],
+                [
+                    "40:61"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "2:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "Al Qaeda international terrorists"
+                ],
+                [
+                    "113:146"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "\" President Bush today has decided that the Geneva Convention will apply to the Taliban detainees but not to the Al Qaeda international terrorists , \" Bush spokesman Ari Fleischer told reporters .",
+    "sent_id": "non_fbis/04.28.09-24241-2"
+}

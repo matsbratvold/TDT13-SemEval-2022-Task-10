@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "bilen"
+                ],
+                [
+                    "9:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "de som p\u00e5 enkelt"
+                ],
+                [
+                    "19:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bilen"
+                ],
+                [
+                    "9:14"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Dette er bilen for de som p\u00e5 enkelt , rimelig og milj\u00f8messig vis vil komme seg fra A til B .",
+    "sent_id": "202298-25-02"
+}

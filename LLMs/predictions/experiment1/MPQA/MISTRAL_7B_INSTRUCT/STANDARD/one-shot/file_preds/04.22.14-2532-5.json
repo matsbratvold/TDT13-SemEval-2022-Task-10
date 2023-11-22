@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "releases"
+                ],
+                [
+                    "6:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "China releases the report every year in response to a US State Department report on global human rights conditions , which usually accuses China of widespread abuses . The US report came out last week .",
+    "sent_id": "non_fbis/04.22.14-2532-5"
+}

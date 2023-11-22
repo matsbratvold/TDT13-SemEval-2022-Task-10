@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "detainees"
+                ],
+                [
+                    "4:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Gitmo"
+                ],
+                [
+                    "19:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "various nationalities"
+                ],
+                [
+                    "67:88"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Saudi officials"
+                ],
+                [
+                    "91:106"
+                ]
+            ],
+            "Target": [
+                [
+                    "Gitmo"
+                ],
+                [
+                    "19:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "100 are from the Gulf kingdom"
+                ],
+                [
+                    "122:151"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Saudi officials"
+                ],
+                [
+                    "91:106"
+                ]
+            ],
+            "Target": [
+                [
+                    "Gitmo"
+                ],
+                [
+                    "19:24"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The detainees at \" Gitmo , \" as US soldiers call the base , are of various nationalities . Saudi officials have said that 100 are from the Gulf kingdom and have demanded they be returned to face justice at home .",
+    "sent_id": "non_fbis/04.28.09-24241-13"
+}

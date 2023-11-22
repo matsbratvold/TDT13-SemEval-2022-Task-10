@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "detainees"
+                ],
+                [
+                    "218:227"
+                ]
+            ],
+            "Target": [
+                [
+                    "natural"
+                ],
+                [
+                    "240:247"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "do n't look"
+                ],
+                [
+                    "228:239"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Wearing bright orange wool knit caps , blacked - out goggles , earmuffs , white surgical masks , bright orange jumpsuits , denim jackets , beige mittens ( taped around the wrists ) , handcuffs and ankle shackles , the detainees do n't look natural .",
+    "sent_id": "non_fbis/06.44.52-19992-10"
+}

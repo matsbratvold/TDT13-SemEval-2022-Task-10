@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fascinerende g\u00e5tefullt"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "helt i m\u00e5l"
+                ],
+                [
+                    "23:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fullt"
+                ],
+                [
+                    "17:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Fascinerende g\u00e5tefullt helt i m\u00e5l .",
+    "sent_id": "702352-09-04"
+}

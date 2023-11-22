@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "en stor tilhenger av kostymedrama"
+                ],
+                [
+                    "4:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "de to f\u00f8rste episodene"
+                ],
+                [
+                    "42:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en fryd \u00e5 se"
+                ],
+                [
+                    "65:77"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Som en stor tilhenger av kostymedrama var de to f\u00f8rste episodene en fryd \u00e5 se .",
+    "sent_id": "000298-14-01"
+}

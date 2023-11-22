@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "andre"
+                ],
+                [
+                    "3:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "kj\u00f8resyklus"
+                ],
+                [
+                    "9:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tenkte vi ikke forbruk"
+                ],
+                [
+                    "21:43"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "andre"
+                ],
+                [
+                    "3:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "kj\u00f8resyklus"
+                ],
+                [
+                    "9:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00f8ke andelen elektrisk kj\u00f8ring"
+                ],
+                [
+                    "77:106"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "P\u00e5 andre kj\u00f8resyklus tenkte vi ikke forbruk i det hele tatt , men fors\u00f8kte \u00e5 \u00f8ke andelen elektrisk kj\u00f8ring med litt ufine metoder .",
+    "sent_id": "202298-11-01"
+}

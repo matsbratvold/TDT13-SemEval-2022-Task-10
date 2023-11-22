@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The move"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "fevered criticism"
+                ],
+                [
+                    "21:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "comes after"
+                ],
+                [
+                    "9:20"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "key US allies"
+                ],
+                [
+                    "56:69"
+                ]
+            ],
+            "Target": [
+                [
+                    "alleged mistreatment"
+                ],
+                [
+                    "86:106"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stemming from"
+                ],
+                [
+                    "72:85"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The move comes after fevered criticism - including from key US allies - stemming from alleged mistreatment of Taliban and Al Qaeda detainees the United States is holding at \" Camp X - Ray \" in Guantanamo Bay , Cuba .",
+    "sent_id": "non_fbis/04.28.09-24241-3"
+}

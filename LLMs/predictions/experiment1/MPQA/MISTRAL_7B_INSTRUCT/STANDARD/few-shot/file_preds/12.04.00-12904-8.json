@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The country of 36 million people"
+                ],
+                [
+                    "0:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "more shop looting and violence"
+                ],
+                [
+                    "54:84"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is living in fear of"
+                ],
+                [
+                    "33:53"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The country of 36 million people"
+                ],
+                [
+                    "0:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "more riots"
+                ],
+                [
+                    "134:144"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is living in fear of"
+                ],
+                [
+                    "33:53"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The country of 36 million people"
+                ],
+                [
+                    "0:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "more misery"
+                ],
+                [
+                    "186:197"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is living in fear of"
+                ],
+                [
+                    "33:53"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The country of 36 million people is living in fear of more shop looting and violence that killed 27 people before De la Rua quit , of more riots like those that erupted on Friday and of more misery as a four - year - old recession grinds on .",
+    "sent_id": "non_fbis/12.04.00-12904-8"
+}

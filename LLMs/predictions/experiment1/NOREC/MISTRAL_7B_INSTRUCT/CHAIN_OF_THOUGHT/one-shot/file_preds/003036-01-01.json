@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Frank"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "byggeklosser"
+                ],
+                [
+                    "7:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "byggeklosser"
+                ],
+                [
+                    "7:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Franks byggeklosser",
+    "sent_id": "003036-01-01"
+}

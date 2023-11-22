@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ideen"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "\u00e5 lage en kort sesong i tidsforl\u00f8p"
+                ],
+                [
+                    "10:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sikkert en kanonid\u00e9 p\u00e5 skriverommet"
+                ],
+                [
+                    "49:84"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Ideen med \u00e5 lage en kort sesong i tidsforl\u00f8p var sikkert en kanonid\u00e9 p\u00e5 skriverommet .",
+    "sent_id": "103992-17-01"
+}

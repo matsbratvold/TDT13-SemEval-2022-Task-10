@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The consumer - products and newsprint company"
+                ],
+                [
+                    "0:45"
+                ]
+            ],
+            "Target": [
+                [
+                    "net rose"
+                ],
+                [
+                    "51:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said"
+                ],
+                [
+                    "46:50"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The consumer - products and newsprint company"
+                ],
+                [
+                    "0:45"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "rose"
+                ],
+                [
+                    "55:59"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The consumer - products and newsprint company said net rose to $ 108.8 million , or $ 1.35 a share , from $ 90.5 million , or $ 1.12 a share , a year ago . Sales rose 6.2 % to $ 1.45 billion from $ 1.37 billion .",
+    "sent_id": "xbank/wsj_0292-2"
+}

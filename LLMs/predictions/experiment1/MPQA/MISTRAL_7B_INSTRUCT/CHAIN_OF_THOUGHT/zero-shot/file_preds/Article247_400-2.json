@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The NYT"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Albright"
+                ],
+                [
+                    "25:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "read the riot act"
+                ],
+                [
+                    "67:84"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The NYT"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Arafat"
+                ],
+                [
+                    "97:103"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "get Arafat to come out decisively and publicly for peace with Israel"
+                ],
+                [
+                    "159:227"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The NYT"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Arafat"
+                ],
+                [
+                    "97:103"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "telling him that there can be no more attempts at co-opting Hamas"
+                ],
+                [
+                    "230:295"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The NYT"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Arafat"
+                ],
+                [
+                    "97:103"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The NYT states that when Albright shows up on Tuesday , she will \" read the riot act \" to Yassir Arafat about cracking down on terrorism . Her goal will be to get Arafat to come out decisively and publicly for peace with Israel , telling him that there can be no more attempts at co-opting Hamas , and \" no more kisses \" of its leaders .",
+    "sent_id": "ula/Article247_400-2"
+}

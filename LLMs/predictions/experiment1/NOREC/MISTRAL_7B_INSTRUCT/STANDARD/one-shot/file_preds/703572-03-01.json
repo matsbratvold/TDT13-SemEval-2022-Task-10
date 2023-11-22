@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Deborah Levy"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Deborah Levy :",
+    "sent_id": "703572-03-01"
+}

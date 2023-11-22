@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The United States and its principal allies"
+                ],
+                [
+                    "0:42"
+                ]
+            ],
+            "Target": [
+                [
+                    "the unbelievable provocation of the 11 September attacks"
+                ],
+                [
+                    "100:156"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "acted with exceptional caution"
+                ],
+                [
+                    "48:78"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "The United States and its principal allies"
+                ],
+                [
+                    "0:42"
+                ]
+            ],
+            "Target": [
+                [
+                    "the enemy is not Islam but a very well defined and perverse interpretation of this religion"
+                ],
+                [
+                    "292:383"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "The United States and its principal allies"
+                ],
+                [
+                    "0:42"
+                ]
+            ],
+            "Target": [
+                [
+                    "the battle of endurance that must follow"
+                ],
+                [
+                    "416:456"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "placed the stress on"
+                ],
+                [
+                    "395:415"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The United States and its principal allies have acted with exceptional caution over recent weeks to the unbelievable provocation of the 11 September attacks . They took pains to build a broad coalition , and tried to make it clear to their own population and the international community that the enemy is not Islam but a very well defined and perverse interpretation of this religion . And they placed the stress on the battle of endurance that must follow .",
+    "sent_id": "20011008/22.27.34-26526-2"
+}

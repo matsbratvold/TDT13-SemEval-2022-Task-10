@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "preget mann"
+                ],
+                [
+                    "3:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fanget"
+                ],
+                [
+                    "17:23"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "behovet for n\u00e6rhet og kontroll"
+                ],
+                [
+                    "31:61"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "preget"
+                ],
+                [
+                    "3:9"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "En preget mann , fanget mellom behovet for n\u00e6rhet og kontroll .",
+    "sent_id": "104219-06-02"
+}

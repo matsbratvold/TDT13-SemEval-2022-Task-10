@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "crisis managers"
+                ],
+                [
+                    "47:62"
+                ]
+            ],
+            "Target": [
+                [
+                    "Air Force One"
+                ],
+                [
+                    "123:136"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "threat"
+                ],
+                [
+                    "223:229"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "crisis managers"
+                ],
+                [
+                    "47:62"
+                ]
+            ],
+            "Target": [
+                [
+                    "Air Force One"
+                ],
+                [
+                    "123:136"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "threat"
+                ],
+                [
+                    "223:229"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "WARTIME After the attacks had occurred , while crisis managers were still sorting out a number of unnerving false alarms , Air Force One flew to Barksdale Air Force Base in Louisiana . One of these alarms was of a reported threat against Air Force One itself , a threat eventually run down to a misunderstood communication in the hectic White House Situation Room that morning .",
+    "sent_id": "ula/chapter-10-0"
+}

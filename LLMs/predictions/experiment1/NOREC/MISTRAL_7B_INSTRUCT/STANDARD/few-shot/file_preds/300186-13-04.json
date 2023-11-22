@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hest"
+                ],
+                [
+                    "17:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "best"
+                ],
+                [
+                    "25:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "lykken i livet"
+                ],
+                [
+                    "36:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en hesteg\u00e5rd i Andalucia"
+                ],
+                [
+                    "59:83"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Jeg vil tenke at hest er best og at lykken i livet m\u00e5 v\u00e6re en hesteg\u00e5rd i Andalucia , slik jeg gjorde da jeg leste Wendy- og Ponni-blader som liten .",
+    "sent_id": "300186-13-04"
+}

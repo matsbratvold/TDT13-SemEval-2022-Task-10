@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Air Force One"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "61:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "met"
+                ],
+                [
+                    "76:79"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Air Force One arrived at Offutt at 2:50 P.M. At about 3:15 , President Bush met with his principal advisers through a secure video teleconference .",
+    "sent_id": "ula/chapter-10-3"
+}

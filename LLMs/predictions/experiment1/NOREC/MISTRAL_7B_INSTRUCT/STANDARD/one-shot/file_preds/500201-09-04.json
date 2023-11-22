@@ -1,0 +1,76 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "her"
+                ],
+                [
+                    "11:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "eneste unote \u00e5 spore"
+                ],
+                [
+                    "23:43"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "f\u00f8lelse"
+                ],
+                [
+                    "54:61"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "autentisitet og voldsomt n\u00e6rv\u00e6r"
+                ],
+                [
+                    "65:96"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Mar\u00eda Mercedes Coroy"
+                ],
+                [
+                    "130:150"
+                ]
+            ],
+            "Target": [
+                [
+                    "hovedrolleinnehaver"
+                ],
+                [
+                    "110:129"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00e6rlig fra hovedrolleinnehaver Mar\u00eda Mercedes Coroy"
+                ],
+                [
+                    "99:150"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Likevel er her ikke en eneste unote \u00e5 spore ; bare en f\u00f8lelse av autentisitet og voldsomt n\u00e6rv\u00e6r , s\u00e6rlig fra hovedrolleinnehaver Mar\u00eda Mercedes Coroy .",
+    "sent_id": "500201-09-04"
+}

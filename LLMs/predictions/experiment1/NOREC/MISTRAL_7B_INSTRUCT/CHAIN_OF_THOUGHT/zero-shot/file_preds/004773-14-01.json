@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "systemet"
+                ],
+                [
+                    "57:65"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fortvilelsen"
+                ],
+                [
+                    "7:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Vi ser fortvilelsen tydelig i \u00f8yne og ansiktsuttrykk n\u00e5r systemet har trykket ham et hakk for langt ned .",
+    "sent_id": "004773-14-01"
+}

@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "filmen"
+                ],
+                [
+                    "33:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjentar seg flere ganger"
+                ],
+                [
+                    "6:30"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "han"
+                ],
+                [
+                    "46:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00f8ter ulike ansatte"
+                ],
+                [
+                    "50:69"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "roboter"
+                ],
+                [
+                    "102:109"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "uten medmenneskelighet"
+                ],
+                [
+                    "110:132"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dette gjentar seg flere ganger i filmen , der han m\u00f8ter ulike ansatte i trygdeetaten som fremst\u00e5r som roboter uten medmenneskelighet .",
+    "sent_id": "004773-10-01"
+}

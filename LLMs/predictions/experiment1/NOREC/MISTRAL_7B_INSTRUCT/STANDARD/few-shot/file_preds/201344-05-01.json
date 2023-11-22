@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "153:159"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ypper med kandidatene"
+                ],
+                [
+                    "160:181"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Protid"
+                ],
+                [
+                    "89:95"
+                ]
+            ],
+            "Target": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "153:159"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "utsalgskanal"
+                ],
+                [
+                    "100:112"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Med en veiledende pris p\u00e5 rett nord for 10.000 kroner , samt en avtale med urmakerkjeden Protid som utsalgskanal her til lands , er det ingen tvil om at Garmin ypper med kandidatene fra Cupertino og La Chaux-de-Fonds .",
+    "sent_id": "201344-05-01"
+}

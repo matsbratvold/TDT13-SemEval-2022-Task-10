@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "GM"
+                ],
+                [
+                    "14:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "Delco Electronic"
+                ],
+                [
+                    "94:110"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hurt"
+                ],
+                [
+                    "89:93"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "GM"
+                ],
+                [
+                    "14:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "GM Hughes unit"
+                ],
+                [
+                    "198:212"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "edged down"
+                ],
+                [
+                    "221:231"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "In addition , GM 's North American vehicle production fell 8.4 % from a year ago , which hurt Delco Electronic 's earnings , a company spokesman said . That decline was reflected in revenue for the GM Hughes unit , which edged down to $ 2.58 billion from $ 2.63 billion .",
+    "sent_id": "xbank/wsj_0950-6"
+}

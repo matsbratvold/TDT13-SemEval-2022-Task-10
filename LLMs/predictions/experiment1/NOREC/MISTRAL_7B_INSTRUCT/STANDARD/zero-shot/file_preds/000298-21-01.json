@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Outlander"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "morsom"
+                ],
+                [
+                    "28:34"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Outlander"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "humor"
+                ],
+                [
+                    "55:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lune"
+                ],
+                [
+                    "50:54"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Outlander har alltid v\u00e6r en morsom serie , og den lune humoren er som nevnt fortsatt til stede i sesong to .",
+    "sent_id": "000298-21-01"
+}

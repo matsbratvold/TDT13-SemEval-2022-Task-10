@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "U.S. Navy hospital corpsman Shuron Jerome"
+                ],
+                [
+                    "18:59"
+                ]
+            ],
+            "Target": [
+                [
+                    "Guantanamo"
+                ],
+                [
+                    "121:131"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "On this morning , U.S. Navy hospital corpsman Shuron Jerome , 19 , of Houston is poring over a box of Valentines sent to Guantanamo by schoolchildren in Pennsylvania .",
+    "sent_id": "non_fbis/06.44.52-19992-62"
+}

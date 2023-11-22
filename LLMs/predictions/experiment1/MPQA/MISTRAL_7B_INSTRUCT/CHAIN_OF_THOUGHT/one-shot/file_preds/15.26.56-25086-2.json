@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Brazil and Germany"
+                ],
+                [
+                    "30:48"
+                ]
+            ],
+            "Target": [
+                [
+                    "environment and sustainable development"
+                ],
+                [
+                    "93:132"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "expand cooperation"
+                ],
+                [
+                    "59:77"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Brazil and Germany"
+                ],
+                [
+                    "30:48"
+                ]
+            ],
+            "Target": [
+                [
+                    "environment and sustainable development"
+                ],
+                [
+                    "93:132"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "present common positions"
+                ],
+                [
+                    "160:184"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Germany"
+                ],
+                [
+                    "41:48"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pilot Program for Protection of Tropical Forests ( PPG - 7 )"
+                ],
+                [
+                    "265:325"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stresses the importance"
+                ],
+                [
+                    "234:257"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The document also states that Brazil and Germany intend to expand cooperation in the area of environment and sustainable development . Both countries expect to present common positions at the Rio + 10 meeting . Finally , the document stresses the importance of the Pilot Program for Protection of Tropical Forests ( PPG - 7 ) and German participation in the program . ( AB )",
+    "sent_id": "non_fbis/15.26.56-25086-2"
+}

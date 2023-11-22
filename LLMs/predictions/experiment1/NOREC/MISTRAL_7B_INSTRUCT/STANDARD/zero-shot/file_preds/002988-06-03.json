@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "L\u00e5ta"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "nettopp"
+                ],
+                [
+                    "14:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kjedelig"
+                ],
+                [
+                    "22:30"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "L\u00e5ta"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "kuttene gruppa"
+                ],
+                [
+                    "83:97"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sv\u00e6rt sterke"
+                ],
+                [
+                    "46:58"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "L\u00e5ta"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "sv\u00e6rt sterke"
+                ],
+                [
+                    "46:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "popul\u00e6re"
+                ],
+                [
+                    "61:69"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "L\u00e5ta"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "sv\u00e6rt sterke"
+                ],
+                [
+                    "46:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fargerike"
+                ],
+                [
+                    "73:82"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "L\u00e5ta fremst\u00e5r nettopp kjedelig i rekken av de sv\u00e6rt sterke , popul\u00e6re og fargerike kuttene gruppa allerede har sluppet .",
+    "sent_id": "002988-06-03"
+}

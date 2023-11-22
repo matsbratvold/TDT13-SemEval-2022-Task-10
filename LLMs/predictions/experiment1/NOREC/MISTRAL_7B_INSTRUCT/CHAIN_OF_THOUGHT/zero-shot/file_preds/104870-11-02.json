@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Og"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "musikk"
+                ],
+                [
+                    "51:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mest av alt"
+                ],
+                [
+                    "3:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Og mest av alt frav\u00e6ret av mer enn bare et kvarter musikk .",
+    "sent_id": "104870-11-02"
+}

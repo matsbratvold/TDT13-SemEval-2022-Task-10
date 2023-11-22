@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "ikke bestandig"
+                ],
+                [
+                    "4:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ikke bestandig"
+                ],
+                [
+                    "4:18"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "og"
+                ],
+                [
+                    "21:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "det er forvirrende"
+                ],
+                [
+                    "24:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det er forvirrende"
+                ],
+                [
+                    "24:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men ikke bestandig , og det er forvirrende .",
+    "sent_id": "200006-19-02"
+}

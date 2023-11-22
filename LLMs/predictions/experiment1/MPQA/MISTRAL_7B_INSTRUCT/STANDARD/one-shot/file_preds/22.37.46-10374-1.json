@@ -1,0 +1,22 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "INTERNATIONAL ECONOMIC INTERNATIONAL POLITICAL TECHNOLOGY",
+    "sent_id": "20020523/22.37.46-10374-1"
+}

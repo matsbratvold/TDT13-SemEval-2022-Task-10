@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bananer"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "puslespill"
+                ],
+                [
+                    "19:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "godt skjult"
+                ],
+                [
+                    "63:74"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "mynter"
+                ],
+                [
+                    "10:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "puslespill"
+                ],
+                [
+                    "19:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "godt skjult"
+                ],
+                [
+                    "63:74"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "puslespill"
+                ],
+                [
+                    "19:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "K O N G"
+                ],
+                [
+                    "35:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "godt skjult"
+                ],
+                [
+                    "63:74"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Bananer , mynter , puslespill og \u00ab K O N G \u00bb -bokstaver ligger godt skjult .",
+    "sent_id": "000787-08-02"
+}

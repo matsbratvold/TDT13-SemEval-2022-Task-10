@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Stemmebruken"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Stemmebruken"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "b\u00e5de s\u00e5r og spesiell"
+                ],
+                [
+                    "16:36"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "hans dansende venninne"
+                ],
+                [
+                    "42:64"
+                ]
+            ],
+            "Target": [
+                [
+                    "Stemmebruken"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forsterker l\u00e5tens sterke etniske preg"
+                ],
+                [
+                    "65:102"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Stemmebruken er b\u00e5de s\u00e5r og spesiell , og hans dansende venninne forsterker l\u00e5tens sterke etniske preg p\u00e5 en utmerket m\u00e5te .",
+    "sent_id": "104051-03-02"
+}

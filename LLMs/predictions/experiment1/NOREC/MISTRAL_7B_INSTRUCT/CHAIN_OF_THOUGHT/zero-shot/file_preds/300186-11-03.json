@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "alle konkurranserytterne"
+                ],
+                [
+                    "3:27"
+                ]
+            ],
+            "Target": [
+                [
+                    "konkurranserytterne"
+                ],
+                [
+                    "8:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er nybegynnere"
+                ],
+                [
+                    "28:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "alle konkurranserytterne"
+                ],
+                [
+                    "3:27"
+                ]
+            ],
+            "Target": [
+                [
+                    "konkurranserytterne"
+                ],
+                [
+                    "8:27"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "At alle konkurranserytterne er nybegynnere , gir heller ikke de mest spektakul\u00e6re ridescenene .",
+    "sent_id": "300186-11-03"
+}

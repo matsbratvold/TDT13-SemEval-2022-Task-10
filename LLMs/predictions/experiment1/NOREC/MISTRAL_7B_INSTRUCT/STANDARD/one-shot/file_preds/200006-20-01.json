@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Charge-modellene"
+                ],
+                [
+                    "3:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en knapp p\u00e5 siden man trykker p\u00e5"
+                ],
+                [
+                    "27:59"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "P\u00e5 Charge-modellene er det en knapp p\u00e5 siden man trykker p\u00e5 for \u00e5 bla seg gjennom statistikken .",
+    "sent_id": "200006-20-01"
+}

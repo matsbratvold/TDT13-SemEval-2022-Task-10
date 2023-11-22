@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "platen"
+                ],
+                [
+                    "29:35"
+                ]
+            ],
+            "Target": [
+                [
+                    "utsatt til november"
+                ],
+                [
+                    "40:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "utsettelsene"
+                ],
+                [
+                    "62:74"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Etter hvert kom hintet om at platen ble utsatt til november ( utsettelsene ble til slutt ganske mange ) .",
+    "sent_id": "003036-04-01"
+}

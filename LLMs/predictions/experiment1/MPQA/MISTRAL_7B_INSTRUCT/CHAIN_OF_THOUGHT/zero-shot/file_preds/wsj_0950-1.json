@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "General Motors Corp."
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "GM Hughes Electronics"
+                ],
+                [
+                    "70:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "net income"
+                ],
+                [
+                    "99:109"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "General Motors Corp."
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "GM Hughes Electronics"
+                ],
+                [
+                    "70:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "declining military spending"
+                ],
+                [
+                    "154:181"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "General Motors Corp."
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "GM Hughes Electronics"
+                ],
+                [
+                    "70:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "slumping GM vehicle production"
+                ],
+                [
+                    "186:216"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "General Motors Corp. 's big defense and automotive electronics unit , GM Hughes Electronics , said net income fell 22 % in the third quarter , reflecting declining military spending and slumping GM vehicle production .",
+    "sent_id": "xbank/wsj_0950-1"
+}

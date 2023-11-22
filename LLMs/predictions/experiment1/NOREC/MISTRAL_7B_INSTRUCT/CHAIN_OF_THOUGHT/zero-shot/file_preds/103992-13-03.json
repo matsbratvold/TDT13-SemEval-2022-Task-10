@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Alle"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "liv"
+                ],
+                [
+                    "5:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "teller"
+                ],
+                [
+                    "9:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Alle liv teller .",
+    "sent_id": "103992-13-03"
+}

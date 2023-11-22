@@ -1,0 +1,61 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Den lille prinsen"
+                ],
+                [
+                    "37:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "solgte"
+                ],
+                [
+                    "79:85"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Den lille prinsen"
+                ],
+                [
+                    "37:54"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Den lille prinsen"
+                ],
+                [
+                    "37:54"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Antoine de Saint-Exup\u00e9rys barnebok \u00ab Den lille prinsen \u00bb er en av tidenes mest solgte b\u00f8ker , og er viden anerkjent som en av det 20. \u00e5rhundrets litter\u00e6re klassikere .",
+    "sent_id": "304926-03-02"
+}

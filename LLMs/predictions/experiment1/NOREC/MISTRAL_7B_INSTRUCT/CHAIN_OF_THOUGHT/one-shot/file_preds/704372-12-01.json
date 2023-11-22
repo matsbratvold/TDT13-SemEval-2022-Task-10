@@ -1,0 +1,40 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5pner"
+                ],
+                [
+                    "25:30"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "#10 dream"
+                ],
+                [
+                    "48:57"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "F\u00f8r vi kommer s\u00e5 langt , \u00e5pner han platen med \" #10 dream \" .",
+    "sent_id": "704372-12-01"
+}

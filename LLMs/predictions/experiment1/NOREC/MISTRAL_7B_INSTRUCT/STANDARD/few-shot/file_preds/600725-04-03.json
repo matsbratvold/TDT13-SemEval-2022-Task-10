@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Jakten p\u00e5 Olavsskrinet"
+                ],
+                [
+                    "23:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "heller ikke"
+                ],
+                [
+                    "50:61"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I s\u00e5 m\u00e5te skuffer da \u00ab Jakten p\u00e5 Olavsskrinet ! \u00bb heller ikke .",
+    "sent_id": "600725-04-03"
+}

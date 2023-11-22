@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Iliescu"
+                ],
+                [
+                    "6:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Japan"
+                ],
+                [
+                    "32:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "second trip"
+                ],
+                [
+                    "17:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Iliescu"
+                ],
+                [
+                    "6:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Japan"
+                ],
+                [
+                    "32:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "third overall"
+                ],
+                [
+                    "59:72"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Iliescu"
+                ],
+                [
+                    "6:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Japan"
+                ],
+                [
+                    "32:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "private visit"
+                ],
+                [
+                    "87:100"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "It is Iliescu 's second trip to Japan as president and his third overall , including a private visit in 1999 .",
+    "sent_id": "20020215/20.43.51-9328-6"
+}

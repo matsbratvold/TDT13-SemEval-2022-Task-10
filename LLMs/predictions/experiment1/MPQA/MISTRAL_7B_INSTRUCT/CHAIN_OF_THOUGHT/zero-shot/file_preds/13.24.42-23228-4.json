@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "unmanned Progress ship"
+                ],
+                [
+                    "4:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "space station"
+                ],
+                [
+                    "150:163"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "pulled up"
+                ],
+                [
+                    "133:142"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The unmanned Progress ship , carrying more than a ton of food , fuel and other supplies , was launched from Kazakstan on Monday . It pulled up to the space station right on time , and the linkup initially appeared to go well .",
+    "sent_id": "non_fbis/13.24.42-23228-4"
+}

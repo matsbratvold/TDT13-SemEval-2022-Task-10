@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "instrumenteringen"
+                ],
+                [
+                    "7:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nedstrippet og ny"
+                ],
+                [
+                    "28:45"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "forkj\u00e6rligheten for bluegrassestetikk"
+                ],
+                [
+                    "68:105"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ulmet"
+                ],
+                [
+                    "115:120"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Larsens l\u00e5tskriving"
+                ],
+                [
+                    "123:142"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "helt siden solodebuten"
+                ],
+                [
+                    "143:165"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "For om instrumenteringen er nedstrippet og ny , er det ikke slik at forkj\u00e6rligheten for bluegrassestetikk ikke har ulmet i Larsens l\u00e5tskriving helt siden solodebuten .",
+    "sent_id": "104870-07-01"
+}

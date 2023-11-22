@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "the present stage of study of small climatic models"
+                ],
+                [
+                    "219:270"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has scientists studying the life of the models as the life of a real climatic system"
+                ],
+                [
+                    "271:355"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "the progress in gaining knowledge"
+                ],
+                [
+                    "422:455"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has been tremendous"
+                ],
+                [
+                    "456:475"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "There are several models today , and they answer the question of why the climate is changing with varying degrees of persuasiveness . Why do n't I have the sense that the models explain everything ? The problem is that the present stage of study of small climatic models has scientists studying the life of the models as the life of a real climatic system . But to what extent does this reflect real life ? Nevertheless , the progress in gaining knowledge has been tremendous . Our institute , along with the Institute of Systems Analysis and the Russian Academy of Sciences Computer Center , has begun studying the role of climate change in individual regions of Russia in order to forecast economic development . There are no results to speak of yet , but it is important that this area of inquiry has appeared .",
+    "sent_id": "temp_fbis/21.10.31-12974-46"
+}

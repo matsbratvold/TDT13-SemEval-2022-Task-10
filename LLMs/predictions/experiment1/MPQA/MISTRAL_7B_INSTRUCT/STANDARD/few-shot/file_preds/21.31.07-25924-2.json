@@ -1,0 +1,110 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "if there were a civilian who had committed himself to call for elections he should receive a vote of confidence"
+                ],
+                [
+                    "30:141"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "added"
+                ],
+                [
+                    "3:8"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Flores"
+                ],
+                [
+                    "146:152"
+                ]
+            ],
+            "Target": [
+                [
+                    "this is a position that is not unique to El Salvador"
+                ],
+                [
+                    "171:223"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "maintained"
+                ],
+                [
+                    "153:163"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Flores"
+                ],
+                [
+                    "146:152"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "maintained"
+                ],
+                [
+                    "153:163"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Flores"
+                ],
+                [
+                    "146:152"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "maintained"
+                ],
+                [
+                    "153:163"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "He added \" we understood that if there were a civilian who had committed himself to call for elections he should receive a vote of confidence . \" Flores maintained that \" this is a position that is not unique to El Salvador ; it is the position of all the European countries , it is the position of the United States ; this is in our view totally reasonable when so little information is available . \"",
+    "sent_id": "20020419/21.31.07-25924-2"
+}

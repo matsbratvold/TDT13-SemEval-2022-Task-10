@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "teksten"
+                ],
+                [
+                    "59:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjenfortelle"
+                ],
+                [
+                    "46:58"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men i boka for \u00f8vrig gj\u00f8r de lite annet enn \u00e5 gjenfortelle teksten .",
+    "sent_id": "302975-15-02"
+}

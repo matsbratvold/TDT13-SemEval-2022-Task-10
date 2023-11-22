@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Derav"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "bokas tittel"
+                ],
+                [
+                    "6:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bokas"
+                ],
+                [
+                    "6:11"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Derav bokas tittel .",
+    "sent_id": "601365-07-03"
+}

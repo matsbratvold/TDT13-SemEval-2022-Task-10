@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Et"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "riktig og viktig merkevarebytte"
+                ],
+                [
+                    "3:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "riktig og viktig"
+                ],
+                [
+                    "3:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "etterfulgt"
+                ],
+                [
+                    "35:45"
+                ]
+            ],
+            "Target": [
+                [
+                    "riktig og viktig merkevarebytte"
+                ],
+                [
+                    "3:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "etterfulgt"
+                ],
+                [
+                    "35:45"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "stor anerkjennelse"
+                ],
+                [
+                    "49:67"
+                ]
+            ],
+            "Target": [
+                [
+                    "riktig og viktig merkevarebytte"
+                ],
+                [
+                    "3:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stor anerkjennelse"
+                ],
+                [
+                    "49:67"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Et riktig og viktig merkevarebytte etterfulgt av stor anerkjennelse fra h\u00f8yt hold .",
+    "sent_id": "003121-03-04"
+}

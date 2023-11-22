@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Den lille prinsen"
+                ],
+                [
+                    "11:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "middelm\u00e5dig film"
+                ],
+                [
+                    "46:62"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Den lille prinsen"
+                ],
+                [
+                    "11:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "seier for str\u00f8mlinjeformingens utrettelige , umettelige krefter"
+                ],
+                [
+                    "69:132"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Alts\u00e5 er \u00ab Den lille prinsen \u00bb b\u00e5de en ganske middelm\u00e5dig film og en seier for str\u00f8mlinjeformingens utrettelige , umettelige krefter .",
+    "sent_id": "304926-07-02"
+}

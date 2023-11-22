@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Yaris"
+                ],
+                [
+                    "16:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "utvendig er Yaris"
+                ],
+                [
+                    "4:21"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Yaris"
+                ],
+                [
+                    "16:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "slik vi kjenner den"
+                ],
+                [
+                    "42:61"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Men utvendig er Yaris fortsatt en Yaris , slik vi kjenner den .",
+    "sent_id": "202298-16-02"
+}

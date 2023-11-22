@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "rights report"
+                ],
+                [
+                    "17:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "Special Field Force ( SFF ) members"
+                ],
+                [
+                    "72:107"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "most of the abuses were perpetrated"
+                ],
+                [
+                    "33:68"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "According to the rights report , most of the abuses were perpetrated by Special Field Force ( SFF ) members .",
+    "sent_id": "temp_fbis/21.31.45-20536-8"
+}

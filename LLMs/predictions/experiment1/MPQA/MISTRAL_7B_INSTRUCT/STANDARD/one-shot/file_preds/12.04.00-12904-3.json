@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "bickering politicians"
+                ],
+                [
+                    "4:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "the crisis"
+                ],
+                [
+                    "33:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "agreed"
+                ],
+                [
+                    "26:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "bickering politicians"
+                ],
+                [
+                    "4:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "quick elections"
+                ],
+                [
+                    "100:115"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "But bickering politicians agreed the crisis was too serious to subject Argentina to the pressure of quick elections , which had been scheduled for March , and decided yesterday to choose an interim leader to rule until 2003 , when De la Rua 's mandate was to end .",
+    "sent_id": "non_fbis/12.04.00-12904-3"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "dramaet"
+                ],
+                [
+                    "19:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "utspille seg der ute"
+                ],
+                [
+                    "27:47"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "jyske strendene"
+                ],
+                [
+                    "56:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hvor"
+                ],
+                [
+                    "74:78"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Carl Rasmussen"
+                ],
+                [
+                    "97:111"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00e5r oppgaven med \u00e5 ha overoppsyn med et kompani unge tyske mineryddere"
+                ],
+                [
+                    "130:200"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Han har valgt \u00e5 la dramaet utspille seg der ute , p\u00e5 de jyske strendene , hvor en dansk sersjant Carl Rasmussen ( Roland M\u00f8ller ) f\u00e5r oppgaven med \u00e5 ha overoppsyn med et kompani unge tyske mineryddere .",
+    "sent_id": "400175-05-02"
+}

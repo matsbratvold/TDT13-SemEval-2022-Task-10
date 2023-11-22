@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "totalt ubrukelige , tildels direkte onde vokterne"
+                ],
+                [
+                    "33:82"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00e5r smake sin egen straffemidler og trakasseringer"
+                ],
+                [
+                    "83:133"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Rettferdighetsf\u00f8lelsen for at de totalt ubrukelige , tildels direkte onde vokterne f\u00e5r smake sin egen straffemidler og trakasseringer , f\u00e5r snart en emmen ettersmak .",
+    "sent_id": "103992-12-02"
+}

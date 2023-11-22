@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "everyone"
+                ],
+                [
+                    "5:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "the right to have a hand gun in their house"
+                ],
+                [
+                    "26:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "should have"
+                ],
+                [
+                    "14:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "31:32"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "should be"
+                ],
+                [
+                    "110:119"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "31:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "background search on you"
+                ],
+                [
+                    "184:208"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "should do"
+                ],
+                [
+                    "169:178"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "31:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "it should be harder to buy one"
+                ],
+                [
+                    "229:259"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "should be"
+                ],
+                [
+                    "110:119"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "that everyone should have the right to have a hand gun in their house if they so choose and but i think there should be some restrictions when you buy one you know they should do more background search on you they should i think it should be harder to buy one",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-3"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Waters"
+                ],
+                [
+                    "65:71"
+                ]
+            ],
+            "Target": [
+                [
+                    "The Life We Really Want"
+                ],
+                [
+                    "28:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for briten"
+                ],
+                [
+                    "54:64"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Og det er ogs\u00e5 tydelig at \u00ab The Life We Really Want \u00bb for briten Waters ikke er et liv med Trump , som f\u00e5r innlede l\u00e5ta med sin vanlige dusteprat om hvor bra alt er .",
+    "sent_id": "304196-16-01"
+}

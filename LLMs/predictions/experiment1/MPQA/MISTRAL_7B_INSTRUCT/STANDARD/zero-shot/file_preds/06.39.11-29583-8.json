@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "US administration"
+                ],
+                [
+                    "20:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "protocol"
+                ],
+                [
+                    "50:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "contravenes US economic interests"
+                ],
+                [
+                    "77:110"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "European Union countries"
+                ],
+                [
+                    "135:159"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "slammed"
+                ],
+                [
+                    "124:131"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "US government"
+                ],
+                [
+                    "186:199"
+                ]
+            ],
+            "Target": [
+                [
+                    "alternative climate change strategy"
+                ],
+                [
+                    "217:252"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "encouraging industries to trim their emissions"
+                ],
+                [
+                    "262:308"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "In March 2001 , the US administration opposed the protocol by saying that it contravenes US economic interests , a decision slammed by European Union countries at the time . Instead the US government produced its own alternative climate change strategy aimed at encouraging industries to trim their emissions .",
+    "sent_id": "non_fbis/06.39.11-29583-8"
+}

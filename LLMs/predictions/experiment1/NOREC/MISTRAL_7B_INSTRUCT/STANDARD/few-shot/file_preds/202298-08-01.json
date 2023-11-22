@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Toyota"
+                ],
+                [
+                    "20:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "innr\u00f8mmer"
+                ],
+                [
+                    "10:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dette forholdet"
+                ],
+                [
+                    "27:42"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Toyota"
+                ],
+                [
+                    "20:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "sier seg"
+                ],
+                [
+                    "48:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "endelig enig"
+                ],
+                [
+                    "57:69"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Toyota"
+                ],
+                [
+                    "20:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "sier seg"
+                ],
+                [
+                    "48:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "noe de slettes ikke gjorde i 2012"
+                ],
+                [
+                    "72:105"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Heldigvis innr\u00f8mmer Toyota dette forholdet , og sier seg endelig enig , noe de slettes ikke gjorde i 2012 .",
+    "sent_id": "202298-08-01"
+}

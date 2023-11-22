@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Courtaulds Chairman and Chief Executive Sir Christopher Hogg"
+                ],
+                [
+                    "0:60"
+                ]
+            ],
+            "Target": [
+                [
+                    "spinoff"
+                ],
+                [
+                    "131:138"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "remain"
+                ],
+                [
+                    "66:72"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Courtaulds Chairman and Chief Executive Sir Christopher Hogg will remain in both posts at the surviving chemical company after the spinoff .",
+    "sent_id": "xbank/wsj_0376-8"
+}

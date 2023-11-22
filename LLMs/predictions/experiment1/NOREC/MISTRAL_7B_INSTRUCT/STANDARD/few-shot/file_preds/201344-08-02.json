@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "33:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "representerer en helt ny retning"
+                ],
+                [
+                    "47:79"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Samtidig er det ingen tvil om at Fenix Chronos representerer en helt ny retning for det Schaffhausen-baserte merket ( ja , Garmin sitt hovedkvarter er faktisk et stenkast unna Schaffhausens klokkestolthet , IWC ) .",
+    "sent_id": "201344-08-02"
+}

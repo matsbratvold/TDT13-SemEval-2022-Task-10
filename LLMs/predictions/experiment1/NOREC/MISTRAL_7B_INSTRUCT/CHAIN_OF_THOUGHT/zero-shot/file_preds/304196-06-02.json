@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Siste gang"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "det godes tjeneste"
+                ],
+                [
+                    "17:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "var"
+                ],
+                [
+                    "11:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Siste gang"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "var"
+                ],
+                [
+                    "11:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Siste gang var i det godes tjeneste , under \u00ab Live 8 \u00bb -konserten i 2005 .",
+    "sent_id": "304196-06-02"
+}

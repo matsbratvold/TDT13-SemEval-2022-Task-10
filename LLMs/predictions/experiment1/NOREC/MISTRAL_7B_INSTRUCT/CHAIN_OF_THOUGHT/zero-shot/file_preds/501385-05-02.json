@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "P\u00e5 hjertet"
+                ],
+                [
+                    "2:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "skeivt"
+                ],
+                [
+                    "31:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skeivt"
+                ],
+                [
+                    "31:37"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "P\u00e5 hjertet"
+                ],
+                [
+                    "2:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "energisk"
+                ],
+                [
+                    "40:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "energisk"
+                ],
+                [
+                    "40:48"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "V\u00e6remeh"
+                ],
+                [
+                    "67:74"
+                ]
+            ],
+            "Target": [
+                [
+                    "utflytende"
+                ],
+                [
+                    "106:116"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "utflytende"
+                ],
+                [
+                    "106:116"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "V\u00e6remeh"
+                ],
+                [
+                    "67:74"
+                ]
+            ],
+            "Target": [
+                [
+                    "atmosf\u00e6risk"
+                ],
+                [
+                    "120:131"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "atmosf\u00e6risk"
+                ],
+                [
+                    "120:131"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab P\u00e5 hjertet \u00bb ( 2014 ) var et skeivt , energisk popalbum , mens \u00ab V\u00e6remeh \u00bb ( 2016 ) var en form for mer utflytende og atmosf\u00e6risk rock .",
+    "sent_id": "501385-05-02"
+}

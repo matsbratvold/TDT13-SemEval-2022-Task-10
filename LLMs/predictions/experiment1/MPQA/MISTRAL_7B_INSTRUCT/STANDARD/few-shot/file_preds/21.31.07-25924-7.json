@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Flores"
+                ],
+                [
+                    "302:308"
+                ]
+            ],
+            "Target": [
+                [
+                    "the FMLN"
+                ],
+                [
+                    "123:131"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" There is no international problem , but rather a manipulation of the subject domestically ; and once again I want to ask the FMLN that it does not cause damage to this country . And that in trying to hurt me , it ends up causing damage to the country . It is necessary to be loyal to El Salvador , \" Flores concluded .",
+    "sent_id": "20020419/21.31.07-25924-7"
+}

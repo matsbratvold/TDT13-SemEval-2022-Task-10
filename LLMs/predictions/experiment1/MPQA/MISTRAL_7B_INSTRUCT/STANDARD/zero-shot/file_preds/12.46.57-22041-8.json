@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "A Humvee moves slowly around the perimeter"
+                ],
+                [
+                    "0:42"
+                ]
+            ],
+            "Target": [
+                [
+                    "US Marines"
+                ],
+                [
+                    "46:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "M16 assault rifles at the ready"
+                ],
+                [
+                    "59:90"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "From seven wooden watchtowers"
+                ],
+                [
+                    "107:136"
+                ]
+            ],
+            "Target": [
+                [
+                    "guards"
+                ],
+                [
+                    "139:145"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "train their weapons on the captured Taliban and al - Qa'eda fighters"
+                ],
+                [
+                    "146:214"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "One man is moved back to his cage"
+                ],
+                [
+                    "253:286"
+                ]
+            ],
+            "Target": [
+                [
+                    "guards"
+                ],
+                [
+                    "139:145"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "his ankles and wrists in shackles"
+                ],
+                [
+                    "289:322"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A Humvee moves slowly around the perimeter as US Marines , M16 assault rifles at the ready , stand guard . From seven wooden watchtowers , guards train their weapons on the captured Taliban and al - Qa'eda fighters , who are clad in orange jump suits . One man is moved back to his cage , his ankles and wrists in shackles .",
+    "sent_id": "non_fbis/12.46.57-22041-8"
+}

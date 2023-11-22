@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "US officials"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Wolfowitz 's remarks"
+                ],
+                [
+                    "20:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "denied"
+                ],
+                [
+                    "13:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "US officials denied Wolfowitz 's remarks reflected a change in US policy on Taiwan .",
+    "sent_id": "temp_fbis/22.34.58-23977-14"
+}

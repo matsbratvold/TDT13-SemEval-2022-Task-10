@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The space station"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "steering system"
+                ],
+                [
+                    "21:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "turned off"
+                ],
+                [
+                    "39:49"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Russian flight controllers"
+                ],
+                [
+                    "110:136"
+                ]
+            ],
+            "Target": [
+                [
+                    "steering system"
+                ],
+                [
+                    "21:36"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The space station"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "switched off"
+                ],
+                [
+                    "212:224"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The space station 's steering system , turned off for the docking , remained off an extra three hours to give Russian flight controllers time to study the problem . Some laboratory equipment and other items were switched off to conserve power .",
+    "sent_id": "non_fbis/13.24.42-23228-6"
+}

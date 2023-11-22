@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "8:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "antlers"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "looked like"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "looked like antlers i do n't know",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-29"
+}

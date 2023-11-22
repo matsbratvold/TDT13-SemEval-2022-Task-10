@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "du"
+                ],
+                [
+                    "3:5"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "har hengitt deg"
+                ],
+                [
+                    "20:35"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "41:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "n\u00e5 p\u00e5 tide \u00e5 bli frelst"
+                ],
+                [
+                    "45:68"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Om du ikke allerede har hengitt deg , er det n\u00e5 p\u00e5 tide \u00e5 bli frelst .",
+    "sent_id": "003121-06-01"
+}

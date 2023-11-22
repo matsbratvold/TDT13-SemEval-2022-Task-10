@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Veni"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "Venezuela"
+                ],
+                [
+                    "14:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Vidi"
+                ],
+                [
+                    "7:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Veni , Vidi , Venezuela",
+    "sent_id": "non_fbis/08.54.29-27700-0"
+}

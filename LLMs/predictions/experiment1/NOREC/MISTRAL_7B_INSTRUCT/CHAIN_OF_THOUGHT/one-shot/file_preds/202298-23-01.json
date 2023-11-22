@@ -1,0 +1,76 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "du"
+                ],
+                [
+                    "3:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "Yaris Hybrid"
+                ],
+                [
+                    "26:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "falle for"
+                ],
+                [
+                    "13:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Yaris Hybrid"
+                ],
+                [
+                    "26:38"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Yaris Hybrid"
+                ],
+                [
+                    "26:38"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Yaris Hybrid"
+                ],
+                [
+                    "26:38"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Om du skulle falle for en Yaris Hybrid , s\u00e5 har du fire utstyrsversjoner \u00e5 velge mellom .",
+    "sent_id": "202298-23-01"
+}

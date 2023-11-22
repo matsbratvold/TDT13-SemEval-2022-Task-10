@@ -1,0 +1,107 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Med"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Taylor Schilling"
+                ],
+                [
+                    "14:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "Med"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Laura Prepon"
+                ],
+                [
+                    "33:45"
+                ]
+            ],
+            "Target": [
+                [
+                    "Med"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Danielle Brooks"
+                ],
+                [
+                    "48:63"
+                ]
+            ],
+            "Target": [
+                [
+                    "Med"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Natasha Lonne"
+                ],
+                [
+                    "67:80"
+                ]
+            ],
+            "Target": [
+                [
+                    "Med"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Med : bl. a . Taylor Schilling , Laura Prepon , Danielle Brooks og Natasha Lonne",
+    "sent_id": "103992-05-01"
+}

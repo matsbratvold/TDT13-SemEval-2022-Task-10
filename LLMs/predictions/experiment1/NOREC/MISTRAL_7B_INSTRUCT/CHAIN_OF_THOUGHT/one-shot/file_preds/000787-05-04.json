@@ -1,0 +1,50 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Omgivelsene"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "blir brukt i st\u00f8rre grad"
+                ],
+                [
+                    "12:36"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "benytter ofte muligheten til \u00e5 g\u00e5 vekk fra den fastl\u00e5ste siderullende stilen"
+                ],
+                [
+                    "62:138"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Omgivelsene blir brukt i st\u00f8rre grad enn tidligere og spillet benytter ofte muligheten til \u00e5 g\u00e5 vekk fra den fastl\u00e5ste siderullende stilen plattformspill tradisjonelt har holdt seg til .",
+    "sent_id": "000787-05-04"
+}

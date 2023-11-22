@@ -1,0 +1,104 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Deretter"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "g\u00e5r det hele over i dyp"
+                ],
+                [
+                    "9:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "s\u00e5r \u00f8mhet"
+                ],
+                [
+                    "36:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i m\u00f8ter"
+                ],
+                [
+                    "46:53"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Johs"
+                ],
+                [
+                    "64:68"
+                ]
+            ],
+            "Target": [
+                [
+                    "Irene"
+                ],
+                [
+                    "105:110"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skal forklare hemmeligheten"
+                ],
+                [
+                    "69:96"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "broren"
+                ],
+                [
+                    "171:177"
+                ]
+            ],
+            "Target": [
+                [
+                    "smerten"
+                ],
+                [
+                    "186:193"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fram"
+                ],
+                [
+                    "194:198"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Deretter g\u00e5r det hele over i dyp og s\u00e5r \u00f8mhet i m\u00f8ter der kloke Johs skal forklare hemmeligheten for sin Irene , der ekteparet fors\u00f8ker \u00e5 finne veien videre , der Johs og broren slipper smerten fram .",
+    "sent_id": "703256-17-03"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "they"
+                ],
+                [
+                    "59:63"
+                ]
+            ],
+            "Target": [
+                [
+                    "God has abandoned them"
+                ],
+                [
+                    "26:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "n't said that"
+                ],
+                [
+                    "12:25"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "they"
+                ],
+                [
+                    "59:63"
+                ]
+            ],
+            "Target": [
+                [
+                    "God is their only hope"
+                ],
+                [
+                    "124:146"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "know"
+                ],
+                [
+                    "64:68"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" They have n't said that God has abandoned them , because they know , \" he says . \" That 's the hope that they have , that God is their only hope .",
+    "sent_id": "non_fbis/06.44.52-19992-43"
+}

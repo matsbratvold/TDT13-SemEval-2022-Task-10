@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Chavez"
+                ],
+                [
+                    "2:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "peace"
+                ],
+                [
+                    "133:138"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "calls for"
+                ],
+                [
+                    "123:132"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "- Chavez officially re-takes the presidency in an emotional Presidential palace ceremony at 4:30 am ( 0830 GMT ) . He then calls for peace , calm , and ` the unity of the country . '",
+    "sent_id": "non_fbis/08.11.35-9355-23"
+}

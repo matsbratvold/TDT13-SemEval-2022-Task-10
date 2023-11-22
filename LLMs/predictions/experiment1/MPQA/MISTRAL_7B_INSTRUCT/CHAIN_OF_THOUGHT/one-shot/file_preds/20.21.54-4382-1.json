@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "the 11 September suicide bomb attacks on the World Trade Center and the Pentagon"
+                ],
+                [
+                    "6:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blamed"
+                ],
+                [
+                    "1137:1143"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "announced"
+                ],
+                [
+                    "810:819"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "announced"
+                ],
+                [
+                    "810:819"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "After the 11 September suicide bomb attacks on the World Trade Center and the Pentagon , the United States , instead of investigating the matter and coming up with proof , put all the blame for terrorism on Afghanistan . As a result , the United States formed a coalition with the aim of bringing an end to terrorism and the Taliban , due to which bombardment is still continuing in Afghanistan . In this operation , the manner in which defenseless , innocent and poor Muslims were blown up by ammunition is one of the most dreadful events in history . The whole world witnessed this loathsome action by the United States , but no one -- including the Muslim community -- raised a voice against this horrifying act of oppression . Encouraged by the global community 's shameful silence , the United States has announced the second phase of its war against terrorism . By declaring Iraq , Iran and North Korea as ' axis of evil ' , the United States has announced to target these countries in the same manner as ! Afghanistan . North Korea has also been made the target due to the reason that according to the United States , it is being blamed for transferring nuclear technology and weapons to Islamic countries . The seven countries which the US terms as a threat to its security and against which it can use nuclear weapons , also include Russia and China .",
+    "sent_id": "20020315/20.21.54-4382-1"
+}

@@ -1,0 +1,44 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "han"
+                ],
+                [
+                    "29:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "velger \u00e5 runde av med"
+                ],
+                [
+                    "33:54"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00f8rst"
+                ],
+                [
+                    "20:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det skjer for alvor f\u00f8rst da han velger \u00e5 runde av med \u00ab Operator ( DJ Koze's Disco Edit \u00bb , tyskerens fabelaktige remiks av det britiske poph\u00e5pet L\u00e5psley .",
+    "sent_id": "302108-09-01"
+}

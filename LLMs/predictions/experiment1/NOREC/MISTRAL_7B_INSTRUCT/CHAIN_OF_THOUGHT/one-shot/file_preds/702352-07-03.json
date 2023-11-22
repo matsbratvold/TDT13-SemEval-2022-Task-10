@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "\u00e5 by p\u00e5 noe nytt"
+                ],
+                [
+                    "5:21"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "verken"
+                ],
+                [
+                    "24:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "visuelt eller dramaturgisk"
+                ],
+                [
+                    "31:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "verken"
+                ],
+                [
+                    "24:30"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "fjetrer"
+                ],
+                [
+                    "60:67"
+                ]
+            ],
+            "Target": [
+                [
+                    "med en intenst sanselig og poetisk film om sorg , skyld og forsoning"
+                ],
+                [
+                    "72:140"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fjetrer"
+                ],
+                [
+                    "60:67"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Uten \u00e5 by p\u00e5 noe nytt , verken visuelt eller dramaturgisk , fjetrer han med en intenst sanselig og poetisk film om sorg , skyld og forsoning .",
+    "sent_id": "702352-07-03"
+}

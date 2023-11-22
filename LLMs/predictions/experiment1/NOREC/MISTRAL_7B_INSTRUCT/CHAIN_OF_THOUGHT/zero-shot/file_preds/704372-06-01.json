@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "v\u00e4gen"
+                ],
+                [
+                    "3:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "v\u00e4gen"
+                ],
+                [
+                    "3:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rak"
+                ],
+                [
+                    "13:16"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Om v\u00e4gen var rak",
+    "sent_id": "704372-06-01"
+}

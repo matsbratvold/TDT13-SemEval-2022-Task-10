@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "Iraq"
+                ],
+                [
+                    "105:109"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Germany"
+                ],
+                [
+                    "147:154"
+                ]
+            ],
+            "Target": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "criticism"
+                ],
+                [
+                    "127:136"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "France"
+                ],
+                [
+                    "159:165"
+                ]
+            ],
+            "Target": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "criticism"
+                ],
+                [
+                    "127:136"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The United States earlier this week hinted it may expand its war against terrorism beyond Afghanistan to Iraq , bringing swift criticism from both Germany and France , who called for restraint in the future of the military campaign .",
+    "sent_id": "20011130/12.26.48-19550-10"
+}

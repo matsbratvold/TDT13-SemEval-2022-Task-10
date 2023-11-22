@@ -1,0 +1,83 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Selv"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "flere enkelt\u00f8yeblikk"
+                ],
+                [
+                    "8:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hadde mestret"
+                ],
+                [
+                    "33:46"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Selv"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "fjellovergangen"
+                ],
+                [
+                    "47:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til radiovennlig kraftpop"
+                ],
+                [
+                    "63:88"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Selv"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "uten problemer"
+                ],
+                [
+                    "89:103"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Selv om flere enkelt\u00f8yeblikk her hadde mestret fjellovergangen til radiovennlig kraftpop uten problemer .",
+    "sent_id": "104870-06-01"
+}

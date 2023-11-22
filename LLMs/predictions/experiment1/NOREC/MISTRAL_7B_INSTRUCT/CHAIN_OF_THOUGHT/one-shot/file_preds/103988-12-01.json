@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "alle tre"
+                ],
+                [
+                    "18:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "de mestrer"
+                ],
+                [
+                    "30:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "viser"
+                ],
+                [
+                    "12:17"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "alle tre"
+                ],
+                [
+                    "18:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "de mestrer"
+                ],
+                [
+                    "30:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hva enn fag det er som omfatter"
+                ],
+                [
+                    "41:72"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "alle tre"
+                ],
+                [
+                    "18:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "de mestrer"
+                ],
+                [
+                    "30:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "karibisk lykkepille"
+                ],
+                [
+                    "75:94"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Mest av alt viser alle tre at de mestrer hva enn fag det er som omfatter \u00ab karibisk lykkepille \u00bb .",
+    "sent_id": "103988-12-01"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Kyoto Protocol"
+                ],
+                [
+                    "52:66"
+                ]
+            ],
+            "Target": [
+                [
+                    "greenhouse gas emissions"
+                ],
+                [
+                    "127:151"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "In 1997 , at a UN conference in Kyoto , Japan , the Kyoto Protocol legally obliged developed countries to reduce the amount of greenhouse gas emissions by 8 per cent ( below 1990 levels ) between 2008 and 2012 .",
+    "sent_id": "20020306/20.49.12-24038-2"
+}

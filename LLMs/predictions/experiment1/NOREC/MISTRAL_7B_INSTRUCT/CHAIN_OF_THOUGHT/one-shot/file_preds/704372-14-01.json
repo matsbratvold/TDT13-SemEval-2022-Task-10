@@ -1,0 +1,111 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "\u00d6ppen"
+                ],
+                [
+                    "2:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5pner"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "strykere og piano"
+                ],
+                [
+                    "38:55"
+                ]
+            ],
+            "Target": [
+                [
+                    "\u00e5pner"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5pner"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "gitar sager hakk i melodien"
+                ],
+                [
+                    "65:92"
+                ]
+            ],
+            "Target": [
+                [
+                    "\u00e5pner"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5pner"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "den dylanske teksten"
+                ],
+                [
+                    "96:116"
+                ]
+            ],
+            "Target": [
+                [
+                    "\u00e5pner"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5pner"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "\" \u00d6ppen genom hela natten \" \u00e5pner med strykere og piano , f\u00f8r en gitar sager hakk i melodien og den dylanske teksten .",
+    "sent_id": "704372-14-01"
+}

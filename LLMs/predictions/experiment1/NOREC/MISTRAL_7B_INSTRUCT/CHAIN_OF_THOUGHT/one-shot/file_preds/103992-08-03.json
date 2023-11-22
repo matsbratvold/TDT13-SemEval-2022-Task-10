@@ -1,0 +1,44 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "overgangen mellom sesongene"
+                ],
+                [
+                    "11:38"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "overgangen mellom sesongene"
+                ],
+                [
+                    "11:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mer eller mindre s\u00f8ml\u00f8s"
+                ],
+                [
+                    "39:62"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Faktisk er overgangen mellom sesongene mer eller mindre s\u00f8ml\u00f8s .",
+    "sent_id": "103992-08-03"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Courtaulds"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "pressure on British industry to boost share prices beyond the reach of corporate raiders"
+                ],
+                [
+                    "30:118"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reflects"
+                ],
+                [
+                    "21:29"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Courtaulds"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "restructuring"
+                ],
+                [
+                    "134:147"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is among the largest thus far in Britain"
+                ],
+                [
+                    "148:188"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Courtaulds"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "divested Courtaulds textile operations"
+                ],
+                [
+                    "375:413"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "had operating profit of # 50 million on # 980 million in revenue in the year ended March 31"
+                ],
+                [
+                    "414:505"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Courtaulds ' spinoff reflects pressure on British industry to boost share prices beyond the reach of corporate raiders . Courtaulds ' restructuring is among the largest thus far in Britain , though it is dwarfed by B.A.T Industries PLC 's plans to spin off roughly # 4 billion in assets to help fend off a takeover bid from Anglo - French financier Sir James Goldsmith . The divested Courtaulds textile operations had operating profit of # 50 million on # 980 million in revenue in the year ended March 31 .",
+    "sent_id": "xbank/wsj_0376-4"
+}

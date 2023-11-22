@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Attitudeproblem"
+                ],
+                [
+                    "27:42"
+                ]
+            ],
+            "Target": [
+                [
+                    "St\u00e5ende alene"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "litt for flat"
+                ],
+                [
+                    "55:68"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "Attitudeproblem"
+                ],
+                [
+                    "27:42"
+                ]
+            ],
+            "Target": [
+                [
+                    "St\u00e5ende alene"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "laber og lite minneverdig"
+                ],
+                [
+                    "71:96"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "St\u00e5ende alene derimot er \u00ab Attitudeproblem \u00bb dessverre litt for flat , laber og lite minneverdig .",
+    "sent_id": "002988-06-05"
+}

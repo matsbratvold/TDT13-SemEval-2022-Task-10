@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hun"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "plateartist"
+                ],
+                [
+                    "18:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "debuterte"
+                ],
+                [
+                    "4:13"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Hun"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "plateartist"
+                ],
+                [
+                    "18:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "73 \u00e5r gammel"
+                ],
+                [
+                    "51:63"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hun debuterte som plateartist s\u00e5 sent som i 2013 , 73 \u00e5r gammel .",
+    "sent_id": "704372-12-04"
+}

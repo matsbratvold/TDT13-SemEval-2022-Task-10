@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "stoff til mange forviklinger og hemninger"
+                ],
+                [
+                    "10:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00f8lelsessperrer og fornektelser"
+                ],
+                [
+                    "54:85"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "S\u00e5 her er stoff til mange forviklinger og hemninger , f\u00f8lelsessperrer og fornektelser , som s\u00e5 dr .",
+    "sent_id": "703572-06-04"
+}

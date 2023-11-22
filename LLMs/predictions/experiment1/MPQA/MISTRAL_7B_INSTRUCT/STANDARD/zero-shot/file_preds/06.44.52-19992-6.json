@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "cargo jet"
+                ],
+                [
+                    "9:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "landing strip"
+                ],
+                [
+                    "51:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "deafening"
+                ],
+                [
+                    "94:103"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "When the cargo jet finally lands , approaching the landing strip from the west , the noise is deafening .",
+    "sent_id": "non_fbis/06.44.52-19992-6"
+}

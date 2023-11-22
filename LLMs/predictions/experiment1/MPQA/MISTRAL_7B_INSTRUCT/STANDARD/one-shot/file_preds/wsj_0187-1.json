@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Finnish government and major creditors of bankrupt shipyard Waertsilae Marine Industries Oy"
+                ],
+                [
+                    "0:95"
+                ]
+            ],
+            "Target": [
+                [
+                    "a new company to complete most of the troubled shipyard 's backlog of 15 ships"
+                ],
+                [
+                    "124:202"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "agreed in principle"
+                ],
+                [
+                    "96:115"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The Finnish government and major creditors of bankrupt shipyard Waertsilae Marine Industries Oy agreed in principle to form a new company to complete most of the troubled shipyard 's backlog of 15 ships .",
+    "sent_id": "xbank/wsj_0187-1"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "hun"
+                ],
+                [
+                    "25:28"
+                ]
+            ],
+            "Target": [
+                [
+                    "69"
+                ],
+                [
+                    "18:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "greske"
+                ],
+                [
+                    "4:10"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Sin greske far p\u00e5 69 har hun ikke sett siden han stakk da hun var fem .",
+    "sent_id": "703572-06-02"
+}

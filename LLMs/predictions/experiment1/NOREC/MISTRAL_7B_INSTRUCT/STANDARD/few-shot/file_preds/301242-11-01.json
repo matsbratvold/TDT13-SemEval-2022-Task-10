@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Utvilsomt"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "bokas beste kapitler"
+                ],
+                [
+                    "16:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "34:36"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "men"
+                ],
+                [
+                    "39:42"
+                ]
+            ],
+            "Target": [
+                [
+                    "Berlin-innrammingen Dypvik har gitt boka"
+                ],
+                [
+                    "68:108"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "34:36"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Utvilsomt et av bokas beste kapitler , men at det er med , viser at Berlin-innrammingen Dypvik har gitt boka , er for trang .",
+    "sent_id": "301242-11-01"
+}

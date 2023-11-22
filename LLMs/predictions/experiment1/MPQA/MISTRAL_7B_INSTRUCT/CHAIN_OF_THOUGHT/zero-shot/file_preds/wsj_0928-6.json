@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Mr. McNealy"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "issues that hurt Sun's performance earlier this year"
+                ],
+                [
+                    "21:73"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "largely"
+                ],
+                [
+                    "84:91"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Mr. McNealy"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "Sun's profitability"
+                ],
+                [
+                    "134:153"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Mr. McNealy said the issues that hurt Sun's performance earlier this year are now \" largely \" behind the firm , and he indicated that Sun's profitability should increase throughout the fiscal year .",
+    "sent_id": "xbank/wsj_0928-6"
+}

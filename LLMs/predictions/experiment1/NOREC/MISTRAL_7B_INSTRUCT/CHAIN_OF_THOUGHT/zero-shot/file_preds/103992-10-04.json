@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Noen kjemper"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "sin neste obskure rus"
+                ],
+                [
+                    "32:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "obskure rus"
+                ],
+                [
+                    "42:53"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Noen kjemper ikke for annet enn sin neste obskure rus .",
+    "sent_id": "103992-10-04"
+}

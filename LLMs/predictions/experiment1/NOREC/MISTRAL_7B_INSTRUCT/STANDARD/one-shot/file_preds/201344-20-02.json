@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Funksjonene"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "rekke innebygde spesialprogrammer"
+                ],
+                [
+                    "38:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "styrker klokkens fokus p\u00e5 fysiske aktiviteter"
+                ],
+                [
+                    "78:123"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Funksjonene legger fundamentet for en rekke innebygde spesialprogrammer , som styrker klokkens fokus p\u00e5 fysiske aktiviteter .",
+    "sent_id": "201344-20-02"
+}

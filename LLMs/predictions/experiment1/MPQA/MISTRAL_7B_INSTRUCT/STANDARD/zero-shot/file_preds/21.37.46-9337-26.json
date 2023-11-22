@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ma"
+                ],
+                [
+                    "127:129"
+                ]
+            ],
+            "Target": [
+                [
+                    "terrorism"
+                ],
+                [
+                    "19:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "should be brought to the justice"
+                ],
+                [
+                    "92:124"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Whoever engages in terrorism , whether he or she is of Han people or of a minority people , should be brought to the justice , Ma said .",
+    "sent_id": "temp_fbis/21.37.46-9337-26"
+}

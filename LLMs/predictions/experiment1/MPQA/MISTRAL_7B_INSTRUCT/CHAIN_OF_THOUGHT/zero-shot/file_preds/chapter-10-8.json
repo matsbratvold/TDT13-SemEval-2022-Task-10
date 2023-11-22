@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "White House Deputy Chief of Staff Joshua Bolten"
+                ],
+                [
+                    "72:119"
+                ]
+            ],
+            "Target": [
+                [
+                    "urgent domestic issues"
+                ],
+                [
+                    "35:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "urgent"
+                ],
+                [
+                    "35:41"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "White House Deputy Chief of Staff Joshua Bolten"
+                ],
+                [
+                    "72:119"
+                ]
+            ],
+            "Target": [
+                [
+                    "White House"
+                ],
+                [
+                    "72:83"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "urgent"
+                ],
+                [
+                    "35:41"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "White House Deputy Chief of Staff Joshua Bolten"
+                ],
+                [
+                    "72:119"
+                ]
+            ],
+            "Target": [
+                [
+                    "temporary"
+                ],
+                [
+                    "130:139"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "temporary"
+                ],
+                [
+                    "130:139"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "White House Deputy Chief of Staff Joshua Bolten"
+                ],
+                [
+                    "72:119"
+                ]
+            ],
+            "Target": [
+                [
+                    "domestic consequences"
+                ],
+                [
+                    "142:163"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "domestic consequences"
+                ],
+                [
+                    "142:163"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "IMMEDIATE RESPONSES AT HOME As the urgent domestic issues accumulated , White House Deputy Chief of Staff Joshua Bolten chaired a temporary \" domestic consequences \" group .",
+    "sent_id": "ula/chapter-10-8"
+}

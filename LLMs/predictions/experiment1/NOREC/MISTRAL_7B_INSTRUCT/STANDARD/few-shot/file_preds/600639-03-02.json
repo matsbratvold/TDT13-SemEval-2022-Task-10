@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "d\u00e9t"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er bare"
+                ],
+                [
+                    "8:15"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "han"
+                ],
+                [
+                    "23:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "selv"
+                ],
+                [
+                    "27:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00f8ter skj\u00f8nnheten"
+                ],
+                [
+                    "32:49"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Men d\u00e9t er bare inntil han selv m\u00f8ter skj\u00f8nnheten .",
+    "sent_id": "600639-03-02"
+}

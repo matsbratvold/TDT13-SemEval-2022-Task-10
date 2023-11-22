@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Samtidig"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "det bare \u00e5 innr\u00f8mme"
+                ],
+                [
+                    "12:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bare \u00e5 innr\u00f8mme"
+                ],
+                [
+                    "16:31"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Rogers Waters"
+                ],
+                [
+                    "34:47"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pink Floyd som soloartist"
+                ],
+                [
+                    "85:110"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kopiere suksessen"
+                ],
+                [
+                    "63:80"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "debuten \u00ab The Pros And Cons Of Hitch Hiking \u00bb ( 1984 ) og \u00ab Amused To Death \u00bb ( 1992 )"
+                ],
+                [
+                    "126:212"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mye for seg"
+                ],
+                [
+                    "217:228"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Samtidig er det bare \u00e5 innr\u00f8mme , Rogers Waters klarte aldri \u00e5 kopiere suksessen fra Pink Floyd som soloartist , sj\u00f8l om b\u00e5de debuten \u00ab The Pros And Cons Of Hitch Hiking \u00bb ( 1984 ) og \u00ab Amused To Death \u00bb ( 1992 ) har mye for seg .",
+    "sent_id": "304196-08-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "General Efrain Vazquez"
+                ],
+                [
+                    "35:57"
+                ]
+            ],
+            "Target": [
+                [
+                    "Chavez"
+                ],
+                [
+                    "73:79"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "wants to resign"
+                ],
+                [
+                    "80:95"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Friday , April 12 : Army commander General Efrain Vazquez announces that Chavez wants to resign .",
+    "sent_id": "non_fbis/08.11.35-9355-10"
+}

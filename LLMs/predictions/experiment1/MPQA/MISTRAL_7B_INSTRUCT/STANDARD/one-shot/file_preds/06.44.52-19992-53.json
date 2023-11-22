@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Some guards"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "their views of the prisoners"
+                ],
+                [
+                    "38:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "do n't want to talk about"
+                ],
+                [
+                    "12:37"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "U.S. Army Capt. Darrell Sides"
+                ],
+                [
+                    "73:102"
+                ]
+            ],
+            "Target": [
+                [
+                    "the prisoners"
+                ],
+                [
+                    "53:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "considering them terrorists"
+                ],
+                [
+                    "155:182"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Some guards do n't want to talk about their views of the prisoners . But U.S. Army Capt. Darrell Sides , 30 , of Fort Benning , Ga. , makes no bones about considering them terrorists .",
+    "sent_id": "non_fbis/06.44.52-19992-53"
+}

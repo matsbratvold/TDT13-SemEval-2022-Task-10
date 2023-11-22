@@ -1,0 +1,65 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5pner"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "med strykere og piano"
+                ],
+                [
+                    "34:55"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "f\u00f8r en gitar sager hakk i melodien"
+                ],
+                [
+                    "58:92"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "og den dylanske teksten"
+                ],
+                [
+                    "93:116"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "\" \u00d6ppen genom hela natten \" \u00e5pner med strykere og piano , f\u00f8r en gitar sager hakk i melodien og den dylanske teksten .",
+    "sent_id": "704372-14-01"
+}

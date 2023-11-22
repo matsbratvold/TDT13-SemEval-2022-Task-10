@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "analysts"
+                ],
+                [
+                    "226:234"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "would create"
+                ],
+                [
+                    "89:101"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The British chemical and textile company 's plan , which requires shareholder approval , would create a new , listed U.K. stock with a probable market capitalization between # 300 million ( $ 473 million ) and # 400 million , analysts said . The establishment of the separate company , to be called Courtaulds Textiles , could be effective as early as next year 's first quarter .",
+    "sent_id": "xbank/wsj_0376-2"
+}

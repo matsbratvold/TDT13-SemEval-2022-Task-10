@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "jeg"
+                ],
+                [
+                    "14:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "statsministeren min"
+                ],
+                [
+                    "28:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "* ** * * * * * * *"
+                ],
+                [
+                    "58:76"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab Er det bare jeg som mener statsministeren min har blitt * ** * * * * * * * \u00bb .",
+    "sent_id": "002988-03-01"
+}

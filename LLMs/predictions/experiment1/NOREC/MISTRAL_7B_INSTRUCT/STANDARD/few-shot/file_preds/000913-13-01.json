@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "jeg"
+                ],
+                [
+                    "35:38"
+                ]
+            ],
+            "Target": [
+                [
+                    "Emily"
+                ],
+                [
+                    "48:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "han som har stemmen til Corvo er i overkant mismodig"
+                ],
+                [
+                    "67:119"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "man"
+                ],
+                [
+                    "147:150"
+                ]
+            ],
+            "Target": [
+                [
+                    "protagonist"
+                ],
+                [
+                    "21:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "velge seg sin"
+                ],
+                [
+                    "7:20"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "man"
+                ],
+                [
+                    "147:150"
+                ]
+            ],
+            "Target": [
+                [
+                    "historien"
+                ],
+                [
+                    "183:192"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "drepe seg fremover"
+                ],
+                [
+                    "162:180"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "man"
+                ],
+                [
+                    "147:150"
+                ]
+            ],
+            "Target": [
+                [
+                    "historien"
+                ],
+                [
+                    "183:192"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snike uten \u00e5 ta liv"
+                ],
+                [
+                    "212:231"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Man m\u00e5 velge seg sin protagonist ( jeg gikk for Emily , mest fordi han som har stemmen til Corvo er i overkant mismodig ) , og som i eneren velger man om man vil drepe seg fremover i historien , eller om man vil snike uten \u00e5 ta liv .",
+    "sent_id": "000913-13-01"
+}

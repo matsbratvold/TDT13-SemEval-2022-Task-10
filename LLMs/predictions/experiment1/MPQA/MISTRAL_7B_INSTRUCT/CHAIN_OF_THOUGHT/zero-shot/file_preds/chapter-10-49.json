@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "39:53"
+                ]
+            ],
+            "Target": [
+                [
+                    "Saddam Hussein"
+                ],
+                [
+                    "104:118"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "wondered"
+                ],
+                [
+                    "58:66"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "39:53"
+                ]
+            ],
+            "Target": [
+                [
+                    "Iraq"
+                ],
+                [
+                    "159:163"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enemy"
+                ],
+                [
+                    "176:181"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "39:53"
+                ]
+            ],
+            "Target": [
+                [
+                    "Iraq"
+                ],
+                [
+                    "159:163"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "support for Palestinian suicide terrorists"
+                ],
+                [
+                    "530:572"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "39:53"
+                ]
+            ],
+            "Target": [
+                [
+                    "Iran"
+                ],
+                [
+                    "692:696"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "thought about"
+                ],
+                [
+                    "678:691"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "\" PHASE TWO \" AND THE QUESTION OF IRAQ President Bush had wondered immediately after the attack whether Saddam Hussein 's regime might have had a hand in it . Iraq had been an enemy of the United States for 11 years , and was the only place in the world where the United States was engaged in ongoing combat operations . As a former pilot , the President was struck by the apparent sophistication of the operation and some of the piloting , especially Hanjour 's high - speed dive into the Pentagon . He told us he recalled Iraqi support for Palestinian suicide terrorists as well . Speculating about other possible states that could be involved , the President told us he also thought about Iran .",
+    "sent_id": "ula/chapter-10-49"
+}

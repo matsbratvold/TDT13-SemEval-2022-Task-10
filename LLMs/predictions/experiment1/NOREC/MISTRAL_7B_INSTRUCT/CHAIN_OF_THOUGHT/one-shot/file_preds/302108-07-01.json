@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "ber p\u00e5"
+                ],
+                [
+                    "27:33"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det er den housedraumen me ber p\u00e5 .",
+    "sent_id": "302108-07-01"
+}

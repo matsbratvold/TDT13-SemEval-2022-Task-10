@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bush"
+                ],
+                [
+                    "24:28"
+                ]
+            ],
+            "Target": [
+                [
+                    "pragmatism and unilateralism position with regard to international treaties"
+                ],
+                [
+                    "97:172"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "adopted"
+                ],
+                [
+                    "85:92"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Bush"
+                ],
+                [
+                    "24:28"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto Protocol"
+                ],
+                [
+                    "420:434"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "announced"
+                ],
+                [
+                    "315:324"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "met with unanimous condemnation"
+                ],
+                [
+                    "526:557"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Since coming to power , Bush , proceeding from the US immediate interests , has also adopted the pragmatism and unilateralism position with regard to international treaties . This March , catering to the interests of the US oil and coal barons who have made large political donations to the Republican Party , Bush announced , without prior consultations with its allies , that the United States would not enforce the \" Kyoto Protocol \" which is aimed at reducing greenhouse gas emissions in the world . This announcement was met with unanimous condemnation by the international media .",
+    "sent_id": "20011208/20.31.54-28680-3"
+}

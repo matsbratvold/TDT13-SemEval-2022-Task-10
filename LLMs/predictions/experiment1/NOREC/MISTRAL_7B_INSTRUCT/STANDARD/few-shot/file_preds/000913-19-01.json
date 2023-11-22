@@ -1,0 +1,65 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "PS4"
+                ],
+                [
+                    "3:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fullstendig s\u00f8ml\u00f8st og bugfritt"
+                ],
+                [
+                    "19:50"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "brett"
+                ],
+                [
+                    "123:128"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "innfl\u00f8kte og delikat oppbygde"
+                ],
+                [
+                    "93:122"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00f8tet med"
+                ],
+                [
+                    "145:154"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "P\u00e5 PS4 spiller det fullstendig s\u00f8ml\u00f8st og bugfritt ; det er en nytelse \u00e5 suse rundt i s\u00e5pass innfl\u00f8kte og delikat oppbygde brett ( i s\u00e6rdeleshet m\u00f8tet med skapelsene til Dr. Moreau / The Joker-aktige Kirin Jindosh ) .",
+    "sent_id": "000913-19-01"
+}

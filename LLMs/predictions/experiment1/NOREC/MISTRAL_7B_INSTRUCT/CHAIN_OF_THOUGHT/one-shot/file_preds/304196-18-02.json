@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Nigel Godrich"
+                ],
+                [
+                    "10:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "Nigel Godrich"
+                ],
+                [
+                    "10:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ingen hvem som helst"
+                ],
+                [
+                    "73:93"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Nigel Godrich"
+                ],
+                [
+                    "10:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "Radiohead"
+                ],
+                [
+                    "127:136"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mest kjent for \u00e5 produsere"
+                ],
+                [
+                    "100:126"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Nigel Godrich"
+                ],
+                [
+                    "10:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "Thom Yorke"
+                ],
+                [
+                    "140:150"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mest kjent for \u00e5 produsere"
+                ],
+                [
+                    "100:126"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Nigel Godrich"
+                ],
+                [
+                    "10:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "OK Computer"
+                ],
+                [
+                    "159:170"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "siden \u00ab OK Computer \u00bb i 1997"
+                ],
+                [
+                    "151:179"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Produsent Nigel Godrich ( keyboards / gitar / lycollager / arrang\u00f8r ) er ingen hvem som helst , men mest kjent for \u00e5 produsere Radiohead og Thom Yorke siden \u00ab OK Computer \u00bb i 1997 .",
+    "sent_id": "304196-18-02"
+}

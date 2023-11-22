@@ -1,0 +1,50 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "the protocol"
+                ],
+                [
+                    "46:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "opposed"
+                ],
+                [
+                    "38:45"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "produced"
+                ],
+                [
+                    "200:208"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In March 2001 , the US administration opposed the protocol by saying that it contravenes US economic interests , a decision slammed by European Union countries at the time . Instead the US government produced its own alternative climate change strategy aimed at encouraging industries to trim their emissions .",
+    "sent_id": "non_fbis/06.39.11-29583-8"
+}

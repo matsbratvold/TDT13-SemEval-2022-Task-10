@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Chavez"
+                ],
+                [
+                    "2:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "private television networks opposed to him"
+                ],
+                [
+                    "46:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "orders a suspension of broadcasts"
+                ],
+                [
+                    "9:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "- Chavez orders a suspension of broadcasts by private television networks opposed to him .",
+    "sent_id": "non_fbis/08.11.35-9355-6"
+}

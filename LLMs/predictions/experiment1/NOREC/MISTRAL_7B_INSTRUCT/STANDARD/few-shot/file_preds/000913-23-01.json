@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "domino"
+                ],
+                [
+                    "18:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "13:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "gir deg muligheten til \u00e5 mentalt sammenbinde skurker"
+                ],
+                [
+                    "33:85"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til"
+                ],
+                [
+                    "52:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "man kan rydde flere av veien med eksempelvis bare \u00e9n bed\u00f8velsespil"
+                ],
+                [
+                    "94:160"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med"
+                ],
+                [
+                    "123:126"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Min favoritt er \" domino \" , som gir deg muligheten til \u00e5 mentalt sammenbinde skurker slik at man kan rydde flere av veien med eksempelvis bare \u00e9n bed\u00f8velsespil .",
+    "sent_id": "000913-23-01"
+}

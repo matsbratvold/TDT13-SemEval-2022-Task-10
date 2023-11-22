@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "frigivelsen"
+                ],
+                [
+                    "4:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "dokumentene"
+                ],
+                [
+                    "19:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "relativt enkelt"
+                ],
+                [
+                    "62:77"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Med frigivelsen av dokumentene fra landssvikoppgj\u00f8ret ble det relativt enkelt \u00e5 bla seg gjennom dommene og skru sammen en reportasje eller fortelling .",
+    "sent_id": "601408-05-02"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "dette"
+                ],
+                [
+                    "12:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "Outlander"
+                ],
+                [
+                    "51:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "historisk drama"
+                ],
+                [
+                    "29:44"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "For selv om dette ogs\u00e5 er et historisk drama s\u00e5 er Outlander f\u00f8rst og frem et eventyr .",
+    "sent_id": "000298-23-02"
+}

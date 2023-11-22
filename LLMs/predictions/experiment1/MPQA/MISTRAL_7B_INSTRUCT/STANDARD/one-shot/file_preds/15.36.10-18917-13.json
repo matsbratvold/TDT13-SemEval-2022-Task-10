@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Chavez"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "oil production cuts"
+                ],
+                [
+                    "33:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "supporter"
+                ],
+                [
+                    "20:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Chavez is a staunch supporter of oil production cuts in order to boost prices in the world market .",
+    "sent_id": "non_fbis/15.36.10-18917-13"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Powell"
+                ],
+                [
+                    "23:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "general aid"
+                ],
+                [
+                    "98:109"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "contacted"
+                ],
+                [
+                    "34:43"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Powell"
+                ],
+                [
+                    "23:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "search - and - rescue equipment and personnel"
+                ],
+                [
+                    "112:157"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "received"
+                ],
+                [
+                    "79:87"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Powell"
+                ],
+                [
+                    "23:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "medical assistance teams"
+                ],
+                [
+                    "164:188"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "received"
+                ],
+                [
+                    "79:87"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Also by September 18 , Powell had contacted 58 of his foreign counterparts and received offers of general aid , search - and - rescue equipment and personnel , and medical assistance teams .",
+    "sent_id": "ula/chapter-10-45"
+}

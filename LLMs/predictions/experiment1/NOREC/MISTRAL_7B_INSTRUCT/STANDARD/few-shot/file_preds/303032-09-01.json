@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "sunget"
+                ],
+                [
+                    "8:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "p\u00e5 norsk"
+                ],
+                [
+                    "15:23"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "tekstene"
+                ],
+                [
+                    "70:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blir unektelig n\u00e6rere"
+                ],
+                [
+                    "79:100"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Han har sunget p\u00e5 norsk med stort hell p\u00e5 to tidligere soloalbum , og tekstene blir unektelig n\u00e6rere .",
+    "sent_id": "303032-09-01"
+}

@@ -1,0 +1,130 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Mor Henriette"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Mor Henriette"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "overspent"
+                ],
+                [
+                    "44:53"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Mor Henriette"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Mor Henriette"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skj\u00f8r"
+                ],
+                [
+                    "57:62"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Mor Henriette"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Mor Henriette"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "desperat"
+                ],
+                [
+                    "66:74"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "klar"
+                ],
+                [
+                    "193:197"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "jordn\u00e6r"
+                ],
+                [
+                    "208:215"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Mor Henriette ( Kj\u00e6rsti Odden Skjeldal ) er overspent og skj\u00f8r og desperat i jakten p\u00e5 lys og lykke , og hushjelpen ( Gretelill Tangen ) er den som har fulgt familien i generasjoner - sterk og klar og alltid jordn\u00e6r .",
+    "sent_id": "703256-15-04"
+}

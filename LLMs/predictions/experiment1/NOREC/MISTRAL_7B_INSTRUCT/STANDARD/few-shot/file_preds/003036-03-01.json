@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Frank Ocean"
+                ],
+                [
+                    "29:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "satte opp et webkamera"
+                ],
+                [
+                    "41:63"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "webkamera"
+                ],
+                [
+                    "54:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fungerte som en sl\u00f8ydsal"
+                ],
+                [
+                    "82:106"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det har g\u00e5tt noen uker siden Frank Ocean satte opp et webkamera i et lagerrom som fungerte som en sl\u00f8ydsal .",
+    "sent_id": "003036-03-01"
+}

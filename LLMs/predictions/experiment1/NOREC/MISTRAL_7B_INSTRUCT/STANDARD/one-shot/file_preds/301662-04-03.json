@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "litt funk"
+                ],
+                [
+                    "10:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bl\u00e5s og trance-aktige synthlinjer"
+                ],
+                [
+                    "22:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Sleng inn litt funk , bl\u00e5s og trance-aktige synthlinjer i miksen og du har litt \u00e5 boltre deg i .",
+    "sent_id": "301662-04-03"
+}

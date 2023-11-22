@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "World of Warcraft"
+                ],
+                [
+                    "30:47"
+                ]
+            ],
+            "Target": [
+                [
+                    "filmen"
+                ],
+                [
+                    "61:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "g\u00e5tt til filmen"
+                ],
+                [
+                    "52:67"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "filmen"
+                ],
+                [
+                    "61:67"
+                ]
+            ],
+            "Target": [
+                [
+                    "kommer seg brukbart igjennom forvandlingen"
+                ],
+                [
+                    "71:113"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kommer seg brukbart igjennom forvandlingen"
+                ],
+                [
+                    "71:113"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det superpopul\u00e6re dataspillet World of Warcraft har g\u00e5tt til filmen og kommer seg brukbart igjennom forvandlingen .",
+    "sent_id": "700863-02-01"
+}

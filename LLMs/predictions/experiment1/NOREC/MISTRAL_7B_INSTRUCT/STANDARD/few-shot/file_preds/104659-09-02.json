@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Holter"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "keyboard"
+                ],
+                [
+                    "22:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som et flygel"
+                ],
+                [
+                    "33:46"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "bassisten"
+                ],
+                [
+                    "54:63"
+                ]
+            ],
+            "Target": [
+                [
+                    "bue"
+                ],
+                [
+                    "83:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som fingrene for \u00e5 f\u00e5 lyd"
+                ],
+                [
+                    "87:112"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Holter selv behandler keyboardet som et flygel , mens bassisten like gjerne bruker bue som fingrene for \u00e5 f\u00e5 lyd .",
+    "sent_id": "104659-09-02"
+}

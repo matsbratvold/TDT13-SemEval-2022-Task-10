@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Av alle bergensb\u00f8lgeskvulp"
+                ],
+                [
+                    "0:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "Silja Sol"
+                ],
+                [
+                    "30:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ett av de fineste"
+                ],
+                [
+                    "40:57"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Av alle bergensb\u00f8lgeskvulp er Silja Sol ett av de fineste .",
+    "sent_id": "501385-03-01"
+}

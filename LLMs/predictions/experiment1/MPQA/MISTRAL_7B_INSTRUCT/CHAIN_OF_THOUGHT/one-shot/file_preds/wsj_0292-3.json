@@ -1,0 +1,110 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Kimberly - Clark"
+                ],
+                [
+                    "71:87"
+                ]
+            ],
+            "Target": [
+                [
+                    "improved results in its consumer businesses in North America , Brazil and Korea"
+                ],
+                [
+                    "111:190"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "attributed the gain"
+                ],
+                [
+                    "88:107"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Kimberly - Clark"
+                ],
+                [
+                    "71:87"
+                ]
+            ],
+            "Target": [
+                [
+                    "higher prices"
+                ],
+                [
+                    "215:228"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "came from higher prices"
+                ],
+                [
+                    "205:228"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Kimberly - Clark"
+                ],
+                [
+                    "71:87"
+                ]
+            ],
+            "Target": [
+                [
+                    "increased sales"
+                ],
+                [
+                    "298:313"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Kimberly - Clark"
+                ],
+                [
+                    "71:87"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "because of industrywide price discounting"
+                ],
+                [
+                    "442:483"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "After a flat second quarter tied largely to lower newsprint earnings , Kimberly - Clark attributed the gain to improved results in its consumer businesses in North America , Brazil and Korea . Those gains came from higher prices , particularly for disposable diapers and tissue products , and from increased sales , primarily for feminine - care products , the company said . Newsprint results continued to be depressed , the company added , because of industrywide price discounting .",
+    "sent_id": "xbank/wsj_0292-3"
+}

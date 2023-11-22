@@ -1,0 +1,102 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "white rice"
+                ],
+                [
+                    "20:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "get"
+                ],
+                [
+                    "16:19"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "red beans"
+                ],
+                [
+                    "33:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "get"
+                ],
+                [
+                    "16:19"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "banana"
+                ],
+                [
+                    "47:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "get"
+                ],
+                [
+                    "16:19"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "water"
+                ],
+                [
+                    "58:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "get"
+                ],
+                [
+                    "16:19"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "For dinner they get white rice , red beans , a banana and water .",
+    "sent_id": "non_fbis/06.44.52-19992-33"
+}

@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "musikk"
+                ],
+                [
+                    "44:50"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dette blir veldig tydelig siden det ikke er musikk i lokalet .",
+    "sent_id": "501595-03-03"
+}

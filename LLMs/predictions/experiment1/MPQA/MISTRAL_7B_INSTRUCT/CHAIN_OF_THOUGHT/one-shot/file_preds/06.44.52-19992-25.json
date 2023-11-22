@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Camp X - Ray"
+                ],
+                [
+                    "29:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "told"
+                ],
+                [
+                    "53:57"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "When the detainees arrive at Camp X - Ray , they are told they 're in Cuba and then undergo a 45 - minute intake process , which , like the airstrip landing , is monitored by the Red Cross .",
+    "sent_id": "non_fbis/06.44.52-19992-25"
+}

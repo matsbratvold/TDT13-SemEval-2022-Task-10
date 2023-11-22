@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the United States"
+                ],
+                [
+                    "13:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "distorted human rights conditions in many countries and regions in the world"
+                ],
+                [
+                    "89:165"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "assuming the role of `world judge of human rights ' has"
+                ],
+                [
+                    "33:88"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "the Chinese report said"
+                ],
+                [
+                    "313:336"
+                ]
+            ],
+            "Target": [
+                [
+                    "accused them of human rights violations"
+                ],
+                [
+                    "190:229"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "all the while turning a blind eye to its own human rights - related problems"
+                ],
+                [
+                    "232:308"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" Once again the United States , assuming the role of `world judge of human rights ' has distorted human rights conditions in many countries and regions in the world , including China , and accused them of human rights violations , all the while turning a blind eye to its own human rights - related problems , \" the Chinese report said .",
+    "sent_id": "non_fbis/04.22.14-2532-6"
+}

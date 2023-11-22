@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "OK"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Indianeren"
+                ],
+                [
+                    "7:17"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "OK , \u00ab Indianeren \u00bb som hadde urpremiere p\u00e5 Rogaland teater onsdag kveld , er ikke banebrytende , ikke nyskapende , ikke krevende .",
+    "sent_id": "703256-03-01"
+}

@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the sense of danger is ever present"
+                ],
+                [
+                    "36:71"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "is"
+                ],
+                [
+                    "56:58"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "are"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "an al - Qa'eda suspect used a comb to stab a prison warder through the eye into his brain"
+                ],
+                [
+                    "195:284"
+                ]
+            ],
+            "Target": [
+                [
+                    "an al - Qa'eda suspect"
+                ],
+                [
+                    "195:217"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "used"
+                ],
+                [
+                    "140:144"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "There are jokes at Camp X - Ray but the sense of danger is ever present . The detainees ' toothbrushes are shortened so that they cannot be used as weapons . During a trial in New York in 1998 , an al - Qa'eda suspect used a comb to stab a prison warder through the eye into his brain .",
+    "sent_id": "non_fbis/12.46.57-22041-20"
+}

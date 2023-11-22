@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "Rumsfeld and Shelton"
+                ],
+                [
+                    "26:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "instructed"
+                ],
+                [
+                    "15:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "robust measures to protect American military forces against terrorist attack"
+                ],
+                [
+                    "220:296"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tasked"
+                ],
+                [
+                    "189:195"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "Treasury Secretary Paul O'Neill"
+                ],
+                [
+                    "348:379"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "directed"
+                ],
+                [
+                    "339:347"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "President Bush instructed Rumsfeld and Shelton to develop further the Camp David military plan to attack the Taliban and al Qaeda if the Taliban rejected the ultimatum . The President also tasked Rumsfeld to ensure that robust measures to protect American military forces against terrorist attack were implemented worldwide . Finally , he directed Treasury Secretary Paul O'Neill to craft a plan to target al Qaeda 's funding and seize its assets .",
+    "sent_id": "ula/chapter-10-43"
+}

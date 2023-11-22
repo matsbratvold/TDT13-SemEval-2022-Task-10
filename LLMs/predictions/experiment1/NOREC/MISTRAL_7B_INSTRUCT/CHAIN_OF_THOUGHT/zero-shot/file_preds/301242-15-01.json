@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dypvik"
+                ],
+                [
+                    "116:122"
+                ]
+            ],
+            "Target": [
+                [
+                    "DDR"
+                ],
+                [
+                    "140:143"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Det var DDR"
+                ],
+                [
+                    "132:143"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det generelle stoffet innimellom blir imidlertid litt for mye gjentakelser av kjent stoff , ikke minst formidlet av Dypvik selv i \u00ab Det var DDR \u00bb .",
+    "sent_id": "301242-15-01"
+}

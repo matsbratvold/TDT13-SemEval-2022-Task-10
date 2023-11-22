@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hans"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "det absolutte h\u00f8ydepunktet"
+                ],
+                [
+                    "49:75"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hans versjon av \u00ab Hjernen er alene \u00bb er dessuten det absolutte h\u00f8ydepunktet fra seks sesonger med \u00ab Hver gang vi m\u00f8tes \u00bb .",
+    "sent_id": "303032-10-02"
+}

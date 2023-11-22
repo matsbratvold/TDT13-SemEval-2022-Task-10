@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Fjor\u00e5ret"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00e5 b\u00e5de storlanseringene av Apple Watch og TAG Heuer Connected"
+                ],
+                [
+                    "9:71"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "smartklokkene"
+                ],
+                [
+                    "126:139"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "v\u00e6re det viktigste \u00e5ret for smartklokkene s\u00e5 langt"
+                ],
+                [
+                    "98:148"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Fjor\u00e5ret s\u00e5 b\u00e5de storlanseringene av Apple Watch og TAG Heuer Connected , og kan med rette sies \u00e5 v\u00e6re det viktigste \u00e5ret for smartklokkene s\u00e5 langt .",
+    "sent_id": "201344-03-01"
+}

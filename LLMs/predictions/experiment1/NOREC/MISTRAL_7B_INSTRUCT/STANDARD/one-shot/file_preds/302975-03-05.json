@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "flyktningene"
+                ],
+                [
+                    "40:52"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hva du selv kan gj\u00f8re"
+                ],
+                [
+                    "58:79"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Her f\u00e5r du vite hvem som bestemmer over flyktningene , og hva du selv kan gj\u00f8re .",
+    "sent_id": "302975-03-05"
+}

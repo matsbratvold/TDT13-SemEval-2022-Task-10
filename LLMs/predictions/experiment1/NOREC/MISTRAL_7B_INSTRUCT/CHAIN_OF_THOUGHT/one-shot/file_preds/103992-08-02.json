@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Sesong 5"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tar handlingen direkte videre derfra"
+                ],
+                [
+                    "9:45"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Sesong 5 tar handlingen direkte videre derfra .",
+    "sent_id": "103992-08-02"
+}

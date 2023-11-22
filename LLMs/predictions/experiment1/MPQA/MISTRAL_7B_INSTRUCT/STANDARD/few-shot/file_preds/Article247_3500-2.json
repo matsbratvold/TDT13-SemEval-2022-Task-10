@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "being a journalist"
+                ],
+                [
+                    "27:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "know what you mean about"
+                ],
+                [
+                    "2:26"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "Almost every assignment is a challenge in a different way and it never seems to get easier"
+                ],
+                [
+                    "48:138"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "I often feel as if I only get half the story sometimes"
+                ],
+                [
+                    "141:195"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "I think that is why I welcomed doing a book"
+                ],
+                [
+                    "299:342"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gives one the ability to use so much of what is left on the cutting room floor of daily journalism"
+                ],
+                [
+                    "349:447"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "I know what you mean about being a journalist . Almost every assignment is a challenge in a different way and it never seems to get easier . I often feel as if I only get half the story sometimes , so I typically do a massive amount of reporting that is most often much more than I will ever need . I think that is why I welcomed doing a book -- it gives one the ability to use so much of what is left on the cutting room floor of daily journalism .",
+    "sent_id": "ula/Article247_3500-2"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "protocol"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "U.S"
+                ],
+                [
+                    "65:68"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "danger of being shelved altogether"
+                ],
+                [
+                    "19:53"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Bush administration"
+                ],
+                [
+                    "222:241"
+                ]
+            ],
+            "Target": [
+                [
+                    "treaty"
+                ],
+                [
+                    "198:204"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "negative effect on its economy"
+                ],
+                [
+                    "271:301"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Bush administration"
+                ],
+                [
+                    "222:241"
+                ]
+            ],
+            "Target": [
+                [
+                    "developing countries"
+                ],
+                [
+                    "321:341"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mandatory emission targets"
+                ],
+                [
+                    "396:422"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The protocol faced danger of being shelved altogether , when the U.S , which is responsible for one - fourth of all CO2 emissions in the world , decided to abruptly withdraw from the climate change treaty last March . The Bush administration fears the treaty will have a negative effect on its economy and maintains that developing countries , such as China and India , should also be subject to mandatory emission targets .",
+    "sent_id": "20011115/20.41.29-15150-16"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "right yeah exactly"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "cannot"
+                ],
+                [
+                    "23:29"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "right yeah exactly you cannot take the gun home until you 've taken this course sign up here something like that",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-21"
+}

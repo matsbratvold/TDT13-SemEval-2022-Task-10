@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "f\u00f8ltes"
+                ],
+                [
+                    "4:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "undermotorisert"
+                ],
+                [
+                    "11:26"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "noe"
+                ],
+                [
+                    "29:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "som bidro"
+                ],
+                [
+                    "33:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til at den ble pisket ekstra i bruk"
+                ],
+                [
+                    "43:78"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "noe"
+                ],
+                [
+                    "29:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "som igjen f\u00f8rte til"
+                ],
+                [
+                    "85:104"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "et langt h\u00f8yere forbruk enn det oppgitte"
+                ],
+                [
+                    "105:145"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Den f\u00f8ltes undermotorisert , noe som bidro til at den ble pisket ekstra i bruk , noe som igjen f\u00f8rte til et langt h\u00f8yere forbruk enn det oppgitte .",
+    "sent_id": "202298-05-04"
+}

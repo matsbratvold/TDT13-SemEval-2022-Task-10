@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "viktig"
+                ],
+                [
+                    "15:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ikke s\u00e5"
+                ],
+                [
+                    "7:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det er ikke s\u00e5 viktig .",
+    "sent_id": "304196-04-01"
+}

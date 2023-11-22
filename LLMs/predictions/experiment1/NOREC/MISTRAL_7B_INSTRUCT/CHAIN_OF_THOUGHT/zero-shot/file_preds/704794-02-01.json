@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Gledelig"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "gammel klassiker"
+                ],
+                [
+                    "21:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjensyn"
+                ],
+                [
+                    "9:16"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Gledelig gjensyn med gammel klassiker .",
+    "sent_id": "704794-02-01"
+}

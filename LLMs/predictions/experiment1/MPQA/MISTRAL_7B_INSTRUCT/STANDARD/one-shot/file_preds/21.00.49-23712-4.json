@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Israel"
+                ],
+                [
+                    "74:80"
+                ]
+            ],
+            "Target": [
+                [
+                    "the coexistence of Israel with the state of Palestine"
+                ],
+                [
+                    "55:108"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Then there is the eventual goal of the peace process : the coexistence of Israel with the state of Palestine . But Israel has not once deigned to propose that the Palestinians live with the Israelis as full citizens in the same sate . Israel does not want the Palestinians to be part of the same country , or have one of their own .",
+    "sent_id": "20020225/21.00.49-23712-4"
+}

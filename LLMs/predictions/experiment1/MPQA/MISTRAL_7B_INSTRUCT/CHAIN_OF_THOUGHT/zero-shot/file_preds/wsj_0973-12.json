@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Mr. Marous"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "Westinghouse"
+                ],
+                [
+                    "16:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "own 70 % of the facility"
+                ],
+                [
+                    "35:59"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Mr. Marous"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "Westinghouse"
+                ],
+                [
+                    "16:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "deal"
+                ],
+                [
+                    "66:70"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Mr. Marous"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "Westinghouse"
+                ],
+                [
+                    "16:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "investment"
+                ],
+                [
+                    "116:126"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Mr. Marous said Westinghouse would own 70 % of the facility . The deal , which will involve an initial $ 20 million investment , was struck with a handshake , he added .",
+    "sent_id": "xbank/wsj_0973-12"
+}

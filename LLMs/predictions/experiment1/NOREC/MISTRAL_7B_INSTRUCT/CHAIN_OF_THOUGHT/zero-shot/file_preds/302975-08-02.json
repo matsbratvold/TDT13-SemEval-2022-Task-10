@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "presenterer"
+                ],
+                [
+                    "7:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "en ny slutt p\u00e5 fortellingen"
+                ],
+                [
+                    "22:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stoppet"
+                ],
+                [
+                    "56:63"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "presenterer"
+                ],
+                [
+                    "7:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "Samir , mora og s\u00f8stera"
+                ],
+                [
+                    "76:99"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ble sendt tilbake til Afghanistan"
+                ],
+                [
+                    "100:133"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Derfor presenterer de en ny slutt p\u00e5 fortellingen , som stoppet s\u00e5 trist da Samir , mora og s\u00f8stera ble sendt tilbake til Afghanistan .",
+    "sent_id": "302975-08-02"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Toyota executives"
+                ],
+                [
+                    "4:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "hybrid cars"
+                ],
+                [
+                    "74:85"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mechanism"
+                ],
+                [
+                    "60:69"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Toyota executives"
+                ],
+                [
+                    "4:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "fuel - cell vehicle"
+                ],
+                [
+                    "123:142"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "efforts"
+                ],
+                [
+                    "102:109"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The Toyota executives briefed the Romanian leader about the mechanism for hybrid cars and the firm 's efforts to develop a fuel - cell vehicle , the company said .",
+    "sent_id": "20020215/20.43.51-9328-5"
+}

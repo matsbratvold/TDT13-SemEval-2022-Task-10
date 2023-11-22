@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Du fria"
+                ],
+                [
+                    "2:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "har myk danserytme og en tekst som summerer opp platen"
+                ],
+                [
+                    "12:66"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" Du fria \" har myk danserytme og en tekst som summerer opp platen :",
+    "sent_id": "704372-25-01"
+}

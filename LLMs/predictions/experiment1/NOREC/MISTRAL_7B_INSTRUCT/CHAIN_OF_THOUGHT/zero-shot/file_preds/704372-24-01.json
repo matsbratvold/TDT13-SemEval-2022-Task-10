@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ingen"
+                ],
+                [
+                    "2:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "oro"
+                ],
+                [
+                    "8:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Ingen"
+                ],
+                [
+                    "2:7"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "tjabo"
+                ],
+                [
+                    "14:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "!"
+                ],
+                [
+                    "20:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tjabo"
+                ],
+                [
+                    "14:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" Ingen oro , tjabo ! \" er en ballade med kassegitar og tykt lag strykere , om fattiggutten som svikes av den rike jenta .",
+    "sent_id": "704372-24-01"
+}

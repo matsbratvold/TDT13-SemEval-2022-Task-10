@@ -1,0 +1,102 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "documents"
+                ],
+                [
+                    "63:72"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Investigating Magistrate Patrick Collignon"
+                ],
+                [
+                    "105:147"
+                ]
+            ],
+            "Target": [
+                [
+                    "documents"
+                ],
+                [
+                    "63:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gave"
+                ],
+                [
+                    "80:84"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Public Prosecution Office"
+                ],
+                [
+                    "178:203"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "expect"
+                ],
+                [
+                    "162:168"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Israel"
+                ],
+                [
+                    "217:223"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "request"
+                ],
+                [
+                    "209:216"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Walleyn are Verhaeghe are convinced of the authenticity of the documents . They gave the entire stack to Investigating Magistrate Patrick Collignon . The lawyers expect that the Public Prosecution Office will request Israel to confirm the documents ' authenticity .",
+    "sent_id": "20011127/21.22.54-17837-4"
+}

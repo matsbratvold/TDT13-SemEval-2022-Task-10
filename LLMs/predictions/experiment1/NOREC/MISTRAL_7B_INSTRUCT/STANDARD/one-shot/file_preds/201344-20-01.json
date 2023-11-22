@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Du"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "utvide"
+                ],
+                [
+                    "12:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med et eget hjertebelte"
+                ],
+                [
+                    "19:42"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "for"
+                ],
+                [
+                    "45:48"
+                ]
+            ],
+            "Target": [
+                [
+                    "enda mer presis pulsm\u00e5ling"
+                ],
+                [
+                    "49:75"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Du kan ogs\u00e5 utvide med et eget hjertebelte , for enda mer presis pulsm\u00e5ling .",
+    "sent_id": "201344-20-01"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Abby Joseph Cohen"
+                ],
+                [
+                    "95:112"
+                ]
+            ],
+            "Target": [
+                [
+                    "earnings forecasts"
+                ],
+                [
+                    "45:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "downward revisions"
+                ],
+                [
+                    "23:41"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Abby Joseph Cohen"
+                ],
+                [
+                    "95:112"
+                ]
+            ],
+            "Target": [
+                [
+                    "corporate profits"
+                ],
+                [
+                    "188:205"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "questioning"
+                ],
+                [
+                    "176:187"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" There are a lot more downward revisions of earnings forecasts than upward revisions , \" said Abby Joseph Cohen , a market strategist at Drexel Burnham Lambert . \" People are questioning corporate profits as a pillar of support for the equity market . \"",
+    "sent_id": "xbank/wsj_0816-6"
+}

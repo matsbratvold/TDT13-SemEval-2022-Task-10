@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "flyktningene"
+                ],
+                [
+                    "40:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bestemmer over"
+                ],
+                [
+                    "25:39"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "du selv"
+                ],
+                [
+                    "62:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kan gj\u00f8re"
+                ],
+                [
+                    "70:79"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Her f\u00e5r du vite hvem som bestemmer over flyktningene , og hva du selv kan gj\u00f8re .",
+    "sent_id": "302975-03-05"
+}

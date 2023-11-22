@@ -1,0 +1,40 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "vil du f\u00e5 et varsel med beskjed om \u00e5 r\u00f8re p\u00e5 deg"
+                ],
+                [
+                    "61:109"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "eller ta 250 skritt"
+                ],
+                [
+                    "112:131"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dersom du har sittet stille 50 minutter i l\u00f8pet av en time , vil du f\u00e5 et varsel med beskjed om \u00e5 r\u00f8re p\u00e5 deg , eller ta 250 skritt .",
+    "sent_id": "200006-31-01"
+}

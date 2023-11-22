@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Pink Floyd-album"
+                ],
+                [
+                    "41:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "langt p\u00e5 vei"
+                ],
+                [
+                    "20:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Pink Floyd-album"
+                ],
+                [
+                    "41:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hvis det ikke hadde v\u00e6rt for at det aldri kommer til \u00e5 bli noe Pink Floyd igjen - med Roger Waters p\u00e5 laget"
+                ],
+                [
+                    "68:175"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det kunne fors\u00e5vidt langt p\u00e5 vei v\u00e6rt et Pink Floyd-album , dette , hvis det ikke hadde v\u00e6rt for at det aldri kommer til \u00e5 bli noe Pink Floyd igjen - med Roger Waters p\u00e5 laget .",
+    "sent_id": "304196-06-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Familiefaren ( Marko Kanic )"
+                ],
+                [
+                    "0:28"
+                ]
+            ],
+            "Target": [
+                [
+                    "sin litt stive framferd , stille , tilbaketrukket inn mot det deprimerte , og millimeter fra bristepunktet"
+                ],
+                [
+                    "42:148"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "perfekt"
+                ],
+                [
+                    "32:39"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Familiefaren ( Marko Kanic ) er perfekt i sin litt stive framferd , stille , tilbaketrukket inn mot det deprimerte , og millimeter fra bristepunktet .",
+    "sent_id": "703256-15-03"
+}

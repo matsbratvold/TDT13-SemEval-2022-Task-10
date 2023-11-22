@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Mest av alt"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "de mestrer"
+                ],
+                [
+                    "30:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hva enn fag det er som omfatter \u00ab karibisk lykkepille \u00bb"
+                ],
+                [
+                    "41:96"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Mest av alt viser alle tre at de mestrer hva enn fag det er som omfatter \u00ab karibisk lykkepille \u00bb .",
+    "sent_id": "103988-12-01"
+}

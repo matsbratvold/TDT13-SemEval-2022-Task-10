@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hadde"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "de bare gjort det litt oftere"
+                ],
+                [
+                    "6:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det litt oftere"
+                ],
+                [
+                    "20:35"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Hadde de bare gjort det litt oftere .",
+    "sent_id": "302975-17-02"
+}

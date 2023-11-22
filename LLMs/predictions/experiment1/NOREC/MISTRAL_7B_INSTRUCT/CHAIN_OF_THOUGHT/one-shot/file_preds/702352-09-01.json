@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Julieta"
+                ],
+                [
+                    "16:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "Julieta"
+                ],
+                [
+                    "16:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "godt voksne"
+                ],
+                [
+                    "4:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Emma Su\u00e1rez"
+                ],
+                [
+                    "26:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "Julieta"
+                ],
+                [
+                    "16:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "40:42"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Julieta"
+                ],
+                [
+                    "16:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "Julieta"
+                ],
+                [
+                    "16:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er i ferd med \u00e5 flytte"
+                ],
+                [
+                    "40:62"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Julieta"
+                ],
+                [
+                    "16:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "Julieta"
+                ],
+                [
+                    "16:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med sin kj\u00e6reste"
+                ],
+                [
+                    "87:103"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den godt voksne Julieta ( Emma Su\u00e1rez ) er i ferd med \u00e5 flytte fra Madrid til Portugal med sin kj\u00e6reste .",
+    "sent_id": "702352-09-01"
+}

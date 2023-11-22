@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "morsomt"
+                ],
+                [
+                    "10:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "at noe av det eneste hun sier i l\u00f8pet av hele konserten er en ganske generisk hyllest av Oslo , avsluttet med \u00ab I \u2019 m very happy \u00bb "
+                ],
+                [
+                    "18:149"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "S\u00e5nn sett morsomt at noe av det eneste hun sier i l\u00f8pet av hele konserten er en ganske generisk hyllest av Oslo , avsluttet med \u00ab I \u2019 m very happy \u00bb .",
+    "sent_id": "104659-12-01"
+}

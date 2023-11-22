@@ -1,0 +1,79 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Derfor"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "fortellingen"
+                ],
+                [
+                    "37:49"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "fortellingen"
+                ],
+                [
+                    "37:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stoppet s\u00e5 trist"
+                ],
+                [
+                    "56:72"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Samir"
+                ],
+                [
+                    "76:81"
+                ]
+            ],
+            "Target": [
+                [
+                    "fortellingen"
+                ],
+                [
+                    "37:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ble sendt tilbake til Afghanistan"
+                ],
+                [
+                    "100:133"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Derfor presenterer de en ny slutt p\u00e5 fortellingen , som stoppet s\u00e5 trist da Samir , mora og s\u00f8stera ble sendt tilbake til Afghanistan .",
+    "sent_id": "302975-08-02"
+}

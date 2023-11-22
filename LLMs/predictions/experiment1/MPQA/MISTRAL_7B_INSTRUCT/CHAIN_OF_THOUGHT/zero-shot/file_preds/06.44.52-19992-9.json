@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "aircraft"
+                ],
+                [
+                    "9:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "freak show"
+                ],
+                [
+                    "35:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Hannibal the Cannibal"
+                ],
+                [
+                    "67:88"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "aircraft"
+                ],
+                [
+                    "9:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "detainees"
+                ],
+                [
+                    "185:194"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "latest detainees"
+                ],
+                [
+                    "178:194"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Once the aircraft is secured , the freak show begins , a sort of \" Hannibal the Cannibal \" production . Down the back ramp of the mammoth aircraft , the guards slowly unload the latest detainees from the war in Afghanistan , 34 altogether .",
+    "sent_id": "non_fbis/06.44.52-19992-9"
+}

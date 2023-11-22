@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Skulle"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "dig"
+                ],
+                [
+                    "12:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tatt"
+                ],
+                [
+                    "7:11"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Skulle tatt dig dit",
+    "sent_id": "704372-05-01"
+}

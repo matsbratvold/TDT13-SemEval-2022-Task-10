@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Maria"
+                ],
+                [
+                    "15:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "Ignacio"
+                ],
+                [
+                    "56:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "loves"
+                ],
+                [
+                    "41:46"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "formannen p\u00e5 kaffeplantasjen"
+                ],
+                [
+                    "66:94"
+                ]
+            ],
+            "Target": [
+                [
+                    "befolkningen"
+                ],
+                [
+                    "95:107"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "avhengig av"
+                ],
+                [
+                    "111:122"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I sentrum st\u00e5r Maria , en ung kvinne som loves bort til Ignacio , formannen p\u00e5 kaffeplantasjen befolkningen er avhengig av .",
+    "sent_id": "500201-05-01"
+}

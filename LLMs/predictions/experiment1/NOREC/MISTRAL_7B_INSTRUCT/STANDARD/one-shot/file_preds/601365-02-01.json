@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Tor \u00c5ge Bringsv\u00e6rd"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "Tor \u00c5ge Bringsv\u00e6rd"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "l\u00e6rd og klok"
+                ],
+                [
+                    "27:39"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "lesere"
+                ],
+                [
+                    "65:71"
+                ]
+            ],
+            "Target": [
+                [
+                    "lesere"
+                ],
+                [
+                    "65:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "deler gjerne"
+                ],
+                [
+                    "43:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Tor \u00c5ge Bringsv\u00e6rd er b\u00e5de l\u00e6rd og klok og deler gjerne med sine lesere .",
+    "sent_id": "601365-02-01"
+}

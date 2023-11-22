@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Di Giorgio Corp."
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "continuing talks with potential buyers of certain units"
+                ],
+                [
+                    "28:83"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Di Giorgio Corp. said it 's continuing talks with potential buyers of certain units , but has reached no agreement on any deals .",
+    "sent_id": "xbank/wsj_0815-1"
+}

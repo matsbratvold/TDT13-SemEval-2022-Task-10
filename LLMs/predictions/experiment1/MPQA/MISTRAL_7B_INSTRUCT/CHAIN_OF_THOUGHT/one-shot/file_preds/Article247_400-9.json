@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Venus Williams"
+                ],
+                [
+                    "114:128"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Venus Brought Back to Earth"
+                ],
+                [
+                    "168:195"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "What 's with the top - of - the - front headline the LAT puts over its picture of Martina Hingis standing next to Venus Williams after beating her at the U.S. Open --\" Venus Brought Back to Earth \" ? Does n't that sound like celebrating a defeat rather than celebrating a victory ? How odd -- and a good illustration of how trying to shoe - horn in a \" witty \" headline can drive you into an idea that does n't fit or is undeserved . Given that Ms. Williams ' parents are rather protective of her and that she is a black in a still pretty - lilly - white sport , do n't be surprised if there 's a bit of a complaint about this .",
+    "sent_id": "ula/Article247_400-9"
+}

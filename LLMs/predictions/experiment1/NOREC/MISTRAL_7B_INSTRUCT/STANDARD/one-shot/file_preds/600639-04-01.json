@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "My Cousin Rachel"
+                ],
+                [
+                    "6:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kan sies \u00e5 v\u00e6re helt p\u00e5 h\u00f8yde med den gamle mesterens adapsjoner"
+                ],
+                [
+                    "30:94"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "plottet"
+                ],
+                [
+                    "151:158"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "avgj\u00f8rende vendingene"
+                ],
+                [
+                    "127:148"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "N\u00e5r \" My Cousin Rachel \" ikke kan sies \u00e5 v\u00e6re helt p\u00e5 h\u00f8yde med den gamle mesterens adapsjoner , er det ganske enkelt fordi de avgj\u00f8rende vendingene i plottet ikke kommer overraskende nok .",
+    "sent_id": "600639-04-01"
+}

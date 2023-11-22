@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "Sier fra"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Sier fra n\u00e5r du har sittet stille for lenge",
+    "sent_id": "200006-29-01"
+}

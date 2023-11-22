@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ikke smertefull"
+                ],
+                [
+                    "7:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fremst\u00e5r beklageligvis som en litt d\u00f8ll Adele-l\u00e5t"
+                ],
+                [
+                    "29:78"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Den er ikke smertefull , men fremst\u00e5r beklageligvis som en litt d\u00f8ll Adele-l\u00e5t .",
+    "sent_id": "003121-05-02"
+}

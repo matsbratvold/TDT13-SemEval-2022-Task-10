@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Det som imponerer"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hvordan de makter \u00e5 veksle mellom \u00e5 framst\u00e5 som for gamle for sin alder og samtidig tviholde p\u00e5 det barnlige"
+                ],
+                [
+                    "21:129"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det som imponerer er hvordan de makter \u00e5 veksle mellom \u00e5 framst\u00e5 som for gamle for sin alder og samtidig tviholde p\u00e5 det barnlige .",
+    "sent_id": "400175-15-01"
+}

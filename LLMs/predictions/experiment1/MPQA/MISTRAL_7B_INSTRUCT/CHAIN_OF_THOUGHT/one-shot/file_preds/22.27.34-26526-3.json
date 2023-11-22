@@ -1,0 +1,110 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The attacks on targets in Afghanistan"
+                ],
+                [
+                    "0:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "a risky enterprise"
+                ],
+                [
+                    "82:100"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "remain"
+                ],
+                [
+                    "75:81"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The coming days"
+                ],
+                [
+                    "103:118"
+                ]
+            ],
+            "Target": [
+                [
+                    "whether or not they were effective"
+                ],
+                [
+                    "131:165"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reveal"
+                ],
+                [
+                    "124:130"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "That is a clear condition"
+                ],
+                [
+                    "228:253"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "be humanly acceptable"
+                ],
+                [
+                    "324:345"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "A strategy that worldwide must include"
+                ],
+                [
+                    "458:496"
+                ]
+            ],
+            "Target": [
+                [
+                    "both a degree of repression but most importantly constructive and positive measures"
+                ],
+                [
+                    "497:580"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The attacks on targets in Afghanistan that began yesterday [ 7 October ] , remain a risky enterprise . The coming days will reveal whether or not they were effective , were sufficiently precisely targeted and limited in scope . That is a clear condition for this first , unavoidable phase in the battle against terrorism to be humanly acceptable . But they cannot be any real talk of success until the broad strategy against terrorism begins to bear fruit . A strategy that worldwide must include both a degree of repression but most importantly constructive and positive measures .",
+    "sent_id": "20011008/22.27.34-26526-3"
+}

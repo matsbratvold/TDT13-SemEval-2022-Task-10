@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "analysts"
+                ],
+                [
+                    "116:124"
+                ]
+            ],
+            "Target": [
+                [
+                    "more sluggish growth"
+                ],
+                [
+                    "158:178"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "increasingly predicting"
+                ],
+                [
+                    "129:152"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Although the government said the economy grew an estimated 2.5 % in the third quarter , in line with expectations , analysts are increasingly predicting much more sluggish growth -- and therefore more corporate earnings disappointments -- for the fourth quarter .",
+    "sent_id": "xbank/wsj_0816-5"
+}

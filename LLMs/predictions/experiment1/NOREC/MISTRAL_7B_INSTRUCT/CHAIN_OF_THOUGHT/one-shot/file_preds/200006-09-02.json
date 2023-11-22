@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rundere"
+                ],
+                [
+                    "7:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "kantene"
+                ],
+                [
+                    "17:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rundere"
+                ],
+                [
+                    "7:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "skjerm"
+                ],
+                [
+                    "42:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "st\u00f8rre"
+                ],
+                [
+                    "35:41"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den er rundere i kantene og har en st\u00f8rre skjerm .",
+    "sent_id": "200006-09-02"
+}

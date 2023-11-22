@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "boka"
+                ],
+                [
+                    "33:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til \u00e5 lure p\u00e5"
+                ],
+                [
+                    "11:24"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det f\u00e5r en til \u00e5 lure p\u00e5 hvordan boka ble tenkt fram .",
+    "sent_id": "301242-11-02"
+}

@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Folkekj\u00e6re"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "Bad Kingdom"
+                ],
+                [
+                    "13:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Bad"
+                ],
+                [
+                    "13:16"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Moderat f\u00f8les"
+                ],
+                [
+                    "47:60"
+                ]
+            ],
+            "Target": [
+                [
+                    "s\u00e6rlig lettvint"
+                ],
+                [
+                    "61:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00e6rlig lettvint"
+                ],
+                [
+                    "61:76"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Moderat f\u00f8les"
+                ],
+                [
+                    "47:60"
+                ]
+            ],
+            "Target": [
+                [
+                    "sier lite nytt om bunken"
+                ],
+                [
+                    "82:106"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sier lite nytt om bunken"
+                ],
+                [
+                    "82:106"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Moderat f\u00f8les"
+                ],
+                [
+                    "47:60"
+                ]
+            ],
+            "Target": [
+                [
+                    "gr\u00e5farget techhouse"
+                ],
+                [
+                    "111:130"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gr\u00e5farget techhouse"
+                ],
+                [
+                    "111:130"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Folkekj\u00e6re \u00ab Bad Kingdom \u00bb av kompisene hans i Moderat f\u00f8les s\u00e6rlig lettvint , og sier lite nytt om bunken med gr\u00e5farget techhouse som kom f\u00f8r den .",
+    "sent_id": "302108-12-01"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "14:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "varer i opptil 25 timer i s\u00e5kalt UltraTrac-modus"
+                ],
+                [
+                    "28:76"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "14:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "13 timer i GPS-treningsmodus"
+                ],
+                [
+                    "79:107"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "14:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "opptil \u00e9n uke i klokkemodus"
+                ],
+                [
+                    "113:140"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Garmin hevder Fenix Chronos varer i opptil 25 timer i s\u00e5kalt UltraTrac-modus , 13 timer i GPS-treningsmodus , og opptil \u00e9n uke i klokkemodus .",
+    "sent_id": "201344-26-01"
+}

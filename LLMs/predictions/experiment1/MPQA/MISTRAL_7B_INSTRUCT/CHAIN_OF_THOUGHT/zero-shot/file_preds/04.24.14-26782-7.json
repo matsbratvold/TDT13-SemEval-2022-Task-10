@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "implementation documents"
+                ],
+                [
+                    "4:28"
+                ]
+            ],
+            "Target": [
+                [
+                    "Agenda 21"
+                ],
+                [
+                    "245:254"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "implementation"
+                ],
+                [
+                    "4:18"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The implementation documents , being drawn up at an intergovernmental meeting at U.N. headquarters in New York , are based on a chairman 's paper announced at the second session of the preparatory meeting in January . It states how to implement Agenda 21 - - a U.N. global action program for environmental restoration , preservation and social development .",
+    "sent_id": "non_fbis/04.24.14-26782-7"
+}

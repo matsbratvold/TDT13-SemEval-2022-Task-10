@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Russian government"
+                ],
+                [
+                    "44:62"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto Protocol"
+                ],
+                [
+                    "102:116"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "highly important"
+                ],
+                [
+                    "122:138"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "On the agenda of tomorrow 's meeting of the Russian government is the question of ratification of the Kyoto Protocol -- a highly important international document that is supposed to reduce emissions of greenhouse gases into the atmosphere .",
+    "sent_id": "temp_fbis/21.10.31-12974-0"
+}

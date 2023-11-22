@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Staff Sgt Webster"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "frustrated"
+                ],
+                [
+                    "22:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Staff Sgt Webster was frustrated . \" It bothers me , \" he said . \" We as well as the British have always been the ones who 've been humane . How could anybody say we 're treating anybody wrong ? They do n't live it , they do n't see it , so how can they talk about it ? \"",
+    "sent_id": "non_fbis/12.46.57-22041-24"
+}

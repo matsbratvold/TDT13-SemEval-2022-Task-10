@@ -1,0 +1,102 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "tr\u00f8bler seg til for familiefaren"
+                ],
+                [
+                    "62:94"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "forretningene"
+                ],
+                [
+                    "33:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tr\u00f8bler seg til for familiefaren"
+                ],
+                [
+                    "62:94"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "stadig m\u00e5 i telefonen med folk som graver og sp\u00f8r"
+                ],
+                [
+                    "99:148"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00e5r d\u00e5rlige svar"
+                ],
+                [
+                    "152:168"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "familiefaren"
+                ],
+                [
+                    "82:94"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stadig m\u00e5 i telefonen med folk som graver og sp\u00f8r"
+                ],
+                [
+                    "99:148"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det kan heller ikke bare skyldes forretningene som tydeligvis tr\u00f8bler seg til for familiefaren som stadig m\u00e5 i telefonen med folk som graver og sp\u00f8r og f\u00e5r d\u00e5rlige svar .",
+    "sent_id": "703256-09-03"
+}

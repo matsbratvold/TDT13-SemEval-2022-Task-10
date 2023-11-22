@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Filmen"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til tider nesten hypnotisk vakker"
+                ],
+                [
+                    "10:43"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Filmen er til tider nesten hypnotisk vakker .",
+    "sent_id": "500201-08-01"
+}

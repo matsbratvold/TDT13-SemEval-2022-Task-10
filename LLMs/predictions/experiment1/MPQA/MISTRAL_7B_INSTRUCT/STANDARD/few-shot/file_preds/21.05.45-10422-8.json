@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Maia"
+                ],
+                [
+                    "126:130"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "must be heeded"
+                ],
+                [
+                    "24:38"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" The political warning must be heeded . Either one pays attention to the will of the people or what happened will happen . \" Maia commented .",
+    "sent_id": "20011231/21.05.45-10422-8"
+}

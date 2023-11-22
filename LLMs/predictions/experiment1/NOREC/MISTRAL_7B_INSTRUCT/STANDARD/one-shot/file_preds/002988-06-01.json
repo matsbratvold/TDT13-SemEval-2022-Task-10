@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Karpes"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "singel"
+                ],
+                [
+                    "13:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00e5r deg nok til \u00e5 spisse \u00f8rene"
+                ],
+                [
+                    "20:50"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Karpes"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "singel"
+                ],
+                [
+                    "13:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "interessant tekst"
+                ],
+                [
+                    "55:72"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Karpes"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "singel"
+                ],
+                [
+                    "13:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enighet og hypnose"
+                ],
+                [
+                    "93:111"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Karpes siste singel f\u00e5r deg nok til \u00e5 spisse \u00f8rene for interessant tekst og nikke med i b\u00e5de enighet og hypnose fra beaten .",
+    "sent_id": "002988-06-01"
+}

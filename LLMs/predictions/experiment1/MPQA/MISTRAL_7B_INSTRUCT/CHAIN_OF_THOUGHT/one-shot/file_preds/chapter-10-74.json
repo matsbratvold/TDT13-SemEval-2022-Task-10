@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "several hundred CIA operatives and Special Forces soldiers"
+                ],
+                [
+                    "60:118"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Taliban regime"
+                ],
+                [
+                    "330:348"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Mohammed Atef"
+                ],
+                [
+                    "448:461"
+                ]
+            ],
+            "Target": [
+                [
+                    "al Qaeda"
+                ],
+                [
+                    "361:369"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "killed"
+                ],
+                [
+                    "381:387"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "senior CIA officer"
+                ],
+                [
+                    "591:609"
+                ]
+            ],
+            "Target": [
+                [
+                    "the overall strategy"
+                ],
+                [
+                    "628:648"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "helped devise"
+                ],
+                [
+                    "614:627"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Within about two months of the start of combat operations , several hundred CIA operatives and Special Forces soldiers , backed by the striking power of U.S. aircraft and a much larger infrastructure of intelligence and support efforts , had combined with Afghan militias and a small number of other coalition soldiers to destroy the Taliban regime and disrupt al Qaeda . They had killed or captured about a quarter of the enemy 's known leaders . Mohammed Atef , al Qaeda 's military commander and a principal figure in the 9/11 plot , had been killed by a U.S. air strike . According to a senior CIA officer who helped devise the overall strategy , the CIA provided intelligence , experience , cash , covert action capabilities , and entr\u00c3\u00af\u00c2 \u00bf\u00c2\u00bde to tribal allies . In turn , the U.S. military offered combat expertise , firepower , logistics , and communications .",
+    "sent_id": "ula/chapter-10-74"
+}

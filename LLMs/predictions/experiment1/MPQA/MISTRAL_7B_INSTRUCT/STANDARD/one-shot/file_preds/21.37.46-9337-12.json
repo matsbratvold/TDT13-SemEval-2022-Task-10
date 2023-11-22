@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Italian senator Renzo Gubert"
+                ],
+                [
+                    "42:70"
+                ]
+            ],
+            "Target": [
+                [
+                    "Chinese Government 's efforts"
+                ],
+                [
+                    "85:114"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "praised"
+                ],
+                [
+                    "73:80"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "After visiting the region several times , Italian senator Renzo Gubert , praised the Chinese Government 's efforts to protect the indigenous cultural and religious heritage while developing the local economy .",
+    "sent_id": "temp_fbis/21.37.46-9337-12"
+}

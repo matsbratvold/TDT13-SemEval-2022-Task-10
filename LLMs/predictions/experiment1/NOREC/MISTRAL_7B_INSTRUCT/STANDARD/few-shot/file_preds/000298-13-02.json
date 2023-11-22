@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "ullen og gj\u00f8rma"
+                ],
+                [
+                    "22:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forfriskende"
+                ],
+                [
+                    "47:59"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "fargerik by"
+                ],
+                [
+                    "67:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "full av overd\u00e5dige hatter og rokokkokjoler"
+                ],
+                [
+                    "79:121"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Etter all den skotske ullen og gj\u00f8rma , er det forfriskende med en fargerik by full av overd\u00e5dige hatter og rokokkokjoler i taft og tung silke .",
+    "sent_id": "000298-13-02"
+}

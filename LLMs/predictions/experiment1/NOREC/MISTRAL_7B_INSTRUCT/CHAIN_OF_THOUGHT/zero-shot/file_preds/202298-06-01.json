@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "st\u00e5r"
+                ],
+                [
+                    "4:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "versjonen som kommer"
+                ],
+                [
+                    "46:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kontrast"
+                ],
+                [
+                    "17:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "knapt er mulig \u00e5 f\u00e5 til \u00e5 bruke den samme halvliteren"
+                ],
+                [
+                    "76:129"
+                ]
+            ],
+            "Target": [
+                [
+                    "versjonen som kommer"
+                ],
+                [
+                    "46:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kontrast"
+                ],
+                [
+                    "17:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det st\u00e5r i sterk kontrast til den oppgraderte versjonen som kommer n\u00e5 , som knapt er mulig \u00e5 f\u00e5 til \u00e5 bruke den samme halvliteren .",
+    "sent_id": "202298-06-01"
+}

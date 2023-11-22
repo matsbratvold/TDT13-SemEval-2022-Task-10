@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "NRK Super"
+                ],
+                [
+                    "22:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "overgangen til det store lerretet"
+                ],
+                [
+                    "62:95"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "uten alt for alvorlige problemer"
+                ],
+                [
+                    "96:128"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Etter tre sesonger p\u00e5 NRK Super , takler Nora , Simen og Lars overgangen til det store lerretet uten alt for alvorlige problemer .",
+    "sent_id": "600725-02-01"
+}

@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "tittelen"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "tre unge"
+                ],
+                [
+                    "33:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "antyder"
+                ],
+                [
+                    "13:20"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "tre unge"
+                ],
+                [
+                    "33:41"
+                ]
+            ],
+            "Target": [
+                [
+                    "kappl\u00f8p"
+                ],
+                [
+                    "95:102"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "kappl\u00f8p"
+                ],
+                [
+                    "95:102"
+                ]
+            ],
+            "Target": [
+                [
+                    "skrinet"
+                ],
+                [
+                    "127:134"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til Olav den hellige"
+                ],
+                [
+                    "135:155"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Som tittelen antyder , blir v\u00e5re tre unge , rettskafne og handlekraftige helter blandet inn et kappl\u00f8p om \u00e5 finne det mystiske skrinet til Olav den hellige .",
+    "sent_id": "600725-05-01"
+}

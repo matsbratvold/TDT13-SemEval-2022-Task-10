@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "man"
+                ],
+                [
+                    "3:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "\u00e5penbar umenneskelig behandling"
+                ],
+                [
+                    "34:65"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skal ikke ta til takke med"
+                ],
+                [
+                    "7:33"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Og man skal ikke ta til takke med \u00e5penbar umenneskelig behandling , selv om man sitter med de desidert d\u00e5rligste forhandlingskortene .",
+    "sent_id": "103992-13-04"
+}

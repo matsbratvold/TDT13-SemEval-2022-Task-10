@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Trio-historiene"
+                ],
+                [
+                    "45:60"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "I likhet med de gamle Hardy-b\u00f8kene har disse Trio-historiene noe litt mekanisk over seg .",
+    "sent_id": "600725-06-01"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Voksenfabrikken Mark Osbornes"
+                ],
+                [
+                    "0:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "Den lille prinsen"
+                ],
+                [
+                    "32:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ingen"
+                ],
+                [
+                    "63:68"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "filmskaperne"
+                ],
+                [
+                    "159:171"
+                ]
+            ],
+            "Target": [
+                [
+                    "Saint-Exup\u00e9rys bok"
+                ],
+                [
+                    "134:152"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ganske enkelt"
+                ],
+                [
+                    "112:125"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "filmskaperne"
+                ],
+                [
+                    "159:171"
+                ]
+            ],
+            "Target": [
+                [
+                    "Den lille prinsen"
+                ],
+                [
+                    "32:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dyttet den inn i en nyskrevet rammefortelling"
+                ],
+                [
+                    "172:217"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Voksenfabrikken Mark Osbornes \u00ab Den lille prinsen \u00bb er likevel ingen tradisjonell adaptasjon , for istedenfor \u00e5 ganske enkelt animere Saint-Exup\u00e9rys bok , har filmskaperne dyttet den inn i en nyskrevet rammefortelling om en ung jente som oppdras av en hardtarbeidende alenemor som har sv\u00e6rt h\u00f8ye ambisjoner p\u00e5 datterens vegne .",
+    "sent_id": "304926-04-01"
+}

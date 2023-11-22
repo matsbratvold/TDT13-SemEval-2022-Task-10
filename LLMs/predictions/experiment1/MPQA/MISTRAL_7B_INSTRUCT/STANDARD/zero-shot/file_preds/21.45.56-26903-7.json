@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Israel"
+                ],
+                [
+                    "105:111"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "The seasonally adjusted number per employee work hours has fallen by an overall 8 % since October 2000"
+                ],
+                [
+                    "0:102"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The seasonally adjusted number per employee work hours has fallen by an overall 8 % since October 2000 . Israel uses the seasonally adjusted data to calculate the State of the Economy Index and estimate business activity .",
+    "sent_id": "20020424/21.45.56-26903-7"
+}

@@ -1,0 +1,57 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "laget p\u00e5 hyse"
+                ],
+                [
+                    "28:41"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "en frisk rett"
+                ],
+                [
+                    "50:63"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "smakfullt tilberedt med lime , chili , hvitl\u00f8k og koriander"
+                ],
+                [
+                    "66:125"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Versjonen vi f\u00e5r servert er laget p\u00e5 hyse , og er en frisk rett , smakfullt tilberedt med lime , chili , hvitl\u00f8k og koriander .",
+    "sent_id": "501595-09-02"
+}

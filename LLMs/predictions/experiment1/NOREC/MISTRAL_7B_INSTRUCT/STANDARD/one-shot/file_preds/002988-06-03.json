@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "L\u00e5t"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "fremst\u00e5r"
+                ],
+                [
+                    "5:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nettopp"
+                ],
+                [
+                    "14:21"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "L\u00e5ta fremst\u00e5r nettopp kjedelig i rekken av de sv\u00e6rt sterke , popul\u00e6re og fargerike kuttene gruppa allerede har sluppet .",
+    "sent_id": "002988-06-03"
+}

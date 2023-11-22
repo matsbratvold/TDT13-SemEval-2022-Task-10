@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Chinese language education"
+                ],
+                [
+                    "83:109"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "push for"
+                ],
+                [
+                    "74:82"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Taipei , Aug. 17 ( CNA ) -- The Republic of China [ ROC ] government will push for Chinese language education among the vast number of Chinese communities in Southeast Asia , a high - ranking ROC official said Friday .",
+    "sent_id": "20010817/23.25.24-13030-0"
+}

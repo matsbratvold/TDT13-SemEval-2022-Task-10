@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "den ensformig kraftfull"
+                ],
+                [
+                    "7:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "4:6"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "den ensformig kraftfull"
+                ],
+                [
+                    "7:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "eller"
+                ],
+                [
+                    "33:38"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "den ensformig kraftfull"
+                ],
+                [
+                    "7:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kjedelig monoton"
+                ],
+                [
+                    "39:55"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "den ensformig kraftfull"
+                ],
+                [
+                    "7:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "?"
+                ],
+                [
+                    "56:57"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Men er den ensformig kraftfull , eller kjedelig monoton ?",
+    "sent_id": "002988-06-02"
+}

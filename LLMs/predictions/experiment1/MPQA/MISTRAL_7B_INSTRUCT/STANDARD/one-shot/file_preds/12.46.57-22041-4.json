@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Lieut Abuhena Mohammad Saiful - Islam of the US navy"
+                ],
+                [
+                    "128:180"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "is"
+                ],
+                [
+                    "20:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Before dawn , the prison camp echoes to the voice of the muezzin as the Muslim inmates are called to prayer . It is 5.17 am and Lieut Abuhena Mohammad Saiful - Islam of the US navy is performing his first duty as Camp X - Ray 's chaplin and imam .",
+    "sent_id": "non_fbis/12.46.57-22041-4"
+}

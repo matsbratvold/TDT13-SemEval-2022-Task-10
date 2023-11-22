@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "forskjellige utslag"
+                ],
+                [
+                    "8:27"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Det gir forskjellige utslag .",
+    "sent_id": "103992-10-01"
+}

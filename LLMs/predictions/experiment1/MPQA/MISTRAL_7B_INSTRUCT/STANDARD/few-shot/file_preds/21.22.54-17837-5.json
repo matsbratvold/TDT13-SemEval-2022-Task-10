@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the lawyers"
+                ],
+                [
+                    "146:157"
+                ]
+            ],
+            "Target": [
+                [
+                    "various documents now indicate that Israel and the Phalange had planned the actions in the camps in advance"
+                ],
+                [
+                    "160:267"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "indicate"
+                ],
+                [
+                    "182:190"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Verhaeghe"
+                ],
+                [
+                    "739:748"
+                ]
+            ],
+            "Target": [
+                [
+                    "they could be held responsible"
+                ],
+                [
+                    "704:734"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said"
+                ],
+                [
+                    "749:753"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "It had already been known that Lebanese Phalangist militias , which perpetrated the massacres , cooperated closely with Israel , but according to the lawyers , various documents now indicate that Israel and the Phalange had planned the actions in the camps in advance , that Israel exercised complete control over the militias , and that , in the wake of the massacres , the Israeli army instructed the Phalange to assume responsibility . \" In practice , the Phalangist militias operated directly under Israeli command . Senior generals and Sharon bore command responsibility [ preceding two words published in English ] for the militias ' actions . According to Belgian and international criminal law , they could be held responsible , \" Verhaeghe said .",
+    "sent_id": "20011127/21.22.54-17837-5"
+}

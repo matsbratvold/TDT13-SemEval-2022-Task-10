@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "faced danger of being shelved altogether"
+                ],
+                [
+                    "13:53"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The Bush administration"
+                ],
+                [
+                    "218:241"
+                ]
+            ],
+            "Target": [
+                [
+                    "the treaty"
+                ],
+                [
+                    "248:258"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "will have a negative effect on its economy"
+                ],
+                [
+                    "259:301"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The Bush administration"
+                ],
+                [
+                    "218:241"
+                ]
+            ],
+            "Target": [
+                [
+                    "developing countries"
+                ],
+                [
+                    "321:341"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "should also be subject to mandatory emission targets"
+                ],
+                [
+                    "370:422"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The protocol faced danger of being shelved altogether , when the U.S , which is responsible for one - fourth of all CO2 emissions in the world , decided to abruptly withdraw from the climate change treaty last March . The Bush administration fears the treaty will have a negative effect on its economy and maintains that developing countries , such as China and India , should also be subject to mandatory emission targets .",
+    "sent_id": "20011115/20.41.29-15150-16"
+}

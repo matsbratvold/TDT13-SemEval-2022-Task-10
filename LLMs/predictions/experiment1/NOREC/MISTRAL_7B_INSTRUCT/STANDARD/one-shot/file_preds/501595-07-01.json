@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "vinr\u00f8de vegger"
+                ],
+                [
+                    "3:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "henger"
+                ],
+                [
+                    "18:24"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "skjev gullramme"
+                ],
+                [
+                    "28:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fremhever"
+                ],
+                [
+                    "77:86"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dagens meny"
+                ],
+                [
+                    "100:111"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ceviche , lammeskank og tiramisu"
+                ],
+                [
+                    "116:148"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "P\u00e5 vinr\u00f8de vegger henger en skjev gullramme i ekte italiensk barokkstil , og fremhever det som er \u00ab Dagens meny \u00bb : ceviche , lammeskank og tiramisu .",
+    "sent_id": "501595-07-01"
+}

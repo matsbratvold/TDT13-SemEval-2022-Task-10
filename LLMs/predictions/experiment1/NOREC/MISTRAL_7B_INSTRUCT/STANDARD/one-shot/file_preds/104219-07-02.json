@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "hun"
+                ],
+                [
+                    "13:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "venninnene"
+                ],
+                [
+                    "24:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "at han studerer til sivilingeni\u00f8r"
+                ],
+                [
+                    "35:68"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Da forteller hun heller venninnene at han studerer til sivilingeni\u00f8r ...",
+    "sent_id": "104219-07-02"
+}

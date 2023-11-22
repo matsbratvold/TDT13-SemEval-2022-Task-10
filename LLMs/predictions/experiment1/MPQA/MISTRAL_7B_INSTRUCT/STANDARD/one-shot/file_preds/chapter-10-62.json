@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Rumsfeld"
+                ],
+                [
+                    "18:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "several thoughts"
+                ],
+                [
+                    "35:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "offered"
+                ],
+                [
+                    "27:34"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "On September 19 , Rumsfeld offered several thoughts for his commanders as they worked on their contingency plans . Though he emphasized the worldwide nature of the conflict , the references to specific enemies or regions named only the Taliban , al Qaeda , and Afghanistan .",
+    "sent_id": "ula/chapter-10-62"
+}

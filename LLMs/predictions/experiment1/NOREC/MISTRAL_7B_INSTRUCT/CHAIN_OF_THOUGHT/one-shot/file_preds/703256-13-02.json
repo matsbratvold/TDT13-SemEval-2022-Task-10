@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "32:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "dem"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mye"
+                ],
+                [
+                    "20:23"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "32:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "dem"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kan le med dem"
+                ],
+                [
+                    "35:49"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "32:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "dem"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kan gr\u00e5te med dem"
+                ],
+                [
+                    "61:78"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "de to"
+                ],
+                [
+                    "90:95"
+                ]
+            ],
+            "Target": [
+                [
+                    "dem"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ser dypere enn de andre"
+                ],
+                [
+                    "119:142"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "de to"
+                ],
+                [
+                    "90:95"
+                ]
+            ],
+            "Target": [
+                [
+                    "dem"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "v\u00e5ger mer i m\u00f8te med illusjonen som truer hele tiden"
+                ],
+                [
+                    "151:203"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Rundt dem skjer det mye , fordi vi kan le med dem , fordi vi kan gr\u00e5te med dem , og fordi de to - i all sin enkelhet - ser dypere enn de andre og ogs\u00e5 v\u00e5ger mer i m\u00f8te med illusjonen som truer hele tiden .",
+    "sent_id": "703256-13-02"
+}

@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "79:93"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "charged"
+                ],
+                [
+                    "94:101"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "79:93"
+                ]
+            ],
+            "Target": [
+                [
+                    "Secretary of State Powell"
+                ],
+                [
+                    "198:223"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "directed"
+                ],
+                [
+                    "189:197"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "79:93"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "tasked"
+                ],
+                [
+                    "355:361"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "In a written set of instructions slightly refined during the morning meeting , President Bush charged Ashcroft , Mueller , and Tenet to develop a plan for homeland defense . President Bush directed Secretary of State Powell to deliver an ultimatum to the Taliban along the lines that his department had originally proposed . The State Department was also tasked to develop a plan to stabilize Pakistan and to be prepared to notify Russia and countries near Afghanistan when hostilities were imminent .",
+    "sent_id": "ula/chapter-10-41"
+}

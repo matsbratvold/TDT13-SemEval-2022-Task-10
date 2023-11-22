@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Secretary Powell"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "Wolfowitz"
+                ],
+                [
+                    "31:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "argued"
+                ],
+                [
+                    "58:64"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Secretary Powell recalled that Wolfowitz - not Rumsfeld - argued that Iraq was ultimately the source of the terrorist problem and should therefore be attacked .",
+    "sent_id": "ula/chapter-10-55"
+}

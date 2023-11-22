@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "jeg sitter"
+                ],
+                [
+                    "4:14"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "om det ikke finnes noen mer kreative peruanske desserter"
+                ],
+                [
+                    "41:97"
+                ]
+            ],
+            "Target": [
+                [
+                    "som ville bidratt til et mer helhetlig og nyskapende konsept"
+                ],
+                [
+                    "100:160"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men jeg sitter likevel igjen og lurer p\u00e5 om det ikke finnes noen mer kreative peruanske desserter , som ville bidratt til et mer helhetlig og nyskapende konsept .",
+    "sent_id": "501595-12-05"
+}

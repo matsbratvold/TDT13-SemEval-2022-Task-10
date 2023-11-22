@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "alleviate the cash crunch"
+                ],
+                [
+                    "18:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "planned"
+                ],
+                [
+                    "7:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "He had planned to alleviate the cash crunch by minting the \" argentino \" to circulate alongside pesos , which have been backed up and pegged one - to - one to U.S. dollars for a decade , providing monetary stability and zero inflation .",
+    "sent_id": "non_fbis/12.04.00-12904-17"
+}

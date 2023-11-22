@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Orange Is the New Black"
+                ],
+                [
+                    "16:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "TV-anmeldelse"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "TV-anmeldelse \u00ab Orange Is the New Black \u00bb :",
+    "sent_id": "103992-01-01"
+}

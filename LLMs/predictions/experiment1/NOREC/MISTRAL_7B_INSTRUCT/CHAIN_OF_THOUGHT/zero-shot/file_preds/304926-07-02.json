@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den lille prinsen"
+                ],
+                [
+                    "11:28"
+                ]
+            ],
+            "Target": [
+                [
+                    "film"
+                ],
+                [
+                    "58:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "middelm\u00e5dig"
+                ],
+                [
+                    "46:57"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Den lille prinsen"
+                ],
+                [
+                    "11:28"
+                ]
+            ],
+            "Target": [
+                [
+                    "film"
+                ],
+                [
+                    "58:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "seier"
+                ],
+                [
+                    "69:74"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "str\u00f8mlinjeformingens utrettelige , umettelige krefter"
+                ],
+                [
+                    "79:132"
+                ]
+            ],
+            "Target": [
+                [
+                    "film"
+                ],
+                [
+                    "58:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "middelm\u00e5dig"
+                ],
+                [
+                    "46:57"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "str\u00f8mlinjeformingens utrettelige , umettelige krefter"
+                ],
+                [
+                    "79:132"
+                ]
+            ],
+            "Target": [
+                [
+                    "film"
+                ],
+                [
+                    "58:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "seier"
+                ],
+                [
+                    "69:74"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Alts\u00e5 er \u00ab Den lille prinsen \u00bb b\u00e5de en ganske middelm\u00e5dig film og en seier for str\u00f8mlinjeformingens utrettelige , umettelige krefter .",
+    "sent_id": "304926-07-02"
+}

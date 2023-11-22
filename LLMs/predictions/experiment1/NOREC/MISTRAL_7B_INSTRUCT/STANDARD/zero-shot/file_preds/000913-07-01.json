@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ny"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "elendigheter"
+                ],
+                [
+                    "12:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ny"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Ny by , nye elendigheter",
+    "sent_id": "000913-07-01"
+}

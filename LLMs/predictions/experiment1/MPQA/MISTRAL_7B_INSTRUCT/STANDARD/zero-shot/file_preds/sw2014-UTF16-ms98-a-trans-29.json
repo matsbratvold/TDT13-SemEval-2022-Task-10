@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "8:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "antlers"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "looked like"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "8:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "antlers"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i do n't know"
+                ],
+                [
+                    "20:33"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "looked like antlers i do n't know",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-29"
+}

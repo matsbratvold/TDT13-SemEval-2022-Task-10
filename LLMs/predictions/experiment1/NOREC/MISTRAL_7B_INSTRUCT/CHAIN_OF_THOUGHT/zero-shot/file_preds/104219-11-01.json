@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blitt en viktig roman"
+                ],
+                [
+                    "19:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "og"
+                ],
+                [
+                    "43:45"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sier sitt om Midthuns frodige fortellertalent"
+                ],
+                [
+                    "50:95"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men det er likevel blitt en viktig roman , og det sier sitt om Midthuns frodige fortellertalent .",
+    "sent_id": "104219-11-01"
+}

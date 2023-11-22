@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Live-published"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "photos and videos"
+                ],
+                [
+                    "15:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "via Shootitlive"
+                ],
+                [
+                    "33:48"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Live-published photos and videos via Shootitlive",
+    "sent_id": "302108-06-01"
+}

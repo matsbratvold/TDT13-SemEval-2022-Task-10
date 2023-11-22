@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the ministry"
+                ],
+                [
+                    "293:305"
+                ]
+            ],
+            "Target": [
+                [
+                    "its writers"
+                ],
+                [
+                    "31:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "impression"
+                ],
+                [
+                    "15:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" One gets the impression that its writers simply used old drafts , as if nothing had happened in either Russia or the United States in recent years , as if the events of Sept. 11 , 2001 had not occurred and the international community had not closed ranks in the battle against terrorism , \" the ministry said in a statement .",
+    "sent_id": "non_fbis/08.40.56-18707-2"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Such incidents"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "camp"
+                ],
+                [
+                    "58:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rare"
+                ],
+                [
+                    "25:29"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "most of the camp 's 158 Muslim fanatics"
+                ],
+                [
+                    "46:85"
+                ]
+            ],
+            "Target": [
+                [
+                    "guards"
+                ],
+                [
+                    "106:112"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "compliant"
+                ],
+                [
+                    "90:99"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Such incidents have been rare , however , and most of the camp 's 158 Muslim fanatics are compliant , the guards say .",
+    "sent_id": "non_fbis/12.46.57-22041-11"
+}

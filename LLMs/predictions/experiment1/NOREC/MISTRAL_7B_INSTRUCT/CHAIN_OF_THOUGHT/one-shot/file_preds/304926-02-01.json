@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Antoine de Saint-Exup\u00e9rys"
+                ],
+                [
+                    "0:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "Den lille prinsen"
+                ],
+                [
+                    "97:114"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "klassiske barnebok bukker"
+                ],
+                [
+                    "26:51"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "moderne animasjonsfilmestetikk"
+                ],
+                [
+                    "62:92"
+                ]
+            ],
+            "Target": [
+                [
+                    "Den lille prinsen"
+                ],
+                [
+                    "97:114"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "under for"
+                ],
+                [
+                    "52:61"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Antoine de Saint-Exup\u00e9rys klassiske barnebok bukker under for moderne animasjonsfilmestetikk i \u00ab Den lille prinsen \u00bb .",
+    "sent_id": "304926-02-01"
+}

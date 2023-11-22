@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "L\u00f8vetannbarn"
+                ],
+                [
+                    "20:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "stop-motion animasjonsfilm"
+                ],
+                [
+                    "57:83"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "treffer med b\u00e5de formidling og stemning"
+                ],
+                [
+                    "88:127"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Den Oscar-nominerte L\u00f8vetannbarn er en vakker og s\u00e6regen stop-motion animasjonsfilm som treffer med b\u00e5de formidling og stemning .",
+    "sent_id": "004983-03-01"
+}

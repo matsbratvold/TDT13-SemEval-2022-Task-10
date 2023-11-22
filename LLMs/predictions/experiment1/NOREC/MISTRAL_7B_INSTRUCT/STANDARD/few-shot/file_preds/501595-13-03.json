@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "utradisjonelle fusjonssmaker"
+                ],
+                [
+                    "41:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "god opplevelse"
+                ],
+                [
+                    "22:36"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "storsinnede porsjoner"
+                ],
+                [
+                    "73:94"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "god opplevelse"
+                ],
+                [
+                    "22:36"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Men vi f\u00e5r likevel en god opplevelse med utradisjonelle fusjonssmaker og storsinnede porsjoner .",
+    "sent_id": "501595-13-03"
+}

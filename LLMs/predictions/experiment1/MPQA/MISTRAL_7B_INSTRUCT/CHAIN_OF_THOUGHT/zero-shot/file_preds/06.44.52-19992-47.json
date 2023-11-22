@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "It"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "X - Ray"
+                ],
+                [
+                    "17:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "day two"
+                ],
+                [
+                    "6:13"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "A German shepherd"
+                ],
+                [
+                    "66:83"
+                ]
+            ],
+            "Target": [
+                [
+                    "camp"
+                ],
+                [
+                    "111:115"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "patrol"
+                ],
+                [
+                    "100:106"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Bright orange figures"
+                ],
+                [
+                    "131:152"
+                ]
+            ],
+            "Target": [
+                [
+                    "cells"
+                ],
+                [
+                    "166:171"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sit"
+                ],
+                [
+                    "153:156"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "One or two prisoners"
+                ],
+                [
+                    "197:217"
+                ]
+            ],
+            "Target": [
+                [
+                    "fenced area"
+                ],
+                [
+                    "240:251"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "run"
+                ],
+                [
+                    "218:221"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "It is day two at X - Ray for the 34 newly arrived from Kandahar . A German shepherd and his handler patrol the camp 's perimeter . Bright orange figures sit in their cells , some of them praying . One or two prisoners run for exercise in a fenced area , wearing handcuffs but no ankle shackles .",
+    "sent_id": "non_fbis/06.44.52-19992-47"
+}

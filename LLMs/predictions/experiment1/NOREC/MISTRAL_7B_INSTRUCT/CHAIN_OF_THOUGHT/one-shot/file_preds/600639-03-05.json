@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Roger Michell"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Notting Hill"
+                ],
+                [
+                    "29:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "har"
+                ],
+                [
+                    "55:58"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Alfred Hitchcock"
+                ],
+                [
+                    "73:89"
+                ]
+            ],
+            "Target": [
+                [
+                    "Rebecca"
+                ],
+                [
+                    "124:131"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "laget"
+                ],
+                [
+                    "104:109"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Alfred Hitchcock"
+                ],
+                [
+                    "73:89"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fuglene"
+                ],
+                [
+                    "148:155"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "laget"
+                ],
+                [
+                    "104:109"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Daphne Du Maurier"
+                ],
+                [
+                    "231:248"
+                ]
+            ],
+            "Target": [
+                [
+                    "fortellingene"
+                ],
+                [
+                    "188:201"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tatt for seg"
+                ],
+                [
+                    "169:181"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Roger Michell , mannen bak \" Notting Hill \" ( 1999 ) , har \u2013 akkurat som Alfred Hitchcock gjorde da han laget klassikerne \" Rebecca \" ( 1940 ) og \" Fuglene \" ( 1963 ) \u2013 tatt for seg en av fortellingene til den britiske forfatteren Daphne Du Maurier .",
+    "sent_id": "600639-03-05"
+}

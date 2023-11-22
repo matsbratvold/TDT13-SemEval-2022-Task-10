@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Slik"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "og"
+                ],
+                [
+                    "12:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er det ogs\u00e5 i starten"
+                ],
+                [
+                    "5:26"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Slik"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "og"
+                ],
+                [
+                    "12:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "og jeg venter spent p\u00e5 fortsettelsen"
+                ],
+                [
+                    "45:81"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Slik er det ogs\u00e5 i starten av andre sesong , og jeg venter spent p\u00e5 fortsettelsen .",
+    "sent_id": "000298-24-02"
+}

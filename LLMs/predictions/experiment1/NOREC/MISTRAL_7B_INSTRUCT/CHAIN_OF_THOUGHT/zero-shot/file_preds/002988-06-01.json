@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Karpes"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "singel f\u00e5r deg nok til \u00e5 spisse \u00f8rene"
+                ],
+                [
+                    "13:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "siste singel"
+                ],
+                [
+                    "7:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Karpes"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "interessant tekst"
+                ],
+                [
+                    "55:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tekst"
+                ],
+                [
+                    "67:72"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Karpes"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "enighet"
+                ],
+                [
+                    "93:100"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enighet"
+                ],
+                [
+                    "93:100"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Karpes"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "hypnose"
+                ],
+                [
+                    "104:111"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hypnose"
+                ],
+                [
+                    "104:111"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Karpes siste singel f\u00e5r deg nok til \u00e5 spisse \u00f8rene for interessant tekst og nikke med i b\u00e5de enighet og hypnose fra beaten .",
+    "sent_id": "002988-06-01"
+}

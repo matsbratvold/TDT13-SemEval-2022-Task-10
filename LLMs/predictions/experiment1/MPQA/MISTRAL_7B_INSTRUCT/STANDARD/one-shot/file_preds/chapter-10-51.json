@@ -1,0 +1,70 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "concurred"
+                ],
+                [
+                    "252:261"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Zalmay Khalilzad"
+                ],
+                [
+                    "233:249"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "concurred"
+                ],
+                [
+                    "252:261"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "pointed out"
+                ],
+                [
+                    "895:906"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Responding to a presidential tasking , Clarke 's office sent a memo to Rice on September 18 , titled \" Survey of Intelligence Information on Any Iraq Involvement in the September 11 Attacks . \" Rice 's chief staffer on Afghanistan , Zalmay Khalilzad , concurred in its conclusion that only some anecdotal evidence linked Iraq to al Qaeda . The memo found no \" compelling case \" that Iraq had either planned or perpetrated the attacks . It passed along a few foreign intelligence reports , including the Czech report alleging an April 2001 Prague meeting between Atta and an Iraqi intelligence officer ( discussed in chapter 7 ) and a Polish report that personnel at the headquarters of Iraqi intelligence in Baghdad were told before September 11 to go on the streets to gauge crowd reaction to an unspecified event . Arguing that the case for links between Iraq and al Qaeda was weak , the memo pointed out that Bin Ladin resented the secularism of Saddam Hussein 's regime . Finally , the memo said , there was no confirmed reporting on Saddam cooperating with Bin Ladin on unconventional weapons .",
+    "sent_id": "ula/chapter-10-51"
+}

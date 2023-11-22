@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Kvinner p\u00e5 randen av nerv\u00f8st sammenbrudd"
+                ],
+                [
+                    "21:61"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Kika"
+                ],
+                [
+                    "68:72"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Alt om min mor"
+                ],
+                [
+                    "80:94"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Tenk p\u00e5 filmer som \u00ab Kvinner p\u00e5 randen av nerv\u00f8st sammenbrudd \u00bb , \u00ab Kika \u00bb og \u00ab Alt om min mor \u00bb .",
+    "sent_id": "702352-05-02"
+}

@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The LAT"
+                ],
+                [
+                    "106:113"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "examines"
+                ],
+                [
+                    "131:139"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "USAT"
+                ],
+                [
+                    "237:241"
+                ]
+            ],
+            "Target": [
+                [
+                    "Tony Blair had conferred with Diana about a goodwill ambassador job"
+                ],
+                [
+                    "320:387"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Le Figaro says a dying Diana gave two crash witnesses a message for her family and children"
+                ],
+                [
+                    "437:528"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reports"
+                ],
+                [
+                    "424:431"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Much of the continuing Diana coverage is spinning off into the realm of meta - and meta - meta - pieces . The LAT , for instance , examines what it takes to be a new \" cuddly - feely \" Britain born of the national grief experience . But USAT and the WP also each run pretty newsy Diana pieces as well . Both reveal that Tony Blair had conferred with Diana about a goodwill ambassador job shortly before her death , and USAT reports that Le Figaro says a dying Diana gave two crash witnesses a message for her family and children .",
+    "sent_id": "ula/Article247_400-7"
+}

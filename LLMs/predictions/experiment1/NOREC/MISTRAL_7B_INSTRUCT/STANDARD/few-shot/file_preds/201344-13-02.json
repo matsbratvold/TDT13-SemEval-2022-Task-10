@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "utstyrt"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "9:11"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "spesielle baretter"
+                ],
+                [
+                    "24:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gj\u00f8r"
+                ],
+                [
+                    "49:53"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "skifte av lenke eller rem"
+                ],
+                [
+                    "54:79"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til"
+                ],
+                [
+                    "80:83"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "sv\u00e6rt enkel aff\u00e6re"
+                ],
+                [
+                    "87:105"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "9:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Samtlige er utstyrt med spesielle baretter , som gj\u00f8r skifte av lenke eller rem til en sv\u00e6rt enkel aff\u00e6re .",
+    "sent_id": "201344-13-02"
+}

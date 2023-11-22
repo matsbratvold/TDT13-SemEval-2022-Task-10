@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "he"
+                ],
+                [
+                    "47:49"
+                ]
+            ],
+            "Target": [
+                [
+                    "security"
+                ],
+                [
+                    "63:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tighter than death row in a prison in the United States"
+                ],
+                [
+                    "94:149"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" We were all watching television Sept. 11 , \" he says . \" The security here I would consider tighter than death row in a prison in the United States . \"",
+    "sent_id": "non_fbis/06.44.52-19992-54"
+}

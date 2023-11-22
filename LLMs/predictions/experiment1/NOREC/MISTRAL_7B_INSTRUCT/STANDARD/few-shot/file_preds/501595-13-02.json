@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Menyene"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "matrester"
+                ],
+                [
+                    "41:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skitne"
+                ],
+                [
+                    "31:37"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Menyene er for eksempel veldig skitne av matrester .",
+    "sent_id": "501595-13-02"
+}

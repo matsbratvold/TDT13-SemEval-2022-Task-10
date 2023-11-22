@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Russian engineers"
+                ],
+                [
+                    "36:53"
+                ]
+            ],
+            "Target": [
+                [
+                    "supply ship"
+                ],
+                [
+                    "69:80"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "determined"
+                ],
+                [
+                    "54:64"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Everything was turned back on after Russian engineers determined the supply ship was attached securely enough for the steering system to operate .",
+    "sent_id": "non_fbis/13.24.42-23228-7"
+}

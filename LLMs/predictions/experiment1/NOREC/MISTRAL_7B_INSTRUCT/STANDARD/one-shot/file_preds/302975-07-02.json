@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "dukker"
+                ],
+                [
+                    "10:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ganger dukker forfatteren og illustrat\u00f8ren selv opp i boka"
+                ],
+                [
+                    "3:61"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "To ganger dukker forfatteren og illustrat\u00f8ren selv opp i boka , b\u00e5de i tegning og tekst , og snakker direkte til leseren .",
+    "sent_id": "302975-07-02"
+}

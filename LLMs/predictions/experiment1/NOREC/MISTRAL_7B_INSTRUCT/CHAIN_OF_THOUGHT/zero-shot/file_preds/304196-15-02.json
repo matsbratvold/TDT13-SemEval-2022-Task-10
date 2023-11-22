@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "linja"
+                ],
+                [
+                    "32:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "Picture a leader with no fucking brains"
+                ],
+                [
+                    "40:79"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "linja"
+                ],
+                [
+                    "32:37"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "linja"
+                ],
+                [
+                    "32:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "Picture That"
+                ],
+                [
+                    "110:122"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "linja"
+                ],
+                [
+                    "32:37"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er vanskelig \u00e5 tenke seg at linja \u00ab Picture a leader with no fucking brains \u00bb fra albumets h\u00f8ydepunkt , \u00ab Picture That \u00bb , er myntet p\u00e5 noen andre enn ham .",
+    "sent_id": "304196-15-02"
+}

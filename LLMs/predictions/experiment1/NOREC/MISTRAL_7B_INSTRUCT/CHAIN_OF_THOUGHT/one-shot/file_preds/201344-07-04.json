@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ikke"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "13:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Ikke nok med det"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "klokkene"
+                ],
+                [
+                    "19:27"
+                ]
+            ],
+            "Target": [
+                [
+                    "rulles"
+                ],
+                [
+                    "28:34"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Ikke nok med det \u2013 klokkene rulles for f\u00f8rste gang ut i flere av landets urmakerforretninger .",
+    "sent_id": "201344-07-04"
+}

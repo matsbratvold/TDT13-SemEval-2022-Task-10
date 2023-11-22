@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bildet"
+                ],
+                [
+                    "37:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "viktig"
+                ],
+                [
+                    "44:50"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "I dette skjebnesvangre \u00f8yeblikket er bildet viktig .",
+    "sent_id": "302975-15-01"
+}

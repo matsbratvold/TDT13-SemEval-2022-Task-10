@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Poetisk"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "politisk"
+                ],
+                [
+                    "11:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Guatemala"
+                ],
+                [
+                    "24:33"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Poetisk og politisk fra Guatemala",
+    "sent_id": "500201-01-01"
+}

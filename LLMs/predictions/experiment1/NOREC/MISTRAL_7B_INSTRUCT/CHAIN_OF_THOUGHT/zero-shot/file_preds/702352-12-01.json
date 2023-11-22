@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Julieta"
+                ],
+                [
+                    "35:42"
+                ]
+            ],
+            "Target": [
+                [
+                    "Adriana Ugarte"
+                ],
+                [
+                    "46:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilbakeblikkene"
+                ],
+                [
+                    "2:17"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I tilbakeblikkene spilles den unge Julieta av Adriana Ugarte .",
+    "sent_id": "702352-12-01"
+}

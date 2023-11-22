@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "business leaders"
+                ],
+                [
+                    "48:64"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "opinions"
+                ],
+                [
+                    "36:44"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "business leaders"
+                ],
+                [
+                    "48:64"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "promote"
+                ],
+                [
+                    "133:140"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "KCCI"
+                ],
+                [
+                    "269:273"
+                ]
+            ],
+            "Target": [
+                [
+                    "climate change"
+                ],
+                [
+                    "237:251"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "special committee"
+                ],
+                [
+                    "216:233"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "``We will first start gathering the opinions of business leaders regarding Korea 's ratification of the treaty , while continuing to promote the development of energy - efficient technologies , '' he said , adding a special committee on climate change was formed under KCCI last January .",
+    "sent_id": "20011115/20.41.29-15150-14"
+}

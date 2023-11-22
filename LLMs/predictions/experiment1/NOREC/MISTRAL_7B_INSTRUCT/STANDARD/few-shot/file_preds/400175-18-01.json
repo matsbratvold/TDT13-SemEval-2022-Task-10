@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "svakheten"
+                ],
+                [
+                    "7:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "slutten"
+                ],
+                [
+                    "20:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "avrundingen"
+                ],
+                [
+                    "44:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for enkel"
+                ],
+                [
+                    "61:70"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "denne gangen"
+                ],
+                [
+                    "73:85"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Eneste svakheten er slutten , der jeg synes avrundingen blir for enkel , denne gangen .",
+    "sent_id": "400175-18-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "talentet"
+                ],
+                [
+                    "17:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "personinstruksjon"
+                ],
+                [
+                    "30:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "synes"
+                ],
+                [
+                    "11:16"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Like stort synes talentet for personinstruksjon .",
+    "sent_id": "500201-09-01"
+}

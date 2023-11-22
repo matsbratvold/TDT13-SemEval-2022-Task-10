@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "brukervennlig"
+                ],
+                [
+                    "19:32"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Og ikke minst lite brukervennlig .",
+    "sent_id": "200006-19-03"
+}

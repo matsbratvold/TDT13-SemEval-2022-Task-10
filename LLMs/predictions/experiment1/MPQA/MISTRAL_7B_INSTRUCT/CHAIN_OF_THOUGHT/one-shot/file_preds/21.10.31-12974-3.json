@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "There"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "Proposal"
+                ],
+                [
+                    "11:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Take Shelter Under"
+                ],
+                [
+                    "23:41"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "There is a Proposal to Take Shelter Under an Umbrella",
+    "sent_id": "temp_fbis/21.10.31-12974-3"
+}

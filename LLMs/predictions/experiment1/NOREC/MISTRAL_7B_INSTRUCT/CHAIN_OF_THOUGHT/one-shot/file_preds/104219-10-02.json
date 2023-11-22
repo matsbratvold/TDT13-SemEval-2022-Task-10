@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blir vel pratsomt til tider"
+                ],
+                [
+                    "4:31"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det blir vel pratsomt til tider , med flere gjentakelser og uttv\u00e6ringer av situasjoner i fortid og n\u00e5tid .",
+    "sent_id": "104219-10-02"
+}

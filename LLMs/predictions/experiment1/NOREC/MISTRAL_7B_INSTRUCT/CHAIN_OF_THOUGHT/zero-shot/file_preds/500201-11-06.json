@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Guatemala"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "menneskehandel"
+                ],
+                [
+                    "43:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "har en lang , stygg historie"
+                ],
+                [
+                    "10:38"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Guatemala"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "bortf\u00f8ring"
+                ],
+                [
+                    "61:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med menneskehandel"
+                ],
+                [
+                    "39:57"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Guatemala"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "utenlandsadopsjon"
+                ],
+                [
+                    "96:113"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tanke p\u00e5 utenlandsadopsjon"
+                ],
+                [
+                    "87:113"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Guatemala har en lang , stygg historie med menneskehandel og bortf\u00f8ring av sm\u00e5barn med tanke p\u00e5 utenlandsadopsjon .",
+    "sent_id": "500201-11-06"
+}

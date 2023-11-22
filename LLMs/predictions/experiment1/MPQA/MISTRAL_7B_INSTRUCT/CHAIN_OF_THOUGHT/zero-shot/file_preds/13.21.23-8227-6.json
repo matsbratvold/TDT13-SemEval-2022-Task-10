@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "You"
+                ],
+                [
+                    "3:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "spent a few extra days in Florida"
+                ],
+                [
+                    "7:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "You"
+                ],
+                [
+                    "3:6"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "NASA launch director Mike Leinbach"
+                ],
+                [
+                    "46:80"
+                ]
+            ],
+            "Target": [
+                [
+                    "Atlantis commander Mike Bloomfield"
+                ],
+                [
+                    "86:120"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "But it 's time to take a ride"
+                ],
+                [
+                    "149:178"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "'' You spent a few extra days in Florida , '' NASA launch director Mike Leinbach told Atlantis commander Mike Bloomfield moments before liftoff . `` But it 's time to take a ride . ''",
+    "sent_id": "non_fbis/13.21.23-8227-6"
+}

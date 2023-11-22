@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Net income"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "Net income"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fell"
+                ],
+                [
+                    "11:15"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Net income"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "Net income"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rose"
+                ],
+                [
+                    "142:146"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Revenue"
+                ],
+                [
+                    "134:141"
+                ]
+            ],
+            "Target": [
+                [
+                    "Revenue"
+                ],
+                [
+                    "134:141"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rose"
+                ],
+                [
+                    "142:146"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Net income fell 37 % to $ 32.9 million , or 30 cents a share , from $ 52.2 million , or 48 cents a share , in the year - ago period . Revenue rose 15 % to $ 534.3 million from $ 464.7 million .",
+    "sent_id": "xbank/wsj_1039-2"
+}

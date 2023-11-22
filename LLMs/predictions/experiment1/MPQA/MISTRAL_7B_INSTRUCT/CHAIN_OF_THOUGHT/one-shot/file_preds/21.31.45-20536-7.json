@@ -1,0 +1,142 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "It"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "arbitrary deprivation of life"
+                ],
+                [
+                    "23:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cites"
+                ],
+                [
+                    "8:13"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "It"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "disappearance of people"
+                ],
+                [
+                    "55:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cites"
+                ],
+                [
+                    "8:13"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "It"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "cites"
+                ],
+                [
+                    "8:13"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "It"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "arbitrary arrest"
+                ],
+                [
+                    "140:156"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cites"
+                ],
+                [
+                    "8:13"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "It"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "denial of a fair public hearing"
+                ],
+                [
+                    "163:194"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cites"
+                ],
+                [
+                    "8:13"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "It also cites cases of arbitrary deprivation of life , disappearance of people , torture and other cruel , inhuman or degrading treatment , arbitrary arrest , and denial of a fair public hearing .",
+    "sent_id": "temp_fbis/21.31.45-20536-7"
+}

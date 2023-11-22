@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Senator Heloisa Helena"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "Latin American countries"
+                ],
+                [
+                    "62:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "abdicate"
+                ],
+                [
+                    "261:269"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Senator Heloisa Helena"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "IMF"
+                ],
+                [
+                    "384:387"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "alert"
+                ],
+                [
+                    "317:322"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Senator Heloisa Helena ( Workers Party -- Alagoas ) said that Latin American countries should always join together to speak with international economic institutions , in order to maintain autonomy in their economies : \" Now we see what happens when one country abdicates its financial autonomy . I hope that this can alert the Brazilian Government to revise its relationship with the IMF . \"",
+    "sent_id": "20011231/21.05.45-10422-9"
+}

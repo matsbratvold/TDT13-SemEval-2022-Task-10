@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Justice Department"
+                ],
+                [
+                    "96:114"
+                ]
+            ],
+            "Target": [
+                [
+                    "9/11 detainee program"
+                ],
+                [
+                    "68:89"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "counterterrorism benefits"
+                ],
+                [
+                    "35:60"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Justice Department"
+                ],
+                [
+                    "96:114"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "linked directly to a terrorist organization"
+                ],
+                [
+                    "222:265"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Justice Department"
+                ],
+                [
+                    "96:114"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "linked directly to a terrorist organization"
+                ],
+                [
+                    "222:265"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In response to a request about the counterterrorism benefits of the 9/11 detainee program , the Justice Department cited six individuals on the special interest detainee list , noting that two ( including Moussaoui ) were linked directly to a terrorist organization and that it had obtained new leads helpful to the investigation of the 9/11 terrorist attacks .",
+    "sent_id": "ula/chapter-10-17"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "boka"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stopper"
+                ],
+                [
+                    "15:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men denne boka stopper ved f\u00f8rste ledd .",
+    "sent_id": "302975-10-03"
+}

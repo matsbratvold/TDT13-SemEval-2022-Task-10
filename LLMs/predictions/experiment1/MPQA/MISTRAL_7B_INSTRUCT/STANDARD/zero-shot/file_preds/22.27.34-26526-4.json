@@ -1,0 +1,102 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Whatever the case"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "difficult period"
+                ],
+                [
+                    "38:54"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "The economic impact of the 11 September attacks"
+                ],
+                [
+                    "196:243"
+                ]
+            ],
+            "Target": [
+                [
+                    "world economy"
+                ],
+                [
+                    "295:308"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The whole operation against terrorism"
+                ],
+                [
+                    "359:396"
+                ]
+            ],
+            "Target": [
+                [
+                    "international stage"
+                ],
+                [
+                    "464:483"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "To have sat back with arms folded"
+                ],
+                [
+                    "509:542"
+                ]
+            ],
+            "Target": [
+                [
+                    "hostages"
+                ],
+                [
+                    "566:574"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Whatever the case , we are entering a difficult period . There is a real danger that the wounded but not yet eliminated network will play its \" trump card \" and commit further acts of terrorism . The economic impact of the 11 September attacks was already disastrous , with clear effects on the world economy , hitting the poorest countries by far the most . The whole operation against terrorism can have positive but also unintentionally negative effects on the international stage . But we had no choice . To have sat back with arms folded would have made us all hostages .",
+    "sent_id": "20011008/22.27.34-26526-4"
+}

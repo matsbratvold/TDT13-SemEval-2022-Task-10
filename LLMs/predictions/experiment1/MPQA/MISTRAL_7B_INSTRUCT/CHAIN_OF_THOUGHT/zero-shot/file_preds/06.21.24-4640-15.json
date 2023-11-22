@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Rep. Vito Fossella"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "13th Congressional District of New York"
+                ],
+                [
+                    "34:73"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "represents"
+                ],
+                [
+                    "19:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Rep. Vito Fossella represents the 13th Congressional District of New York , including Staten Island and parts of Brooklyn .",
+    "sent_id": "non_fbis/06.21.24-4640-15"
+}

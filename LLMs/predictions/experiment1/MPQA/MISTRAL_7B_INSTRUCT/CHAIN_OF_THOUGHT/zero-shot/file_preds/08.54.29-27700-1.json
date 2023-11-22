@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "tyranny"
+                ],
+                [
+                    "9:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "Venezuela"
+                ],
+                [
+                    "66:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "clearly did n't work"
+                ],
+                [
+                    "30:50"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "tyranny"
+                ],
+                [
+                    "9:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "Venezuela"
+                ],
+                [
+                    "66:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "coup - plotting military officers"
+                ],
+                [
+                    "96:129"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "tyranny"
+                ],
+                [
+                    "9:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "Venezuela"
+                ],
+                [
+                    "66:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reinstalled president"
+                ],
+                [
+                    "138:159"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "FIGHTING tyranny with tyranny clearly did n't work in oil - giant Venezuela last week . And now coup - plotting military officers and the reinstalled president , Hugo Chavez , need to show Latin America that their tyrannical tactics are at an end .",
+    "sent_id": "non_fbis/08.54.29-27700-1"
+}

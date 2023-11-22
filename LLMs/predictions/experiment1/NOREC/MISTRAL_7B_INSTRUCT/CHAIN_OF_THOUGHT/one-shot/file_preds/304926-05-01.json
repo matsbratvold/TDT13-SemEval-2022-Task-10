@@ -1,0 +1,102 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "deres n\u00e6rmeste nabo"
+                ],
+                [
+                    "16:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "viser"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "deres n\u00e6rmeste nabo"
+                ],
+                [
+                    "16:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "13:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "deres n\u00e6rmeste nabo"
+                ],
+                [
+                    "16:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "full av vidl\u00f8ftige ideer og pussige innfall"
+                ],
+                [
+                    "76:119"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "deres n\u00e6rmeste nabo"
+                ],
+                [
+                    "16:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "innvier jenta i historien om den lille prinsen"
+                ],
+                [
+                    "140:186"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Heldigvis viser deres n\u00e6rmeste nabo seg \u00e5 v\u00e6re en gammel eksentriker som er full av vidl\u00f8ftige ideer og pussige innfall , og det er han som innvier jenta i historien om den lille prinsen .",
+    "sent_id": "304926-05-01"
+}

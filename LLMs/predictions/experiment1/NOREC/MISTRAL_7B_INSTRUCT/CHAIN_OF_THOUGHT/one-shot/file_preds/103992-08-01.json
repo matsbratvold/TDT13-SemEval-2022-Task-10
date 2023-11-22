@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Forrige sesong"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sluttet med en ladet pistol"
+                ],
+                [
+                    "15:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Forrige sesong sluttet med en ladet pistol .",
+    "sent_id": "103992-08-01"
+}

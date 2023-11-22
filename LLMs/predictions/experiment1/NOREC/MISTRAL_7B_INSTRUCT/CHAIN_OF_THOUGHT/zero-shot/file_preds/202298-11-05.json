@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Forbruket"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "kj\u00f8restilene"
+                ],
+                [
+                    "92:104"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00f8kte"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Forbruket"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "kj\u00f8restilene"
+                ],
+                [
+                    "92:104"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til 0,47 liter per mil"
+                ],
+                [
+                    "23:45"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Forbruket"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "kj\u00f8restilene"
+                ],
+                [
+                    "92:104"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med kanskje"
+                ],
+                [
+                    "55:66"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Forbruket \u00f8kte derimot til 0,47 liter per mil , og det med kanskje en av de minst effektive kj\u00f8restilene man kan tenke seg .",
+    "sent_id": "202298-11-05"
+}

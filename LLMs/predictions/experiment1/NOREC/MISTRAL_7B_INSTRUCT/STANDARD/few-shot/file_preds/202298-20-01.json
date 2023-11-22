@@ -1,0 +1,79 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "1,5-liter uten hybrid"
+                ],
+                [
+                    "37:58"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "andre markeder"
+                ],
+                [
+                    "2:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "1,5-liter uten hybrid"
+                ],
+                [
+                    "37:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ogs\u00e5 bli"
+                ],
+                [
+                    "25:33"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Norge"
+                ],
+                [
+                    "98:103"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skal ikke tas inn til"
+                ],
+                [
+                    "76:97"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "I andre markeder vil det ogs\u00e5 bli en 1,5-liter uten hybrid \u00e5 f\u00e5 , men denne skal ikke tas inn til Norge .",
+    "sent_id": "202298-20-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Khatami"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Venezuelan nation"
+                ],
+                [
+                    "22:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "congratulates"
+                ],
+                [
+                    "8:21"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Khatami congratulates Venezuelan nation for Chavez ' return",
+    "sent_id": "non_fbis/15.36.10-18917-0"
+}

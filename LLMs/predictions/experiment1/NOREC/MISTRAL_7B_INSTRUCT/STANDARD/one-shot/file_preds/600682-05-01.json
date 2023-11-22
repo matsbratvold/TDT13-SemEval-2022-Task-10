@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "ung , kvinnelig lommetyv"
+                ],
+                [
+                    "15:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "betaler"
+                ],
+                [
+                    "4:11"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "adelskvinnen"
+                ],
+                [
+                    "71:83"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Han betaler en ung , kvinnelig lommetyv for \u00e5 jobbe som kammerpike for adelskvinnen , og p\u00e5 den m\u00e5ten gi ham bedre tilgang p\u00e5 henne .",
+    "sent_id": "600682-05-01"
+}

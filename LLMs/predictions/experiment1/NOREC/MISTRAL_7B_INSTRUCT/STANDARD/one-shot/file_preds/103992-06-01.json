@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Hele sesongen"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Hele sesongen kommer p\u00e5 Netflix 9. juni .",
+    "sent_id": "103992-06-01"
+}

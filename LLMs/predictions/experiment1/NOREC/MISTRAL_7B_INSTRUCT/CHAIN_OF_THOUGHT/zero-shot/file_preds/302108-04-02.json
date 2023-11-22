@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I \u00e5r har ikke bare den vokst seg st\u00f8rre"
+                ],
+                [
+                    "0:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "den"
+                ],
+                [
+                    "19:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "str\u00e5lende skivesnurrere"
+                ],
+                [
+                    "46:69"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "i tillegg til , blant andre , Black Madonna og Matt Karmil"
+                ],
+                [
+                    "84:142"
+                ]
+            ],
+            "Target": [
+                [
+                    "programmet"
+                ],
+                [
+                    "157:167"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "preger ogs\u00e5 programmet"
+                ],
+                [
+                    "145:167"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I \u00e5r har ikke bare den vokst seg st\u00f8rre , men str\u00e5lende skivesnurrere som DJ Koze \u2013 i tillegg til , blant andre , Black Madonna og Matt Karmil \u2013 preger ogs\u00e5 programmet i st\u00f8rre grad enn noen sinne .",
+    "sent_id": "302108-04-02"
+}

@@ -1,0 +1,41 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Rogers Waters"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "triumf"
+                ],
+                [
+                    "15:21"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "25 \u00e5r etter forrige album"
+                ],
+                [
+                    "24:49"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Rogers Waters' triumf - 25 \u00e5r etter forrige album",
+    "sent_id": "304196-01-01"
+}

@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Ni Liv"
+                ],
+                [
+                    "79:85"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00f8rke og skarpe elektro-uttrykket"
+                ],
+                [
+                    "40:73"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Ni Liv"
+                ],
+                [
+                    "79:85"
+                ]
+            ],
+            "Target": [
+                [
+                    "Ni Liv"
+                ],
+                [
+                    "79:85"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gir noen av hennes beste enkeltl\u00e5ter til n\u00e5"
+                ],
+                [
+                    "88:131"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Derfor er det ingen overraskelse at det m\u00f8rke og skarpe elektro-uttrykket p\u00e5 \u00ab Ni Liv \u00bb gir noen av hennes beste enkeltl\u00e5ter til n\u00e5 .",
+    "sent_id": "501385-04-04"
+}

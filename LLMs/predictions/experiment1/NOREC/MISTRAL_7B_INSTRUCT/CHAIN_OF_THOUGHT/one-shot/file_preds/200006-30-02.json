@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "du"
+                ],
+                [
+                    "4:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Apple Watch"
+                ],
+                [
+                    "7:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er du sikkert kjent med dette"
+                ],
+                [
+                    "21:50"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Har du Apple Watch , er du sikkert kjent med dette .",
+    "sent_id": "200006-30-02"
+}

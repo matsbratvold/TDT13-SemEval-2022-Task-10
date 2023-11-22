@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "filmen"
+                ],
+                [
+                    "43:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "h\u00f8re tandre"
+                ],
+                [
+                    "57:68"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "filmen"
+                ],
+                [
+                    "43:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skikkelig fine ballader"
+                ],
+                [
+                    "71:94"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Mens dette foreg\u00e5r i den tre kvarter lange filmen f\u00e5r vi h\u00f8re tandre , skikkelig fine ballader ( Isley Brothers-cover \u201c At Your Best ( You Are Love ) \u201d , \u201c Wither \u201d , \u201c Rushes To \u201d , \u201c In Here Somewhere \u201d ) .",
+    "sent_id": "003036-07-01"
+}

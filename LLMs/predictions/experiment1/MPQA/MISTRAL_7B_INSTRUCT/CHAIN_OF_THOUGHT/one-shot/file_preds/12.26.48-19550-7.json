@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "All three groups"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "legitimate national security concerns and fundamental freedoms"
+                ],
+                [
+                    "83:145"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "essential"
+                ],
+                [
+                    "29:38"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "All three groups said it was essential that governments strike a balance between \" legitimate national security concerns and fundamental freedoms that is fully consistent with their international law commitments . \"",
+    "sent_id": "20011130/12.26.48-19550-7"
+}

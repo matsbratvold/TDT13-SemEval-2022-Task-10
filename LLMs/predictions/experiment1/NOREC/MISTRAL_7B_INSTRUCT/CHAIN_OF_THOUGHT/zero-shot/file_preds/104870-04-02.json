@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "En av landets"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "bredest appellerende artister"
+                ],
+                [
+                    "37:66"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "En av landets"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "bredest appellerende artister"
+                ],
+                [
+                    "37:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "debuterer p\u00e5 eget selskap"
+                ],
+                [
+                    "106:131"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "En av landets"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "karrieregitaren stilt p\u00e5 banjo"
+                ],
+                [
+                    "138:168"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stilt p\u00e5 banjo"
+                ],
+                [
+                    "154:168"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "En av landets , m\u00e5 vi vel kunne si , bredest appellerende artister dropper den etablerte platebransjen og debuterer p\u00e5 eget selskap , med karrieregitaren stilt p\u00e5 banjo .",
+    "sent_id": "104870-04-02"
+}

@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "den store uroen"
+                ],
+                [
+                    "30:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kommer"
+                ],
+                [
+                    "23:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "den store uroen"
+                ],
+                [
+                    "30:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vi har f\u00e5tt antydninger om helt fra starten"
+                ],
+                [
+                    "52:95"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "S\u00e5 , like f\u00f8r pausen , kommer den store uroen , den vi har f\u00e5tt antydninger om helt fra starten .",
+    "sent_id": "703256-16-04"
+}

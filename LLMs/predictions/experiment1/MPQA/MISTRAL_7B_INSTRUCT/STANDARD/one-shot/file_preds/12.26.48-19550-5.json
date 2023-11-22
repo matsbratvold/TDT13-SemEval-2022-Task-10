@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The statement"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "British House of Commons"
+                ],
+                [
+                    "39:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "passed"
+                ],
+                [
+                    "64:70"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The statement"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "killing of hundreds of Taliban inmates"
+                ],
+                [
+                    "162:200"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "earlier this week"
+                ],
+                [
+                    "268:285"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The statement comes two days after the British House of Commons passed emergency legislation allowing the detention of terrorist suspects without trial , and the killing of hundreds of Taliban inmates in a prison uprising in Mazar - i - Sharif in northern Afghanistan earlier this week .",
+    "sent_id": "20011130/12.26.48-19550-5"
+}

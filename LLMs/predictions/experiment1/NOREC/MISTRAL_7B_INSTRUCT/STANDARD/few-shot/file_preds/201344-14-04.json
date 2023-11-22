@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "safirkrystall"
+                ],
+                [
+                    "24:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "riperesistant"
+                ],
+                [
+                    "10:23"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "vannresistanse"
+                ],
+                [
+                    "56:70"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "10 ATM"
+                ],
+                [
+                    "74:80"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "smartklokker"
+                ],
+                [
+                    "153:165"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mest robuste"
+                ],
+                [
+                    "140:152"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Og med en riperesistant safirkrystall i front , samt en vannresistanse p\u00e5 10 ATM ( cirka 100 meter ) , er den sannsynligvis en av markedets mest robuste smartklokker .",
+    "sent_id": "201344-14-04"
+}

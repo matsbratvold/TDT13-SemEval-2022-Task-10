@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The White House"
+                ],
+                [
+                    "21:36"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Geneva Convention applies to Taliban forces in the Afghanistan phase of the war on terrorism"
+                ],
+                [
+                    "63:159"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "declared"
+                ],
+                [
+                    "49:57"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "The White House"
+                ],
+                [
+                    "21:36"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "declared"
+                ],
+                [
+                    "49:57"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "WASHINGTON , Feb 7 : The White House on Thursday declared that the Geneva Convention applies to Taliban forces in the Afghanistan phase of the war on terrorism , but not to Osama bin Laden 's Al Qaeda followers .",
+    "sent_id": "non_fbis/04.28.09-24241-1"
+}

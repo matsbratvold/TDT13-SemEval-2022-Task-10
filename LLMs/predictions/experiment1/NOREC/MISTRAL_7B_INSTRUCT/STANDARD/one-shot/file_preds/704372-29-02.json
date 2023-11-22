@@ -1,0 +1,79 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "\u00d6ppen"
+                ],
+                [
+                    "2:7"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Du"
+                ],
+                [
+                    "32:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gamla du frie"
+                ],
+                [
+                    "35:48"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "P\u00e4rlor"
+                ],
+                [
+                    "55:61"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Din"
+                ],
+                [
+                    "68:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tid kommer"
+                ],
+                [
+                    "72:82"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" \u00d6ppen genom hela natten \" , \" Du gamla du frie \" , \" P\u00e4rlor \" , \" Din tid kommer \" .",
+    "sent_id": "704372-29-02"
+}

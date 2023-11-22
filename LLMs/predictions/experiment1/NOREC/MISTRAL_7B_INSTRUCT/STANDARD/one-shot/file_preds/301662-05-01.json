@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Cult Drugs"
+                ],
+                [
+                    "2:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "h\u00f8yt og lavt"
+                ],
+                [
+                    "18:30"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Cult Drugs"
+                ],
+                [
+                    "2:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "har noe nytt \u00e5 komme med rundt hver sving"
+                ],
+                [
+                    "34:75"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "\u00ab Cult Drugs \u00bb er h\u00f8yt og lavt og har noe nytt \u00e5 komme med rundt hver sving .",
+    "sent_id": "301662-05-01"
+}

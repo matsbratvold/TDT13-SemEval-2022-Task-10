@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "grunner"
+                ],
+                [
+                    "24:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sikkert gode"
+                ],
+                [
+                    "11:23"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "men"
+                ],
+                [
+                    "42:45"
+                ]
+            ],
+            "Target": [
+                [
+                    "grunner"
+                ],
+                [
+                    "24:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "spesielt forbrukervennlig"
+                ],
+                [
+                    "46:71"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det finnes sikkert gode grunner for det , men spesielt forbrukervennlig er det ikke .",
+    "sent_id": "200006-27-02"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Summer In My Hometown"
+                ],
+                [
+                    "13:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "meg"
+                ],
+                [
+                    "45:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00f8nske meg vestover"
+                ],
+                [
+                    "55:73"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Med flotte \u00ab Summer In My Hometown \u00bb f\u00e5r han meg til \u00e5 \u00f8nske meg vestover .",
+    "sent_id": "303032-07-02"
+}

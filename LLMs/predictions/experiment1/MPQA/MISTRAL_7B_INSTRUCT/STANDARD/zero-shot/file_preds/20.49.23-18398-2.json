@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Security forces"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "rebel hideouts"
+                ],
+                [
+                    "33:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cordoned off"
+                ],
+                [
+                    "16:28"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Security forces cordoned off two rebel hideouts in the villages of Jalian and Bandi Kama Khan .",
+    "sent_id": "20011111/20.49.23-18398-2"
+}

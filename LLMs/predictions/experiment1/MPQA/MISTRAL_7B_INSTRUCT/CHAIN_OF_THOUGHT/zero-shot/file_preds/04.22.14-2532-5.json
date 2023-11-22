@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "US State Department report"
+                ],
+                [
+                    "54:80"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "widespread abuses"
+                ],
+                [
+                    "148:165"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "US State Department"
+                ],
+                [
+                    "54:73"
+                ]
+            ],
+            "Target": [
+                [
+                    "China"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "widespread abuses"
+                ],
+                [
+                    "148:165"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "China releases the report every year in response to a US State Department report on global human rights conditions , which usually accuses China of widespread abuses . The US report came out last week .",
+    "sent_id": "non_fbis/04.22.14-2532-5"
+}

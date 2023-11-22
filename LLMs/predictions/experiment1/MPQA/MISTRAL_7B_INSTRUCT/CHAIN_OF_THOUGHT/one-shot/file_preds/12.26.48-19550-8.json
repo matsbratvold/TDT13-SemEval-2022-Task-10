@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The statement"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "essential rights"
+                ],
+                [
+                    "39:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "could not be hollowed out"
+                ],
+                [
+                    "61:86"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The statement listed what it said were essential rights that could not be hollowed out because of the fight against terrorism .",
+    "sent_id": "20011130/12.26.48-19550-8"
+}

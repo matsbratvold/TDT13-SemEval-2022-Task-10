@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "Taiwan"
+                ],
+                [
+                    "21:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "threatened to bring it back by force"
+                ],
+                [
+                    "67:103"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "China has considered Taiwan a renegade province since 1949 and has threatened to bring it back by force if it continues to indefinitely refuse proposals for \" peaceful reunification . \"",
+    "sent_id": "temp_fbis/22.34.58-23977-8"
+}

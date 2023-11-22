@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Varmt"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "samspill"
+                ],
+                [
+                    "6:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "samspill"
+                ],
+                [
+                    "6:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Varmt samspill",
+    "sent_id": "000298-16-01"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "they"
+                ],
+                [
+                    "46:50"
+                ]
+            ],
+            "Target": [
+                [
+                    "deer"
+                ],
+                [
+                    "88:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "shoot each other"
+                ],
+                [
+                    "51:67"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Bob"
+                ],
+                [
+                    "129:132"
+                ]
+            ],
+            "Target": [
+                [
+                    "deer"
+                ],
+                [
+                    "88:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "thought you were a deer"
+                ],
+                [
+                    "105:128"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "do n't use it for that well yeah that 's true they shoot each other thinking they 're a deer yeah darn i thought you were a deer Bob sorry my mistake",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-27"
+}

@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "matter"
+                ],
+                [
+                    "35:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "concerned"
+                ],
+                [
+                    "14:23"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Chinese Embassy in Argentina"
+                ],
+                [
+                    "52:80"
+                ]
+            ],
+            "Target": [
+                [
+                    "Argentine government"
+                ],
+                [
+                    "95:115"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "asked"
+                ],
+                [
+                    "85:90"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Zhang"
+                ],
+                [
+                    "224:229"
+                ]
+            ],
+            "Target": [
+                [
+                    "overseas Chinese and Argentine citizens with Chinese origin"
+                ],
+                [
+                    "162:221"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "China is very concerned about this matter , and the Chinese Embassy in Argentina has asked the Argentine government to ensure the life and property safety of the overseas Chinese and Argentine citizens with Chinese origin , Zhang said .",
+    "sent_id": "20011220/21.12.51-10332-4"
+}

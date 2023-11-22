@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Clarke"
+                ],
+                [
+                    "137:143"
+                ]
+            ],
+            "Target": [
+                [
+                    "the departure of Saudi nationals"
+                ],
+                [
+                    "174:206"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "approved of"
+                ],
+                [
+                    "329:340"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Clarke"
+                ],
+                [
+                    "137:143"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "said"
+                ],
+                [
+                    "321:325"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Second , we found no evidence of political intervention . We found no evidence that anyone at the White House above the level of Richard Clarke participated in a decision on the departure of Saudi nationals . The issue came up in one of the many video teleconferences of the interagency group Clarke chaired , and Clarke said he approved of how the FBI was dealing with the matter when it came up for interagency discussion at his level . Clarke told us , \" I asked the FBI , Dale Watson . . . to handle that , to check to see if that was all right with them , to see if they wanted access to any of these people , and to get back to me . And if they had no objections , it would be fine with me . \" Clarke added , \" I have no recollection of clearing it with anybody at the White House . \"",
+    "sent_id": "ula/chapter-10-21"
+}

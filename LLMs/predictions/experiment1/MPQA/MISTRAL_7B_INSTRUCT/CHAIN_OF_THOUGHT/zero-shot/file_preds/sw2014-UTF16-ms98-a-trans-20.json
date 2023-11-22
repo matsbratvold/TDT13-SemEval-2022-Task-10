@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "yeah"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "gun management"
+                ],
+                [
+                    "35:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gun"
+                ],
+                [
+                    "17:20"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "yeah i have have gun gun have have gun management 101",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-20"
+}

@@ -1,0 +1,110 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "12:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "United States"
+                ],
+                [
+                    "53:66"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "12:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "United States"
+                ],
+                [
+                    "53:66"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "12:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "United States"
+                ],
+                [
+                    "53:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Racial prejudice has assumed alarming proportions"
+                ],
+                [
+                    "318:367"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "12:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "United States"
+                ],
+                [
+                    "53:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "There is no protection of women rights including their respect and sanctity"
+                ],
+                [
+                    "370:445"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Therefore , China is justified in demanding that the United States , by creating conflicts and by embarking upon the policy of oppression and supremacy should stop interfering in the affairs of other countries in the name of human rights . According to China , the American society is engulfed by violence and crime . Racial prejudice has assumed alarming proportions . There is no protection of women rights including their respect and sanctity .",
+    "sent_id": "20020315/20.21.54-4382-8"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Hun"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "debuterte som plateartist s\u00e5 sent som i 2013"
+                ],
+                [
+                    "4:48"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hun debuterte som plateartist s\u00e5 sent som i 2013 , 73 \u00e5r gammel .",
+    "sent_id": "704372-12-04"
+}

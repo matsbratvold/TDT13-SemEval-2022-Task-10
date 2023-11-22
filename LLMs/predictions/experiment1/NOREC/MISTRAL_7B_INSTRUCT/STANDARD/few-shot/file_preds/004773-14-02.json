@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hayley Squires"
+                ],
+                [
+                    "73:87"
+                ]
+            ],
+            "Target": [
+                [
+                    "Katie"
+                ],
+                [
+                    "92:97"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er en sterk og bevegende rolletolkning , som matches fortreffelig av Hayley Squires som Katie , en ung , sterk og stolt kvinne som drives stadig nedover av mangelen p\u00e5 hjelp .",
+    "sent_id": "004773-14-02"
+}

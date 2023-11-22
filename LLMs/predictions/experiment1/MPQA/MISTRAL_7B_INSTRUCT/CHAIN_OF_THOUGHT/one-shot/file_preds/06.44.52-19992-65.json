@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "she"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "the detainees"
+                ],
+                [
+                    "15:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sees"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "she"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "the detainees"
+                ],
+                [
+                    "15:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "allows"
+                ],
+                [
+                    "47:53"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "she"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "the detainees"
+                ],
+                [
+                    "15:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "finds herself thinking"
+                ],
+                [
+                    "105:127"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "she"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "the detainees"
+                ],
+                [
+                    "15:28"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "While she sees the detainees as patients , she allows that they 're not \" regular patients . \" She often finds herself thinking , \" Oh , my God , they could be related to this or related to that . But I still try to treat them as a patient . \"",
+    "sent_id": "non_fbis/06.44.52-19992-65"
+}

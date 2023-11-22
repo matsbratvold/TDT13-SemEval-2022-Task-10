@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "sang"
+                ],
+                [
+                    "11:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "tingene"
+                ],
+                [
+                    "22:29"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "sang"
+                ],
+                [
+                    "11:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "man"
+                ],
+                [
+                    "64:67"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "P\u00e5 nytt en sang om at tingene ikke er som de skal v\u00e6re , men at man ikke m\u00e5 gi opp .",
+    "sent_id": "704372-18-02"
+}

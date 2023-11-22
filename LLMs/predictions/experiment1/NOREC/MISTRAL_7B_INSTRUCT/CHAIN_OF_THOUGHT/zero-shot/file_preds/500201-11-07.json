@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "geskjeft filmen"
+                ],
+                [
+                    "3:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "filmen"
+                ],
+                [
+                    "12:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tar"
+                ],
+                [
+                    "19:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "En geskjeft filmen tar for seg , direkte og brutalt .",
+    "sent_id": "500201-11-07"
+}

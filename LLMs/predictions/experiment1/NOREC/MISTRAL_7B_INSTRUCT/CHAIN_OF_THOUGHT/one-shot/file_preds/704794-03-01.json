@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den hissige gorillaen Donkey Kong"
+                ],
+                [
+                    "0:33"
+                ]
+            ],
+            "Target": [
+                [
+                    "Nintendo"
+                ],
+                [
+                    "152:160"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "har m\u00e5ttet finne seg i \u00e5 leve i skyggen av sin gamle arkadespill-kollega Mario"
+                ],
+                [
+                    "34:112"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Nintendo"
+                ],
+                [
+                    "152:160"
+                ]
+            ],
+            "Target": [
+                [
+                    "Den hissige gorillaen Donkey Kong"
+                ],
+                [
+                    "0:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "n\u00e5 ser det etter hvert ut til at Nintendo for alvor vil bl\u00e5se liv i figuren"
+                ],
+                [
+                    "119:194"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Den hissige gorillaen Donkey Kong har m\u00e5ttet finne seg i \u00e5 leve i skyggen av sin gamle arkadespill-kollega Mario , men n\u00e5 ser det etter hvert ut til at Nintendo for alvor vil bl\u00e5se liv i figuren .",
+    "sent_id": "704794-03-01"
+}

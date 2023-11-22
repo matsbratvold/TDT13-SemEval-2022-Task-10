@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "she"
+                ],
+                [
+                    "99:102"
+                ]
+            ],
+            "Target": [
+                [
+                    "Military tensions in the Taiwan Strait"
+                ],
+                [
+                    "0:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not in the self - interests of the United States"
+                ],
+                [
+                    "46:94"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Military tensions in the Taiwan Strait were \" not in the self - interests of the United States , \" she warned .",
+    "sent_id": "temp_fbis/22.34.58-23977-6"
+}

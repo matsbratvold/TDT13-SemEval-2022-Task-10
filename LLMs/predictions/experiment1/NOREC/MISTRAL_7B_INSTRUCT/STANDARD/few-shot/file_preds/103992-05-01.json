@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Taylor Schilling"
+                ],
+                [
+                    "14:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bl. a"
+                ],
+                [
+                    "6:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Laura Prepon"
+                ],
+                [
+                    "33:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bl. a"
+                ],
+                [
+                    "6:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Danielle Brooks"
+                ],
+                [
+                    "48:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bl. a"
+                ],
+                [
+                    "6:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Natasha Lonne"
+                ],
+                [
+                    "67:80"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bl. a"
+                ],
+                [
+                    "6:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Med : bl. a . Taylor Schilling , Laura Prepon , Danielle Brooks og Natasha Lonne",
+    "sent_id": "103992-05-01"
+}

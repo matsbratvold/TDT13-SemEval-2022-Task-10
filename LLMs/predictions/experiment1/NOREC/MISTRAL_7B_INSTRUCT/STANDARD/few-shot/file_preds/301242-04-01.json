@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "folk"
+                ],
+                [
+                    "25:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "var brikker i det politiske spillet"
+                ],
+                [
+                    "47:82"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "politiske spillet"
+                ],
+                [
+                    "65:82"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i etterkrigstidens tyske virkelighetskamp"
+                ],
+                [
+                    "83:124"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "vest"
+                ],
+                [
+                    "127:131"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mot \u00f8st"
+                ],
+                [
+                    "132:139"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "I tolv kapitler m\u00f8ter vi folk som p\u00e5 ulikt vis var brikker i det politiske spillet i etterkrigstidens tyske virkelighetskamp , vest mot \u00f8st .",
+    "sent_id": "301242-04-01"
+}

@@ -1,0 +1,47 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Man"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "igjen"
+                ],
+                [
+                    "17:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "muteres"
+                ],
+                [
+                    "73:80"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Man kjenner ogs\u00e5 igjen blink og \" shadow form \" , men som denne gang kan muteres i andre retninger .",
+    "sent_id": "000913-23-02"
+}

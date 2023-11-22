@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "hun"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "l\u00e5tene sine"
+                ],
+                [
+                    "65:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "klare"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "hun"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "l\u00e5tene sine"
+                ],
+                [
+                    "65:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjenskape"
+                ],
+                [
+                    "18:27"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "hun"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "l\u00e5tene sine"
+                ],
+                [
+                    "65:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "live"
+                ],
+                [
+                    "79:83"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "hun"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "l\u00e5tene sine"
+                ],
+                [
+                    "65:76"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Kunne hun klare \u00e5 gjenskape de krystallklare , lekre og perlende l\u00e5tene sine , live , helt der ute blant nasjonens st\u00f8rste skravleklasse ?",
+    "sent_id": "104659-06-02"
+}

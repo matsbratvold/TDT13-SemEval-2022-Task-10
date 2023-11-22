@@ -1,0 +1,106 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Vaklingen"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "Medivh"
+                ],
+                [
+                    "22:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "preger"
+                ],
+                [
+                    "10:16"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Vaklingen"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "skal beskytte Alliansen"
+                ],
+                [
+                    "65:88"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Vaklingen"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "glir"
+                ],
+                [
+                    "95:99"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Vaklingen"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "mot"
+                ],
+                [
+                    "111:114"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Vaklingen preger ogs\u00e5 Medivh , en fyr som med sine magiske evner skal beskytte Alliansen , men glir mer og mer mot fienden .",
+    "sent_id": "700863-08-03"
+}

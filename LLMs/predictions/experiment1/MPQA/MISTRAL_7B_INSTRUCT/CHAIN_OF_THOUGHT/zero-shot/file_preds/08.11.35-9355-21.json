@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Carmona"
+                ],
+                [
+                    "2:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "Chavez"
+                ],
+                [
+                    "47:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "resigns"
+                ],
+                [
+                    "10:17"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Carmona"
+                ],
+                [
+                    "2:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "Cabello"
+                ],
+                [
+                    "85:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "takes over"
+                ],
+                [
+                    "95:105"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Cabello"
+                ],
+                [
+                    "85:92"
+                ]
+            ],
+            "Target": [
+                [
+                    "Carmona"
+                ],
+                [
+                    "2:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "arrested"
+                ],
+                [
+                    "139:147"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Cabello"
+                ],
+                [
+                    "85:92"
+                ]
+            ],
+            "Target": [
+                [
+                    "Cabello"
+                ],
+                [
+                    "85:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "promises"
+                ],
+                [
+                    "199:207"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "- Carmona resigns the interim presidency , and Chavez 's vice - President , Diosdado Cabello , takes over as acting President . Carmona is arrested along with his cabinet and general staff . Cabello promises to restore constitutional order .",
+    "sent_id": "non_fbis/08.11.35-9355-21"
+}

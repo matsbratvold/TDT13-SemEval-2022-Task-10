@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "scener"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "humanismen"
+                ],
+                [
+                    "31:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tangerer"
+                ],
+                [
+                    "22:30"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "scener"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Intet nytt fra vestfronten"
+                ],
+                [
+                    "75:101"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00e6rlig"
+                ],
+                [
+                    "104:110"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "scener"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "soldatene"
+                ],
+                [
+                    "128:137"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fors\u00f8ker"
+                ],
+                [
+                    "138:146"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "scener"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "kj\u00e6ledyr"
+                ],
+                [
+                    "171:179"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gj\u00f8re en mus"
+                ],
+                [
+                    "149:161"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er scener her som tangerer humanismen i klassiske antikrigsdramaer som Intet nytt fra vestfronten , s\u00e6rlig scenen der en av soldatene fors\u00f8ker \u00e5 gj\u00f8re en mus til sitt kj\u00e6ledyr .",
+    "sent_id": "400175-15-02"
+}

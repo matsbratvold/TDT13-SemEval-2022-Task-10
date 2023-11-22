@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Michael Baumann"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "den litt uproffe og utfrika terrorgruppa \u00ab 2. juni-bevegelsen \u00bb"
+                ],
+                [
+                    "26:89"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Michael Baumann var med i den litt uproffe og utfrika terrorgruppa \u00ab 2. juni-bevegelsen \u00bb .",
+    "sent_id": "301242-06-04"
+}

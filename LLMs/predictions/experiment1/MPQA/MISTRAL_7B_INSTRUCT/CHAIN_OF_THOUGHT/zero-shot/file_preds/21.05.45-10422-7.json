@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jose Agripino Maia"
+                ],
+                [
+                    "4:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "Argentina"
+                ],
+                [
+                    "117:126"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "devastating"
+                ],
+                [
+                    "187:198"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "For Jose Agripino Maia , PFL [ Liberal Front Party ] leader in the Senate , although Brazil has detached itself from Argentina , it should not disregard the message of the crises that is devastating the neighboring country .",
+    "sent_id": "20011231/21.05.45-10422-7"
+}

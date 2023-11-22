@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "den kondensert"
+                ],
+                [
+                    "6:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "det som virker som tre dager"
+                ],
+                [
+                    "29:57"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "N\u00e5 er den kondensert ned til det som virker som tre dager .",
+    "sent_id": "103992-08-08"
+}

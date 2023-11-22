@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Mer overraskende er det kanskje at han har med seg"
+                ],
+                [
+                    "0:50"
+                ]
+            ],
+            "Target": [
+                [
+                    "han"
+                ],
+                [
+                    "35:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kanskje at han har med seg"
+                ],
+                [
+                    "24:50"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "av fire / fem som trakterer gitar og keyboards"
+                ],
+                [
+                    "92:138"
+                ]
+            ],
+            "Target": [
+                [
+                    "Jonathan Wilson"
+                ],
+                [
+                    "71:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hippiemusikeren"
+                ],
+                [
+                    "53:68"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Mer overraskende er det kanskje at han har med seg \u00ab hippiemusikeren \u00bb Jonathan Wilson , en av fire / fem som trakterer gitar og keyboards .",
+    "sent_id": "304196-19-01"
+}

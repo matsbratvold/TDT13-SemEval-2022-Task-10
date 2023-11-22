@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "no"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "criminals"
+                ],
+                [
+                    "77:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "agree"
+                ],
+                [
+                    "20:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "yeah"
+                ],
+                [
+                    "5:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "criminals"
+                ],
+                [
+                    "77:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "agree"
+                ],
+                [
+                    "20:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "no i yeah i i i i i agree that it would be like people in people that are uh criminals are the ones that are gonna get them and then you have no defense against these people when they do come into your house or something",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-18"
+}

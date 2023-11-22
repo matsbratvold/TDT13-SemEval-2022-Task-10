@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "nyheten"
+                ],
+                [
+                    "26:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "v\u00e5kner man opp til"
+                ],
+                [
+                    "7:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men s\u00e5 v\u00e5kner man opp til nyheten .",
+    "sent_id": "003036-05-01"
+}

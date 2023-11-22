@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "De 14"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "ukjente landssvikerne"
+                ],
+                [
+                    "8:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "profiterte p\u00e5 samarbeidet med regimet"
+                ],
+                [
+                    "36:73"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "tyskerne"
+                ],
+                [
+                    "97:105"
+                ]
+            ],
+            "Target": [
+                [
+                    "ukjente landssvikerne"
+                ],
+                [
+                    "8:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjorde det lettere for tyskerne \u00e5 styre det norske n\u00e6ringslivet"
+                ],
+                [
+                    "74:137"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "De 14 \" ukjente landssvikerne \" som profiterte p\u00e5 samarbeidet med regimet gjorde det lettere for tyskerne \u00e5 styre det norske n\u00e6ringslivet .",
+    "sent_id": "601408-02-01"
+}

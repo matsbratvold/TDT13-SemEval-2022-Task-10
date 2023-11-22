@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Crosby , Stills , Nash og Larsen"
+                ],
+                [
+                    "0:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "Crosby , Stills , Nash og Larsen"
+                ],
+                [
+                    "0:32"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Crosby , Stills , Nash og Larsen :",
+    "sent_id": "104870-02-01"
+}

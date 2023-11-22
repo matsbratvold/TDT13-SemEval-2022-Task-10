@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Chavez"
+                ],
+                [
+                    "88:104"
+                ]
+            ],
+            "Target": [
+                [
+                    "the difficult period the venezuelan nation went through in the past week"
+                ],
+                [
+                    "13:85"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said"
+                ],
+                [
+                    "105:109"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Referring to the difficult period the venezuelan nation went through in the past week , President Chavez said the anti-democractic attempts to topple his government failed with the help of the Almighty God and the people .",
+    "sent_id": "non_fbis/15.36.10-18917-4"
+}

@@ -1,0 +1,111 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "vinr\u00f8de vegger"
+                ],
+                [
+                    "3:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skjev gullramme"
+                ],
+                [
+                    "28:43"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "skjev gullramme"
+                ],
+                [
+                    "28:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fremhever det som er \u00ab Dagens meny \u00bb"
+                ],
+                [
+                    "77:113"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "skjev gullramme"
+                ],
+                [
+                    "28:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ceviche"
+                ],
+                [
+                    "116:123"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "skjev gullramme"
+                ],
+                [
+                    "28:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lammeskank"
+                ],
+                [
+                    "126:136"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "skjev gullramme"
+                ],
+                [
+                    "28:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tiramisu"
+                ],
+                [
+                    "140:148"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "P\u00e5 vinr\u00f8de vegger henger en skjev gullramme i ekte italiensk barokkstil , og fremhever det som er \u00ab Dagens meny \u00bb : ceviche , lammeskank og tiramisu .",
+    "sent_id": "501595-07-01"
+}

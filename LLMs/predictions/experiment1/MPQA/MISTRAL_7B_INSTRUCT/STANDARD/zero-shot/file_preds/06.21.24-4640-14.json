@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "America"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Taliban and al Qaeda terrorists"
+                ],
+                [
+                    "28:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "appropriate"
+                ],
+                [
+                    "79:90"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "America"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Taliban and al Qaeda terrorists"
+                ],
+                [
+                    "28:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "too good for these murderous thugs"
+                ],
+                [
+                    "113:147"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "America"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Taliban and al Qaeda terrorists"
+                ],
+                [
+                    "28:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "detained at Camp X - Ray"
+                ],
+                [
+                    "285:309"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "America"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Taliban and al Qaeda terrorists"
+                ],
+                [
+                    "28:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "civilized world"
+                ],
+                [
+                    "333:348"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "America 's treatment of the Taliban and al Qaeda terrorists at Camp X - Ray is appropriate and , in my opinion , too good for these murderous thugs . Instead of lecturing the United States , our critics may better spend their time reminding others that if terrorists do n't want to be detained at Camp X - Ray , they should join the civilized world .",
+    "sent_id": "non_fbis/06.21.24-4640-14"
+}

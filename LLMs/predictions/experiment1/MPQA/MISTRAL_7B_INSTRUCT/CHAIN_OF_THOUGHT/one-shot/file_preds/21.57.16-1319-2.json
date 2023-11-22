@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The most prominent form of such attacks is sea jack for ransom"
+                ],
+                [
+                    "0:62"
+                ]
+            ],
+            "Target": [
+                [
+                    "sea jack for ransom"
+                ],
+                [
+                    "43:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "prominent"
+                ],
+                [
+                    "9:18"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "In April , in waters off Sumatra Island , an armed group ambushed a cruise ship"
+                ],
+                [
+                    "65:144"
+                ]
+            ],
+            "Target": [
+                [
+                    "an armed group ambushed a cruise ship"
+                ],
+                [
+                    "107:144"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ambushed"
+                ],
+                [
+                    "122:130"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "two employees"
+                ],
+                [
+                    "161:174"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The most prominent form of such attacks is sea jack for ransom . In April , in waters off Sumatra Island , an armed group ambushed a cruise ship . Involved were two employees , of a local company that had merged with an established Japanese oil - related company , and an Indonesian state - run company .",
+    "sent_id": "20011003/21.57.16-1319-2"
+}

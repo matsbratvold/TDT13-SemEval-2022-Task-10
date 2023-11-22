@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bush"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "Saudi Arabia"
+                ],
+                [
+                    "47:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "willing to consider"
+                ],
+                [
+                    "27:46"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "U.S. officials"
+                ],
+                [
+                    "103:117"
+                ]
+            ],
+            "Target": [
+                [
+                    "Saudi Arabia"
+                ],
+                [
+                    "47:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "doubted it would happen any time soon"
+                ],
+                [
+                    "118:155"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Bush said last week he was willing to consider Saudi Arabia 's request on a case - by - case basis but U.S. officials doubted it would happen any time soon . - AFP / Reuters",
+    "sent_id": "non_fbis/04.28.09-24241-14"
+}

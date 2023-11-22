@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "293 sider"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "Anne Cathrine Wolleb\u00e6k"
+                ],
+                [
+                    "22:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "oversatt"
+                ],
+                [
+                    "10:18"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "293 sider oversatt av Anne Cathrine Wolleb\u00e6k .",
+    "sent_id": "703572-03-03"
+}

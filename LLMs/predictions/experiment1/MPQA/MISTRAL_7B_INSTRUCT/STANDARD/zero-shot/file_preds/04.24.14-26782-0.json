@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "U.S."
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto"
+                ],
+                [
+                    "11:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dropped"
+                ],
+                [
+                    "17:24"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "U.S. wants Kyoto dropped from U.N. meet agenda",
+    "sent_id": "non_fbis/04.24.14-26782-0"
+}

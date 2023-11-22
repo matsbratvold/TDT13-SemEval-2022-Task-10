@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "funker"
+                ],
+                [
+                    "11:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Og som det funker !"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Og som det funker !",
+    "sent_id": "703256-04-01"
+}

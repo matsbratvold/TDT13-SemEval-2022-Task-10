@@ -1,0 +1,37 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Perler og diamanter"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "det kan komme noe bra ut av det brutale"
+                ],
+                [
+                    "49:88"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Perler og diamanter skapes under t\u00f8ffe forhold : det kan komme noe bra ut av det brutale .",
+    "sent_id": "704372-16-02"
+}

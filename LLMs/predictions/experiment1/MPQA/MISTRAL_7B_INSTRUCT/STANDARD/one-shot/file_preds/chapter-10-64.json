@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "General Tommy Franks"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "General Tommy Franks"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "striking the Taliban and al Qaeda in Afghanistan"
+                ],
+                [
+                    "231:279"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "knew he would soon be"
+                ],
+                [
+                    "209:230"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "General Tommy Franks"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "what might need to be done in Somalia , Yemen , or Iraq"
+                ],
+                [
+                    "350:405"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "wondered how that action was connected to"
+                ],
+                [
+                    "308:349"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "General Tommy Franks , the commanding general of Central Command , recalled receiving Rumsfeld 's guidance that each regional commander should assess what these plans meant for his area of responsibility . He knew he would soon be striking the Taliban and al Qaeda in Afghanistan . But , he told us , he now wondered how that action was connected to what might need to be done in Somalia , Yemen , or Iraq .",
+    "sent_id": "ula/chapter-10-64"
+}

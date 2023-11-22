@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Serien"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ligner andre realitykonkurranser"
+                ],
+                [
+                    "7:39"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Serien"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mangler det forf\u00f8rende elementet som gj\u00f8r at du blir sittende og glo"
+                ],
+                [
+                    "94:162"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Serien ligner andre realitykonkurranser , som \u00ab Mesternes mester \u00bb og \u00ab Skal vi danse \u00bb , men mangler det forf\u00f8rende elementet som gj\u00f8r at du blir sittende og glo , selv om du egentlig hadde tenkt \u00e5 gj\u00f8re noe annet .",
+    "sent_id": "300186-10-01"
+}

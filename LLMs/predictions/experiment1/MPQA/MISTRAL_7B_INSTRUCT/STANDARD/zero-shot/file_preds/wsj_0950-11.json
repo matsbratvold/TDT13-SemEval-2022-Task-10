@@ -1,0 +1,110 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "EDS"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "EDS"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "earned $ 315.8 million"
+                ],
+                [
+                    "25:47"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "EDS"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "EDS"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "EDS"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "EDS"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "EDS"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "EDS"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "The company has said it wants to boost non -GM revenue to at least 50 % of its total business by the end of 1990"
+                ],
+                [
+                    "307:419"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In the nine months , EDS earned $ 315.8 million , or $ 2.62 a share , up 13 % from $ 280.7 million , or $ 2.30 a share . Revenue rose 14 % to $ 4.03 billion from $ 3.54 billion . Revenue from non -GM accounts was 45 % of EDS 's total business in the latest nine months , compared with 40 % a year earlier . The company has said it wants to boost non -GM revenue to at least 50 % of its total business by the end of 1990 .",
+    "sent_id": "xbank/wsj_0950-11"
+}

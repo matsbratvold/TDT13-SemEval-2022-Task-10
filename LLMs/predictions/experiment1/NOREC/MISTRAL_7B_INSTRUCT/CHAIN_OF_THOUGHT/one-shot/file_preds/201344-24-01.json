@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Diameteren p\u00e5 49 millimeter"
+                ],
+                [
+                    "0:27"
+                ]
+            ],
+            "Target": [
+                [
+                    "Chronos Fenix"
+                ],
+                [
+                    "41:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "inneb\u00e6rer at"
+                ],
+                [
+                    "28:40"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Chronos Fenix"
+                ],
+                [
+                    "41:54"
+                ]
+            ],
+            "Target": [
+                [
+                    "Chronos Fenix"
+                ],
+                [
+                    "41:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "direkte er noen sm\u00e5gutt"
+                ],
+                [
+                    "60:83"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Chronos Fenix"
+                ],
+                [
+                    "41:54"
+                ]
+            ],
+            "Target": [
+                [
+                    "Chronos Fenix"
+                ],
+                [
+                    "41:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blant de st\u00f8rste i kategorien"
+                ],
+                [
+                    "109:138"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Diameteren p\u00e5 49 millimeter inneb\u00e6rer at Chronos Fenix ikke direkte er noen sm\u00e5gutt , men den er heller ikke blant de st\u00f8rste i kategorien .",
+    "sent_id": "201344-24-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "NSC"
+                ],
+                [
+                    "20:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "phase two"
+                ],
+                [
+                    "73:82"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "discussion"
+                ],
+                [
+                    "57:67"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "At the September 17 NSC meeting , there was some further discussion of \" phase two \" of the war on terrorism .",
+    "sent_id": "ula/chapter-10-59"
+}

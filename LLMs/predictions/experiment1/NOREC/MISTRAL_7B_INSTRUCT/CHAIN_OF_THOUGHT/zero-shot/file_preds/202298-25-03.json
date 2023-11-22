@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bilen"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "automatgir"
+                ],
+                [
+                    "44:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hybridl\u00f8sningen"
+                ],
+                [
+                    "76:91"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Bilen"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "modeller"
+                ],
+                [
+                    "102:110"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hybridl\u00f8sningen"
+                ],
+                [
+                    "76:91"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Bilen"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "modeller"
+                ],
+                [
+                    "102:110"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fem d\u00f8rer"
+                ],
+                [
+                    "137:146"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Bilen er lettkj\u00f8rt , stilleg\u00e5ende , den har automatgir som standard gjennom hybridl\u00f8sningen , og alle modeller som selges i Norge vil ha fem d\u00f8rer .",
+    "sent_id": "202298-25-03"
+}

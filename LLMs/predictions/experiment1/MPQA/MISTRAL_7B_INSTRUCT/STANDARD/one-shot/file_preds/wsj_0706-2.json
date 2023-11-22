@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Security"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "purchase La Jolla Bancorp"
+                ],
+                [
+                    "46:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "signed a letter of intent"
+                ],
+                [
+                    "17:42"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Security said it signed a letter of intent to purchase La Jolla Bancorp , agreeing to pay $ 15 of its own stock for each share of La Jolla . Based on the current number of La Jolla shares , that gives the transaction a value of $ 104 million .",
+    "sent_id": "xbank/wsj_0706-2"
+}

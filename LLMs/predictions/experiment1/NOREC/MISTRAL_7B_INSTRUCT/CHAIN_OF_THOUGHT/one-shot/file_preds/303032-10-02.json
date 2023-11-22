@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hans"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "Hjernen er alene"
+                ],
+                [
+                    "18:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "6:8"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Hans"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "Hver gang vi m\u00f8tes"
+                ],
+                [
+                    "100:118"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "6:8"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hans versjon av \u00ab Hjernen er alene \u00bb er dessuten det absolutte h\u00f8ydepunktet fra seks sesonger med \u00ab Hver gang vi m\u00f8tes \u00bb .",
+    "sent_id": "303032-10-02"
+}

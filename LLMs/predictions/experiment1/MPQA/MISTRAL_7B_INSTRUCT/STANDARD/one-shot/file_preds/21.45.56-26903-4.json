@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The slowdown in industry"
+                ],
+                [
+                    "0:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "an annualized 2.5 % fall in the number of industrial wage - earners"
+                ],
+                [
+                    "32:99"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "led to"
+                ],
+                [
+                    "25:31"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The number of wage - earners has fallen by at least 12,000 since the beginning of 2001"
+                ],
+                [
+                    "169:255"
+                ]
+            ],
+            "Target": [
+                [
+                    "including 10,000 in 2001"
+                ],
+                [
+                    "258:282"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "since"
+                ],
+                [
+                    "228:233"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The slowdown in industry led to an annualized 2.5 % fall in the number of industrial wage - earners , similar to January 's decline and following a 2.8 % drop in 2001 . The number of wage - earners has fallen by at least 12,000 since the beginning of 2001 , including 10,000 in 2001 .",
+    "sent_id": "20020424/21.45.56-26903-4"
+}

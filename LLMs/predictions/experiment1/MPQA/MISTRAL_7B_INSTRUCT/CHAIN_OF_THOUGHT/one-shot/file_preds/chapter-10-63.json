@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Shelton"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "reviewed"
+                ],
+                [
+                    "35:43"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Shelton told us the administration reviewed all the Pentagon 's war plans and challenged certain assumptions underlying them , as any prudent organization or leader should do .",
+    "sent_id": "ula/chapter-10-63"
+}

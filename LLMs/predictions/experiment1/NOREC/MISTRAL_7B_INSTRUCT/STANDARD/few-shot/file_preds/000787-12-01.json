@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "du"
+                ],
+                [
+                    "3:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "Donkey Kong-spillene"
+                ],
+                [
+                    "42:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "langt og kj\u00e6rlig"
+                ],
+                [
+                    "13:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "du"
+                ],
+                [
+                    "3:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "Donkey Kong Country Returns"
+                ],
+                [
+                    "77:104"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "spesielt"
+                ],
+                [
+                    "68:76"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Retro Studios"
+                ],
+                [
+                    "125:138"
+                ]
+            ],
+            "Target": [
+                [
+                    "Donkey Kong-spillene"
+                ],
+                [
+                    "42:62"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Om du har et langt og kj\u00e6rlig forhold til Donkey Kong-spillene \u2013 og spesielt Donkey Kong Country Returns fra 2010 \u2013 serverer Retro Studios mer av samme oppskrift .",
+    "sent_id": "000787-12-01"
+}

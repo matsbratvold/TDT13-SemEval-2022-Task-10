@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Kazakhstan Today"
+                ],
+                [
+                    "23:39"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Excerpt from report by Kazakhstan Today news agency web site",
+    "sent_id": "20011017/22.36.22-2937-0"
+}

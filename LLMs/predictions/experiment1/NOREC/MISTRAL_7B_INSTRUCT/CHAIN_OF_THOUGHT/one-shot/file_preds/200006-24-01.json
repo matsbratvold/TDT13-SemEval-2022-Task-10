@@ -1,0 +1,16 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Hvor er pulsm\u00e5leren ?",
+    "sent_id": "200006-24-01"
+}

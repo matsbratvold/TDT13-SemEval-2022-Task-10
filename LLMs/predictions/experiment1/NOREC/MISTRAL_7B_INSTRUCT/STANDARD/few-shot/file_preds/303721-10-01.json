@@ -1,0 +1,41 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Schmilco"
+                ],
+                [
+                    "63:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sl\u00e5ende lavm\u00e6lt"
+                ],
+                [
+                    "74:89"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "skranglete forgjengeren"
+                ],
+                [
+                    "107:130"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Selv om begge skivene har beina godt plassert p\u00e5 bordet , er \u00ab Schmilco \u00bb sl\u00e5ende lavm\u00e6lt satt opp mot den skranglete forgjengeren .",
+    "sent_id": "303721-10-01"
+}

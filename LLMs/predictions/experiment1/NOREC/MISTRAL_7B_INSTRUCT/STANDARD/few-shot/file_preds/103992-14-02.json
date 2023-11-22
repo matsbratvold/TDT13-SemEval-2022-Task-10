@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "komedie og drama"
+                ],
+                [
+                    "16:32"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Balansen mellom komedie og drama er dessuten helt forskj\u00f8vet .",
+    "sent_id": "103992-14-02"
+}

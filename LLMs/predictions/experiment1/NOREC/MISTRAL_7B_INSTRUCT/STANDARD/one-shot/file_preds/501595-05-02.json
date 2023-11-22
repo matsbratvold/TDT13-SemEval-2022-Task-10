@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det banet veien"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "den internasjonale retningen"
+                ],
+                [
+                    "20:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til den lille restauranten"
+                ],
+                [
+                    "49:75"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det banet veien for den internasjonale retningen til den lille restauranten , som en gang var kjent for sine franske menyer og sin edle vinkjeller .",
+    "sent_id": "501595-05-02"
+}

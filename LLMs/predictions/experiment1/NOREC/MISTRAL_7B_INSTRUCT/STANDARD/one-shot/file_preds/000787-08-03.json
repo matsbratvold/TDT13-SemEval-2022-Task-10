@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "To personer"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "To personer er noen ganger n\u00f8dvendig for \u00e5 samle alt .",
+    "sent_id": "000787-08-03"
+}

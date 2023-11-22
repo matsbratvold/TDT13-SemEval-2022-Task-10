@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Yaris"
+                ],
+                [
+                    "18:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "jobben"
+                ],
+                [
+                    "48:54"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Ute p\u00e5 veien gj\u00f8r Yaris fortsatt den samme gode jobben som f\u00f8r .",
+    "sent_id": "202298-25-01"
+}

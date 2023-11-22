@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Suksessen"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ble gjentatt"
+                ],
+                [
+                    "10:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Norwegian Wood"
+                ],
+                [
+                    "26:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ble gjentatt"
+                ],
+                [
+                    "10:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Vestlandshallen"
+                ],
+                [
+                    "114:129"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kom mer til sin rett"
+                ],
+                [
+                    "86:106"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Suksessen ble gjentatt p\u00e5 Norwegian Wood i Oslo , men det gedigne laser- og lysshowet kom mer til sin rett inne i Vestlandshallen .",
+    "sent_id": "304196-22-03"
+}

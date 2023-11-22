@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Russian officials"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "the conflict in Chechnya"
+                ],
+                [
+                    "71:95"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "portrayed"
+                ],
+                [
+                    "61:70"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "U.S. officials"
+                ],
+                [
+                    "140:154"
+                ]
+            ],
+            "Target": [
+                [
+                    "the conflict in Chechnya"
+                ],
+                [
+                    "71:95"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "endorsed"
+                ],
+                [
+                    "170:178"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Russian officials from President Vladimir Putin on down have portrayed the conflict in Chechnya as a war against international terrorists . U.S. officials have partially endorsed that view , pointing to rebel leaders such as Shamil Basayev and the Jordanian - born Omar Ibn al Khattab , who are believed to have financial and other ties to Osama bin Laden 's al - Qaida terrorist network .",
+    "sent_id": "non_fbis/08.40.56-18707-4"
+}

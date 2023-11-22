@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Her"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "24 / 7-brukere"
+                ],
+                [
+                    "10:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "av treningsklokker"
+                ],
+                [
+                    "27:45"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Her"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "muligheten til en real oppgradering p\u00e5 stilfronten"
+                ],
+                [
+                    "48:98"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Her har \u201c 24 / 7-brukere \u201d av treningsklokker , muligheten til en real oppgradering p\u00e5 stilfronten .",
+    "sent_id": "201344-29-04"
+}

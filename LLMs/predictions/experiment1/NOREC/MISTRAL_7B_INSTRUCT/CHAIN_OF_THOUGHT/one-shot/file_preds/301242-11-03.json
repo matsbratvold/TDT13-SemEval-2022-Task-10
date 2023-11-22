@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "den"
+                ],
+                [
+                    "3:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blitt til som et fors\u00f8k p\u00e5 \u00e5 gjenta den vellykkede formelen fra forrige bok"
+                ],
+                [
+                    "7:82"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Er den blitt til som et fors\u00f8k p\u00e5 \u00e5 gjenta den vellykkede formelen fra forrige bok , uten at stoffet har v\u00e6rt lydig mot intensjonen ?",
+    "sent_id": "301242-11-03"
+}

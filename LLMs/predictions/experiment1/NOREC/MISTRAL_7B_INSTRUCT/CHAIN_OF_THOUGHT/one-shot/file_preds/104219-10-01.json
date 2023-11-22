@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "romanen"
+                ],
+                [
+                    "22:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "oppleves ikke"
+                ],
+                [
+                    "8:21"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Likevel oppleves ikke romanen som helt vellykket .",
+    "sent_id": "104219-10-01"
+}

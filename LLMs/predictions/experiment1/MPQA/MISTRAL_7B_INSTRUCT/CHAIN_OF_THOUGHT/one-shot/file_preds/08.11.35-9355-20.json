@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Carmona"
+                ],
+                [
+                    "2:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "the restoration of the National Assembly"
+                ],
+                [
+                    "20:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "announces"
+                ],
+                [
+                    "10:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "- Carmona announces the restoration of the National Assembly , as Chavez cabinet members move into the Presidential palace and hold a meeting .",
+    "sent_id": "non_fbis/08.11.35-9355-20"
+}

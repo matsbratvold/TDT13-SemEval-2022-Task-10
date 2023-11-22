@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "tidsgrepet"
+                ],
+                [
+                    "21:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er at det burde gi seerne en enda mer perfekt unnskyldning til \u00e5 \u00ab binge \u00bb hele sesongen"
+                ],
+                [
+                    "34:122"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det interessante med tidsgrepet , er at det burde gi seerne en enda mer perfekt unnskyldning til \u00e5 \u00ab binge \u00bb hele sesongen .",
+    "sent_id": "103992-16-01"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Judging from a few texts that De Standaard was given access to"
+                ],
+                [
+                    "0:62"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Israeli Kahan Commission"
+                ],
+                [
+                    "101:129"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "seem to be related to"
+                ],
+                [
+                    "79:100"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "It published a report"
+                ],
+                [
+                    "215:236"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Israeli Kahan Commission"
+                ],
+                [
+                    "101:129"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "but not all the documents and interrogation reports were released"
+                ],
+                [
+                    "239:304"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "because they were deemed damaging to the state 's interests"
+                ],
+                [
+                    "307:366"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Israeli Kahan Commission"
+                ],
+                [
+                    "101:129"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "because they were deemed damaging to the state 's interests"
+                ],
+                [
+                    "307:366"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Judging from a few texts that De Standaard was given access to , the documents seem to be related to the Israeli Kahan Commission . This special commission investigated the Sabra and Shatila events in 1982 - 1983 . It published a report , but not all the documents and interrogation reports were released , because they were deemed damaging to the state 's interests .",
+    "sent_id": "20011127/21.22.54-17837-3"
+}

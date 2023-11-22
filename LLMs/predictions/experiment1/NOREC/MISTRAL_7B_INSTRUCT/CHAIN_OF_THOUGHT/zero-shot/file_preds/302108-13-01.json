@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Todd Terje"
+                ],
+                [
+                    "79:89"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tidlige"
+                ],
+                [
+                    "20:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Todd Terje"
+                ],
+                [
+                    "79:89"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Langt fra Afrika"
+                ],
+                [
+                    "30:46"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Todd Terje"
+                ],
+                [
+                    "79:89"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "geniale tapningen til Todd Terje"
+                ],
+                [
+                    "57:89"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Todd Terje"
+                ],
+                [
+                    "79:89"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en skikkelse med den samme fascinasjonen for det snurrige som DJ Koze"
+                ],
+                [
+                    "92:161"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det gj\u00f8r imidlertid tidlige \u00ab Langt fra Afrika \u00bb , i den geniale tapningen til Todd Terje \u2013 en skikkelse med den samme fascinasjonen for det snurrige som DJ Koze .",
+    "sent_id": "302108-13-01"
+}

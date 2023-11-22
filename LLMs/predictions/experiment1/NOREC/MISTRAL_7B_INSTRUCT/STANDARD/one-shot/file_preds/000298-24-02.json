@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Slik"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "og jeg venter spent p\u00e5 fortsettelsen"
+                ],
+                [
+                    "45:81"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Slik er det ogs\u00e5 i starten av andre sesong , og jeg venter spent p\u00e5 fortsettelsen .",
+    "sent_id": "000298-24-02"
+}

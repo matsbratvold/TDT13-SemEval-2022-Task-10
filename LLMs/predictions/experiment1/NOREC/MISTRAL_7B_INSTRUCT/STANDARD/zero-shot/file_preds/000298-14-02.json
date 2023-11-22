@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Og"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Claire og Jamie"
+                ],
+                [
+                    "34:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "spesielt fabelaktig"
+                ],
+                [
+                    "3:22"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Og spesielt fabelaktig er det n\u00e5r Claire og Jamie er i selskap p\u00e5 slottet i Versailles i andre episode .",
+    "sent_id": "000298-14-02"
+}

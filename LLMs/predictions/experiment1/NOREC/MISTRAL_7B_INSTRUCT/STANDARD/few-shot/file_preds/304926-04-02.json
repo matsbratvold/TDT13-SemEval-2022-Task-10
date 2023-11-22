@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jentas"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "hverdag"
+                ],
+                [
+                    "7:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "absurd mengde oppgaver"
+                ],
+                [
+                    "28:50"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Jentas"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "hverdag"
+                ],
+                [
+                    "7:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skal forberede henne p\u00e5 et suksessfullt voksenliv"
+                ],
+                [
+                    "55:104"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Jentas"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "hverdag"
+                ],
+                [
+                    "7:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "og som etterlater forsvinnende lite tid til det \u00e5 v\u00e6re barn"
+                ],
+                [
+                    "107:166"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Jentas hverdag best\u00e5r av en absurd mengde oppgaver som skal forberede henne p\u00e5 et suksessfullt voksenliv , og som etterlater forsvinnende lite tid til det \u00e5 v\u00e6re barn .",
+    "sent_id": "304926-04-02"
+}

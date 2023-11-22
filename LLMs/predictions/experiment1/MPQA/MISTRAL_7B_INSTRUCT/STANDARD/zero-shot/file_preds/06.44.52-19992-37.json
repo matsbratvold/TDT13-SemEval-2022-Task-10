@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Campion"
+                ],
+                [
+                    "67:74"
+                ]
+            ],
+            "Target": [
+                [
+                    "debates"
+                ],
+                [
+                    "33:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not holding any lengthy debates"
+                ],
+                [
+                    "9:40"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" We 're not holding any lengthy debates with them or anything , \" Campion says .",
+    "sent_id": "non_fbis/06.44.52-19992-37"
+}

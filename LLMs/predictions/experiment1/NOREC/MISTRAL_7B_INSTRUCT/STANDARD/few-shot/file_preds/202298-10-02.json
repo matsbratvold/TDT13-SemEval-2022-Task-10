@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hastigheten"
+                ],
+                [
+                    "22:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "heller ikke"
+                ],
+                [
+                    "10:21"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "gevinst"
+                ],
+                [
+                    "46:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "opprettholdt farten og fulgte trafikkbildet"
+                ],
+                [
+                    "60:103"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Vi senket heller ikke hastigheten for \u00e5 hente gevinst , men opprettholdt farten og fulgte trafikkbildet .",
+    "sent_id": "202298-10-02"
+}

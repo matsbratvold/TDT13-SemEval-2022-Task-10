@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Denne b\u00e5sen"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "musikere"
+                ],
+                [
+                    "76:84"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vanskelig \u00e5 sette"
+                ],
+                [
+                    "15:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Denne b\u00e5sen"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "musikere"
+                ],
+                [
+                    "76:84"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Denne b\u00e5sen"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "musikere"
+                ],
+                [
+                    "76:84"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "inkludert henne selv"
+                ],
+                [
+                    "87:107"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Denne b\u00e5sen er vanskelig \u00e5 sette , men i Holters versjon best\u00e5r den av fire musikere , inkludert henne selv .",
+    "sent_id": "104659-08-03"
+}

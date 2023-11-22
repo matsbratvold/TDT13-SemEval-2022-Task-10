@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "er"
+                ],
+                [
+                    "4:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "den ensformig kraftfull , eller kjedelig monoton ?"
+                ],
+                [
+                    "7:57"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men er den ensformig kraftfull , eller kjedelig monoton ?",
+    "sent_id": "002988-06-02"
+}

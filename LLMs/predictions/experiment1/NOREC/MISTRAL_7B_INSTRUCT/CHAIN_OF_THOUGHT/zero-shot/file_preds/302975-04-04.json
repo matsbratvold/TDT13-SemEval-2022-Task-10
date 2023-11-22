@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Barneb\u00f8ker"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "politisk budskap"
+                ],
+                [
+                    "30:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00e5 gjerne f\u00e5 ha"
+                ],
+                [
+                    "11:26"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Barneb\u00f8ker m\u00e5 gjerne f\u00e5 ha et politisk budskap .",
+    "sent_id": "302975-04-04"
+}

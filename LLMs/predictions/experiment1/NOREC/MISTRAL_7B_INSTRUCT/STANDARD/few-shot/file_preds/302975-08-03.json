@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Samir og familien hans"
+                ],
+                [
+                    "15:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "burde f\u00e5 vere i Noreg"
+                ],
+                [
+                    "38:59"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab Synest du at Samir og familien hans burde f\u00e5 vere i Noreg ? \u00bb , st\u00e5r det p\u00e5 siste side .",
+    "sent_id": "302975-08-03"
+}

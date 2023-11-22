@@ -1,0 +1,74 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Camp X - Ray"
+                ],
+                [
+                    "47:59"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "The American flag"
+                ],
+                [
+                    "62:79"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "painted on the guard towers"
+                ],
+                [
+                    "96:123"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "The American flag"
+                ],
+                [
+                    "62:79"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "flying high in front of the facility"
+                ],
+                [
+                    "126:162"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Concertina wire and nine guard towers surround Camp X - Ray . The American flag is everywhere - painted on the guard towers , flying high in front of the facility .",
+    "sent_id": "non_fbis/06.44.52-19992-45"
+}

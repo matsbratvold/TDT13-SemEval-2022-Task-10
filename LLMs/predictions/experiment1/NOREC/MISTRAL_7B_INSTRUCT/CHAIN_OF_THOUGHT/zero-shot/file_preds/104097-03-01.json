@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Nok"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Montenegro"
+                ],
+                [
+                    "87:97"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gutter serverer"
+                ],
+                [
+                    "148:163"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Nok et bidrag som benytter seg av samme moderne sound som JOWST , men klubbrytmene fra Montenegro er p\u00e5 langt n\u00e6r s\u00e5 sofistikerte som det v\u00e5re egne gutter serverer .",
+    "sent_id": "104097-03-01"
+}

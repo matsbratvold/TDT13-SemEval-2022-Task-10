@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Comprehensive Test Ban Treaty"
+                ],
+                [
+                    "55:84"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "freeze"
+                ],
+                [
+                    "89:95"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Biological Weapons Convention"
+                ],
+                [
+                    "295:324"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "implementation"
+                ],
+                [
+                    "271:285"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In July , the Bush administration decided to let the \" Comprehensive Test Ban Treaty \" \" freeze \" in the Senate . Hard on the heels of that decision , the US negotiation representative Marie Chevrier announced in Geneva that the Bush administration would not support the implementation of the \" Biological Weapons Convention \" and that the United States strongly objected to the concrete enforcement plan of this convention .",
+    "sent_id": "20011208/20.31.54-28680-4"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Wu Guoguang"
+                ],
+                [
+                    "23:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "Taiwan issue"
+                ],
+                [
+                    "127:139"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "trigger a defection"
+                ],
+                [
+                    "146:165"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The publication quoted Wu Guoguang , a professor at Hong Kong University , as saying that any concessions by Washington on the Taiwan issue could trigger a defection of its Asian allies , including Japan , to Beijing 's fold .",
+    "sent_id": "20010713/00.42.05-29788-6"
+}

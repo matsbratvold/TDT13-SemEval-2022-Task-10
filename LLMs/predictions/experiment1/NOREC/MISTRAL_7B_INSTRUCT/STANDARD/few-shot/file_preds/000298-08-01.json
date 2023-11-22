@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "sesongen"
+                ],
+                [
+                    "3:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ordentlig i gang"
+                ],
+                [
+                    "16:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "imidlertid ikke over dette grepet"
+                ],
+                [
+                    "44:77"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "imidlertid ikke"
+                ],
+                [
+                    "44:59"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Skottlands fremtid"
+                ],
+                [
+                    "191:209"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Skottlands fremtid"
+                ],
+                [
+                    "191:209"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Da sesongen kom ordentlig i gang dvelte den imidlertid ikke over dette grepet , og det tok ikke lang tid f\u00f8r jeg igjen var fullstendig oppslukt i Claires kamp for \u00e5 forandre fortiden , alts\u00e5 Skottlands fremtid .",
+    "sent_id": "000298-08-01"
+}

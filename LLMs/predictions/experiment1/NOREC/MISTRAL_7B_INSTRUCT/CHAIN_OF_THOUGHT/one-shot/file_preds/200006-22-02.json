@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "det bedre"
+                ],
+                [
+                    "6:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med en mer kvadratisk skjerm som p\u00e5 Fitbit Surge"
+                ],
+                [
+                    "16:64"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Da er det bedre med en mer kvadratisk skjerm som p\u00e5 Fitbit Surge .",
+    "sent_id": "200006-22-02"
+}

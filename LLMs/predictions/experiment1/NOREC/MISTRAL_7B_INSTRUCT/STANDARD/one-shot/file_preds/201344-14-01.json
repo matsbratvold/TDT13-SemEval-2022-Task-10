@@ -1,0 +1,76 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den opplevde"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "kvaliteten"
+                ],
+                [
+                    "13:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er god"
+                ],
+                [
+                    "24:30"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "og er faktisk p\u00e5 h\u00f8yde"
+                ],
+                [
+                    "33:55"
+                ]
+            ],
+            "Target": [
+                [
+                    "kvaliteten"
+                ],
+                [
+                    "13:23"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "med en del \u00ab dumme \u00bb klokker"
+                ],
+                [
+                    "56:84"
+                ]
+            ],
+            "Target": [
+                [
+                    "kvaliteten"
+                ],
+                [
+                    "13:23"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Den opplevde kvaliteten er god , og er faktisk p\u00e5 h\u00f8yde med en del \u00ab dumme \u00bb klokker i samme prisklasse .",
+    "sent_id": "201344-14-01"
+}

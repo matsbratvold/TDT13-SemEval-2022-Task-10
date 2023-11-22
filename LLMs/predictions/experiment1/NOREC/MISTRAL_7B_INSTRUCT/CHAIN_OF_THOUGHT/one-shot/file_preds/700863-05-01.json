@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Artikkelen"
+                ],
+                [
+                    "2:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fortsetter under bildet"
+                ],
+                [
+                    "13:36"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "( Artikkelen fortsetter under bildet )",
+    "sent_id": "700863-05-01"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Viaplay"
+                ],
+                [
+                    "24:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "Nye episoder"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Nye episoder f\u00e5r du hos Viaplay hver s\u00f8ndag .",
+    "sent_id": "000298-25-02"
+}

@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "alt"
+                ],
+                [
+                    "8:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "interessant for alle"
+                ],
+                [
+                    "20:40"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "alt"
+                ],
+                [
+                    "8:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skal det godt gj\u00f8res \u00e5 ikke finne noe her som vil interessere nettopp den enkelte"
+                ],
+                [
+                    "43:124"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Om ikke alt er like interessant for alle , skal det godt gj\u00f8res \u00e5 ikke finne noe her som vil interessere nettopp den enkelte .",
+    "sent_id": "601365-10-01"
+}

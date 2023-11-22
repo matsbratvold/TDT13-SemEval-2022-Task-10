@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Cabinet"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "Diet approval"
+                ],
+                [
+                    "25:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "endorsed"
+                ],
+                [
+                    "12:20"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "The Cabinet"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "approval"
+                ],
+                [
+                    "30:38"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "The Cabinet"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "measures to fight global warming"
+                ],
+                [
+                    "115:147"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "revision bill"
+                ],
+                [
+                    "98:111"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The Cabinet endorsed for Diet approval a bill for ratification of the Kyoto Protocol as well as a revision bill on measures to fight global warming . The bill was submitted to the Diet later that day .",
+    "sent_id": "non_fbis/04.24.14-26782-14"
+}

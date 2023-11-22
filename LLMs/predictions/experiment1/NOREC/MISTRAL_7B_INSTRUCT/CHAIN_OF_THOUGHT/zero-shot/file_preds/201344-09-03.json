@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Kanskje"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "en super match til dressen"
+                ],
+                [
+                    "13:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Kanskje"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Kanskje"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "den fremst\u00e5r som betydelig mer diskr\u00e9 enn hva vi typisk har sett fra andre modeller med tilsvarende funksjoner"
+                ],
+                [
+                    "46:156"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Kanskje"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Kanskje ikke en super match til dressen , men den fremst\u00e5r som betydelig mer diskr\u00e9 enn hva vi typisk har sett fra andre modeller med tilsvarende funksjoner .",
+    "sent_id": "201344-09-03"
+}

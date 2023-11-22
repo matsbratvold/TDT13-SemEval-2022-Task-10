@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "doctor"
+                ],
+                [
+                    "30:36"
+                ]
+            ],
+            "Target": [
+                [
+                    "Michel"
+                ],
+                [
+                    "2:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "yells"
+                ],
+                [
+                    "22:27"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "doctor"
+                ],
+                [
+                    "30:36"
+                ]
+            ],
+            "Target": [
+                [
+                    "Michel"
+                ],
+                [
+                    "2:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "You 're doing good"
+                ],
+                [
+                    "72:90"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "\" Michel ! Michel ! \" yells a doctor still in her operating clothes . \" You 're doing good . \"",
+    "sent_id": "non_fbis/06.44.52-19992-72"
+}

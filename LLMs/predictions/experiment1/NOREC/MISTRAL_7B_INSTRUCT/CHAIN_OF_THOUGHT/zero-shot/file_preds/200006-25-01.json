@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fitbit Alta"
+                ],
+                [
+                    "50:61"
+                ]
+            ],
+            "Target": [
+                [
+                    "Charge HR"
+                ],
+                [
+                    "102:111"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mangler funksjonene"
+                ],
+                [
+                    "62:81"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Til slutt , og kanskje det mest skuffende , er at Fitbit Alta mangler funksjonene vi liker s\u00e5 godt p\u00e5 Charge HR , som pulsm\u00e5ler og telling av antall trapper vi har g\u00e5tt i l\u00f8pet av en dag .",
+    "sent_id": "200006-25-01"
+}

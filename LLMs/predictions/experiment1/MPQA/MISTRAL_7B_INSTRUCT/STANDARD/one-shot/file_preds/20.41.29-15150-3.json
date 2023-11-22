@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Scientists"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "believe"
+                ],
+                [
+                    "11:18"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Scientists believe these ``greenhouse '' gases ( GHG ) , which mainly result from burning fossil fuels , raise the earth 's temperature and change the climate by creating floods , droughts , and other abnormal weather phenomena .",
+    "sent_id": "20011115/20.41.29-15150-3"
+}

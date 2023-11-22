@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "funk"
+                ],
+                [
+                    "15:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "litt funk"
+                ],
+                [
+                    "10:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "bl\u00e5s"
+                ],
+                [
+                    "22:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "og trance-aktige synthlinjer"
+                ],
+                [
+                    "27:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bl\u00e5s og trance-aktige synthlinjer"
+                ],
+                [
+                    "22:55"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "miksen"
+                ],
+                [
+                    "58:64"
+                ]
+            ],
+            "Target": [
+                [
+                    "og du"
+                ],
+                [
+                    "65:70"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "du har litt \u00e5 boltre deg i"
+                ],
+                [
+                    "68:94"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Sleng inn litt funk , bl\u00e5s og trance-aktige synthlinjer i miksen og du har litt \u00e5 boltre deg i .",
+    "sent_id": "301662-04-03"
+}

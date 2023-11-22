@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Robert Mellor"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "DIG"
+                ],
+                [
+                    "165:168"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said the company stands to reap more money"
+                ],
+                [
+                    "57:99"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Robert Mellor , Di Giorgio 's executive vice president , said the company stands to reap more money through the sale of individual units to others than by accepting DIG 's offer .",
+    "sent_id": "xbank/wsj_0815-3"
+}

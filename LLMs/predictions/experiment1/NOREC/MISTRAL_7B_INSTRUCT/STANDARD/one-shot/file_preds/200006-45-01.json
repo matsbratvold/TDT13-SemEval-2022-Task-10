@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Fitbit Blaze"
+                ],
+                [
+                    "39:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en ny treningsklokke"
+                ],
+                [
+                    "54:74"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Vi kommer snart tilbake med en test av Fitbit Blaze , en ny treningsklokke med fargeskjerm .",
+    "sent_id": "200006-45-01"
+}

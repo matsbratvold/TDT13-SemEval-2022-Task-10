@@ -1,0 +1,76 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Endless"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "stemningsfull"
+                ],
+                [
+                    "11:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "fin"
+                ],
+                [
+                    "27:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "og"
+                ],
+                [
+                    "33:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "veldig"
+                ],
+                [
+                    "36:42"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Frank Ocean"
+                ],
+                [
+                    "43:54"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Endless er stemningsfull , fin , og veldig Frank Ocean .",
+    "sent_id": "003036-12-01"
+}

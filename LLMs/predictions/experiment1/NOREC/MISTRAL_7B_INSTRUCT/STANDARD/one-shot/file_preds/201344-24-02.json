@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "den"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "overraskende godt"
+                ],
+                [
+                    "25:42"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "anmelders"
+                ],
+                [
+                    "46:55"
+                ]
+            ],
+            "Target": [
+                [
+                    "den"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "middels store h\u00e5ndledd"
+                ],
+                [
+                    "56:78"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Komfortmessig sitter den overraskende godt p\u00e5 anmelders middels store h\u00e5ndledd , b\u00e5de p\u00e5 lenke og rem .",
+    "sent_id": "201344-24-02"
+}

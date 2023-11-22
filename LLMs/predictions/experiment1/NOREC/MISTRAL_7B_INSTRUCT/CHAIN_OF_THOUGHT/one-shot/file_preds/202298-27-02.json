@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "skjermen"
+                ],
+                [
+                    "13:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "10:12"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "andre"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "skjermen"
+                ],
+                [
+                    "13:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i midtkonsollen"
+                ],
+                [
+                    "22:37"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "andre"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "skjermen"
+                ],
+                [
+                    "13:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som har f\u00e5tt en matt hine utenp\u00e5"
+                ],
+                [
+                    "40:72"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "andre"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "skjermen"
+                ],
+                [
+                    "13:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "antagelig for \u00e5 hindre gjenskinn"
+                ],
+                [
+                    "75:107"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det andre er skjermen i midtkonsollen , som har f\u00e5tt en matt hine utenp\u00e5 , antagelig for \u00e5 hindre gjenskinn .",
+    "sent_id": "202298-27-02"
+}

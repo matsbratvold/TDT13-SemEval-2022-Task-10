@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Tiramisuen"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med frisk ostekrem"
+                ],
+                [
+                    "11:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "fingerkjeks"
+                ],
+                [
+                    "32:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som enda ikke er blitt helt soggy"
+                ],
+                [
+                    "44:77"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "sjokoladebiter"
+                ],
+                [
+                    "81:95"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i bunnen"
+                ],
+                [
+                    "96:104"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Tiramisuen"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er den beste jeg har f\u00e5tt servert i Bergen"
+                ],
+                [
+                    "107:149"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Tiramisuen med frisk ostekrem , fingerkjeks som enda ikke er blitt helt soggy og sjokoladebiter i bunnen , er den beste jeg har f\u00e5tt servert i Bergen .",
+    "sent_id": "501595-12-04"
+}

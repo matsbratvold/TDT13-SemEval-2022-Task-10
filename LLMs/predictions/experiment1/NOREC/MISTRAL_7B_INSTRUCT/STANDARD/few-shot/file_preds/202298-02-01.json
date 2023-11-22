@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "b\u00f8nner"
+                ],
+                [
+                    "5:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "h\u00f8rt"
+                ],
+                [
+                    "15:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Yaris Hybrid"
+                ],
+                [
+                    "25:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blitt den bilen den burde v\u00e6rt hele tiden"
+                ],
+                [
+                    "41:82"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "V\u00e5re b\u00f8nner er h\u00f8rt , og Yaris Hybrid er blitt den bilen den burde v\u00e6rt hele tiden .",
+    "sent_id": "202298-02-01"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "US"
+                ],
+                [
+                    "54:56"
+                ]
+            ],
+            "Target": [
+                [
+                    "Geneva Convention"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "applies"
+                ],
+                [
+                    "18:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "US"
+                ],
+                [
+                    "54:56"
+                ]
+            ],
+            "Target": [
+                [
+                    "Taliban"
+                ],
+                [
+                    "29:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "applies"
+                ],
+                [
+                    "18:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "US"
+                ],
+                [
+                    "54:56"
+                ]
+            ],
+            "Target": [
+                [
+                    "Al Qaeda"
+                ],
+                [
+                    "43:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "applies"
+                ],
+                [
+                    "18:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Geneva Convention applies to Taliban , not Al Qaeda : US",
+    "sent_id": "non_fbis/04.28.09-24241-0"
+}

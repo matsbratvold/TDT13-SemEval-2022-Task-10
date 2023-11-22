@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Samir"
+                ],
+                [
+                    "22:27"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Etter at hun har m\u00f8tt Samir , og vi har blitt kjent med ham , er det ham vi f\u00f8lger videre .",
+    "sent_id": "302975-09-04"
+}

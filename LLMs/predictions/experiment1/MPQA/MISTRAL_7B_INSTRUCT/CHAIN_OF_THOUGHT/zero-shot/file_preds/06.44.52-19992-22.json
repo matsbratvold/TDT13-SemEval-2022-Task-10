@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Rights groups"
+                ],
+                [
+                    "175:188"
+                ]
+            ],
+            "Target": [
+                [
+                    "inhumane treatment"
+                ],
+                [
+                    "195:213"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cried"
+                ],
+                [
+                    "189:194"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The last time the Pentagon released pictures of the detainees - on their knees , wearing the goggles , and surrounded by guards - the images created an international uproar . Rights groups cried inhumane treatment .",
+    "sent_id": "non_fbis/06.44.52-19992-22"
+}

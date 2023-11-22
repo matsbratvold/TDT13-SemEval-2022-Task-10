@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Tadayoshi Sakaguchi"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "Yomiuri Shimbun"
+                ],
+                [
+                    "20:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Correspondent"
+                ],
+                [
+                    "36:49"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Tadayoshi Sakaguchi Yomiuri Shimbun Correspondent",
+    "sent_id": "non_fbis/04.24.14-26782-1"
+}

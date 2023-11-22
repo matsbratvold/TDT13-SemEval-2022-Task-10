@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Durotan"
+                ],
+                [
+                    "77:84"
+                ]
+            ],
+            "Target": [
+                [
+                    "muskelbunten Durotan"
+                ],
+                [
+                    "64:84"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hoggtannutspj\u00e5kede"
+                ],
+                [
+                    "45:63"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Durotan"
+                ],
+                [
+                    "77:84"
+                ]
+            ],
+            "Target": [
+                [
+                    "h\u00f8ygravide kone"
+                ],
+                [
+                    "93:108"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gleder seg til at"
+                ],
+                [
+                    "109:126"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Durotan"
+                ],
+                [
+                    "77:84"
+                ]
+            ],
+            "Target": [
+                [
+                    "ungen"
+                ],
+                [
+                    "127:132"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skal bli f\u00f8dt"
+                ],
+                [
+                    "139:152"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det starter med en lett munter scene der den hoggtannutspj\u00e5kede muskelbunten Durotan og hans h\u00f8ygravide kone gleder seg til at ungen deres skal bli f\u00f8dt .",
+    "sent_id": "700863-04-02"
+}

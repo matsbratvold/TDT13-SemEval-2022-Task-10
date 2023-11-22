@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Pentagon"
+                ],
+                [
+                    "38:46"
+                ]
+            ],
+            "Target": [
+                [
+                    "detainees"
+                ],
+                [
+                    "55:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "carrying"
+                ],
+                [
+                    "8:16"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Donald Rumsfeld"
+                ],
+                [
+                    "113:128"
+                ]
+            ],
+            "Target": [
+                [
+                    "expansion"
+                ],
+                [
+                    "137:146"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "pending"
+                ],
+                [
+                    "129:136"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Flights carrying up to 30 of what the Pentagon calls \" detainees \" were suspended on Jan 23 by defence secretary Donald Rumsfeld pending expansion of outdoor jail facilities at the American base .",
+    "sent_id": "non_fbis/04.28.09-24241-9"
+}

@@ -1,0 +1,102 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "industry"
+                ],
+                [
+                    "16:24"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "annualized 2.5 % fall"
+                ],
+                [
+                    "35:56"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "industry"
+                ],
+                [
+                    "16:24"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "2.8 % drop in 2001"
+                ],
+                [
+                    "148:166"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "industry"
+                ],
+                [
+                    "16:24"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "fallen by at least 12,000 since the beginning of 2001"
+                ],
+                [
+                    "202:255"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "industry"
+                ],
+                [
+                    "16:24"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "including 10,000 in 2001"
+                ],
+                [
+                    "258:282"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The slowdown in industry led to an annualized 2.5 % fall in the number of industrial wage - earners , similar to January 's decline and following a 2.8 % drop in 2001 . The number of wage - earners has fallen by at least 12,000 since the beginning of 2001 , including 10,000 in 2001 .",
+    "sent_id": "20020424/21.45.56-26903-4"
+}

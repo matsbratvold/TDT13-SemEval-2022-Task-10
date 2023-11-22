@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sofia"
+                ],
+                [
+                    "62:67"
+                ]
+            ],
+            "Target": [
+                [
+                    "Ingrid Bauer"
+                ],
+                [
+                    "43:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "godt p\u00e5 vei"
+                ],
+                [
+                    "22:33"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sofia"
+                ],
+                [
+                    "62:67"
+                ]
+            ],
+            "Target": [
+                [
+                    "menn av forskjellig opphav"
+                ],
+                [
+                    "98:124"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forelsker seg i"
+                ],
+                [
+                    "68:83"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sofia"
+                ],
+                [
+                    "62:67"
+                ]
+            ],
+            "Target": [
+                [
+                    "unge kvinnene"
+                ],
+                [
+                    "138:151"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "holder seg til"
+                ],
+                [
+                    "160:174"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "De blir begge hjulpet godt p\u00e5 vei av tyske Ingrid Bauer , som Sofia forelsker seg i , samt et-par menn av forskjellig opphav som begge de unge kvinnene ogs\u00e5 forholder seg til mens de utforsker omgangsformer , kj\u00f8nn og identitet .",
+    "sent_id": "703572-07-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Security Pacific Corp."
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "buying its second bank holding company this year"
+                ],
+                [
+                    "45:93"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "set its sights on"
+                ],
+                [
+                    "27:44"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Security Pacific Corp. has set its sights on buying its second bank holding company this year .",
+    "sent_id": "xbank/wsj_0706-1"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "enkelte"
+                ],
+                [
+                    "4:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "lekrere design"
+                ],
+                [
+                    "40:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "prisp\u00e5slaget"
+                ],
+                [
+                    "20:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "andre"
+                ],
+                [
+                    "97:102"
+                ]
+            ],
+            "Target": [
+                [
+                    "lekrere design"
+                ],
+                [
+                    "40:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "merkets egen Fenix 3 HR"
+                ],
+                [
+                    "111:134"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "For enkelte vil nok prisp\u00e5slaget for et lekrere design st\u00e5l eller titan v\u00e6re verdt det , men for andre vil nok merkets egen Fenix 3 HR , v\u00e6re et mer attraktivt alternativ .",
+    "sent_id": "201344-30-02"
+}

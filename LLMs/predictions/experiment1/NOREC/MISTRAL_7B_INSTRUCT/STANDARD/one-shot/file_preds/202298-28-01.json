@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Yaris"
+                ],
+                [
+                    "71:76"
+                ]
+            ],
+            "Target": [
+                [
+                    "skjermene"
+                ],
+                [
+                    "25:34"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Yaris"
+                ],
+                [
+                    "71:76"
+                ]
+            ],
+            "Target": [
+                [
+                    "modellene"
+                ],
+                [
+                    "224:233"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sitter"
+                ],
+                [
+                    "170:176"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Med alle de s\u00e6rdeles bra skjermene som n\u00e5 er kommet p\u00e5 markedet henger Yaris derfor et langt steg etter , og strengt tatt er det ikke et problem bare for Yaris , men her sitter den litt mer utsatt til enn i de \u00f8vrige Toyota-modellene .",
+    "sent_id": "202298-28-01"
+}

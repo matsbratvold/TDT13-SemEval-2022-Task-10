@@ -1,0 +1,110 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "rettsoppgj\u00f8ret"
+                ],
+                [
+                    "15:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kritiserte"
+                ],
+                [
+                    "4:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "vanlige folk"
+                ],
+                [
+                    "44:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ramme"
+                ],
+                [
+                    "36:41"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "rettsoppgj\u00f8ret"
+                ],
+                [
+                    "15:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gikk fri"
+                ],
+                [
+                    "82:90"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "rettsoppgj\u00f8ret"
+                ],
+                [
+                    "15:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fortsatte"
+                ],
+                [
+                    "94:103"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Han kritiserte rettsoppgj\u00f8ret for \u00e5 ramme \" vanlige folk \" , mens samfunnstoppene gikk fri og fortsatte i sine stillinger etter krigen som intet var hendt .",
+    "sent_id": "601408-04-01"
+}

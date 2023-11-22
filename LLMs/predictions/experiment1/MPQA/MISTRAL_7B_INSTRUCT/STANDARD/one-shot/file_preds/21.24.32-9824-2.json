@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "navy gunboats and helicopter gunships"
+                ],
+                [
+                    "8:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "repulsed"
+                ],
+                [
+                    "46:54"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "reports"
+                ],
+                [
+                    "84:91"
+                ]
+            ],
+            "Target": [
+                [
+                    "at least two rebel craft"
+                ],
+                [
+                    "102:126"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blown out of the water"
+                ],
+                [
+                    "136:158"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "reports"
+                ],
+                [
+                    "84:91"
+                ]
+            ],
+            "Target": [
+                [
+                    "casualties"
+                ],
+                [
+                    "196:206"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "no immediate reports"
+                ],
+                [
+                    "172:192"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "He said navy gunboats and helicopter gunships repulsed the initial attack and first reports indicated at least two rebel craft had been blown out of the water . There were no immediate reports of casualties .",
+    "sent_id": "20010916/21.24.32-9824-2"
+}

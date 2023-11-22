@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "86:100"
+                ]
+            ],
+            "Target": [
+                [
+                    "an appropriate ultimatum to the Taliban"
+                ],
+                [
+                    "121:160"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "wanted"
+                ],
+                [
+                    "261:267"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "86:100"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Taliban"
+                ],
+                [
+                    "149:160"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "wanted"
+                ],
+                [
+                    "261:267"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "86:100"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Taliban"
+                ],
+                [
+                    "149:160"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "made clear"
+                ],
+                [
+                    "399:409"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "At the September 13 NSC meeting , when Secretary Powell described Pakistan 's reply , President Bush led a discussion of an appropriate ultimatum to the Taliban . He also ordered Secretary Rumsfeld to develop a military plan against the Taliban . The President wanted the United States to strike the Taliban , step back , wait to see if they got the message , and hit them hard if they did not . He made clear that the military should focus on targets that would influence the Taliban 's behavior .",
+    "sent_id": "ula/chapter-10-32"
+}

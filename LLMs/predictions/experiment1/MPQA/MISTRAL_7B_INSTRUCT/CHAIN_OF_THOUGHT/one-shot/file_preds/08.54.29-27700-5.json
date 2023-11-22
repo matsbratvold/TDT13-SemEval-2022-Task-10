@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Bush administration"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "the coup"
+                ],
+                [
+                    "41:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "welcomed"
+                ],
+                [
+                    "32:40"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The Bush administration"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "the US role as a champion of democracy"
+                ],
+                [
+                    "63:101"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The Bush administration all but welcomed the coup , tarnishing the US role as a champion of democracy . It , too , has a reason to repent .",
+    "sent_id": "non_fbis/08.54.29-27700-5"
+}

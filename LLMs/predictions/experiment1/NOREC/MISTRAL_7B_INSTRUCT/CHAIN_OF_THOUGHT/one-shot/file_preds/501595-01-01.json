@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Munken bistro"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Peru"
+                ],
+                [
+                    "18:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tar"
+                ],
+                [
+                    "14:17"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Munken bistro"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Nordnes"
+                ],
+                [
+                    "27:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til"
+                ],
+                [
+                    "23:26"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Munken bistro tar Peru til Nordnes",
+    "sent_id": "501595-01-01"
+}

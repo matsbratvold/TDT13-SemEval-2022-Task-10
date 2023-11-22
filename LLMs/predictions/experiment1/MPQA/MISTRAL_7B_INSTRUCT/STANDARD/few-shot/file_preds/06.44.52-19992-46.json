@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the camp"
+                ],
+                [
+                    "33:41"
+                ]
+            ],
+            "Target": [
+                [
+                    "a pretty setting"
+                ],
+                [
+                    "56:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "does not have"
+                ],
+                [
+                    "42:55"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Unlike other parts of the base , the camp does not have a pretty setting . Turkey vultures hover over thick brush and scraggly hills .",
+    "sent_id": "non_fbis/06.44.52-19992-46"
+}

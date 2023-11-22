@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Med Jawbone"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "REM-s\u00f8vn"
+                ],
+                [
+                    "44:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hvor mye"
+                ],
+                [
+                    "35:43"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Med Jawbone kan vi for eksempel se hvor mye REM-s\u00f8vn man har hatt i l\u00f8pet av en natt .",
+    "sent_id": "200006-37-02"
+}

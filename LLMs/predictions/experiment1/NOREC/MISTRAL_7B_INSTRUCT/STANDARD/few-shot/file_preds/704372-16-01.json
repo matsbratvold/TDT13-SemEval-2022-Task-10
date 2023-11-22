@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "P\u00e4rlor"
+                ],
+                [
+                    "2:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er en sang som knytter neven i v\u00e6ret"
+                ],
+                [
+                    "11:47"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "\" P\u00e4rlor \" er en sang som knytter neven i v\u00e6ret , om enn p\u00e5 dansegulvet .",
+    "sent_id": "704372-16-01"
+}

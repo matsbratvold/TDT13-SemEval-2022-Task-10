@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Frank Ocean"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "selv"
+                ],
+                [
+                    "28:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mister ikke seg selv"
+                ],
+                [
+                    "12:32"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Frank Ocean mister ikke seg selv underveis , selv om det er mange kokker som har v\u00e6rt med \u00e5 jobbe frem albumet .",
+    "sent_id": "003036-09-01"
+}

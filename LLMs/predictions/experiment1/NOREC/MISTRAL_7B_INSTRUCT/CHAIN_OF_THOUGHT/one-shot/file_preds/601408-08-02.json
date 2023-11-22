@@ -1,0 +1,111 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det er"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "greit nok"
+                ],
+                [
+                    "19:28"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "men"
+                ],
+                [
+                    "31:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "bokformen"
+                ],
+                [
+                    "35:44"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "krever"
+                ],
+                [
+                    "45:51"
+                ]
+            ],
+            "Target": [
+                [
+                    "etter mitt syn"
+                ],
+                [
+                    "54:68"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "en"
+                ],
+                [
+                    "32:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "mer analytisk tiln\u00e6rming og begrunnelse for utvalget"
+                ],
+                [
+                    "74:126"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "ja"
+                ],
+                [
+                    "129:131"
+                ]
+            ],
+            "Target": [
+                [
+                    "hele utgivelsen"
+                ],
+                [
+                    "138:153"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det er for s\u00e5 vidt greit nok , men bokformen krever , etter mitt syn , en mer analytisk tiln\u00e6rming og begrunnelse for utvalget , ja , for hele utgivelsen .",
+    "sent_id": "601408-08-02"
+}

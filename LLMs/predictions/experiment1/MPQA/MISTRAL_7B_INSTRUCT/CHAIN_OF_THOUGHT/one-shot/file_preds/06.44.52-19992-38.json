@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Marine Corps Lt. Abuhena Mohammad Saiful"
+                ],
+                [
+                    "0:40"
+                ]
+            ],
+            "Target": [
+                [
+                    "Islam"
+                ],
+                [
+                    "43:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "speaks"
+                ],
+                [
+                    "56:62"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Marine Corps Lt. Abuhena Mohammad Saiful - Islam , 39 , speaks more with the detainees than almost anybody at the camp . As the Muslim chaplain , he ministers at the facility up to five hours every day .",
+    "sent_id": "non_fbis/06.44.52-19992-38"
+}

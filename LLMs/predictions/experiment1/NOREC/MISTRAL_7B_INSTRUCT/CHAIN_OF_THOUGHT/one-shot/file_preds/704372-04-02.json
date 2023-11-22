@@ -1,0 +1,66 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "ung og s\u00f8kende"
+                ],
+                [
+                    "12:26"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "K\u00e4nn ingen sorg"
+                ],
+                [
+                    "39:54"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "16 \u00e5r senere mer desillusjonert"
+                ],
+                [
+                    "83:114"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Der han var ung og s\u00f8kende i debuten \" K\u00e4nn ingen sorg for mig G\u00f6teborg \" , er han 16 \u00e5r senere mer desillusjonert .",
+    "sent_id": "704372-04-02"
+}

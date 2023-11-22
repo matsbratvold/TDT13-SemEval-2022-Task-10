@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Samirs r\u00f8de redningsvest"
+                ],
+                [
+                    "0:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "mammas r\u00f8de sjal"
+                ],
+                [
+                    "28:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forteller"
+                ],
+                [
+                    "45:54"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Samirs r\u00f8de redningsvest og mammas r\u00f8de sjal forteller umiddelbart hva som har skjedd , selv om det ikke st\u00e5r i teksten .",
+    "sent_id": "302975-16-03"
+}

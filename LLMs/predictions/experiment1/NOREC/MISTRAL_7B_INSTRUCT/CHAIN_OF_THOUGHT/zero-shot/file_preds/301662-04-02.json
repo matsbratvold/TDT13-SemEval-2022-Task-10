@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Grunnstammen"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Blood Command"
+                ],
+                [
+                    "48:61"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "punk"
+                ],
+                [
+                    "25:29"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Grunnstammen"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Blood Command"
+                ],
+                [
+                    "48:61"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hardcore"
+                ],
+                [
+                    "33:41"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Blood Command"
+                ],
+                [
+                    "48:61"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "melodier"
+                ],
+                [
+                    "80:88"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Grunnstammen er fortsatt punk og hardcore , men Blood Command skriver i tillegg melodier som de djerveste popsnekkerne vil misunne dem .",
+    "sent_id": "301662-04-02"
+}

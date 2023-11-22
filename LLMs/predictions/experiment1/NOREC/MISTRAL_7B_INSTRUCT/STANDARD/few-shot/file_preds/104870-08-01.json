@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "kart og terreng"
+                ],
+                [
+                    "6:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tydeligere avklart"
+                ],
+                [
+                    "22:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "kart og terreng"
+                ],
+                [
+                    "6:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "om ikke helt ferdig samstemt"
+                ],
+                [
+                    "43:71"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "N\u00e5 er kart og terreng tydeligere avklart , om ikke helt ferdig samstemt .",
+    "sent_id": "104870-08-01"
+}

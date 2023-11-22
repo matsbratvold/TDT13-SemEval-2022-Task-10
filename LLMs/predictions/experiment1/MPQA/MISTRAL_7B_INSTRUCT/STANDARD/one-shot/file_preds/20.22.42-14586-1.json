@@ -1,0 +1,50 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Powell"
+                ],
+                [
+                    "66:72"
+                ]
+            ],
+            "Target": [
+                [
+                    "several actions by President Chavez"
+                ],
+                [
+                    "99:134"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Garcia Ponce"
+                ],
+                [
+                    "413:425"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Last Tuesday , before the US Senate 's Foreign Policy Committee , Powell voiced his concern over \" several actions by President Chavez and his ideas of what is a democratic system . \" He also criticized the visits by the chief of state to countries that are on the black list of supporters of terrorism , published by the administration of President George W. Bush , including Cuba , Libya , and Iraq . Guillermo Garcia Ponce Click here to view picture of Garcia Ponce , chief of the board of directors of the Political Command of the Revolution [ CPR ] , described Powell 's statement as \" unusual \" and added that it does not reflect the friendly relations between Caracas and Washington .",
+    "sent_id": "20020207/20.22.42-14586-1"
+}

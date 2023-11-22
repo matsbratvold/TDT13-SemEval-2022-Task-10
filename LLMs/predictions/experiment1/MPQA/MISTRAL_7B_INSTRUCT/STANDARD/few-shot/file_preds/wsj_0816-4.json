@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The less - than - robust third - quarter results"
+                ],
+                [
+                    "0:48"
+                ]
+            ],
+            "Target": [
+                [
+                    "renewed concern about the volatility of stock prices and the role of computer - aided program trading"
+                ],
+                [
+                    "59:160"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "came amid"
+                ],
+                [
+                    "49:58"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "a broad sell - off of stocks"
+                ],
+                [
+                    "201:229"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "prompted"
+                ],
+                [
+                    "192:200"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The number of stocks on the New York Stock Exchange that fell in price yesterday exceeded 1,000"
+                ],
+                [
+                    "232:327"
+                ]
+            ],
+            "Target": [
+                [
+                    "a key measure of underlying sentiment among technical analysts"
+                ],
+                [
+                    "330:392"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "exceeded"
+                ],
+                [
+                    "313:321"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The less - than - robust third - quarter results came amid renewed concern about the volatility of stock prices and the role of computer - aided program trading . Taken together , the worries prompted a broad sell - off of stocks . The number of stocks on the New York Stock Exchange that fell in price yesterday exceeded 1,000 , a key measure of underlying sentiment among technical analysts .",
+    "sent_id": "xbank/wsj_0816-4"
+}

@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Skjebnesymfonien"
+                ],
+                [
+                    "30:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "like gjerne"
+                ],
+                [
+                    "9:20"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "sjokkartet"
+                ],
+                [
+                    "54:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "omdreiningen"
+                ],
+                [
+                    "68:80"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Vi kunne like gjerne nynnet \u00ab Skjebnesymfonien \u00bb , s\u00e5 sjokkartet er omdreiningen .",
+    "sent_id": "302975-14-03"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Larsen"
+                ],
+                [
+                    "2:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "band"
+                ],
+                [
+                    "19:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fine"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Larsen"
+                ],
+                [
+                    "2:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "band"
+                ],
+                [
+                    "19:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nye"
+                ],
+                [
+                    "15:18"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Harris"
+                ],
+                [
+                    "57:63"
+                ]
+            ],
+            "Target": [
+                [
+                    "tidligere"
+                ],
+                [
+                    "64:73"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "jobbet med"
+                ],
+                [
+                    "38:48"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "( Larsens fine nye band har for \u00f8vrig jobbet med nettopp Harris tidligere ) .",
+    "sent_id": "104870-10-02"
+}

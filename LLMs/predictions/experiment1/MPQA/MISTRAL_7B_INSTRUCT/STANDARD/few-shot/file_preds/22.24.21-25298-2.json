@@ -1,0 +1,106 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the French Foreign Affairs Ministry"
+                ],
+                [
+                    "145:180"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "said"
+                ],
+                [
+                    "181:185"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "United Nations Secretary - General Kofi Annan"
+                ],
+                [
+                    "310:355"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "called on"
+                ],
+                [
+                    "552:561"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Javier Solana"
+                ],
+                [
+                    "445:458"
+                ]
+            ],
+            "Target": [
+                [
+                    "collectively expressed their full support to the Middle East mission"
+                ],
+                [
+                    "661:729"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "expressed"
+                ],
+                [
+                    "674:683"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Francois Rivasseau"
+                ],
+                [
+                    "987:1005"
+                ]
+            ],
+            "Target": [
+                [
+                    "to whom we renew our support in his difficult mission"
+                ],
+                [
+                    "843:896"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Paris , 10 April : \" The conditions are now in place for the United States and the European Union to combine their efforts to work for peace , \" the French Foreign Affairs Ministry said on Thursday [ as received - presumably meant to read Wednesday 10 April ] following the Madrid meeting on the Middle East . United Nations Secretary - General Kofi Annan , the European high representative for the common foreign and security policy ( CFSP ) , Javier Solana , and the foreign ministers of Spain and Russia , Josep Pique and Igor Ivanov , on Wednesday called on Israel to \" withdraw immediately \" from all Palestinian areas that have recently been occupied and collectively expressed their full support to the Middle East mission US Secretary of State Colin Powell is going to undertake . \" This support will be an asset for Mr Colin Powell , to whom we renew our support in his difficult mission , \" according to the communique of the spokesman of the French Foreign Affairs Ministry , Francois Rivasseau .",
+    "sent_id": "20020410/22.24.21-25298-2"
+}

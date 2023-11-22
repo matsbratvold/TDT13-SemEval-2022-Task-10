@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "han"
+                ],
+                [
+                    "20:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "tredeler"
+                ],
+                [
+                    "11:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "opp"
+                ],
+                [
+                    "7:10"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "L\u00f8fter opp tredeler han har sl\u00e5tt sammen og setter det p\u00e5 et stillas .",
+    "sent_id": "003036-06-04"
+}

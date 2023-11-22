@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Og"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "manusforfatterne"
+                ],
+                [
+                    "6:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "klar"
+                ],
+                [
+                    "26:30"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Og at manusforfatterne er klar over det .",
+    "sent_id": "103992-16-04"
+}

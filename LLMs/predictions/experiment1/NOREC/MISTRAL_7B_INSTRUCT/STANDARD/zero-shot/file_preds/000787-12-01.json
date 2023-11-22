@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Donkey Kong-spillene"
+                ],
+                [
+                    "42:62"
+                ]
+            ],
+            "Target": [
+                [
+                    "Retro Studios"
+                ],
+                [
+                    "125:138"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "langt og kj\u00e6rlig"
+                ],
+                [
+                    "13:29"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Om du har et langt og kj\u00e6rlig forhold til Donkey Kong-spillene \u2013 og spesielt Donkey Kong Country Returns fra 2010 \u2013 serverer Retro Studios mer av samme oppskrift .",
+    "sent_id": "000787-12-01"
+}

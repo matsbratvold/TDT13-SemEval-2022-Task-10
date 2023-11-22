@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "GMAC"
+                ],
+                [
+                    "3:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "net dropped"
+                ],
+                [
+                    "10:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dropped"
+                ],
+                [
+                    "14:21"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "GMAC"
+                ],
+                [
+                    "3:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "finance unit attributed"
+                ],
+                [
+                    "74:97"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "attributed"
+                ],
+                [
+                    "87:97"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "GMAC"
+                ],
+                [
+                    "3:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "automotive financing and leasing business rose"
+                ],
+                [
+                    "181:227"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rose"
+                ],
+                [
+                    "223:227"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "At GMAC , net dropped 3.1 % to $ 234.5 million from $ 241.9 million . The finance unit attributed the decline to higher borrowing costs compared with a year earlier . GMAC said its automotive financing and leasing business rose 35 % in the U.S. , largely because of dealer and customer incentives used to boost sales . GMAC profits are combined with earnings from the rest of GM 's operations and attributed to the company 's traditional common stock .",
+    "sent_id": "xbank/wsj_0950-8"
+}

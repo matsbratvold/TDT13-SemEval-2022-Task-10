@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "religious freedom"
+                ],
+                [
+                    "85:102"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "violated"
+                ],
+                [
+                    "107:115"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "To back up their reckless conclusion , the report lists many incidents where it said religious freedom was violated .",
+    "sent_id": "temp_fbis/21.37.46-9337-18"
+}

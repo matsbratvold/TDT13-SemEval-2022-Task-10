@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Den opplevde kvaliteten"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "h\u00f8y"
+                ],
+                [
+                    "27:30"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "p\u00e5standen om \u201c urmakerkvalitet "
+                ],
+                [
+                    "36:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "langt p\u00e5 vei forsvarbar "
+                ],
+                [
+                    "72:96"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Den opplevde kvaliteten er h\u00f8y , og p\u00e5standen om \u201c urmakerkvalitet \u201d er langt p\u00e5 vei forsvarbar .",
+    "sent_id": "201344-29-03"
+}

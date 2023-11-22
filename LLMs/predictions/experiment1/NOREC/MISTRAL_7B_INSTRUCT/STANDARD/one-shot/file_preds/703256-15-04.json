@@ -1,0 +1,50 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Mor Henriette"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Mor Henriette"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "overspent og skj\u00f8r og desperat i jakten p\u00e5 lys og lykke"
+                ],
+                [
+                    "44:99"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Mor Henriette ( Kj\u00e6rsti Odden Skjeldal ) er overspent og skj\u00f8r og desperat i jakten p\u00e5 lys og lykke , og hushjelpen ( Gretelill Tangen ) er den som har fulgt familien i generasjoner - sterk og klar og alltid jordn\u00e6r .",
+    "sent_id": "703256-15-04"
+}

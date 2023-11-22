@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Mer"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Jonathan Wilson"
+                ],
+                [
+                    "71:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "overraskende"
+                ],
+                [
+                    "4:16"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Mer"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Jonathan Wilson"
+                ],
+                [
+                    "71:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kanskje"
+                ],
+                [
+                    "24:31"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Mer"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Jonathan Wilson"
+                ],
+                [
+                    "71:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "han har med seg"
+                ],
+                [
+                    "35:50"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Mer"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Jonathan Wilson"
+                ],
+                [
+                    "71:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hippiemusikeren"
+                ],
+                [
+                    "53:68"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Mer"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Jonathan Wilson"
+                ],
+                [
+                    "71:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en av fire / fem som trakterer gitar og keyboards"
+                ],
+                [
+                    "89:138"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Mer overraskende er det kanskje at han har med seg \u00ab hippiemusikeren \u00bb Jonathan Wilson , en av fire / fem som trakterer gitar og keyboards .",
+    "sent_id": "304196-19-01"
+}

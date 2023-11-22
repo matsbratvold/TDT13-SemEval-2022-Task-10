@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "detainees"
+                ],
+                [
+                    "9:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "Stars and Stripes"
+                ],
+                [
+                    "58:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "painted"
+                ],
+                [
+                    "76:83"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "When the detainees look up at a watchtower , they see the Stars and Stripes painted on the front of the sniper 's perch .",
+    "sent_id": "non_fbis/12.46.57-22041-26"
+}

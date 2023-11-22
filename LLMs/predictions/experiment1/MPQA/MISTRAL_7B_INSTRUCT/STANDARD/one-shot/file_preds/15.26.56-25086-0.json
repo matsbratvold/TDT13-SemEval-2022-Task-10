@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Brazil and Germany"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "implementation of Kyoto Protocol"
+                ],
+                [
+                    "28:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "call for"
+                ],
+                [
+                    "19:27"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Brazil and Germany call for implementation of Kyoto Protocol by September",
+    "sent_id": "non_fbis/15.26.56-25086-0"
+}

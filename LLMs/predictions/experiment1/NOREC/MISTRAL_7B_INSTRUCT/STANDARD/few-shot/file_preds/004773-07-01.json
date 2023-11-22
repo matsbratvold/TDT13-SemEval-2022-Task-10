@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Daniel ( Dave Johns )"
+                ],
+                [
+                    "29:50"
+                ]
+            ],
+            "Target": [
+                [
+                    "jobbforbud"
+                ],
+                [
+                    "55:65"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00e5r"
+                ],
+                [
+                    "51:54"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Daniel ( Dave Johns )"
+                ],
+                [
+                    "29:50"
+                ]
+            ],
+            "Target": [
+                [
+                    "legen"
+                ],
+                [
+                    "70:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "etter et hjerteinfarkt"
+                ],
+                [
+                    "76:98"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Daniel ( Dave Johns )"
+                ],
+                [
+                    "29:50"
+                ]
+            ],
+            "Target": [
+                [
+                    "velferdssystem"
+                ],
+                [
+                    "146:160"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gir ham motstridende meldinger om hva han skal og ikke skal gj\u00f8re"
+                ],
+                [
+                    "165:230"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Den middelaldrende snekkeren Daniel ( Dave Johns ) f\u00e5r jobbforbud fra legen etter et hjerteinfarkt , og opplever \u00e5 bli kasteball i et forvirrende velferdssystem som gir ham motstridende meldinger om hva han skal og ikke skal gj\u00f8re .",
+    "sent_id": "004773-07-01"
+}

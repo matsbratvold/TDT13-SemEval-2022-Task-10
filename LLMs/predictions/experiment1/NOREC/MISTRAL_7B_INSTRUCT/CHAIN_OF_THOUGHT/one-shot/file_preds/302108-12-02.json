@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "musikk"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "4:6"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "musikk"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enkelt \u00e5 falle tilbake p\u00e5"
+                ],
+                [
+                    "21:46"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det er musikk det er enkelt \u00e5 falle tilbake p\u00e5 :",
+    "sent_id": "302108-12-02"
+}

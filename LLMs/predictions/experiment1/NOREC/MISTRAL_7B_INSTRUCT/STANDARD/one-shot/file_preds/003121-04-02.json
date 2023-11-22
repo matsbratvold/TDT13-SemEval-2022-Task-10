@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sistnevnte"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "Sigrids"
+                ],
+                [
+                    "28:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sklir lett inn i Sigrids hit-baserte repertoar"
+                ],
+                [
+                    "11:57"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "med lik bein i nesa-tematikk"
+                ],
+                [
+                    "60:88"
+                ]
+            ],
+            "Target": [
+                [
+                    "Sigrids"
+                ],
+                [
+                    "28:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med lik bein i nesa-tematikk"
+                ],
+                [
+                    "60:88"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Sistnevnte sklir lett inn i Sigrids hit-baserte repertoar , med lik bein i nesa-tematikk .",
+    "sent_id": "003121-04-02"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "spillet"
+                ],
+                [
+                    "20:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00f8rste"
+                ],
+                [
+                    "13:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "spillet"
+                ],
+                [
+                    "20:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "HD"
+                ],
+                [
+                    "30:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Nintendos"
+                ],
+                [
+                    "36:45"
+                ]
+            ],
+            "Target": [
+                [
+                    "f\u00f8rste HD-konsoll"
+                ],
+                [
+                    "46:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00f8rste"
+                ],
+                [
+                    "13:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Dette er det f\u00f8rste spillet i HD p\u00e5 Nintendos f\u00f8rste HD-konsoll .",
+    "sent_id": "000787-05-03"
+}

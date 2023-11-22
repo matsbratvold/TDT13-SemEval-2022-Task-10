@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bush"
+                ],
+                [
+                    "84:88"
+                ]
+            ],
+            "Target": [
+                [
+                    "Argentina"
+                ],
+                [
+                    "27:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "worried"
+                ],
+                [
+                    "17:24"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" Obviously I 'm worried . Argentina is a very important part of our hemisphere , \" Bush said . \" Once they come up with a plan to sustain economic growth , we 'll work with them . \"",
+    "sent_id": "non_fbis/12.04.00-12904-21"
+}

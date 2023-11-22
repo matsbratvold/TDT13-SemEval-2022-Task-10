@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "t\u00e5rene"
+                ],
+                [
+                    "20:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gripende til"
+                ],
+                [
+                    "7:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er gripende til t\u00e5rene tar oss .",
+    "sent_id": "703256-02-02"
+}

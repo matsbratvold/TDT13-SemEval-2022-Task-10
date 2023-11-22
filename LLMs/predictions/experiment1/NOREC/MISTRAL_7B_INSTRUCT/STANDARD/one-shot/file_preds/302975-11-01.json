@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Forfatterne"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "\u00f8yensynlig liten tro"
+                ],
+                [
+                    "16:36"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Forfatterne har \u00f8yensynlig liten tro p\u00e5 at barn kan tenke selv .",
+    "sent_id": "302975-11-01"
+}

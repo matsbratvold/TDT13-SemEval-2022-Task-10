@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the government of Japan"
+                ],
+                [
+                    "8:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Kyoto Protocol as well as the enactment of the required legislation during the current Diet session"
+                ],
+                [
+                    "106:209"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "intends to take all necessary steps to ensure the approval by the Diet"
+                ],
+                [
+                    "32:102"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "it is important to establish a common rule in future in which all countries including the United States and developing countries participate"
+                ],
+                [
+                    "214:354"
+                ]
+            ],
+            "Target": [
+                [
+                    "a common rule in future"
+                ],
+                [
+                    "243:266"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "it is important to establish"
+                ],
+                [
+                    "214:242"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" While the government of Japan intends to take all necessary steps to ensure the approval by the Diet of the Kyoto Protocol as well as the enactment of the required legislation during the current Diet session ... it is important to establish a common rule in future in which all countries including the United States and developing countries participate , \" the statement said .",
+    "sent_id": "temp_fbis/20.44.41-9757-3"
+}

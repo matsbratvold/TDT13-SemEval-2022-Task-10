@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Oppl\u00f8sningen"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "218 x 218 piksler"
+                ],
+                [
+                    "16:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "h\u00f8yere"
+                ],
+                [
+                    "56:62"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Oppl\u00f8sningen"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "fargene"
+                ],
+                [
+                    "65:72"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Oppl\u00f8sningen"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "jobben"
+                ],
+                [
+                    "107:113"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjort"
+                ],
+                [
+                    "114:119"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Oppl\u00f8sningen p\u00e5 218 x 218 piksler kunne med fordel v\u00e6rt h\u00f8yere , fargene kunne v\u00e6rt sterkere \u2013 men den f\u00e5r jobben gjort .",
+    "sent_id": "201344-25-02"
+}

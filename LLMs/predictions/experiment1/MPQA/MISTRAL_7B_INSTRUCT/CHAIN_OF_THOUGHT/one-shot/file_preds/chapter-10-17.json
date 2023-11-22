@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "the counterterrorism benefits of the 9/11 detainee program"
+                ],
+                [
+                    "31:89"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cited"
+                ],
+                [
+                    "115:120"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In response to a request about the counterterrorism benefits of the 9/11 detainee program , the Justice Department cited six individuals on the special interest detainee list , noting that two ( including Moussaoui ) were linked directly to a terrorist organization and that it had obtained new leads helpful to the investigation of the 9/11 terrorist attacks .",
+    "sent_id": "ula/chapter-10-17"
+}

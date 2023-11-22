@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "armb\u00e5ndet"
+                ],
+                [
+                    "18:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vanskelig \u00e5 feste p\u00e5 armen"
+                ],
+                [
+                    "28:54"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "For det f\u00f8rste er armb\u00e5ndet vanskelig \u00e5 feste p\u00e5 armen .",
+    "sent_id": "200006-12-01"
+}

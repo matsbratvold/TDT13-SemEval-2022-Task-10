@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Zhang"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "US official"
+                ],
+                [
+                    "34:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "violation"
+                ],
+                [
+                    "56:65"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Zhang"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "US official"
+                ],
+                [
+                    "34:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "interference"
+                ],
+                [
+                    "107:119"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Zhang"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "US official"
+                ],
+                [
+                    "34:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "violation"
+                ],
+                [
+                    "56:65"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Zhang"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "US official"
+                ],
+                [
+                    "34:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "violation"
+                ],
+                [
+                    "56:65"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Zhang said : \" The remarks of the US official are a ... violation of US commitments made ( on Taiwan ) and interference in China internal affairs . China is firmly opposed to the remarks . \"",
+    "sent_id": "temp_fbis/22.34.58-23977-15"
+}

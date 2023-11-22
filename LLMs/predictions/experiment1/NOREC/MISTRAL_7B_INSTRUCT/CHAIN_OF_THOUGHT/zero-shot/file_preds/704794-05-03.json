@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dessuten"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "kjekt"
+                ],
+                [
+                    "21:26"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dessuten er det bare kjekt \u00e5 hjelpe til n\u00e5r spillet er s\u00e5pass interessant og underholdende som dette .",
+    "sent_id": "704794-05-03"
+}

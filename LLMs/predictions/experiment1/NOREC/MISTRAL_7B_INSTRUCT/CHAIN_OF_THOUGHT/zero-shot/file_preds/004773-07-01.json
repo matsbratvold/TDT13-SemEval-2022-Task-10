@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "hjerteinfarkt"
+                ],
+                [
+                    "85:98"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "jobbforbud"
+                ],
+                [
+                    "55:65"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "hjerteinfarkt"
+                ],
+                [
+                    "85:98"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "motstridende meldinger"
+                ],
+                [
+                    "173:195"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "hjerteinfarkt"
+                ],
+                [
+                    "85:98"
+                ]
+            ],
+            "Target": [
+                [
+                    "velferdssystem"
+                ],
+                [
+                    "146:160"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kasteball"
+                ],
+                [
+                    "119:128"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Den middelaldrende snekkeren Daniel ( Dave Johns ) f\u00e5r jobbforbud fra legen etter et hjerteinfarkt , og opplever \u00e5 bli kasteball i et forvirrende velferdssystem som gir ham motstridende meldinger om hva han skal og ikke skal gj\u00f8re .",
+    "sent_id": "004773-07-01"
+}

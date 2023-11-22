@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the officer"
+                ],
+                [
+                    "34:45"
+                ]
+            ],
+            "Target": [
+                [
+                    "God"
+                ],
+                [
+                    "2:5"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "great"
+                ],
+                [
+                    "9:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "the officer"
+                ],
+                [
+                    "34:45"
+                ]
+            ],
+            "Target": [
+                [
+                    "Mohammed"
+                ],
+                [
+                    "109:117"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is his messenger"
+                ],
+                [
+                    "118:134"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "the officer"
+                ],
+                [
+                    "34:45"
+                ]
+            ],
+            "Target": [
+                [
+                    "pray"
+                ],
+                [
+                    "145:149"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Come to pray"
+                ],
+                [
+                    "137:149"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "the officer"
+                ],
+                [
+                    "34:45"
+                ]
+            ],
+            "Target": [
+                [
+                    "success"
+                ],
+                [
+                    "160:167"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" God is great , God is great , \" the officer chants in Arabic through a loudspeaker . \" I bear witness that Mohammed is his messenger . Come to pray , come to success . \"",
+    "sent_id": "non_fbis/12.46.57-22041-5"
+}

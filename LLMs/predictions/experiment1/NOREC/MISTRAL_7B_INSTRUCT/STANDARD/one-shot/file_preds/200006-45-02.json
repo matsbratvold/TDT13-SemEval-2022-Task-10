@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "!"
+                ],
+                [
+                    "9:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "F\u00f8lg med"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "F\u00f8lg med !",
+    "sent_id": "200006-45-02"
+}

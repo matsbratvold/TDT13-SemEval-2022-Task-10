@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "bistro"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Peru"
+                ],
+                [
+                    "18:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til"
+                ],
+                [
+                    "23:26"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Munken bistro tar Peru til Nordnes",
+    "sent_id": "501595-01-01"
+}

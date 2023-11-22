@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hartmut Richter"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "sv\u00f8mte til friheten i vest"
+                ],
+                [
+                    "16:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sv\u00f8mte til friheten i vest"
+                ],
+                [
+                    "16:42"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Hartmut Richter"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "ble profesjonell menneskesmugler f\u00f8r han til slutt ble tatt"
+                ],
+                [
+                    "46:105"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ble profesjonell menneskesmugler f\u00f8r han til slutt ble tatt"
+                ],
+                [
+                    "46:105"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hartmut Richter sv\u00f8mte til friheten i vest og ble profesjonell menneskesmugler f\u00f8r han til slutt ble tatt .",
+    "sent_id": "301242-06-02"
+}

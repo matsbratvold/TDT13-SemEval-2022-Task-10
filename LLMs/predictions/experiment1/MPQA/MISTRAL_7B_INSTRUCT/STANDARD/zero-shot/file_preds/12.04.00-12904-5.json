@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Governor Carlos Ruckauf"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "Peronists"
+                ],
+                [
+                    "93:102"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "help"
+                ],
+                [
+                    "84:88"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Governor Carlos Ruckauf"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "Peronists"
+                ],
+                [
+                    "93:102"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "consensus"
+                ],
+                [
+                    "147:156"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Governor Carlos Ruckauf"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "Duhalde"
+                ],
+                [
+                    "204:211"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "should be"
+                ],
+                [
+                    "194:203"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Governor Carlos Ruckauf of the vast Buenos Aires province said all parties had to \" help the Peronists in a national salvation government ... with consensus that the person in charge until 2003 should be Duhalde . \"",
+    "sent_id": "non_fbis/12.04.00-12904-5"
+}

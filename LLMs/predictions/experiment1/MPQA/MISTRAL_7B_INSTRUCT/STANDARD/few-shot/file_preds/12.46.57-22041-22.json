@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Newspaper coverage of Camp X - Ray in Britain"
+                ],
+                [
+                    "0:45"
+                ]
+            ],
+            "Target": [
+                [
+                    "eroding morale this week"
+                ],
+                [
+                    "112:136"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has come close to"
+                ],
+                [
+                    "94:111"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Newspaper coverage of Camp X - Ray in Britain , as relayed by American television and radio , has come close to eroding morale this week .",
+    "sent_id": "non_fbis/12.46.57-22041-22"
+}

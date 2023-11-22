@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "spisekartet"
+                ],
+                [
+                    "3:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "denne El Cl\u00e1sico"
+                ],
+                [
+                    "22:38"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "P\u00e5 spisekartet kalles denne El Cl\u00e1sico .",
+    "sent_id": "501595-07-02"
+}

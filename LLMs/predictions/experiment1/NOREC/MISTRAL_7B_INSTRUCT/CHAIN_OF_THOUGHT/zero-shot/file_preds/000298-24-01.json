@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "eventyr"
+                ],
+                [
+                    "10:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "rollefigurer"
+                ],
+                [
+                    "22:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "glad"
+                ],
+                [
+                    "43:47"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er et eventyr med rollefigurer du blir glad i , som du bryr deg om hvordan det g\u00e5r med .",
+    "sent_id": "000298-24-01"
+}

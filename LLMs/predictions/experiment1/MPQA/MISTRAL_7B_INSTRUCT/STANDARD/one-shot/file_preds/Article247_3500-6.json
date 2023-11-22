@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "From where I am sitting"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Microsoft trial"
+                ],
+                [
+                    "34:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "think"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "From where I am sitting"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "the balance of power"
+                ],
+                [
+                    "220:240"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "shift"
+                ],
+                [
+                    "244:249"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "From where I am sitting"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "the strongman of the era"
+                ],
+                [
+                    "309:333"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "be"
+                ],
+                [
+                    "58:60"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "From where I am sitting , I think the Microsoft trial has been the really obvious turning point between the computer era and the digital age . I think it almost does not matter what the judge does since it 's clear that the balance of power is shifting again , although it not clear where it will land . Will the strongman of the era be AOL , AT&T , Microsoft , or one of the big media companies ? Or will it be none of them because the Internet allows and encourages a plethora of strong companies and a complex interconnection of businesses where none are allowed to dominate ?",
+    "sent_id": "ula/Article247_3500-6"
+}

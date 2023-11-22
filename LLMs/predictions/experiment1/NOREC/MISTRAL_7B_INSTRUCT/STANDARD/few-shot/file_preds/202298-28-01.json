@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Yaris"
+                ],
+                [
+                    "71:76"
+                ]
+            ],
+            "Target": [
+                [
+                    "skjermene"
+                ],
+                [
+                    "25:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00e6rdeles bra"
+                ],
+                [
+                    "12:24"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Yaris"
+                ],
+                [
+                    "71:76"
+                ]
+            ],
+            "Target": [
+                [
+                    "Yaris"
+                ],
+                [
+                    "71:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "langt steg"
+                ],
+                [
+                    "87:97"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Yaris"
+                ],
+                [
+                    "71:76"
+                ]
+            ],
+            "Target": [
+                [
+                    "Yaris"
+                ],
+                [
+                    "71:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "utsatt"
+                ],
+                [
+                    "190:196"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Med alle de s\u00e6rdeles bra skjermene som n\u00e5 er kommet p\u00e5 markedet henger Yaris derfor et langt steg etter , og strengt tatt er det ikke et problem bare for Yaris , men her sitter den litt mer utsatt til enn i de \u00f8vrige Toyota-modellene .",
+    "sent_id": "202298-28-01"
+}

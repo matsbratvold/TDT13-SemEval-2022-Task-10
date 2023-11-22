@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Westinghouse"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "steam turbine and gas turbine plants"
+                ],
+                [
+                    "45:81"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "well positioned"
+                ],
+                [
+                    "21:36"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Westinghouse"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "steam turbine and gas turbine plants"
+                ],
+                [
+                    "45:81"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "well positioned"
+                ],
+                [
+                    "21:36"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Mr. Lego"
+                ],
+                [
+                    "267:275"
+                ]
+            ],
+            "Target": [
+                [
+                    "energy needs world - wide"
+                ],
+                [
+                    "152:177"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enhanced"
+                ],
+                [
+                    "186:194"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Westinghouse also is well positioned to sell steam turbine and gas turbine plants to independent power producers . The company 's ability to respond to energy needs world - wide will be enhanced through a recently announced venture with Mitsubishi Heavy Industries , Mr. Lego said .",
+    "sent_id": "xbank/wsj_0973-9"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Daniel Blake"
+                ],
+                [
+                    "6:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sparker ogs\u00e5 hardt oppover"
+                ],
+                [
+                    "19:45"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "velferdssystem"
+                ],
+                [
+                    "78:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "motarbeider de som det var ment \u00e5 hjelpe"
+                ],
+                [
+                    "97:137"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Jeg , Daniel Blake sparker ogs\u00e5 hardt oppover , i en bevegende historie om et velferdssystem som motarbeider de som det var ment \u00e5 hjelpe .",
+    "sent_id": "004773-04-01"
+}

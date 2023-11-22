@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "De minste"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "spillet"
+                ],
+                [
+                    "49:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vil nok trenge litt hjelp"
+                ],
+                [
+                    "10:35"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "men"
+                ],
+                [
+                    "59:62"
+                ]
+            ],
+            "Target": [
+                [
+                    "spillet"
+                ],
+                [
+                    "49:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det meste er pedagogisk lagt opp"
+                ],
+                [
+                    "63:95"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "De minste vil nok trenge litt hjelp for \u00e5 mestre spillet , men det meste er pedagogisk lagt opp og lett \u00e5 sette seg inn i .",
+    "sent_id": "704794-05-02"
+}

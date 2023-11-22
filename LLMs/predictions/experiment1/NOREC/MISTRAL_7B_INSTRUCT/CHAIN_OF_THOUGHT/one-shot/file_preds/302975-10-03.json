@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "stopper ved f\u00f8rste ledd"
+                ],
+                [
+                    "15:38"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Men denne boka stopper ved f\u00f8rste ledd .",
+    "sent_id": "302975-10-03"
+}

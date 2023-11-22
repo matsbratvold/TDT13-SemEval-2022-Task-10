@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Eduardo Camano"
+                ],
+                [
+                    "96:110"
+                ]
+            ],
+            "Target": [
+                [
+                    "Duhalde"
+                ],
+                [
+                    "210:217"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Landed with the provisional presidency for 48 hours , the head of the lower house of Congress , Eduardo Camano , called on senators and deputies to hold a legislative assembly today which should rubber - stamp Duhalde 's appointment .",
+    "sent_id": "non_fbis/12.04.00-12904-7"
+}

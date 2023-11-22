@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Elton John"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "nye favorittartist"
+                ],
+                [
+                    "12:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "smeller til som ei rivningskule"
+                ],
+                [
+                    "31:62"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Elton Johns nye favorittartist smeller til som ei rivningskule .",
+    "sent_id": "003121-02-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "velsmakende"
+                ],
+                [
+                    "4:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "de klassiske rettene"
+                ],
+                [
+                    "30:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "velsmakende"
+                ],
+                [
+                    "4:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Med velsmakende utf\u00f8relser av de klassiske rettene .",
+    "sent_id": "501595-12-03"
+}

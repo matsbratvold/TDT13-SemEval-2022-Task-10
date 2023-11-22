@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The US government report"
+                ],
+                [
+                    "0:24"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "committed several extra-judicial killings"
+                ],
+                [
+                    "130:171"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The US government report on Namibia 's human rights practices for 2001 , released this week , says members of the security forces committed several extra-judicial killings during security operations in the Kavango and Caprivi Regions during 2001 .",
+    "sent_id": "temp_fbis/21.31.45-20536-5"
+}

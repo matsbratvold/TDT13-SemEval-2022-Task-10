@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Den kleine og prosaiske balladen som f\u00f8lger"
+                ],
+                [
+                    "0:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "leveres med en varm og overraskende inderlig vokal"
+                ],
+                [
+                    "46:96"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Den kleine og prosaiske balladen som f\u00f8lger , leveres med en varm og overraskende inderlig vokal .",
+    "sent_id": "104538-02-05"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "American"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "the document"
+                ],
+                [
+                    "25:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "signed"
+                ],
+                [
+                    "18:24"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "55:69"
+                ]
+            ],
+            "Target": [
+                [
+                    "regulations in his country on the discharge of greenhouse gases into the atmosphere"
+                ],
+                [
+                    "105:188"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "announced"
+                ],
+                [
+                    "70:79"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "55:69"
+                ]
+            ],
+            "Target": [
+                [
+                    "the accords"
+                ],
+                [
+                    "242:253"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "withdrew"
+                ],
+                [
+                    "228:236"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "American at first signed the document , but a year ago President Bush announced that he would not impose regulations in his country on the discharge of greenhouse gases into the atmosphere . This meant , in effect , that the US withdrew from the accords .",
+    "sent_id": "temp_fbis/21.10.31-12974-24"
+}

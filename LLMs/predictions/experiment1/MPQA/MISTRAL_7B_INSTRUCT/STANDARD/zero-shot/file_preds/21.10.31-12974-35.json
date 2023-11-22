@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Obligations of Foreign Countries Under the Kyoto Protocol"
+                ],
+                [
+                    "0:61"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto Protocol"
+                ],
+                [
+                    "47:61"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The Obligations of Foreign Countries Under the Kyoto Protocol",
+    "sent_id": "temp_fbis/21.10.31-12974-35"
+}

@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "innpakning"
+                ],
+                [
+                    "21:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ny"
+                ],
+                [
+                    "18:20"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "gitarspill"
+                ],
+                [
+                    "38:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hentet fra 60-tallets The Byrds"
+                ],
+                [
+                    "49:80"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den har ogs\u00e5 f\u00e5tt ny innpakning , med gitarspill hentet fra 60-tallets The Byrds .",
+    "sent_id": "704372-11-02"
+}

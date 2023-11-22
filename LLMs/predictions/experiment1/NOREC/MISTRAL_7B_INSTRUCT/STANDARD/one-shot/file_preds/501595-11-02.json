@@ -1,0 +1,44 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Porsjonene"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enorme"
+                ],
+                [
+                    "14:20"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "sp\u00f8ker med at to godt kunne ha delt en meny ut fra maten som ligger igjen"
+                ],
+                [
+                    "29:102"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Porsjonene er enorme , og vi sp\u00f8ker med at to godt kunne ha delt en meny ut fra maten som ligger igjen .",
+    "sent_id": "501595-11-02"
+}

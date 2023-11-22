@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "baner"
+                ],
+                [
+                    "5:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lagt opp"
+                ],
+                [
+                    "14:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "berg-og-dalbane"
+                ],
+                [
+                    "42:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mesteparten"
+                ],
+                [
+                    "58:69"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "brettet"
+                ],
+                [
+                    "73:80"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "variasjonen"
+                ],
+                [
+                    "120:131"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Noen baner er lagt opp slik at man kj\u00f8rer berg-og-dalbane mesteparten av brettet , noe som bidrar til den allerede gode variasjonen .",
+    "sent_id": "704794-04-03"
+}

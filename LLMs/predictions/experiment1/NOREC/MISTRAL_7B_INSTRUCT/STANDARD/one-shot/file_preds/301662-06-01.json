@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Smak p\u00e5 den"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Smak p\u00e5 den .",
+    "sent_id": "301662-06-01"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the portion about China"
+                ],
+                [
+                    "15:38"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "contains"
+                ],
+                [
+                    "39:47"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "And as usual , the portion about China contains little truth and many absurdities , exaggerations and fabrications .",
+    "sent_id": "temp_fbis/21.37.46-9337-1"
+}

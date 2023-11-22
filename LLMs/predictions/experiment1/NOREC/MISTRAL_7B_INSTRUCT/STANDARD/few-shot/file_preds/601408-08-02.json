@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "greit"
+                ],
+                [
+                    "19:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nok"
+                ],
+                [
+                    "25:28"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bokformen"
+                ],
+                [
+                    "35:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "krever"
+                ],
+                [
+                    "45:51"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "utvalget"
+                ],
+                [
+                    "118:126"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "begrunnelse"
+                ],
+                [
+                    "102:113"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "utgivelsen"
+                ],
+                [
+                    "143:153"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hele"
+                ],
+                [
+                    "138:142"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det er for s\u00e5 vidt greit nok , men bokformen krever , etter mitt syn , en mer analytisk tiln\u00e6rming og begrunnelse for utvalget , ja , for hele utgivelsen .",
+    "sent_id": "601408-08-02"
+}

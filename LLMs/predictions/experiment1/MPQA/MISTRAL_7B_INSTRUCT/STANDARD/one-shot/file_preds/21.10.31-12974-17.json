@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Nikolay Ratsiborinskiy"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "perturbations of the climate"
+                ],
+                [
+                    "184:212"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Nikolay Ratsiborinskiy"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "costly"
+                ],
+                [
+                    "392:398"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Nikolay Ratsiborinskiy , a senior adviser to the Foreign Ministry 's Department of International Organizations , took up this role . He described the opinion that Russia can gain from perturbations of the climate as false . \" When we determine the position of the diplomatic service , we proceed from the premise that the whole strategy of nature - conservation efforts is not profitable but costly and that it is impossible to solve the problems of environmental protection on our own ... The Kyoto mechanism is costly , but its value lies in the fact that its implementation has been tied to the market mechanism , that is , life without change has been made uneconomical . \"",
+    "sent_id": "temp_fbis/21.10.31-12974-17"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "den"
+                ],
+                [
+                    "20:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skal man ikke ta den s\u00e5 mye av og p\u00e5"
+                ],
+                [
+                    "3:39"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "45:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gj\u00f8r vel ikke noe"
+                ],
+                [
+                    "49:66"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "tenker du kanskje n\u00e5 ?"
+                ],
+                [
+                    "69:91"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "N\u00e5 skal man ikke ta den s\u00e5 mye av og p\u00e5 , s\u00e5 det gj\u00f8r vel ikke noe , tenker du kanskje n\u00e5 ?",
+    "sent_id": "200006-13-01"
+}

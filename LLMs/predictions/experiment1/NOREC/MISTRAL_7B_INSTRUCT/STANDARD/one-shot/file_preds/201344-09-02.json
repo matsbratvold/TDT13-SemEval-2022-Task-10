@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Designmessig"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "den minne"
+                ],
+                [
+                    "17:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "litt om TAG Heuer"
+                ],
+                [
+                    "27:44"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Designmessig"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "og"
+                ],
+                [
+                    "51:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "om klokker som Seiko Astron"
+                ],
+                [
+                    "56:83"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Designmessig"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "og"
+                ],
+                [
+                    "51:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "og Casio Edifice"
+                ],
+                [
+                    "86:102"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Designmessig kan den minne litt om TAG Heuer , men ogs\u00e5 om klokker som Seiko Astron , og Casio Edifice .",
+    "sent_id": "201344-09-02"
+}

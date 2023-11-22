@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Silhouette"
+                ],
+                [
+                    "28:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5pningsl\u00e5ten"
+                ],
+                [
+                    "13:25"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "For eksempel \u00e5pningsl\u00e5ten \u00ab Silhouette \u00bb .",
+    "sent_id": "104659-10-04"
+}

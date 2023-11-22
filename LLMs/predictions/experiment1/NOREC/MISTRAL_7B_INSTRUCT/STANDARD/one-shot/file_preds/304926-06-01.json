@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Oppr\u00f8rsindustrien M\u00f8tet"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "defaultuttrykket"
+                ],
+                [
+                    "103:119"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "glatte"
+                ],
+                [
+                    "96:102"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Oppr\u00f8rsindustrien M\u00f8tet"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "barnekulturen"
+                ],
+                [
+                    "215:228"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sluke"
+                ],
+                [
+                    "197:202"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Oppr\u00f8rsindustrien M\u00f8tet"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "globale barnekulturen"
+                ],
+                [
+                    "207:228"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gulpe"
+                ],
+                [
+                    "232:237"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Oppr\u00f8rsindustrien M\u00f8tet"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "stri str\u00f8m"
+                ],
+                [
+                    "253:263"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Oppr\u00f8rsindustrien M\u00f8tet mellom disse to stilartene f\u00e5r innledningsvis form av en kritikk av det glatte defaultuttrykket som kjennetegner s\u00e5 mange av v\u00e5r tids beste barnefilmer , og som truer med \u00e5 sluke den globale barnekulturen og gulpe den opp som en stri str\u00f8m av blankpolerte , signaturl\u00f8se forbruksvarer .",
+    "sent_id": "304926-06-01"
+}

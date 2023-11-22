@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "ber\u00f8ringsskjerm"
+                ],
+                [
+                    "12:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "frav\u00e6r"
+                ],
+                [
+                    "2:8"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I frav\u00e6r av ber\u00f8ringsskjerm , navigerer man seg rundt med knappene p\u00e5 urkassen .",
+    "sent_id": "201344-17-02"
+}

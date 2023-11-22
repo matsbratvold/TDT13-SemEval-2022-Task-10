@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "jeg"
+                ],
+                [
+                    "10:13"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "regner"
+                ],
+                [
+                    "3:9"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Da regner jeg ikke med Prius , Auris eller Hyundai Ioniq , som alle ligger en st\u00f8rrelse over Yaris .",
+    "sent_id": "202298-14-02"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Utfordringene"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "sikkerheten"
+                ],
+                [
+                    "60:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enkle"
+                ],
+                [
+                    "29:34"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Utfordringene"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "sikkerheten"
+                ],
+                [
+                    "60:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enkle"
+                ],
+                [
+                    "29:34"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Utfordringene er forholdsvis enkle , slik det m\u00e5 v\u00e6re , n\u00e5r sikkerheten skal tas p\u00e5 alvor ( selv om det ikke kan ha v\u00e6rt lett \u00e5 skulle galoppere i konkurranse etter bare \u00e9n dag med trening ) .",
+    "sent_id": "300186-11-04"
+}

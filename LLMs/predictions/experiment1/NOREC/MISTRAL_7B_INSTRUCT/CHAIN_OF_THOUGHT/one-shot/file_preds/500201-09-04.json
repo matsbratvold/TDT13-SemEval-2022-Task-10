@@ -1,0 +1,111 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "unote"
+                ],
+                [
+                    "30:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "f\u00f8lelse"
+                ],
+                [
+                    "54:61"
+                ]
+            ],
+            "Target": [
+                [
+                    "autentisitet"
+                ],
+                [
+                    "65:77"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "av"
+                ],
+                [
+                    "62:64"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "voldsomt"
+                ],
+                [
+                    "81:89"
+                ]
+            ],
+            "Target": [
+                [
+                    "n\u00e6rv\u00e6r"
+                ],
+                [
+                    "90:96"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00e6rlig"
+                ],
+                [
+                    "99:105"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Mar\u00eda Mercedes Coroy"
+                ],
+                [
+                    "130:150"
+                ]
+            ],
+            "Target": [
+                [
+                    "hovedrolleinnehaver"
+                ],
+                [
+                    "110:129"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00e6rlig"
+                ],
+                [
+                    "99:105"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Likevel er her ikke en eneste unote \u00e5 spore ; bare en f\u00f8lelse av autentisitet og voldsomt n\u00e6rv\u00e6r , s\u00e6rlig fra hovedrolleinnehaver Mar\u00eda Mercedes Coroy .",
+    "sent_id": "500201-09-04"
+}

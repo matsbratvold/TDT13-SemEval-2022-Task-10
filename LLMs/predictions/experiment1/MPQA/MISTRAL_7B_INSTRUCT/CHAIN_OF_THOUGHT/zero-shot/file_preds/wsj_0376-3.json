@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Investors"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "Courtaulds"
+                ],
+                [
+                    "30:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "welcomed"
+                ],
+                [
+                    "10:18"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Investors welcomed the move . Courtaulds ' shares rose 15 pence to 362 pence , valuing the entire company at about # 1.44 billion .",
+    "sent_id": "xbank/wsj_0376-3"
+}

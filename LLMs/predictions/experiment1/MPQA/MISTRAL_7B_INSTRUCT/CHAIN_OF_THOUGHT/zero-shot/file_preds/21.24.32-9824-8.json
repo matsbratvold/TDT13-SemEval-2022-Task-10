@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "it"
+                ],
+                [
+                    "3:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "boat"
+                ],
+                [
+                    "17:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "attack"
+                ],
+                [
+                    "38:44"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "navy vessel"
+                ],
+                [
+                    "56:67"
+                ]
+            ],
+            "Target": [
+                [
+                    "boat"
+                ],
+                [
+                    "17:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "retaliated"
+                ],
+                [
+                    "68:78"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "fishing boat"
+                ],
+                [
+                    "85:97"
+                ]
+            ],
+            "Target": [
+                [
+                    "boat"
+                ],
+                [
+                    "17:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "exploded"
+                ],
+                [
+                    "98:106"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "As it neared the boat , it came under attack . When the navy vessel retaliated , the fishing boat exploded .",
+    "sent_id": "20010916/21.24.32-9824-8"
+}

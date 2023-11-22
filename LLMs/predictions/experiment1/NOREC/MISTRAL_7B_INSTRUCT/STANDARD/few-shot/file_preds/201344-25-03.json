@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "oppl\u00f8sning"
+                ],
+                [
+                    "7:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "H\u00f8yere"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "trukket"
+                ],
+                [
+                    "33:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mer str\u00f8m"
+                ],
+                [
+                    "41:50"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "nettopp batteritid"
+                ],
+                [
+                    "56:74"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er viktig"
+                ],
+                [
+                    "75:84"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "produkter"
+                ],
+                [
+                    "87:96"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som dette"
+                ],
+                [
+                    "97:106"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "H\u00f8yere oppl\u00f8sning ville dessuten trukket mer str\u00f8m , og nettopp batteritid er viktig i produkter som dette .",
+    "sent_id": "201344-25-03"
+}

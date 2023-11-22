@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Karnaca"
+                ],
+                [
+                    "116:123"
+                ]
+            ],
+            "Target": [
+                [
+                    "ditt eget moralske kompass og en bunke ervervbare egenskaper og dingser"
+                ],
+                [
+                    "13:84"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bli kjent med"
+                ],
+                [
+                    "102:115"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Bev\u00e6pnet med ditt eget moralske kompass og en bunke ervervbare egenskaper og dingser er det p\u00e5 tide \u00e5 bli kjent med Karnaca og dens hemmeligheter .",
+    "sent_id": "000913-10-01"
+}

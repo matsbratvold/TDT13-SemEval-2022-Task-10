@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Todo Noticias"
+                ],
+                [
+                    "25:38"
+                ]
+            ],
+            "Target": [
+                [
+                    "President Fernando Henrique Cardoso"
+                ],
+                [
+                    "80:115"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "concern"
+                ],
+                [
+                    "288:295"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Todo Noticias"
+                ],
+                [
+                    "25:38"
+                ]
+            ],
+            "Target": [
+                [
+                    "Jose Manuel de la Sota"
+                ],
+                [
+                    "171:193"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "concern"
+                ],
+                [
+                    "288:295"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The Argentine TV station Todo Noticias [ \" All News \" ] reported yesterday that President Fernando Henrique Cardoso on Saturday night telephoned Cordoba Province Governor Jose Manuel de la Sota , of the Justicialist Party ( PJ ) -- who once served as ambassador to Brazil -- to voice his concern over incidents in the country .",
+    "sent_id": "20011231/21.05.45-10422-0"
+}

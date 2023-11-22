@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dave Johns"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "\u00e5penbaring"
+                ],
+                [
+                    "17:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5penbaring"
+                ],
+                [
+                    "17:27"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dave Johns er en \u00e5penbaring i hovedrollen .",
+    "sent_id": "004773-13-01"
+}

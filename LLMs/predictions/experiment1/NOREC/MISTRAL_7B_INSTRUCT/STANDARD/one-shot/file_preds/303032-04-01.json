@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Musikalsk"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "13:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "feelgood"
+                ],
+                [
+                    "17:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "halvakustisk"
+                ],
+                [
+                    "39:51"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "13:16"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "organisk"
+                ],
+                [
+                    "54:62"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "13:16"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "med innslag av bl\u00e5sere"
+                ],
+                [
+                    "65:87"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "13:16"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "iscenesatt og styrt av produsent Kyrre S\u00e6tran"
+                ],
+                [
+                    "90:135"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "13:16"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Musikalsk er det feelgood hele veien ; halvakustisk , organisk , med innslag av bl\u00e5sere - iscenesatt og styrt av produsent Kyrre S\u00e6tran .",
+    "sent_id": "303032-04-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Chang Fu-mei"
+                ],
+                [
+                    "50:62"
+                ]
+            ],
+            "Target": [
+                [
+                    "Overseas Chinese Affairs Commission ( OCAC )"
+                ],
+                [
+                    "0:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "remarks"
+                ],
+                [
+                    "72:79"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Overseas Chinese Affairs Commission ( OCAC ) head Chang Fu-mei made the remarks after concluding a symposium on work in the Asia - Pacific Chinese communities .",
+    "sent_id": "20010817/23.25.24-13030-1"
+}

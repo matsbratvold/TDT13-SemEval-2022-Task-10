@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Soloalbum nummer seks"
+                ],
+                [
+                    "0:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Soloalbum nummer seks"
+                ],
+                [
+                    "0:21"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Soloalbum nummer seks fra Kristiansunds store s\u00f8nn .",
+    "sent_id": "303032-02-01"
+}

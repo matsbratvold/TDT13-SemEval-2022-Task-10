@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fernando de la Rua"
+                ],
+                [
+                    "59:77"
+                ]
+            ],
+            "Target": [
+                [
+                    "Argentina"
+                ],
+                [
+                    "114:123"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "chaos"
+                ],
+                [
+                    "13:18"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Adolfo Rodriguez Saa"
+                ],
+                [
+                    "169:189"
+                ]
+            ],
+            "Target": [
+                [
+                    "Argentina"
+                ],
+                [
+                    "114:123"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "anarchy"
+                ],
+                [
+                    "141:148"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Plunged into chaos by looting and deadly riots that forced Fernando de la Rua to resign as president a week ago , Argentina fell deeper into anarchy when interim leader Adolfo Rodriguez Saa quit on Sunday after losing his party 's support .",
+    "sent_id": "non_fbis/12.04.00-12904-2"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "yeah"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "they might be"
+                ],
+                [
+                    "5:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "might be"
+                ],
+                [
+                    "10:18"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "yeah"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "everybody 's a hunter"
+                ],
+                [
+                    "67:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hunter"
+                ],
+                [
+                    "82:88"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "yeah"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "i'm not much of a hunter"
+                ],
+                [
+                    "92:116"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hunter"
+                ],
+                [
+                    "82:88"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "yeah they might be or you know how we are here in Texas it 's like everybody 's a hunter so i'm not much of a hunter but",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-9"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Amanda"
+                ],
+                [
+                    "30:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mine favoritter"
+                ],
+                [
+                    "40:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Han og den storkjefta dattera Amanda er mine favoritter .",
+    "sent_id": "300186-07-04"
+}

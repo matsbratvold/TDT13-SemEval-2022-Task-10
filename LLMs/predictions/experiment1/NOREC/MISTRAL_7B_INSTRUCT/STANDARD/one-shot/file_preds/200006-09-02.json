@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rundere i kantene og har en st\u00f8rre skjerm"
+                ],
+                [
+                    "7:48"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den er rundere i kantene og har en st\u00f8rre skjerm .",
+    "sent_id": "200006-09-02"
+}

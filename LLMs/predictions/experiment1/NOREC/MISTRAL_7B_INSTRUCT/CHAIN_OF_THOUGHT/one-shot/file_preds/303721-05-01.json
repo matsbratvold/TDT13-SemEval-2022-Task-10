@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Schmilco"
+                ],
+                [
+                    "120:128"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er ogs\u00e5"
+                ],
+                [
+                    "110:117"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I likhet med frontmann Jeff Tweedys solodebut \u00ab Sukirae \u00bb og fjor\u00e5rets overraskelsesutgivelse \u00ab Star Wars \u00bb , er ogs\u00e5 \u00ab Schmilco \u00bb en bevisst uambisi\u00f8s og henslengt aff\u00e6re ; n\u00e6rmere slackerrockens rufsete \u00e5nd enn den velproduserte , men vindskeive papparocken som var deres domene gjennom 00-tallet .",
+    "sent_id": "303721-05-01"
+}

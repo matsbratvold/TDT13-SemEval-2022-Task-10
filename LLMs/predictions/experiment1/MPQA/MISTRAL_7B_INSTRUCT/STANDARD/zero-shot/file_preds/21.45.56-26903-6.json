@@ -1,0 +1,102 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Seasonally adjusted figures"
+                ],
+                [
+                    "0:27"
+                ]
+            ],
+            "Target": [
+                [
+                    "industrial activity"
+                ],
+                [
+                    "37:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "declining"
+                ],
+                [
+                    "66:75"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "industrial activity"
+                ],
+                [
+                    "37:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fallen"
+                ],
+                [
+                    "100:106"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "cumulative 3 %"
+                ],
+                [
+                    "112:126"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "since mid-2001"
+                ],
+                [
+                    "127:141"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "since the beginning of the security disturbances in late September 2001"
+                ],
+                [
+                    "151:222"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Seasonally adjusted figures indicate industrial activity is still declining . Industrial output has fallen by a cumulative 3 % since mid-2001 and 10 % since the beginning of the security disturbances in late September 2001 .",
+    "sent_id": "20020424/21.45.56-26903-6"
+}

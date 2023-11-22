@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Clash of civilizations"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "civilizations"
+                ],
+                [
+                    "9:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Clash"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Clash of civilizations",
+    "sent_id": "700863-06-01"
+}

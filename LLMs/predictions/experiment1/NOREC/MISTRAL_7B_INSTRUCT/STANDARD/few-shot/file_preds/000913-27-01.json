@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dishonored 2"
+                ],
+                [
+                    "13:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "oppslukende spillopplevelse"
+                ],
+                [
+                    "40:67"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dishonored 2"
+                ],
+                [
+                    "13:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5ndel\u00f8s spenning"
+                ],
+                [
+                    "72:88"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dishonored 2"
+                ],
+                [
+                    "13:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ekstrem brutalitet"
+                ],
+                [
+                    "91:109"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dishonored 2"
+                ],
+                [
+                    "13:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vakre puslespill"
+                ],
+                [
+                    "113:129"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "S\u00e5ledes blir Dishonored 2 en usedvanlig oppslukende spillopplevelse der \u00e5ndel\u00f8s spenning , ekstrem brutalitet og vakre puslespill utfoldes i mange titalls timer glede .",
+    "sent_id": "000913-27-01"
+}

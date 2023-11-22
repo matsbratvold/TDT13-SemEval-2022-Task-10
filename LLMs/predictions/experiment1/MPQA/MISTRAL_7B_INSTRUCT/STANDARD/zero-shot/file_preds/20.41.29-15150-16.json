@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The protocol"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "being shelved altogether"
+                ],
+                [
+                    "29:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "faced danger"
+                ],
+                [
+                    "13:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "decided to"
+                ],
+                [
+                    "145:155"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The Bush administration"
+                ],
+                [
+                    "218:241"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "fears the treaty will have a negative effect on its economy"
+                ],
+                [
+                    "242:301"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The protocol faced danger of being shelved altogether , when the U.S , which is responsible for one - fourth of all CO2 emissions in the world , decided to abruptly withdraw from the climate change treaty last March . The Bush administration fears the treaty will have a negative effect on its economy and maintains that developing countries , such as China and India , should also be subject to mandatory emission targets .",
+    "sent_id": "20011115/20.41.29-15150-16"
+}

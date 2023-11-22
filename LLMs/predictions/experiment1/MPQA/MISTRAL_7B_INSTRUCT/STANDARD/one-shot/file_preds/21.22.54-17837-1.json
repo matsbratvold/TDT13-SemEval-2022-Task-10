@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Sharon and other Israeli and Lebanese persons"
+                ],
+                [
+                    "165:210"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "filed a complaint"
+                ],
+                [
+                    "95:112"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "On behalf of some Palestinian survivors , lawyers Luc Walleyn and Michael Verhaeghe on 18 June filed a complaint with the Brussels Public Prosecution Office against Sharon and other Israeli and Lebanese persons deemed responsible for the massacres in Beirut .",
+    "sent_id": "20011127/21.22.54-17837-1"
+}

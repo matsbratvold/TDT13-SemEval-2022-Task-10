@@ -1,0 +1,93 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "De"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "kan brukes"
+                ],
+                [
+                    "3:13"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "De"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "som medhjelpere"
+                ],
+                [
+                    "14:29"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "De"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "som ekstrafigur"
+                ],
+                [
+                    "53:68"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "steder"
+                ],
+                [
+                    "96:102"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00e5 man v\u00e6re to"
+                ],
+                [
+                    "103:117"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "De kan brukes som medhjelpere i enspillerdelen eller som ekstrafigur i tospillerdelen , og noen steder m\u00e5 man v\u00e6re to for \u00e5 f\u00e5 tak i alt .",
+    "sent_id": "704794-03-09"
+}

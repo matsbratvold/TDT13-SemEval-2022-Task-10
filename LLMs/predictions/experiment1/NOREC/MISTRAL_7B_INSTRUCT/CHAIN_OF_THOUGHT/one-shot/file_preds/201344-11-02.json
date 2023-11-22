@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Klokken"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "tilgjengelig i lett titan"
+                ],
+                [
+                    "26:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilgjengelig"
+                ],
+                [
+                    "26:38"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "tilgjengelig i lett titan"
+                ],
+                [
+                    "26:51"
+                ]
+            ],
+            "Target": [
+                [
+                    "tilgjengelig i lett titan"
+                ],
+                [
+                    "26:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilgjengelig"
+                ],
+                [
+                    "26:38"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "tilgjengelig i lett titan"
+                ],
+                [
+                    "26:51"
+                ]
+            ],
+            "Target": [
+                [
+                    "tilgjengelig i lett titan"
+                ],
+                [
+                    "26:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilgjengelig"
+                ],
+                [
+                    "26:38"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Klokken er for \u00f8vrig ogs\u00e5 tilgjengelig i lett titan , mot et lite p\u00e5slag i prisen .",
+    "sent_id": "201344-11-02"
+}

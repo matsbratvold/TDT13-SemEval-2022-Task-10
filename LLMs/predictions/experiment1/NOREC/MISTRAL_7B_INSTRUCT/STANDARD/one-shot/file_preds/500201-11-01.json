@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "moren"
+                ],
+                [
+                    "17:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kulde"
+                ],
+                [
+                    "2:7"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "\u00ab Kulde \u00bb , sier moren .",
+    "sent_id": "500201-11-01"
+}

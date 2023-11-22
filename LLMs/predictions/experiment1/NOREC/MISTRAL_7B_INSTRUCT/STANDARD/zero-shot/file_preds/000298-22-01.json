@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Claires nye franske venninne"
+                ],
+                [
+                    "21:49"
+                ]
+            ],
+            "Target": [
+                [
+                    "brazillian"
+                ],
+                [
+                    "63:73"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vanvidd"
+                ],
+                [
+                    "135:142"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Som for eksempel n\u00e5r Claires nye franske venninne f\u00e5r seg en \u00ab brazillian \u00bb og freidig forteller at den bare huden driver mannfolk til vanvidd .",
+    "sent_id": "000298-22-01"
+}

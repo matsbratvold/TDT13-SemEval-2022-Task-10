@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den kritikken"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fitbit"
+                ],
+                [
+                    "19:25"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "uten at vi synes"
+                ],
+                [
+                    "44:60"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fitbit"
+                ],
+                [
+                    "19:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kommer med revolusjonerende endringer"
+                ],
+                [
+                    "64:101"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den kritikken skal Fitbit ha tatt til seg , uten at vi synes de kommer med revolusjonerende endringer .",
+    "sent_id": "200006-07-01"
+}

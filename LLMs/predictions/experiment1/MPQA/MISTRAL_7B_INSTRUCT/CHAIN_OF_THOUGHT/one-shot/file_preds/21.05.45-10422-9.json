@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Senator Heloisa Helena"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "Latin American countries"
+                ],
+                [
+                    "62:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "join together"
+                ],
+                [
+                    "101:114"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Senator Heloisa Helena"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "autonomy in their economies"
+                ],
+                [
+                    "188:215"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "maintain"
+                ],
+                [
+                    "179:187"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Senator Heloisa Helena"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "one country abdicates its financial autonomy"
+                ],
+                [
+                    "249:293"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "abdicates"
+                ],
+                [
+                    "261:270"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Senator Heloisa Helena"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "the IMF"
+                ],
+                [
+                    "380:387"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "revise"
+                ],
+                [
+                    "351:357"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Senator Heloisa Helena ( Workers Party -- Alagoas ) said that Latin American countries should always join together to speak with international economic institutions , in order to maintain autonomy in their economies : \" Now we see what happens when one country abdicates its financial autonomy . I hope that this can alert the Brazilian Government to revise its relationship with the IMF . \"",
+    "sent_id": "20011231/21.05.45-10422-9"
+}

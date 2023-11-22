@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "penger"
+                ],
+                [
+                    "29:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "alle fall snakker"
+                ],
+                [
+                    "2:19"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "dannelse"
+                ],
+                [
+                    "49:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snakker dannelse"
+                ],
+                [
+                    "41:57"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "lykke og idyll og solskinn"
+                ],
+                [
+                    "71:97"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snakker lykke og idyll og solskinn"
+                ],
+                [
+                    "63:97"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "tatt"
+                ],
+                [
+                    "112:116"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "I alle fall snakker vi gamle penger , vi snakker dannelse , vi snakker lykke og idyll og solskinn og i det hele tatt .",
+    "sent_id": "703256-08-01"
+}

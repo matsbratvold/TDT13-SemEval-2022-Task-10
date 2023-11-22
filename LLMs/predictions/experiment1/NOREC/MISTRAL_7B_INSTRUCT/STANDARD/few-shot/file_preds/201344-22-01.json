@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bruke"
+                ],
+                [
+                    "8:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Enkel"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Enkel \u00e5 bruke",
+    "sent_id": "201344-22-01"
+}

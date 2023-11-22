@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "jeg lurer ogs\u00e5 p\u00e5 om ikke mye hadde blitt bedre dersom det l\u00e5 enda flere innspillingsdager og ridetimer bak hvert program"
+                ],
+                [
+                    "4:125"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "om ikke mye hadde blitt bedre"
+                ],
+                [
+                    "22:51"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men jeg lurer ogs\u00e5 p\u00e5 om ikke mye hadde blitt bedre dersom det l\u00e5 enda flere innspillingsdager og ridetimer bak hvert program .",
+    "sent_id": "300186-14-03"
+}

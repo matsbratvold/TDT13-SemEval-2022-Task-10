@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Norwegian and local observers"
+                ],
+                [
+                    "0:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "thousands of people"
+                ],
+                [
+                    "35:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "had been prevented"
+                ],
+                [
+                    "92:110"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Norwegian and local observers said thousands of people , mostly in opposition strongholds , had been prevented from voting .",
+    "sent_id": "non_fbis/06.56.31-3120-9"
+}

@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "alle de s\u00e6rdeles bra skjermene som n\u00e5 er kommet p\u00e5 markedet"
+                ],
+                [
+                    "4:63"
+                ]
+            ],
+            "Target": [
+                [
+                    "Yaris"
+                ],
+                [
+                    "71:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "langt steg"
+                ],
+                [
+                    "87:97"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "alle de s\u00e6rdeles bra skjermene som n\u00e5 er kommet p\u00e5 markedet"
+                ],
+                [
+                    "4:63"
+                ]
+            ],
+            "Target": [
+                [
+                    "Yaris"
+                ],
+                [
+                    "71:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "strengt tatt"
+                ],
+                [
+                    "109:121"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "alle de s\u00e6rdeles bra skjermene som n\u00e5 er kommet p\u00e5 markedet"
+                ],
+                [
+                    "4:63"
+                ]
+            ],
+            "Target": [
+                [
+                    "Yaris"
+                ],
+                [
+                    "71:76"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Med alle de s\u00e6rdeles bra skjermene som n\u00e5 er kommet p\u00e5 markedet henger Yaris derfor et langt steg etter , og strengt tatt er det ikke et problem bare for Yaris , men her sitter den litt mer utsatt til enn i de \u00f8vrige Toyota-modellene .",
+    "sent_id": "202298-28-01"
+}

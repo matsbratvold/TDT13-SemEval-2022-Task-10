@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Her"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "fokuset"
+                ],
+                [
+                    "8:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "p\u00e5 funksjoner og indre kvaliteter"
+                ],
+                [
+                    "16:49"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "blitt kombinert med"
+                ],
+                [
+                    "68:87"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ambisi\u00f8s satsning p\u00e5 et ekslusivt ytre"
+                ],
+                [
+                    "91:129"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Her har fokuset p\u00e5 funksjoner og indre kvaliteter , for f\u00f8rste gang blitt kombinert med en ambisi\u00f8s satsning p\u00e5 et ekslusivt ytre .",
+    "sent_id": "201344-04-04"
+}

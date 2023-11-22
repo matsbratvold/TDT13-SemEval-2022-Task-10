@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The political warning"
+                ],
+                [
+                    "2:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "Either one pays attention to the will of the people or what happened will happen"
+                ],
+                [
+                    "41:121"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "political warning"
+                ],
+                [
+                    "6:23"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Maia"
+                ],
+                [
+                    "126:130"
+                ]
+            ],
+            "Target": [
+                [
+                    "Either one pays attention to the will of the people or what happened will happen"
+                ],
+                [
+                    "41:121"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "political warning"
+                ],
+                [
+                    "6:23"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" The political warning must be heeded . Either one pays attention to the will of the people or what happened will happen . \" Maia commented .",
+    "sent_id": "20011231/21.05.45-10422-8"
+}

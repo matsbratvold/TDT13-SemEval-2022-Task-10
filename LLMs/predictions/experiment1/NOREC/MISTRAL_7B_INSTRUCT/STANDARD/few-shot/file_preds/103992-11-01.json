@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Oppr\u00f8ret"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "karakterer"
+                ],
+                [
+                    "41:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "muligheten til \u00e5 se hvordan"
+                ],
+                [
+                    "13:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "karakterer"
+                ],
+                [
+                    "41:51"
+                ]
+            ],
+            "Target": [
+                [
+                    "fungerer sammen"
+                ],
+                [
+                    "63:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i det man i barnehagen ville kalt fri lek"
+                ],
+                [
+                    "79:120"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Oppr\u00f8ret gir muligheten til \u00e5 se hvordan karakterer vi kjenner fungerer sammen i det man i barnehagen ville kalt fri lek .",
+    "sent_id": "103992-11-01"
+}

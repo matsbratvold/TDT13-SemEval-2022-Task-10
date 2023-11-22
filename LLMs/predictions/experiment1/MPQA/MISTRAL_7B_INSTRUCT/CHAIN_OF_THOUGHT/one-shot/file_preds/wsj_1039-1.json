@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Amdahl Corp."
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "a sharp decline in net income"
+                ],
+                [
+                    "57:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reported"
+                ],
+                [
+                    "48:56"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Amdahl Corp. , a maker of mainframe computers , reported a sharp decline in net income for its third quarter , citing pricecutting by competitors and adverse effects from a strong U.S. dollar .",
+    "sent_id": "xbank/wsj_1039-1"
+}

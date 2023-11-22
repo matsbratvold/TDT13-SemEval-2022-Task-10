@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "st\u00f8ttespillere"
+                ],
+                [
+                    "13:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gode"
+                ],
+                [
+                    "8:12"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "selvf\u00f8lgelig"
+                ],
+                [
+                    "35:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "har"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Han har gode st\u00f8ttespillere ogs\u00e5 , selvf\u00f8lgelig har han det .",
+    "sent_id": "304196-18-01"
+}

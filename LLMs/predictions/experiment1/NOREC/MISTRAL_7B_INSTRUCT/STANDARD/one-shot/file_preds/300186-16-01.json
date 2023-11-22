@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Anmeldelsen"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "episodene"
+                ],
+                [
+                    "38:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "basert p\u00e5"
+                ],
+                [
+                    "15:24"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Anmeldelsen er basert p\u00e5 de to f\u00f8rste episodene .",
+    "sent_id": "300186-16-01"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Antall hjerter"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "indikerer"
+                ],
+                [
+                    "15:24"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Antall hjerter indikerer hvor vellykket opplevelsen var .",
+    "sent_id": "501595-14-02"
+}

@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "dangerous climate changes"
+                ],
+                [
+                    "327:352"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "designed to unite efforts"
+                ],
+                [
+                    "290:315"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "greenhouse gases"
+                ],
+                [
+                    "402:418"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "achieve a stabilization of the content of greenhouse gases"
+                ],
+                [
+                    "360:418"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "greenhouse gases"
+                ],
+                [
+                    "402:418"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "create an appropriate system of ecological - economic relations"
+                ],
+                [
+                    "631:694"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "It was preceded by the UN Framework Convention on Climate Change . It was adopted on 9 May 1992 and entered into force 21 March 1994 . A total of 186 nations are parties to the convention , including Russia , all of the developed countries and all of the CIS countries . The convention was designed to unite efforts to prevent dangerous climate changes and to achieve a stabilization of the content of greenhouse gases in the atmosphere at a relatively safe level . A decision was adopted at the first conference of convention participants ( 1995 , Berlin ) to begin phased actions to restrict emissions of greenhouse gases and to create an appropriate system of ecological - economic relations .",
+    "sent_id": "temp_fbis/21.10.31-12974-26"
+}

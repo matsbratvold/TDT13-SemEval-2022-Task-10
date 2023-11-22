@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fraser-ekteparet"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "kommer seg raskt inn"
+                ],
+                [
+                    "17:37"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Fraser-ekteparet"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "politisk renkespill"
+                ],
+                [
+                    "111:130"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Fraser-ekteparet kommer seg raskt inn i den parisiske sosieteten som omgir kong Ludvig XV av Frankrike , og et politisk renkespill settes i gang .",
+    "sent_id": "000298-11-01"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "sp\u00f8rsm\u00e5let"
+                ],
+                [
+                    "14:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i forkant av hennes f\u00f8rste \u00d8ya-konsert"
+                ],
+                [
+                    "25:63"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "S\u00e5nn sett var sp\u00f8rsm\u00e5let i forkant av hennes f\u00f8rste \u00d8ya-konsert :",
+    "sent_id": "104659-06-01"
+}

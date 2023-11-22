@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "expand its war against terrorism beyond Afghanistan to Iraq"
+                ],
+                [
+                    "50:109"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hinted"
+                ],
+                [
+                    "36:42"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Germany and France"
+                ],
+                [
+                    "147:165"
+                ]
+            ],
+            "Target": [
+                [
+                    "swift criticism"
+                ],
+                [
+                    "121:136"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "called for"
+                ],
+                [
+                    "172:182"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The United States earlier this week hinted it may expand its war against terrorism beyond Afghanistan to Iraq , bringing swift criticism from both Germany and France , who called for restraint in the future of the military campaign .",
+    "sent_id": "20011130/12.26.48-19550-10"
+}

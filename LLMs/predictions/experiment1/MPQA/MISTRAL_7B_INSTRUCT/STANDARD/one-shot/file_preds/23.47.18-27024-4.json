@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "military experts"
+                ],
+                [
+                    "13:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "clashes"
+                ],
+                [
+                    "52:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is possible"
+                ],
+                [
+                    "35:46"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "According to military experts , it is possible that clashes will resume between the Taleban and UIFSA forces in various regions of Afghanistan in the next few days and weeks .",
+    "sent_id": "20010718/23.47.18-27024-4"
+}

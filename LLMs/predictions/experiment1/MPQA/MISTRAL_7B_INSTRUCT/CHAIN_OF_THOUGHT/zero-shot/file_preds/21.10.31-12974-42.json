@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The unbalancing of the climate"
+                ],
+                [
+                    "0:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "ecosystems"
+                ],
+                [
+                    "67:77"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "negative"
+                ],
+                [
+                    "48:56"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Some species are disappearing"
+                ],
+                [
+                    "80:109"
+                ]
+            ],
+            "Target": [
+                [
+                    "species"
+                ],
+                [
+                    "85:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "negative"
+                ],
+                [
+                    "48:56"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Gangster species are appearing"
+                ],
+                [
+                    "192:222"
+                ]
+            ],
+            "Target": [
+                [
+                    "locust"
+                ],
+                [
+                    "237:243"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "negative"
+                ],
+                [
+                    "48:56"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "It is hard to say today what will happen to edaphic microflora"
+                ],
+                [
+                    "314:376"
+                ]
+            ],
+            "Target": [
+                [
+                    "microflora"
+                ],
+                [
+                    "366:376"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "negative"
+                ],
+                [
+                    "48:56"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The unbalancing of the climate will have a very negative effect on ecosystems . Some species are disappearing , while others , conversely , are starting to multiply will unprecedented speed . Gangster species are appearing , such as the locust , which is moving toward the north , where it has never been before . It is hard to say today what will happen to edaphic microflora , which is of fundamental importance to soil fertility . If microflora stop reproducing humus , the higher plants will die , agricultural crops will stop growing , and timber will start to dry up .",
+    "sent_id": "temp_fbis/21.10.31-12974-42"
+}

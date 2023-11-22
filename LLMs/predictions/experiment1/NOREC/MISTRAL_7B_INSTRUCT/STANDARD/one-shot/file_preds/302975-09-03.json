@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Synsvinkelen"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Synne"
+                ],
+                [
+                    "35:40"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Synsvinkelen ligger ikke lenge hos Synne , hun var bare en lett identifiserbar inngangsport .",
+    "sent_id": "302975-09-03"
+}

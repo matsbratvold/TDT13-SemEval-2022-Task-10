@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the argentino"
+                ],
+                [
+                    "4:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "the bricks and mortar of government buildings such as the Pink Palace"
+                ],
+                [
+                    "42:111"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "only be backed by"
+                ],
+                [
+                    "24:41"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "analysts"
+                ],
+                [
+                    "118:126"
+                ]
+            ],
+            "Target": [
+                [
+                    "it could devalue and spark inflation"
+                ],
+                [
+                    "139:175"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "have warned"
+                ],
+                [
+                    "127:138"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "But the argentino would only be backed by the bricks and mortar of government buildings such as the Pink Palace , and analysts have warned it could devalue and spark inflation .",
+    "sent_id": "non_fbis/12.04.00-12904-18"
+}

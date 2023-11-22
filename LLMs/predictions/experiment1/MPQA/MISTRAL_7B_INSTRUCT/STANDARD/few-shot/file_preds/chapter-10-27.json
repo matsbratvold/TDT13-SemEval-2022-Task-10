@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "the United States was at war with a new and different kind of enemy"
+                ],
+                [
+                    "110:177"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stressed"
+                ],
+                [
+                    "96:104"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "develop a strategy to eliminate terrorists and punish those who support them"
+                ],
+                [
+                    "249:325"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tasked principals"
+                ],
+                [
+                    "194:211"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "elimination of terrorism as a threat to our way of life"
+                ],
+                [
+                    "474:529"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "considered a paper"
+                ],
+                [
+                    "412:430"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "President Bush chaired two more meetings of the NSC on September 12 . In the first meeting , he stressed that the United States was at war with a new and different kind of enemy . The President tasked principals to go beyond their pre-9/11 work and develop a strategy to eliminate terrorists and punish those who support them . As they worked on defining the goals and objectives of the upcoming campaign , they considered a paper that went beyond al Qaeda to propose the \" elimination of terrorism as a threat to our way of life , \" an aim that would include pursuing other international terrorist organizations in the Middle East .",
+    "sent_id": "ula/chapter-10-27"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Anne Cathrine Wolleb\u00e6ks"
+                ],
+                [
+                    "8:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "oversettelse"
+                ],
+                [
+                    "32:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fungerer bra"
+                ],
+                [
+                    "45:57"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Anne Cathrine Wolleb\u00e6ks"
+                ],
+                [
+                    "8:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "stort industrielt lasteskip"
+                ],
+                [
+                    "78:105"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er det vi kaller et handelsskip p\u00e5 norsk"
+                ],
+                [
+                    "115:155"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Anne Cathrine Wolleb\u00e6ks"
+                ],
+                [
+                    "8:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "den tyske gjeterhunden"
+                ],
+                [
+                    "163:185"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er en sch\u00e4fer"
+                ],
+                [
+                    "196:209"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "( 181 ) Anne Cathrine Wolleb\u00e6ks oversettelse fungerer bra , men mon ikke et \u00ab stort industrielt lasteskip \u00bb ( 36 ) er det vi kaller et handelsskip p\u00e5 norsk , og \u00ab den tyske gjeterhunden \u00bb ( 251 ) er en sch\u00e4fer ?",
+    "sent_id": "703572-08-02"
+}

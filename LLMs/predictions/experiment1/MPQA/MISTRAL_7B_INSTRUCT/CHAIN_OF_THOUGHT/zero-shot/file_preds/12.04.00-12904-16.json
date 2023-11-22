@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "markets"
+                ],
+                [
+                    "144:151"
+                ]
+            ],
+            "Target": [
+                [
+                    "Rodriguez Saa"
+                ],
+                [
+                    "197:210"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "plans for a new currency"
+                ],
+                [
+                    "214:238"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "While the moratorium on part of Argentina 's $ 132 - billion public debt , heralding the biggest default in history , had long been expected by markets that have dumped Argentine bonds this year , Rodriguez Saa 's plans for a new currency caused alarm .",
+    "sent_id": "non_fbis/12.04.00-12904-16"
+}

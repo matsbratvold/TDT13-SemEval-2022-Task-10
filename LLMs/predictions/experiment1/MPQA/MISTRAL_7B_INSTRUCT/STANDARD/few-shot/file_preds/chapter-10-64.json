@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "General Tommy Franks"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "wondered"
+                ],
+                [
+                    "308:316"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "General Tommy Franks , the commanding general of Central Command , recalled receiving Rumsfeld 's guidance that each regional commander should assess what these plans meant for his area of responsibility . He knew he would soon be striking the Taliban and al Qaeda in Afghanistan . But , he told us , he now wondered how that action was connected to what might need to be done in Somalia , Yemen , or Iraq .",
+    "sent_id": "ula/chapter-10-64"
+}

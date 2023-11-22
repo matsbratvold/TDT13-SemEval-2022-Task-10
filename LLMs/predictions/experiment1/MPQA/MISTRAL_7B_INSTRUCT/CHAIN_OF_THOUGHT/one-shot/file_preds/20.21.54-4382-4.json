@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Chomsky"
+                ],
+                [
+                    "29:36"
+                ]
+            ],
+            "Target": [
+                [
+                    "the US think tank"
+                ],
+                [
+                    "60:77"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "planned"
+                ],
+                [
+                    "82:89"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Chomsky"
+                ],
+                [
+                    "29:36"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "given"
+                ],
+                [
+                    "323:328"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Chomsky"
+                ],
+                [
+                    "29:36"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "toppled"
+                ],
+                [
+                    "536:543"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "According to the analysis of Chomsky , after World War II , the US think tank had planned to subjugate a few regions of the world for its economic progress . The Middle East and many countries of the Third World were part of the plan . During the same period , anti-Soviet hysteria was also promoted strongly . The CIA was given the task to topple governments and install rulers of its own choice . As a result , the governments in Guatemala in 1954 and 1963 , Dominican Republic in 1984 , Brazil in 1965 and that of Chile in 1973 were toppled .",
+    "sent_id": "20020315/20.21.54-4382-4"
+}

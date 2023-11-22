@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Deputy Secretary of State Armitage"
+                ],
+                [
+                    "18:52"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "called"
+                ],
+                [
+                    "57:63"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Mullah Omar"
+                ],
+                [
+                    "182:193"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "not negative"
+                ],
+                [
+                    "249:261"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "the Taliban"
+                ],
+                [
+                    "319:330"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "knew"
+                ],
+                [
+                    "309:313"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "On the same day , Deputy Secretary of State Armitage was called by Mahmud Ahmed regarding a two - day visit to Afghanistan during which the Pakistani intelligence chief had met with Mullah Omar and conveyed the U.S. demands . Omar 's response was \" not negative on all these points . \" But the administration knew that the Taliban was unlikely to turn over Bin Ladin .",
+    "sent_id": "ula/chapter-10-46"
+}

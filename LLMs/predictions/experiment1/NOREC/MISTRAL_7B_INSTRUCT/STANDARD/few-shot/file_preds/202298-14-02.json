@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Prius"
+                ],
+                [
+                    "23:28"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Auris"
+                ],
+                [
+                    "31:36"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Hyundai Ioniq"
+                ],
+                [
+                    "43:56"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Yaris"
+                ],
+                [
+                    "93:98"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ligger en st\u00f8rrelse over"
+                ],
+                [
+                    "68:92"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Da regner jeg ikke med Prius , Auris eller Hyundai Ioniq , som alle ligger en st\u00f8rrelse over Yaris .",
+    "sent_id": "202298-14-02"
+}

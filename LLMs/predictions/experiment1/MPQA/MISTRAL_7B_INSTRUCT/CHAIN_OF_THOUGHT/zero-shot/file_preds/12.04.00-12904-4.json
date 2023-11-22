@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Peronists"
+                ],
+                [
+                    "43:52"
+                ]
+            ],
+            "Target": [
+                [
+                    "Rodriguez Saa"
+                ],
+                [
+                    "104:117"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Peronists"
+                ],
+                [
+                    "43:52"
+                ]
+            ],
+            "Target": [
+                [
+                    "Rodriguez Saa"
+                ],
+                [
+                    "104:117"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Peronists"
+                ],
+                [
+                    "43:52"
+                ]
+            ],
+            "Target": [
+                [
+                    "Duhalde"
+                ],
+                [
+                    "247:254"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Argentina 's biggest political force , the Peronists , who ruled from 1989 - 99 , withdrew support from Rodriguez Saa , accusing him of being power - hungry , and convinced other parties to accept in his stead Peronist heavyweight Senator Eduardo Duhalde .",
+    "sent_id": "non_fbis/12.04.00-12904-4"
+}

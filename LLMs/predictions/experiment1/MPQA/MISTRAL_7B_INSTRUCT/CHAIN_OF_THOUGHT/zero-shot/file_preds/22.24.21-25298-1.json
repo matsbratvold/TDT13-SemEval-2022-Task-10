@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "AFP"
+                ],
+                [
+                    "37:40"
+                ]
+            ],
+            "Target": [
+                [
+                    "report"
+                ],
+                [
+                    "8:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "AFP"
+                ],
+                [
+                    "37:40"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Text of report by French news agency AFP",
+    "sent_id": "20020410/22.24.21-25298-1"
+}

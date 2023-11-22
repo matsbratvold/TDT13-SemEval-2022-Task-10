@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Bilen"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lettkj\u00f8rt"
+                ],
+                [
+                    "9:18"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "stilleg\u00e5ende"
+                ],
+                [
+                    "21:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stilleg\u00e5ende"
+                ],
+                [
+                    "21:33"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Bilen"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "den har automatgir som standard gjennom hybridl\u00f8sningen"
+                ],
+                [
+                    "36:91"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Bilen"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "alle modeller som selges i Norge vil ha fem d\u00f8rer"
+                ],
+                [
+                    "97:146"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Bilen er lettkj\u00f8rt , stilleg\u00e5ende , den har automatgir som standard gjennom hybridl\u00f8sningen , og alle modeller som selges i Norge vil ha fem d\u00f8rer .",
+    "sent_id": "202298-25-03"
+}

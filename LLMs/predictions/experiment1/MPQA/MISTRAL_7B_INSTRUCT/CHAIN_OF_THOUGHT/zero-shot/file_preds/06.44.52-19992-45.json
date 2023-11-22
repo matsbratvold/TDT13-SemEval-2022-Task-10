@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Concertina wire"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "Camp X - Ray"
+                ],
+                [
+                    "47:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "surround"
+                ],
+                [
+                    "38:46"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "nine guard towers"
+                ],
+                [
+                    "20:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "Camp X - Ray"
+                ],
+                [
+                    "47:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "surround"
+                ],
+                [
+                    "38:46"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "American flag"
+                ],
+                [
+                    "66:79"
+                ]
+            ],
+            "Target": [
+                [
+                    "Camp X - Ray"
+                ],
+                [
+                    "47:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "painted on"
+                ],
+                [
+                    "96:106"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "American flag"
+                ],
+                [
+                    "66:79"
+                ]
+            ],
+            "Target": [
+                [
+                    "Camp X - Ray"
+                ],
+                [
+                    "47:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "flying high"
+                ],
+                [
+                    "126:137"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Concertina wire and nine guard towers surround Camp X - Ray . The American flag is everywhere - painted on the guard towers , flying high in front of the facility .",
+    "sent_id": "non_fbis/06.44.52-19992-45"
+}

@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "de gamle Hardy-b\u00f8kene"
+                ],
+                [
+                    "13:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "likhet med"
+                ],
+                [
+                    "2:12"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "har disse Trio-historiene"
+                ],
+                [
+                    "35:60"
+                ]
+            ],
+            "Target": [
+                [
+                    "noe litt mekanisk over seg"
+                ],
+                [
+                    "61:87"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "I likhet med de gamle Hardy-b\u00f8kene har disse Trio-historiene noe litt mekanisk over seg .",
+    "sent_id": "600725-06-01"
+}

@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The 15 member nations of the EU"
+                ],
+                [
+                    "0:31"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "firm intentions"
+                ],
+                [
+                    "89:104"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The world community"
+                ],
+                [
+                    "212:231"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "hopeful"
+                ],
+                [
+                    "239:246"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The 15 member nations of the EU announced last fall , at a conference in Morocco , their firm intentions to ratify the Kyoto Protocol . Iceland , Japan , Australia and Canada are ready to join the ratification . The world community became hopeful that it would be possible to solve the problems that brought about the UN Convention on Climate Change ( 1994 ) .",
+    "sent_id": "temp_fbis/21.10.31-12974-2"
+}

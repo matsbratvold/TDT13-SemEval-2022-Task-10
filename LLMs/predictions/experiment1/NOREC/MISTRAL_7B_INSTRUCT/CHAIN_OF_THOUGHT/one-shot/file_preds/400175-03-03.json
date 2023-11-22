@@ -1,0 +1,61 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "dem"
+                ],
+                [
+                    "13:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mange av dem var barnesoldater"
+                ],
+                [
+                    "4:34"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "g\u00e5rde til fronten under Hitlers siste dager"
+                ],
+                [
+                    "47:90"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "pisket av g\u00e5rde til fronten under Hitlers siste dager"
+                ],
+                [
+                    "37:90"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men mange av dem var barnesoldater , pisket av g\u00e5rde til fronten under Hitlers siste dager og helt uten erfaring .",
+    "sent_id": "400175-03-03"
+}

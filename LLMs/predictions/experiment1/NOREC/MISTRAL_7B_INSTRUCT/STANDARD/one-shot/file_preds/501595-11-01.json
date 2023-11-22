@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hovedrettene"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "bistro"
+                ],
+                [
+                    "52:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er og skal v\u00e6re"
+                ],
+                [
+                    "59:74"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Hovedrettene lever opp til forventningene om hva en bistro er og skal v\u00e6re .",
+    "sent_id": "501595-11-01"
+}

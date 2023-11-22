@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "sedvanlig stilige"
+                ],
+                [
+                    "8:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kloke og underholdende vis"
+                ],
+                [
+                    "28:54"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "P\u00e5 sitt sedvanlig stilige , kloke og underholdende vis .",
+    "sent_id": "702352-07-04"
+}

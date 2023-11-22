@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "33:46"
+                ]
+            ],
+            "Target": [
+                [
+                    "Schaffhausen-baserte merket"
+                ],
+                [
+                    "88:115"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ingen tvil"
+                ],
+                [
+                    "16:26"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "123:129"
+                ]
+            ],
+            "Target": [
+                [
+                    "Schaffhausens klokkestolthet"
+                ],
+                [
+                    "176:204"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stenkast"
+                ],
+                [
+                    "162:170"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "IWC"
+                ],
+                [
+                    "207:210"
+                ]
+            ],
+            "Target": [
+                [
+                    "Schaffhausens klokkestolthet"
+                ],
+                [
+                    "176:204"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stenkast"
+                ],
+                [
+                    "162:170"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Samtidig er det ingen tvil om at Fenix Chronos representerer en helt ny retning for det Schaffhausen-baserte merket ( ja , Garmin sitt hovedkvarter er faktisk et stenkast unna Schaffhausens klokkestolthet , IWC ) .",
+    "sent_id": "201344-08-02"
+}

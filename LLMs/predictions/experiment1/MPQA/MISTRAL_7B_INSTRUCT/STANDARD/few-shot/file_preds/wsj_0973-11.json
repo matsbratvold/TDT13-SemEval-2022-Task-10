@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Westinghouse"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "international sales"
+                ],
+                [
+                    "30:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "expects"
+                ],
+                [
+                    "18:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Westinghouse"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "is negotiating with the Soviets to build"
+                ],
+                [
+                    "130:170"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Westinghouse also expects its international sales to soon grow to 25 % of total corporate sales from 20 % last year . The company is negotiating with the Soviets to build a Thermo King truck - refrigeration plant that would produce about 10,000 units annually .",
+    "sent_id": "xbank/wsj_0973-11"
+}

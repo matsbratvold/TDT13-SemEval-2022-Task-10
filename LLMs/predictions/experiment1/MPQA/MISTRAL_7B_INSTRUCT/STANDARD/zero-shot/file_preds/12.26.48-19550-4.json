@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Robinson"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "war on terrorism"
+                ],
+                [
+                    "142:158"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "taking a heavy toll on civil liberties"
+                ],
+                [
+                    "163:201"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Robinson , a particularly critical voice in guarding against human rights abuses in the wake of the September 11 attacks , said Wednesday the war on terrorism was taking a heavy toll on civil liberties .",
+    "sent_id": "20011130/12.26.48-19550-4"
+}

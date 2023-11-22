@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den gamle komikeren"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "rolle"
+                ],
+                [
+                    "46:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gj\u00f8r en solid og helst\u00f8pt rolle"
+                ],
+                [
+                    "20:51"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "rolle"
+                ],
+                [
+                    "46:51"
+                ]
+            ],
+            "Target": [
+                [
+                    "rolle"
+                ],
+                [
+                    "46:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som en mann som ikke er ute etter medlidenhet"
+                ],
+                [
+                    "52:97"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "rolle"
+                ],
+                [
+                    "46:51"
+                ]
+            ],
+            "Target": [
+                [
+                    "rolle"
+                ],
+                [
+                    "46:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "men rettferdighet"
+                ],
+                [
+                    "100:117"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Den gamle komikeren gj\u00f8r en solid og helst\u00f8pt rolle som en mann som ikke er ute etter medlidenhet , men rettferdighet .",
+    "sent_id": "004773-13-02"
+}

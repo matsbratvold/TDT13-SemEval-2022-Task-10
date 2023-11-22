@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "arven"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "br\u00e5tt"
+                ],
+                [
+                    "17:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "han"
+                ],
+                [
+                    "13:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "overf\u00f8rer"
+                ],
+                [
+                    "3:12"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "henne"
+                ],
+                [
+                    "42:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til"
+                ],
+                [
+                    "38:41"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Da overf\u00f8rer han br\u00e5tt hele arven sin til henne .",
+    "sent_id": "600639-03-03"
+}

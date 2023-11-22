@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Military violence"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "a necessary evil"
+                ],
+                [
+                    "70:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "constitutes"
+                ],
+                [
+                    "18:29"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Military violence constitutes -- in very exceptional circumstances -- a necessary evil in this very imperfect world . That is a bitter pill to swallow in a thoroughly non-militaristic society such as ours , where the clash of weapons provokes healthy reactions of repulsion . But unfortunately there is little one can do about it . Without armed violence the Nazi regime and similar forces that had the wind in their sails in Europe in the 1930s , would not have fallen . In the battle against the new forms of terrorism that reached a tragic culmination on 11 September , a limited form of military violence could also not be ruled out .",
+    "sent_id": "20011008/22.27.34-26526-0"
+}

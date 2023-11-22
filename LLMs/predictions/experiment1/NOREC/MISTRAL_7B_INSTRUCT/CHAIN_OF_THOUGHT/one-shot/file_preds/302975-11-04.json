@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men som barnebokanmelder"
+                ],
+                [
+                    "0:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "fortelling"
+                ],
+                [
+                    "50:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blir jeg provosert av en fortelling som ber om \u00e5 bli tolket innenfor s\u00e5 trange rammer"
+                ],
+                [
+                    "25:110"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men som barnebokanmelder blir jeg provosert av en fortelling som ber om \u00e5 bli tolket innenfor s\u00e5 trange rammer .",
+    "sent_id": "302975-11-04"
+}

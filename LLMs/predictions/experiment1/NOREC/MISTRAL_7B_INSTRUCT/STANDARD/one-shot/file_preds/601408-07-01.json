@@ -1,0 +1,97 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "De 14"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "ukjente landssvikerne"
+                ],
+                [
+                    "8:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "profiterte p\u00e5 samarbeidet med regimet"
+                ],
+                [
+                    "36:73"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "er ulike skjebner"
+                ],
+                [
+                    "76:93"
+                ]
+            ],
+            "Target": [
+                [
+                    "ukjente landssvikerne"
+                ],
+                [
+                    "8:29"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "gjorde det lettere for tyskerne \u00e5 styre det norske n\u00e6ringslivet"
+                ],
+                [
+                    "103:166"
+                ]
+            ],
+            "Target": [
+                [
+                    "ukjente landssvikerne"
+                ],
+                [
+                    "8:29"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "slik m\u00e5let for NS og den tyske forvaltningen var"
+                ],
+                [
+                    "169:217"
+                ]
+            ],
+            "Target": [
+                [
+                    "ukjente landssvikerne"
+                ],
+                [
+                    "8:29"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "De 14 \" ukjente landssvikerne \" som profiterte p\u00e5 samarbeidet med regimet , er ulike skjebner , men de gjorde det lettere for tyskerne \u00e5 styre det norske n\u00e6ringslivet , slik m\u00e5let for NS og den tyske forvaltningen var .",
+    "sent_id": "601408-07-01"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "v\u00e5re andre favoritter"
+                ],
+                [
+                    "28:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "minne litt om"
+                ],
+                [
+                    "8:21"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Polar"
+                ],
+                [
+                    "52:57"
+                ]
+            ],
+            "Target": [
+                [
+                    "A360"
+                ],
+                [
+                    "58:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "minne litt om"
+                ],
+                [
+                    "8:21"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "et aktivitetsarmb\u00e5nd"
+                ],
+                [
+                    "71:91"
+                ]
+            ],
+            "Target": [
+                [
+                    "Jawbone"
+                ],
+                [
+                    "96:103"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "minne litt om"
+                ],
+                [
+                    "8:21"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det kan minne litt om en av v\u00e5re andre favoritter , Polar A360 , eller et aktivitetsarmb\u00e5nd fra Jawbone .",
+    "sent_id": "200006-09-03"
+}

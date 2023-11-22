@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Zhang Qiyue"
+                ],
+                [
+                    "167:178"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "will only lead to"
+                ],
+                [
+                    "88:105"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" The continual sale of arms by the United States or upgrading of relations with Taiwan will only lead to tensions across the straits , \" foreign ministry spokeswoman Zhang Qiyue said .",
+    "sent_id": "temp_fbis/22.34.58-23977-1"
+}

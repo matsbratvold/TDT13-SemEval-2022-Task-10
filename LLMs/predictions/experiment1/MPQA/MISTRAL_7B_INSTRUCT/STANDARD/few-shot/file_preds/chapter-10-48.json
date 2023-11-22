@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "all terrorist networks"
+                ],
+                [
+                    "44:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "would strive to eliminate"
+                ],
+                [
+                    "18:43"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "dry up their financial support"
+                ],
+                [
+                    "69:99"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "and prevent them from acquiring weapons of mass destruction"
+                ],
+                [
+                    "102:161"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "goal was"
+                ],
+                [
+                    "168:176"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The United States would strive to eliminate all terrorist networks , dry up their financial support , and prevent them from acquiring weapons of mass destruction . The goal was the \" elimination of terrorism as a threat to our way of life . \"",
+    "sent_id": "ula/chapter-10-48"
+}

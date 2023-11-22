@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "imidlertid"
+                ],
+                [
+                    "9:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "tidlige"
+                ],
+                [
+                    "20:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Langt fra Afrika"
+                ],
+                [
+                    "30:46"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "geniale"
+                ],
+                [
+                    "57:64"
+                ]
+            ],
+            "Target": [
+                [
+                    "tapningen"
+                ],
+                [
+                    "65:74"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til Todd Terje"
+                ],
+                [
+                    "75:89"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "skikkelse"
+                ],
+                [
+                    "95:104"
+                ]
+            ],
+            "Target": [
+                [
+                    "Todd Terje"
+                ],
+                [
+                    "79:89"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en skikkelse med den samme fascinasjonen for det snurrige"
+                ],
+                [
+                    "92:149"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "snurrige"
+                ],
+                [
+                    "141:149"
+                ]
+            ],
+            "Target": [
+                [
+                    "DJ Koze"
+                ],
+                [
+                    "154:161"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som DJ Koze"
+                ],
+                [
+                    "150:161"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det gj\u00f8r imidlertid tidlige \u00ab Langt fra Afrika \u00bb , i den geniale tapningen til Todd Terje \u2013 en skikkelse med den samme fascinasjonen for det snurrige som DJ Koze .",
+    "sent_id": "302108-13-01"
+}

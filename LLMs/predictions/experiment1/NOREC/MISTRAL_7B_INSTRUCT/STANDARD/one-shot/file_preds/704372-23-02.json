@@ -1,0 +1,22 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "\" Hoppas det ska g\u00e5 bra f\u00f6r de yngre ocks\u00e5 \" er et opptak av havnearbeidere i G\u00f6teborg , hentet fra en dokumentarfilm .",
+    "sent_id": "704372-23-02"
+}

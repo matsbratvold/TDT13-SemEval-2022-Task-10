@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Bev\u00e6pnet"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med ditt eget moralske kompass og en bunke ervervbare egenskaper og dingser"
+                ],
+                [
+                    "9:84"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Karnaca"
+                ],
+                [
+                    "116:123"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "og dens hemmeligheter"
+                ],
+                [
+                    "124:145"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Bev\u00e6pnet med ditt eget moralske kompass og en bunke ervervbare egenskaper og dingser er det p\u00e5 tide \u00e5 bli kjent med Karnaca og dens hemmeligheter .",
+    "sent_id": "000913-10-01"
+}

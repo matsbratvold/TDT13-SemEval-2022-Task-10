@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the Nouvel Observateur"
+                ],
+                [
+                    "87:109"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "makes the region"
+                ],
+                [
+                    "185:201"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Although there is only scant possibility of a military conflict in the Taiwan Strait , the Nouvel Observateur said , Beijing 's military buildup in its southern coastal provinces still makes the region \" the most heavily armed place in the world next only to the Middle East , \" and a dangerous flashpoint in the 21st century .",
+    "sent_id": "20010713/00.42.05-29788-8"
+}

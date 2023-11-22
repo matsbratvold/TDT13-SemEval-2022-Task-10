@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Chavez"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "coup"
+                ],
+                [
+                    "145:149"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "brought back"
+                ],
+                [
+                    "11:23"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Chavez was brought back to the Venezuelan presidential palace early Sunday by helicopter from a Caribbean island where he was detained after the coup and thereafter resumed his functions as president .",
+    "sent_id": "non_fbis/15.36.10-18917-11"
+}

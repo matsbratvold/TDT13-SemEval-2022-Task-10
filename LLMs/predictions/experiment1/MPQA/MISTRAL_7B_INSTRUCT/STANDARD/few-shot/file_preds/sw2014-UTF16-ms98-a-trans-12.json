@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "yeah"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "it 's a hard decision to make"
+                ],
+                [
+                    "13:42"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "yeah it 's a it 's a hard decision to make",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-12"
+}

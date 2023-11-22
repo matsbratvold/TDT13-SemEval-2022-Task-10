@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Og man"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "privateide fengsler"
+                ],
+                [
+                    "32:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "absurde"
+                ],
+                [
+                    "20:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Og man"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "rette spiss"
+                ],
+                [
+                    "59:70"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "satt"
+                ],
+                [
+                    "11:15"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Og man"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "rehabilitering"
+                ],
+                [
+                    "149:163"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "interessert"
+                ],
+                [
+                    "135:146"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Og man"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "forretningsid\u00e9en"
+                ],
+                [
+                    "178:194"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 ha folk i fengsel"
+                ],
+                [
+                    "198:217"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Og man f\u00e5r satt det absurde med privateide fengsler p\u00e5 sin rette spiss - at slikt til syvende og sist handler om et system som ikke er interessert i rehabilitering , fordi selve forretningsid\u00e9en er \u00e5 ha folk i fengsel .",
+    "sent_id": "103992-12-03"
+}

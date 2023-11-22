@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Er"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "den blitt til"
+                ],
+                [
+                    "3:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blitt til"
+                ],
+                [
+                    "7:16"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "den blitt til"
+                ],
+                [
+                    "3:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "som et fors\u00f8k p\u00e5 \u00e5 gjenta den vellykkede formelen fra forrige bok"
+                ],
+                [
+                    "17:82"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjenta den vellykkede formelen"
+                ],
+                [
+                    "36:66"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "uten at stoffet har v\u00e6rt lydig mot intensjonen"
+                ],
+                [
+                    "85:131"
+                ]
+            ],
+            "Target": [
+                [
+                    "den blitt til"
+                ],
+                [
+                    "3:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "uten at stoffet har v\u00e6rt lydig"
+                ],
+                [
+                    "85:115"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Er den blitt til som et fors\u00f8k p\u00e5 \u00e5 gjenta den vellykkede formelen fra forrige bok , uten at stoffet har v\u00e6rt lydig mot intensjonen ?",
+    "sent_id": "301242-11-03"
+}

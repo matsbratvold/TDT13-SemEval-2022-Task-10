@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sette oss i andres sted"
+                ],
+                [
+                    "8:31"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gj\u00f8re det lettere \u00e5 forst\u00e5 komplekse sammenhenger"
+                ],
+                [
+                    "42:91"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den kan sette oss i andres sted , og slik gj\u00f8re det lettere \u00e5 forst\u00e5 komplekse sammenhenger .",
+    "sent_id": "302975-10-02"
+}

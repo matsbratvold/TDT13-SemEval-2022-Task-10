@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "agenda"
+                ],
+                [
+                    "4:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "those first days"
+                ],
+                [
+                    "14:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "worth noting"
+                ],
+                [
+                    "34:46"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "agenda"
+                ],
+                [
+                    "4:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "those first days"
+                ],
+                [
+                    "14:30"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The agenda in those first days is worth noting , partly as a checklist for future crisis planners . It began with problems of how to help victims and stanch the flowing losses to the American economy , such as",
+    "sent_id": "ula/chapter-10-9"
+}

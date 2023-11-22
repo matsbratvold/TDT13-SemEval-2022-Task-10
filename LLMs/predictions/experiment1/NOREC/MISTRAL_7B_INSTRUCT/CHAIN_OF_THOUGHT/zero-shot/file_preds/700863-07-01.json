@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Vaklende"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "tilh\u00f8righet"
+                ],
+                [
+                    "9:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilh\u00f8righet"
+                ],
+                [
+                    "9:20"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Vaklende tilh\u00f8righet",
+    "sent_id": "700863-07-01"
+}

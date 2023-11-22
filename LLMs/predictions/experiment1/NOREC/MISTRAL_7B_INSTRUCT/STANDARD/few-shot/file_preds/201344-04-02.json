@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "klokkene"
+                ],
+                [
+                    "12:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "integrerte smartfunksjoner"
+                ],
+                [
+                    "21:47"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "smartklokker"
+                ],
+                [
+                    "90:102"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tr\u00e5d med det stadig \u00f8kende fokuset"
+                ],
+                [
+                    "52:86"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "I 2013 fikk klokkene integrerte smartfunksjoner , i tr\u00e5d med det stadig \u00f8kende fokuset p\u00e5 smartklokker .",
+    "sent_id": "201344-04-02"
+}

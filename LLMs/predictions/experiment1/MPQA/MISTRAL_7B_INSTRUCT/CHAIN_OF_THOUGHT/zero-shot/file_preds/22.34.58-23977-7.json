@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "She"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "visit"
+                ],
+                [
+                    "44:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "refused"
+                ],
+                [
+                    "4:11"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Hong Kong press"
+                ],
+                [
+                    "121:136"
+                ]
+            ],
+            "Target": [
+                [
+                    "visit"
+                ],
+                [
+                    "44:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reported"
+                ],
+                [
+                    "105:113"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Beijing"
+                ],
+                [
+                    "154:161"
+                ]
+            ],
+            "Target": [
+                [
+                    "visit"
+                ],
+                [
+                    "44:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "allows"
+                ],
+                [
+                    "162:168"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "211:216"
+                ]
+            ],
+            "Target": [
+                [
+                    "dissatisfaction"
+                ],
+                [
+                    "220:235"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "centered"
+                ],
+                [
+                    "199:207"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "She refused to confirm an April 26 to May 3 visit by Chinese Vice President Hu Jintao to Washington , as reported in the Hong Kong press . The visit , if Beijing allows it , is widely expected to be centered on China 's dissatisfaction over the Taiwan issue .",
+    "sent_id": "temp_fbis/22.34.58-23977-7"
+}

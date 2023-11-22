@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bare stol"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "Aldom\u00f3var"
+                ],
+                [
+                    "16:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00e5r oss til b\u00e5de \u00e5 le og gr\u00e5te"
+                ],
+                [
+                    "32:62"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "f\u00f8le sterkt og mye"
+                ],
+                [
+                    "68:86"
+                ]
+            ],
+            "Target": [
+                [
+                    "Aldom\u00f3var"
+                ],
+                [
+                    "16:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for de suverent spilte rollefigurene"
+                ],
+                [
+                    "87:123"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Bare stol p\u00e5 at Aldom\u00f3var igjen f\u00e5r oss til b\u00e5de \u00e5 le og gr\u00e5te , og f\u00f8le sterkt og mye for de suverent spilte rollefigurene .",
+    "sent_id": "702352-10-03"
+}

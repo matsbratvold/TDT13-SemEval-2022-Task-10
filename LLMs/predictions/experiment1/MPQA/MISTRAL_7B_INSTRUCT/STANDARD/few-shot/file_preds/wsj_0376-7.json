@@ -1,0 +1,134 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the company"
+                ],
+                [
+                    "17:28"
+                ]
+            ],
+            "Target": [
+                [
+                    "separately quoted companies"
+                ],
+                [
+                    "141:168"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "can only realize their full potential"
+                ],
+                [
+                    "49:86"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "the company"
+                ],
+                [
+                    "17:28"
+                ]
+            ],
+            "Target": [
+                [
+                    "separately quoted companies"
+                ],
+                [
+                    "141:168"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "the company"
+                ],
+                [
+                    "17:28"
+                ]
+            ],
+            "Target": [
+                [
+                    "separately quoted companies"
+                ],
+                [
+                    "141:168"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "will benefit shareholders"
+                ],
+                [
+                    "240:265"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "the company"
+                ],
+                [
+                    "17:28"
+                ]
+            ],
+            "Target": [
+                [
+                    "separately quoted companies"
+                ],
+                [
+                    "141:168"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "the company"
+                ],
+                [
+                    "17:28"
+                ]
+            ],
+            "Target": [
+                [
+                    "separately quoted companies"
+                ],
+                [
+                    "141:168"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "In a statement , the company said : \" Both parts can only realize their full potential and be appropriately valued by the market if they are separately quoted companies . The sharper definition and the autonomy which each will thereby gain will benefit shareholders , customers and employees . \"",
+    "sent_id": "xbank/wsj_0376-7"
+}

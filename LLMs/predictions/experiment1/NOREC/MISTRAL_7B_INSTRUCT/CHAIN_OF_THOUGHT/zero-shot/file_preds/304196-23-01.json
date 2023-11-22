@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Med"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "The Wall"
+                ],
+                [
+                    "6:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i bakhodet"
+                ],
+                [
+                    "17:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "staffasje"
+                ],
+                [
+                    "30:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "Waters-universet"
+                ],
+                [
+                    "58:74"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er ikke uviktig"
+                ],
+                [
+                    "40:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Med \u00ab The Wall \u00bb i bakhodet , staffasje er ikke uviktig i Waters-universet !",
+    "sent_id": "304196-23-01"
+}

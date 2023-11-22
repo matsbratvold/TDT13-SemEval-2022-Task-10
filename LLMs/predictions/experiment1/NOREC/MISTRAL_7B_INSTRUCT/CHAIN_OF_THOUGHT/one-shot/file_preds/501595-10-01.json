@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "tidlig p\u00e5 dag"
+                ],
+                [
+                    "7:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tidlig p\u00e5 dag"
+                ],
+                [
+                    "7:20"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "veldig kaldt i lokalet"
+                ],
+                [
+                    "24:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "veldig kaldt i lokalet"
+                ],
+                [
+                    "24:46"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er tidlig p\u00e5 dag og veldig kaldt i lokalet .",
+    "sent_id": "501595-10-01"
+}

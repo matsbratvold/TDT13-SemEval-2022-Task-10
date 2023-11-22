@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Lena"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "40"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e4r"
+                ],
+                [
+                    "5:7"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Lena"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "ligg"
+                ],
+                [
+                    "15:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vaken"
+                ],
+                [
+                    "22:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Lena"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "synger"
+                ],
+                [
+                    "39:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "han"
+                ],
+                [
+                    "46:49"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Lena"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "synger"
+                ],
+                [
+                    "39:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med referanse til en av sine gamle sanger"
+                ],
+                [
+                    "50:91"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Lena \u00e4r 40 och ligger vaken i s\u00e4ngen , synger han med referanse til en av sine gamle sanger .",
+    "sent_id": "704372-14-03"
+}

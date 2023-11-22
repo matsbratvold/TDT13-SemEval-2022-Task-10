@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "alle jentene"
+                ],
+                [
+                    "30:42"
+                ]
+            ],
+            "Target": [
+                [
+                    "Magien ved hestesporten"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snakker om"
+                ],
+                [
+                    "43:53"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Magien ved hestesporten"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ser vi ogs\u00e5 litt for lite til"
+                ],
+                [
+                    "56:85"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Magien ved hestesporten , som alle jentene snakker om , ser vi ogs\u00e5 litt for lite til .",
+    "sent_id": "300186-09-01"
+}

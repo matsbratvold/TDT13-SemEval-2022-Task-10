@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "talks"
+                ],
+                [
+                    "11:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "Middle East peace process"
+                ],
+                [
+                    "47:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "evaluated"
+                ],
+                [
+                    "81:90"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Cem"
+                ],
+                [
+                    "95:98"
+                ]
+            ],
+            "Target": [
+                [
+                    "foreign ministers"
+                ],
+                [
+                    "133:150"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bilateral contacts"
+                ],
+                [
+                    "109:127"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "During the talks , also developments about the Middle East peace process will be evaluated and Cem will hold bilateral contacts with foreign ministers of some of the participating countries on the Middle East dispute .",
+    "sent_id": "20020421/21.33.09-24778-3"
+}

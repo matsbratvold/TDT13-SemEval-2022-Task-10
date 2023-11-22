@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "utseendet"
+                ],
+                [
+                    "26:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "betyr alt"
+                ],
+                [
+                    "41:50"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "N\u00e5 er det en gang s\u00e5nn at utseendet ikke betyr alt .",
+    "sent_id": "200006-11-01"
+}

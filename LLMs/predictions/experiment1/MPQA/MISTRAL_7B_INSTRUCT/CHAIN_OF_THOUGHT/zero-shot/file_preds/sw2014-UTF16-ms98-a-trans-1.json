@@ -1,0 +1,142 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "uh"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "scale"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i'd say"
+                ],
+                [
+                    "37:44"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "uh"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "guns"
+                ],
+                [
+                    "157:161"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i'm not totally"
+                ],
+                [
+                    "65:80"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "uh"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "guns"
+                ],
+                [
+                    "157:161"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "uh"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "machine guns"
+                ],
+                [
+                    "270:282"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i do n't believe in things like that"
+                ],
+                [
+                    "301:337"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "uh"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "automatic weapons"
+                ],
+                [
+                    "283:300"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i think"
+                ],
+                [
+                    "342:349"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "uh on the scale they gave one to ten i'd say i'm probably a four i'm not totally i'm not one of these people that believes that we should not be able to buy guns but i do n't think we should be carrying Uzis either you know what i mean yeah i know i mean i do n't think machine guns automatic weapons i do n't believe in things like that but i think",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-1"
+}

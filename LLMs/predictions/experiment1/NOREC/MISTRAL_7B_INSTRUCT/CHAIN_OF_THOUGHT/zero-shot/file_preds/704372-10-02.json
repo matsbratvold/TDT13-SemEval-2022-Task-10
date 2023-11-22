@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ingen"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "hitl\u00e5t"
+                ],
+                [
+                    "17:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "umiddelbar"
+                ],
+                [
+                    "6:16"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Ingen"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "hitl\u00e5t"
+                ],
+                [
+                    "17:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hitl\u00e5t"
+                ],
+                [
+                    "17:23"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "som sies"
+                ],
+                [
+                    "30:38"
+                ]
+            ],
+            "Target": [
+                [
+                    "hitl\u00e5t"
+                ],
+                [
+                    "17:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 v\u00e6re et h\u00f8ydepunkt p\u00e5 konserter"
+                ],
+                [
+                    "39:72"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Ingen umiddelbar hitl\u00e5t , men som sies \u00e5 v\u00e6re et h\u00f8ydepunkt p\u00e5 konserter .",
+    "sent_id": "704372-10-02"
+}

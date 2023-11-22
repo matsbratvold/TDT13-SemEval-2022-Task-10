@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Det store spranget"
+                ],
+                [
+                    "37:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "litt lite magi"
+                ],
+                [
+                    "18:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Mye hjertevarme , litt lite magi i \u00ab Det store spranget \u00bb",
+    "sent_id": "300186-01-01"
+}

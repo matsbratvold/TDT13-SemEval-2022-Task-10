@@ -1,0 +1,51 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "generelle stoffet innimellom"
+                ],
+                [
+                    "4:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "litt for mye gjentakelser av kjent stoff"
+                ],
+                [
+                    "49:89"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Dypvik selv"
+                ],
+                [
+                    "116:127"
+                ]
+            ],
+            "Target": [
+                [
+                    "generelle stoffet innimellom"
+                ],
+                [
+                    "4:32"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det generelle stoffet innimellom blir imidlertid litt for mye gjentakelser av kjent stoff , ikke minst formidlet av Dypvik selv i \u00ab Det var DDR \u00bb .",
+    "sent_id": "301242-15-01"
+}

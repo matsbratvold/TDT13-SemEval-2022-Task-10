@@ -1,0 +1,102 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "pisket"
+                ],
+                [
+                    "37:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "av"
+                ],
+                [
+                    "10:12"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "g\u00e5rde"
+                ],
+                [
+                    "47:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til"
+                ],
+                [
+                    "53:56"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "fronten"
+                ],
+                [
+                    "57:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "under"
+                ],
+                [
+                    "65:70"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Hitlers"
+                ],
+                [
+                    "71:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "siste"
+                ],
+                [
+                    "79:84"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men mange av dem var barnesoldater , pisket av g\u00e5rde til fronten under Hitlers siste dager og helt uten erfaring .",
+    "sent_id": "400175-03-03"
+}

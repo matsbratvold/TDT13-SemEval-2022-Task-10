@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The shackled and blindfolded captives"
+                ],
+                [
+                    "0:37"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "flown"
+                ],
+                [
+                    "48:53"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The shackled and blindfolded captives are being flown to Cuba from Kandahar in southern Afghanistan under tight guard and are being housed at the base in 8 - by - 8 - foot cage - like outdoor cells .",
+    "sent_id": "non_fbis/04.28.09-24241-12"
+}

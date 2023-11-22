@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Vinpakkene"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "koster litt over tre hundre kroner"
+                ],
+                [
+                    "11:45"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Vinpakkene koster litt over tre hundre kroner .",
+    "sent_id": "501595-08-01"
+}

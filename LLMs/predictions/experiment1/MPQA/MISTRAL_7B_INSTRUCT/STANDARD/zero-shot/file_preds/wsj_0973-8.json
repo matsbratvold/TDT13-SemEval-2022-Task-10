@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Westinghouse"
+                ],
+                [
+                    "6:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "nuclear power plant order"
+                ],
+                [
+                    "33:58"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Mr. Lego"
+                ],
+                [
+                    "140:148"
+                ]
+            ],
+            "Target": [
+                [
+                    "new - generation capability"
+                ],
+                [
+                    "205:232"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "foresees the need for a major boost"
+                ],
+                [
+                    "166:201"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "While Westinghouse has n't had a nuclear power plant order from a U.S. utility in about a decade , excess capacity is beginning to shrink . Mr. Lego said the company foresees the need for a major boost in new - generation capability throughout the 1990s .",
+    "sent_id": "xbank/wsj_0973-8"
+}

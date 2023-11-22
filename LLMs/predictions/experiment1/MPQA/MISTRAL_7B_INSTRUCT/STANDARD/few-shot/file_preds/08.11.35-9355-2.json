@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Venezuela 's largest trade union"
+                ],
+                [
+                    "20:52"
+                ]
+            ],
+            "Target": [
+                [
+                    "a strike by managers at the country 's massive state - run oil company"
+                ],
+                [
+                    "59:129"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "joins"
+                ],
+                [
+                    "53:58"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Tuesday , April 9 : Venezuela 's largest trade union joins a strike by managers at the country 's massive state - run oil company , demanding the resignation of a new board of directors appointed by President Hugo Chavez .",
+    "sent_id": "non_fbis/08.11.35-9355-2"
+}

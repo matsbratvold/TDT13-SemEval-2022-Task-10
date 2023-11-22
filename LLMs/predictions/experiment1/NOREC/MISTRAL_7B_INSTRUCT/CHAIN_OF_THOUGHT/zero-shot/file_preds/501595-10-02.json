@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Servit\u00f8ren"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "temperaturen"
+                ],
+                [
+                    "24:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "litt opp"
+                ],
+                [
+                    "55:63"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Servit\u00f8ren forklarer at temperaturen vanligvis tar seg litt opp n\u00e5r det kommer flere gjester .",
+    "sent_id": "501595-10-02"
+}

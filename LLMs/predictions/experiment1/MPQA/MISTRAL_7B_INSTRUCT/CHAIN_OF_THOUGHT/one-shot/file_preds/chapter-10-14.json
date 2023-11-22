@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The very process of reviewing these issues"
+                ],
+                [
+                    "0:42"
+                ]
+            ],
+            "Target": [
+                [
+                    "the absence of an effective government organization"
+                ],
+                [
+                    "55:106"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "underscored"
+                ],
+                [
+                    "43:54"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Vice President Cheney"
+                ],
+                [
+                    "318:339"
+                ]
+            ],
+            "Target": [
+                [
+                    "a new White House entity"
+                ],
+                [
+                    "394:418"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "729:743"
+                ]
+            ],
+            "Target": [
+                [
+                    "the new post"
+                ],
+                [
+                    "790:802"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "announced"
+                ],
+                [
+                    "780:789"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The very process of reviewing these issues underscored the absence of an effective government organization dedicated to assessing vulnerabilities and handling problems of protection and preparedness . Though a number of agencies had some part of the task , none had security as its primary mission . By September 14 , Vice President Cheney had decided to recommend , at least as a first step , a new White House entity to coordinate all the relevant agencies rather than tackle the challenge of combining them in a new department . This new White House entity would be a homeland security adviser and Homeland Security Council - paralleling the National Security Council system . Vice President Cheney reviewed the proposal with President Bush and other advisers . President Bush announced the new post and its first occupant - Pennsylvania governor Tom Ridge - in his address to a joint session of Congress on September 20 .",
+    "sent_id": "ula/chapter-10-14"
+}

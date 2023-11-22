@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Afghan forces"
+                ],
+                [
+                    "19:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "al Qaeda elements"
+                ],
+                [
+                    "71:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "engaged"
+                ],
+                [
+                    "63:70"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "largest engagement of the war"
+                ],
+                [
+                    "146:175"
+                ]
+            ],
+            "Target": [
+                [
+                    "al Qaeda jihadists"
+                ],
+                [
+                    "271:289"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fought"
+                ],
+                [
+                    "180:186"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "al Qaeda forces"
+                ],
+                [
+                    "372:387"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "substantially successful"
+                ],
+                [
+                    "320:344"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Bin Ladin and Zawahiri are still believed to be at large"
+                ],
+                [
+                    "495:551"
+                ]
+            ],
+            "Target": [
+                [
+                    "Bin Ladin and Zawahiri"
+                ],
+                [
+                    "495:517"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "believed to be at large"
+                ],
+                [
+                    "528:551"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "In December 2001 , Afghan forces , with limited U.S. support , engaged al Qaeda elements in a cave complex called Tora Bora . In March 2002 , the largest engagement of the war was fought , in the mountainous Shah - i - Kot area south of Gardez , against a large force of al Qaeda jihadists . The three - week battle was substantially successful , and almost all remaining al Qaeda forces took refuge in Pakistan 's equally mountainous and lightly governed frontier provinces . As of July 2004 , Bin Ladin and Zawahiri are still believed to be at large .",
+    "sent_id": "ula/chapter-10-72"
+}

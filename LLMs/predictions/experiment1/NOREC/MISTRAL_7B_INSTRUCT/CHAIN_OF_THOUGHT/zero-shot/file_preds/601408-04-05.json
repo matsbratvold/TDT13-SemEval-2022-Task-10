@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Politiske forhold"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "denne urettferdigheten"
+                ],
+                [
+                    "47:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bidro"
+                ],
+                [
+                    "37:42"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Politiske forhold og personlige b\u00e5nd bidro til denne urettferdigheten .",
+    "sent_id": "601408-04-05"
+}

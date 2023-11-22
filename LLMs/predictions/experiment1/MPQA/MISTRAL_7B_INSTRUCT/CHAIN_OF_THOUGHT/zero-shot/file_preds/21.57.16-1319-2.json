@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The most prominent form of such attacks is sea jack for ransom"
+                ],
+                [
+                    "0:62"
+                ]
+            ],
+            "Target": [
+                [
+                    "sea jack for ransom"
+                ],
+                [
+                    "43:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "prominent"
+                ],
+                [
+                    "9:18"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "cruise ship"
+                ],
+                [
+                    "133:144"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ambushed"
+                ],
+                [
+                    "122:130"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "local company"
+                ],
+                [
+                    "182:195"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The most prominent form of such attacks is sea jack for ransom . In April , in waters off Sumatra Island , an armed group ambushed a cruise ship . Involved were two employees , of a local company that had merged with an established Japanese oil - related company , and an Indonesian state - run company .",
+    "sent_id": "20011003/21.57.16-1319-2"
+}

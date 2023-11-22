@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Chang"
+                ],
+                [
+                    "63:68"
+                ]
+            ],
+            "Target": [
+                [
+                    "OCAC"
+                ],
+                [
+                    "76:80"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "will focus"
+                ],
+                [
+                    "81:91"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "With the limited funding to which her commission is entitled , Chang said , OCAC will focus its educational and cultural work on Chinese communities with the fewest resources , such as those in Myanmar [ Burma ] , Vietnam and Indonesia .",
+    "sent_id": "20010817/23.25.24-13030-3"
+}

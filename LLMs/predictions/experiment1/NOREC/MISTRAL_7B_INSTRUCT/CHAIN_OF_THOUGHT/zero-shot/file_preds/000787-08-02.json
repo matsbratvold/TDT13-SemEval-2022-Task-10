@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bananer"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "puslespill"
+                ],
+                [
+                    "19:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "K O N G"
+                ],
+                [
+                    "35:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "mynter"
+                ],
+                [
+                    "10:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "puslespill"
+                ],
+                [
+                    "19:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "K O N G"
+                ],
+                [
+                    "35:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Bananer , mynter , puslespill og \u00ab K O N G \u00bb -bokstaver ligger godt skjult .",
+    "sent_id": "000787-08-02"
+}

@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Du"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "7:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ser det for deg"
+                ],
+                [
+                    "3:18"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "og vet hva det g\u00e5r i"
+                ],
+                [
+                    "21:41"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "7:10"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Du ser det for deg , og vet hva det g\u00e5r i .",
+    "sent_id": "702352-05-03"
+}

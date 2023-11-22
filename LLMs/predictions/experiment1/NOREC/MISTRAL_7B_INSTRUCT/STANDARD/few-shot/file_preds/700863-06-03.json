@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Warcraft \u2013 begynnelsen"
+                ],
+                [
+                    "2:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "clash of civilizations"
+                ],
+                [
+                    "50:72"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "\" Warcraft \u2013 begynnelsen \" best\u00e5r stort sett av \" clash of civilizations \" der Hordene , best\u00e5ende av de fire rasene levende lik , troll , minotaurer og orker , t\u00f8rner sammen med den snille Alliansen mellom mennesker , alver , gnomer og dverger .",
+    "sent_id": "700863-06-03"
+}

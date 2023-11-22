@@ -1,0 +1,65 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Charge HR"
+                ],
+                [
+                    "29:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "heller \u00e5 bruke"
+                ],
+                [
+                    "14:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Charge HR"
+                ],
+                [
+                    "29:38"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Polar A360"
+                ],
+                [
+                    "132:142"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ogs\u00e5 et godt valg"
+                ],
+                [
+                    "143:160"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Vi fortsetter heller \u00e5 bruke Charge HR med sin litt kjedeligere design , og ville anbefalt andre om \u00e5 gj\u00f8re det samme - eller s\u00e5 er Polar A360 ogs\u00e5 et godt valg .",
+    "sent_id": "200006-44-01"
+}

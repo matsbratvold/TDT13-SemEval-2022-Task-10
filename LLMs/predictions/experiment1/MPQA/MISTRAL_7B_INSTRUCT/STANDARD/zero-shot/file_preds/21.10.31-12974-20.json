@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Aleksandr Ginzburg"
+                ],
+                [
+                    "77:95"
+                ]
+            ],
+            "Target": [
+                [
+                    "Foreign Ministry official"
+                ],
+                [
+                    "24:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "brilliant"
+                ],
+                [
+                    "53:62"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Aleksandr Ginzburg"
+                ],
+                [
+                    "77:95"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto Protocol"
+                ],
+                [
+                    "212:226"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "best thing I have read or heard about"
+                ],
+                [
+                    "170:207"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Aleksandr Ginzburg"
+                ],
+                [
+                    "77:95"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto Protocol"
+                ],
+                [
+                    "212:226"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hard to disagree with"
+                ],
+                [
+                    "237:258"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "\" The assessment by the Foreign Ministry official is brilliant , \" exclaimed Aleksandr Ginzburg , deputy director of the Institute of Atmospheric Physics . \" This is the best thing I have read or heard about the Kyoto Protocol ! \" It is hard to disagree with this .",
+    "sent_id": "temp_fbis/21.10.31-12974-20"
+}

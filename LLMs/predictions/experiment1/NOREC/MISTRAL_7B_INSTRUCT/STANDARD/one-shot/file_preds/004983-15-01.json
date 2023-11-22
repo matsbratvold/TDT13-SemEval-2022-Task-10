@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Filmen"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "manuset"
+                ],
+                [
+                    "79:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "henter ikke ut all dramatikken"
+                ],
+                [
+                    "7:37"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Filmen henter ikke ut all dramatikken som ligger og trykker under overflaten i manuset .",
+    "sent_id": "004983-15-01"
+}

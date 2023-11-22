@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "108:122"
+                ]
+            ],
+            "Target": [
+                [
+                    "al Qaeda"
+                ],
+                [
+                    "268:276"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "responsible for bombing the USS Cole"
+                ],
+                [
+                    "372:408"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "108:122"
+                ]
+            ],
+            "Target": [
+                [
+                    "Taliban"
+                ],
+                [
+                    "490:497"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hand over the terrorists"
+                ],
+                [
+                    "555:579"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "108:122"
+                ]
+            ],
+            "Target": [
+                [
+                    "Islam"
+                ],
+                [
+                    "676:681"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "108:122"
+                ]
+            ],
+            "Target": [
+                [
+                    "Other regimes"
+                ],
+                [
+                    "865:878"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hard choices"
+                ],
+                [
+                    "885:897"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Having issued directives to guide his administration 's preparations for war , on Thursday , September 20 , President Bush addressed the nation before a joint session of Congress . \" Tonight , \" he said , \" we are a country awakened to danger . \" The President blamed al Qaeda for 9/11 and the 1998 embassy bombings and , for the first time , declared that al Qaeda was \" responsible for bombing the USS Cole . \" He reiterated the ultimatum that had already been conveyed privately . \" The Taliban must act , and act immediately , \" he said . \" They will hand over the terrorists , or they will share in their fate . \" The President added that America 's quarrel was not with Islam : \" The enemy of America is not our many Muslim friends ; it is not our many Arab friends . Our enemy is a radical network of terrorists , and every government that supports them . \" Other regimes faced hard choices , he pointed out : \" Every nation , in every region , now has a decision to make : Either you are with us , or you are with the terrorists . \"",
+    "sent_id": "ula/chapter-10-67"
+}

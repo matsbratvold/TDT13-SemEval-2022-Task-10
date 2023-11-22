@@ -1,0 +1,70 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sun"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sun"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Sun"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Sun"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Sun also reported a record backlog of orders . While this indicates continued strong demand for the company 's desk - top computers , Sun faces increasing competition from Digital Equipment Corp. and Hewlett - Packard Co. Recently , analysts have said Sun also is vulnerable to competition from International Business Machines Corp. , which plans to introduce a group of workstations early next year , and Next Inc .",
+    "sent_id": "xbank/wsj_0928-7"
+}

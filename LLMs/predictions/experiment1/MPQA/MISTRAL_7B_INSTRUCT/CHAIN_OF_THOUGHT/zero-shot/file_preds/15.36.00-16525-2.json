@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "IMF"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Argentina"
+                ],
+                [
+                    "32:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "help"
+                ],
+                [
+                    "27:31"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "IMF"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Argentina"
+                ],
+                [
+                    "32:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "manage"
+                ],
+                [
+                    "16:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "IMF"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Argentina"
+                ],
+                [
+                    "32:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "help"
+                ],
+                [
+                    "27:31"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "IMF"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Argentina"
+                ],
+                [
+                    "32:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "manage"
+                ],
+                [
+                    "16:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The IMF has not managed to help Argentina through its current crisis - it has a 132 billion dollar debt to foreign banks and is in its third successive year of recession .",
+    "sent_id": "non_fbis/15.36.00-16525-2"
+}

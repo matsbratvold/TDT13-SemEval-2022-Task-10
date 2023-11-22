@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "vi som synes"
+                ],
+                [
+                    "20:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "evnen til \u00e5 f\u00e5 selv det mest alminnelige til \u00e5 fremst\u00e5 forbl\u00f8ffende er deres store styrke"
+                ],
+                [
+                    "33:122"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "imidlertid mye fint \u00e5 fr\u00e5tse i ved \u00ab Schmilco \u00bb"
+                ],
+                [
+                    "132:179"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "For resten av oss \u2013 vi som synes evnen til \u00e5 f\u00e5 selv det mest alminnelige til \u00e5 fremst\u00e5 forbl\u00f8ffende er deres store styrke \u2013 er det imidlertid mye fint \u00e5 fr\u00e5tse i ved \u00ab Schmilco \u00bb .",
+    "sent_id": "303721-07-01"
+}

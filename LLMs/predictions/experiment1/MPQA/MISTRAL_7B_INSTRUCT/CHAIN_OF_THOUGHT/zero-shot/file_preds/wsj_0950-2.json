@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Meanwhile"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "General Motors Acceptance Corp."
+                ],
+                [
+                    "39:70"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fell"
+                ],
+                [
+                    "73:77"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "By contrast"
+                ],
+                [
+                    "86:97"
+                ]
+            ],
+            "Target": [
+                [
+                    "Electronic Data Systems Corp."
+                ],
+                [
+                    "100:129"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "boosted"
+                ],
+                [
+                    "167:174"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Meanwhile , net at GM 's finance arm , General Motors Acceptance Corp. , fell 3.1 % . By contrast , Electronic Data Systems Corp. , GM 's data processing subsidiary , boosted net 16 % .",
+    "sent_id": "xbank/wsj_0950-2"
+}

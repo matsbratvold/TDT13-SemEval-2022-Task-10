@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Iliescu"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Toyoda"
+                ],
+                [
+                    "27:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "met"
+                ],
+                [
+                    "8:11"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Iliescu"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Cho"
+                ],
+                [
+                    "73:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "met"
+                ],
+                [
+                    "8:11"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Iliescu met with Shoichiro Toyoda , honorary Toyota chairman , and Fujio Cho , president of Japan 's largest automaker .",
+    "sent_id": "20020215/20.43.51-9328-4"
+}

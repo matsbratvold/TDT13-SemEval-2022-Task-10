@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Marine officer"
+                ],
+                [
+                    "45:59"
+                ]
+            ],
+            "Target": [
+                [
+                    "detainees"
+                ],
+                [
+                    "12:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "noted"
+                ],
+                [
+                    "60:65"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Marine officer"
+                ],
+                [
+                    "45:59"
+                ]
+            ],
+            "Target": [
+                [
+                    "moisturiser"
+                ],
+                [
+                    "100:111"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "giving"
+                ],
+                [
+                    "88:94"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Some of the detainees had wrinkled faces , a Marine officer noted . \" We'll probably be giving them moisturiser next . \"",
+    "sent_id": "non_fbis/12.46.57-22041-16"
+}

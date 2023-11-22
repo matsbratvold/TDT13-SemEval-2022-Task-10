@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The growth of the base"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "Camp X - Ray"
+                ],
+                [
+                    "32:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "surprisingly close"
+                ],
+                [
+                    "45:63"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "The growth of the base"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "suburban - style military community"
+                ],
+                [
+                    "69:104"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "surprisingly close"
+                ],
+                [
+                    "45:63"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The growth of the base has left Camp X - Ray surprisingly close to a suburban - style military community of beige , green and yellow houses in subdivisions with names like Caribbean Circle and West Iguana .",
+    "sent_id": "non_fbis/06.44.52-19992-58"
+}

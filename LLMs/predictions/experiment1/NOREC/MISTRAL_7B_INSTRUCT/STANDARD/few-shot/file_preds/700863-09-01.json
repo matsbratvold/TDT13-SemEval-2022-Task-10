@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "slagscener"
+                ],
+                [
+                    "71:81"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til tross"
+                ],
+                [
+                    "6:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "magiske str\u00e5ler"
+                ],
+                [
+                    "101:116"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skal hindre"
+                ],
+                [
+                    "121:132"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dette til tross blir det i l\u00f8pet av to timer for mange gjentakelser av slagscener og av uendelig med magiske str\u00e5ler som skal hindre ditt og datt .",
+    "sent_id": "700863-09-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sistnevnte sklir"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "Sigrids hit-baserte repertoar"
+                ],
+                [
+                    "28:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lik"
+                ],
+                [
+                    "64:67"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Sistnevnte sklir lett inn i Sigrids hit-baserte repertoar , med lik bein i nesa-tematikk .",
+    "sent_id": "003121-04-02"
+}

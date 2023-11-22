@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "gj\u00f8r den erfarne journalisten"
+                ],
+                [
+                    "4:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "profesjonelt"
+                ],
+                [
+                    "34:46"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "lesverdig"
+                ],
+                [
+                    "50:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lesverdig"
+                ],
+                [
+                    "50:59"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det gj\u00f8r den erfarne journalisten profesjonelt og lesverdig .",
+    "sent_id": "601408-05-03"
+}

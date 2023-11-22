@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "12:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "seg"
+                ],
+                [
+                    "16:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "dette er"
+                ],
+                [
+                    "23:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stoff til en hel liten murstein"
+                ],
+                [
+                    "32:63"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Og s\u00e5 viser det seg at dette er stoff til en hel liten murstein .",
+    "sent_id": "601365-05-02"
+}

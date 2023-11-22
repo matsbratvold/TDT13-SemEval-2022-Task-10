@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The report"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "even though"
+                ],
+                [
+                    "16:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The report says even though the Namibian Constitution provided that people arrested must be informed of the reason for their arrest and be brought before a magistrate within 48 hours of their detention , this has not been the case .",
+    "sent_id": "temp_fbis/21.31.45-20536-9"
+}

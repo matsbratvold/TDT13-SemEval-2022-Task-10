@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "No one"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "climate"
+                ],
+                [
+                    "73:80"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "No one wanted to argue with the master"
+                ],
+                [
+                    "0:38"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "A consensus was arrived at"
+                ],
+                [
+                    "41:67"
+                ]
+            ],
+            "Target": [
+                [
+                    "climate"
+                ],
+                [
+                    "73:80"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "it has never occurred with such speed"
+                ],
+                [
+                    "106:143"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "No one wanted to argue with the master . A consensus was arrived at that climate has always changed , but it has never occurred with such speed .",
+    "sent_id": "temp_fbis/21.10.31-12974-10"
+}

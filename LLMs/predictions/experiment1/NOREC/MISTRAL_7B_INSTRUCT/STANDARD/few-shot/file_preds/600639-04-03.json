@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "filmens dyktige skuespillere"
+                ],
+                [
+                    "40:68"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "la seg henf\u00f8re"
+                ],
+                [
+                    "22:36"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "velkomponerte bilder"
+                ],
+                [
+                    "71:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fra et fordums Cornwall"
+                ],
+                [
+                    "92:115"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "elegante blanding"
+                ],
+                [
+                    "119:136"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "av romantikk og gotikk"
+                ],
+                [
+                    "137:159"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Likevel er det lett \u00e5 la seg henf\u00f8re av filmens dyktige skuespillere , velkomponerte bilder fra et fordums Cornwall og elegante blanding av romantikk og gotikk .",
+    "sent_id": "600639-04-03"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I \u00e5rets spill"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Donkey Kong"
+                ],
+                [
+                    "23:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "strander"
+                ],
+                [
+                    "14:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Donkey Kong"
+                ],
+                [
+                    "23:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "tropisk \u00f8y"
+                ],
+                [
+                    "41:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "viser seg \u00e5 v\u00e6re invadert av noe s\u00e5 geografisk motstridende som vikingskip fulle av fiendtlige pingviner"
+                ],
+                [
+                    "56:160"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I \u00e5rets spill strander Donkey Kong p\u00e5 en tropisk \u00f8y som viser seg \u00e5 v\u00e6re invadert av noe s\u00e5 geografisk motstridende som vikingskip fulle av fiendtlige pingviner .",
+    "sent_id": "704794-04-01"
+}

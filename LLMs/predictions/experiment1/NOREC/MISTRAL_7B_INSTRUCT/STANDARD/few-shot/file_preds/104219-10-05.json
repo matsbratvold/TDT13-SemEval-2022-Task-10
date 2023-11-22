@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "En"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "redigering"
+                ],
+                [
+                    "13:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "strammere"
+                ],
+                [
+                    "3:12"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "En strammere redigering ville hevet romanen .",
+    "sent_id": "104219-10-05"
+}

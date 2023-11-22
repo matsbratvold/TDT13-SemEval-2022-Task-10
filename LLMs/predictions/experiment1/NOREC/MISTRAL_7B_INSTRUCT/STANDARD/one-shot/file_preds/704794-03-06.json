@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Vanskelighetsgraden"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "h\u00f8yere enn det den vanligvis er hos Mario"
+                ],
+                [
+                    "34:75"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "stigningen"
+                ],
+                [
+                    "81:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bratt"
+                ],
+                [
+                    "95:100"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Vanskelighetsgraden er en god del h\u00f8yere enn det den vanligvis er hos Mario , og stigningen er bratt .",
+    "sent_id": "704794-03-06"
+}

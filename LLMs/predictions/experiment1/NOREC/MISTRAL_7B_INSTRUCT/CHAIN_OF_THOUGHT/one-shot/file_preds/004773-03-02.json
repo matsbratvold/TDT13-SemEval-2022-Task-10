@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ken Loach"
+                ],
+                [
+                    "24:33"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "sterke historier"
+                ],
+                [
+                    "72:88"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Ken Loach"
+                ],
+                [
+                    "24:33"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "fortalt"
+                ],
+                [
+                    "64:71"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den britiske regiss\u00f8ren Ken Loach har gjennom hele sin karriere fortalt sterke historier sett fra den hardt pr\u00f8vede arbeiderklassens synsvinkel .",
+    "sent_id": "004773-03-02"
+}

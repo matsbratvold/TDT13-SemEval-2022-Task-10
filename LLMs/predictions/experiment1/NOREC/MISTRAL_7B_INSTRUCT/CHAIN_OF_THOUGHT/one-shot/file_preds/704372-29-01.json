@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Beste"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "spor"
+                ],
+                [
+                    "6:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Beste"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Beste spor :",
+    "sent_id": "704372-29-01"
+}

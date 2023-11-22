@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ma Dazheng"
+                ],
+                [
+                    "179:189"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "are terrorists"
+                ],
+                [
+                    "121:135"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" Some US politicians have made a mistake . Those that want to secede from the nation and engage in terrorist activities are terrorists , not any particular ethnic group , \" said Ma Dazheng , director of the Xinjiang Uygur Autonomous Region 's Development Research Institute at the Chinese Academy of Social Sciences .",
+    "sent_id": "temp_fbis/21.37.46-9337-25"
+}

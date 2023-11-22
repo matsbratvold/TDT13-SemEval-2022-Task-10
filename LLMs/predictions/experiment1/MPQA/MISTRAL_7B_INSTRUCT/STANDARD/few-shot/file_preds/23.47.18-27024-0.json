@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Taleban commanders"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "new offensives on positions of the United Islamic Front [ for the Salvation ] of Afghanistan in some regions of Afghanistan"
+                ],
+                [
+                    "48:171"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "prepared themselves for"
+                ],
+                [
+                    "24:47"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Taleban commanders have prepared themselves for new offensives on positions of the United Islamic Front [ for the Salvation ] of Afghanistan in some regions of Afghanistan .",
+    "sent_id": "20010718/23.47.18-27024-0"
+}

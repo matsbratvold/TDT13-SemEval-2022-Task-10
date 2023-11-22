@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "staffasje"
+                ],
+                [
+                    "30:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ikke uviktig"
+                ],
+                [
+                    "43:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Med \u00ab The Wall \u00bb i bakhodet , staffasje er ikke uviktig i Waters-universet !",
+    "sent_id": "304196-23-01"
+}

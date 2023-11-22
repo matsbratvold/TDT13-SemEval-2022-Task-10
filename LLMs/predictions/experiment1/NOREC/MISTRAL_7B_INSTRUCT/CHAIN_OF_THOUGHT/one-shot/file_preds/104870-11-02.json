@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "musikk"
+                ],
+                [
+                    "51:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mest av alt frav\u00e6ret av mer enn bare et kvarter"
+                ],
+                [
+                    "3:50"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Og mest av alt frav\u00e6ret av mer enn bare et kvarter musikk .",
+    "sent_id": "104870-11-02"
+}

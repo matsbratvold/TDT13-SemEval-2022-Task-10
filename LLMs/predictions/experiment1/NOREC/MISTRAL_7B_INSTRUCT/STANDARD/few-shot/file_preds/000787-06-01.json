@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "flyten"
+                ],
+                [
+                    "16:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mangler"
+                ],
+                [
+                    "8:15"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "spillet"
+                ],
+                [
+                    "25:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mangler"
+                ],
+                [
+                    "8:15"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "f\u00f8lelsen"
+                ],
+                [
+                    "35:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00f8ml\u00f8st mestre utfordringene"
+                ],
+                [
+                    "49:77"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "spillene"
+                ],
+                [
+                    "112:120"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "l\u00f8ftet"
+                ],
+                [
+                    "88:94"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Likevel mangler flyten i spillet \u2013 f\u00f8lelsen av \u00e5 s\u00f8ml\u00f8st mestre utfordringene \u2013 som har l\u00f8ftet Mario- og Rayman-spillene de siste \u00e5rene til toppniv\u00e5 .",
+    "sent_id": "000787-06-01"
+}

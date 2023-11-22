@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Andre Aldom\u00f3var"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "filmer"
+                ],
+                [
+                    "16:22"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Andre Aldom\u00f3var-filmer",
+    "sent_id": "702352-06-01"
+}

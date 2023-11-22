@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Maria"
+                ],
+                [
+                    "35:40"
+                ]
+            ],
+            "Target": [
+                [
+                    "vulkanen"
+                ],
+                [
+                    "17:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Hva ligger bak vulkanen"
+                ],
+                [
+                    "2:25"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "\u00ab Hva ligger bak vulkanen \u00bb , sp\u00f8r Maria .",
+    "sent_id": "500201-10-01"
+}

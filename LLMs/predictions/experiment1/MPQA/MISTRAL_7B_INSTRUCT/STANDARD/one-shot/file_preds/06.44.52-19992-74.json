@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "talk to the patient"
+                ],
+                [
+                    "37:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "comes in"
+                ],
+                [
+                    "25:33"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "recover in their cots"
+                ],
+                [
+                    "132:153"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sleep"
+                ],
+                [
+                    "169:174"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Finally , an interpreter comes in to talk to the patient . Eight other young - looking men , with shaved heads and beards growing , recover in their cots . Most of them sleep .",
+    "sent_id": "non_fbis/06.44.52-19992-74"
+}

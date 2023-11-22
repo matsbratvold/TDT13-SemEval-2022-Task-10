@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Taiwan"
+                ],
+                [
+                    "99:105"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not likely to blink"
+                ],
+                [
+                    "27:46"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "But Beijing 's leaders are not likely to blink on the issue either because an independent state in Taiwan would boost the schisms in Tibet and Xinjiang and threaten the regime in Beijing , the magazine claimed .",
+    "sent_id": "20010713/00.42.05-29788-7"
+}

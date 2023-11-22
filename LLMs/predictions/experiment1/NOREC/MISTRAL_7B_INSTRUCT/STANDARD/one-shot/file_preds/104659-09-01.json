@@ -1,0 +1,76 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "De"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "jazzens krav til besetning"
+                ],
+                [
+                    "18:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mot"
+                ],
+                [
+                    "14:17"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "kontrabass"
+                ],
+                [
+                    "51:61"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "fiolin"
+                ],
+                [
+                    "64:70"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "trommer"
+                ],
+                [
+                    "74:81"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "De heller mer mot jazzens krav til besetning , med kontrabass , fiolin og trommer .",
+    "sent_id": "104659-09-01"
+}

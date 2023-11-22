@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Resultatet"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "elektrisk drift"
+                ],
+                [
+                    "31:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00f8kte"
+                ],
+                [
+                    "11:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Resultatet"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "elektrisk drift"
+                ],
+                [
+                    "31:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til 57 prosent"
+                ],
+                [
+                    "16:30"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Resultatet"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "elektrisk drift"
+                ],
+                [
+                    "31:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en moderat \u00f8kning"
+                ],
+                [
+                    "49:66"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Resultatet \u00f8kte til 57 prosent elektrisk drift , en moderat \u00f8kning .",
+    "sent_id": "202298-11-04"
+}

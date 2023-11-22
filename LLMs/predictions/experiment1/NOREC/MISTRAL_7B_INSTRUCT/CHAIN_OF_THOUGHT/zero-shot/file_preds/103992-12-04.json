@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "styrer"
+                ],
+                [
+                    "9:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "dramaturgiens og narrativets behov"
+                ],
+                [
+                    "16:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "usikkerhet og kaos handlingens etterhvert noe usannsynlige utvikling"
+                ],
+                [
+                    "81:149"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Samtidig styrer dramaturgiens og narrativets behov for at det skjer mer enn bare usikkerhet og kaos handlingens etterhvert noe usannsynlige utvikling .",
+    "sent_id": "103992-12-04"
+}

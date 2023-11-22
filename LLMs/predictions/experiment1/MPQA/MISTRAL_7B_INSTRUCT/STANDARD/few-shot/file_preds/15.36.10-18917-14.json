@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "a successful Caracas OPEC summit in September 2000"
+                ],
+                [
+                    "13:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "initiated"
+                ],
+                [
+                    "3:12"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "He initiated a successful Caracas OPEC summit in September 2000 , the second in the 40 - year existence of the Organization of Petroleum Exporting Countries . FS / LS End",
+    "sent_id": "non_fbis/15.36.10-18917-14"
+}

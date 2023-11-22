@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Deputy Secretary of State Armitage"
+                ],
+                [
+                    "18:52"
+                ]
+            ],
+            "Target": [
+                [
+                    "a two - day visit to Afghanistan"
+                ],
+                [
+                    "90:122"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "was called by"
+                ],
+                [
+                    "53:66"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Mullah Omar"
+                ],
+                [
+                    "182:193"
+                ]
+            ],
+            "Target": [
+                [
+                    "Omar 's response was"
+                ],
+                [
+                    "226:246"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not negative on all these points"
+                ],
+                [
+                    "249:281"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "the administration"
+                ],
+                [
+                    "290:308"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Taliban was unlikely to turn over Bin Ladin"
+                ],
+                [
+                    "319:366"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "knew that"
+                ],
+                [
+                    "309:318"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "On the same day , Deputy Secretary of State Armitage was called by Mahmud Ahmed regarding a two - day visit to Afghanistan during which the Pakistani intelligence chief had met with Mullah Omar and conveyed the U.S. demands . Omar 's response was \" not negative on all these points . \" But the administration knew that the Taliban was unlikely to turn over Bin Ladin .",
+    "sent_id": "ula/chapter-10-46"
+}

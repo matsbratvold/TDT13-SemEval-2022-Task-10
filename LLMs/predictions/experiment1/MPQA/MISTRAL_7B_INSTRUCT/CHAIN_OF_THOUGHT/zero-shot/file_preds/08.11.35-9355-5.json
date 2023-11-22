@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Some 50,000 people"
+                ],
+                [
+                    "22:40"
+                ]
+            ],
+            "Target": [
+                [
+                    "Chavez"
+                ],
+                [
+                    "97:103"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "resignation"
+                ],
+                [
+                    "107:118"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The government"
+                ],
+                [
+                    "121:135"
+                ]
+            ],
+            "Target": [
+                [
+                    "Chavez"
+                ],
+                [
+                    "97:103"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "back"
+                ],
+                [
+                    "156:160"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Thursday , April 11 : Some 50,000 people , including business and union leaders , mass to demand Chavez 's resignation . The government urges supporters to back Chavez .",
+    "sent_id": "non_fbis/08.11.35-9355-5"
+}

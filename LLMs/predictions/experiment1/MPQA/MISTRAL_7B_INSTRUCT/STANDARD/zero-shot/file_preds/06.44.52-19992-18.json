@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "A sign near the ferry slip"
+                ],
+                [
+                    "0:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "Guantanamo"
+                ],
+                [
+                    "63:73"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "strange vibe"
+                ],
+                [
+                    "47:59"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "A sign near the ferry slip"
+                ],
+                [
+                    "0:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "Guantanamo"
+                ],
+                [
+                    "63:73"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "wildlife"
+                ],
+                [
+                    "186:194"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "A sign near the ferry slip conveys some of the strange vibe of Guantanamo , a 45 - square mile naval base in which the detention camp comprises some 3 acres . The sign touts the area 's wildlife - the brown pelican , the Antillean manatee , the bottlenose dolphin , the hawksbill turtle .",
+    "sent_id": "non_fbis/06.44.52-19992-18"
+}

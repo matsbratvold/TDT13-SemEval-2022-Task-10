@@ -1,0 +1,44 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "St\u00e5lutgaven"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilgjengelig p\u00e5 en sporty metallenke"
+                ],
+                [
+                    "28:64"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "St\u00e5lutgaven"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "St\u00e5lutgaven er p\u00e5 sin siden tilgjengelig p\u00e5 en sporty metallenke , eller en mer rustikk brun skinnrem .",
+    "sent_id": "201344-11-03"
+}

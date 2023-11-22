@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "solen"
+                ],
+                [
+                    "12:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Vel skinner"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "folk"
+                ],
+                [
+                    "21:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "flest hoster mindre"
+                ],
+                [
+                    "26:45"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bankende kj\u00f8r"
+                ],
+                [
+                    "72:85"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tronr\u00f8vervennlige milit\u00e6re , gjengmedlemmer , hekser , samt noen h\u00f8yst irriterende , kolibriaktige blodfluer"
+                ],
+                [
+                    "90:198"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Vel skinner solen og folk flest hoster mindre , men det er allikevel et bankende kj\u00f8r fra tronr\u00f8vervennlige milit\u00e6re , gjengmedlemmer , hekser , samt noen h\u00f8yst irriterende , kolibriaktige blodfluer som hekker i lik .",
+    "sent_id": "000913-12-01"
+}

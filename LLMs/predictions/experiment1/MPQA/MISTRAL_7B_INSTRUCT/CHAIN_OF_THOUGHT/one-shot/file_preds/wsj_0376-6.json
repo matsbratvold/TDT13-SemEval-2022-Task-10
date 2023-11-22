@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Courtaulds"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "shareholder value"
+                ],
+                [
+                    "46:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enhance"
+                ],
+                [
+                    "38:45"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Julia Blake"
+                ],
+                [
+                    "400:411"
+                ]
+            ],
+            "Target": [
+                [
+                    "choice and value"
+                ],
+                [
+                    "374:390"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Courtaulds has been under pressure to enhance shareholder value since takeover speculators -- including Australian financier Kerry Packer -- surfaced holding small stakes last year . Though Mr. Packer has since sold his stake , Courtaulds is moving to keep its institutional shareholders happy . Even without a specific takeover threat , Courtaulds is giving shareholders \" choice and value , \" said Julia Blake , an analyst at London stockbrokers Barclays de Zoete Wedd .",
+    "sent_id": "xbank/wsj_0376-6"
+}

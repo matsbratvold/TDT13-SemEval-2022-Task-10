@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "They"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "look"
+                ],
+                [
+                    "5:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "giant bright orange flies"
+                ],
+                [
+                    "15:40"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "They look like giant bright orange flies .",
+    "sent_id": "non_fbis/06.44.52-19992-11"
+}

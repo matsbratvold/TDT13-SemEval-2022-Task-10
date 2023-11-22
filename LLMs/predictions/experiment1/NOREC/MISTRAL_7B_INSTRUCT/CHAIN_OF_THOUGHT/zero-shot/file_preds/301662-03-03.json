@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Tja"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "gir"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "meste"
+                ],
+                [
+                    "21:26"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Tja"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "durer"
+                ],
+                [
+                    "30:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vei"
+                ],
+                [
+                    "38:41"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Tja"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "durer"
+                ],
+                [
+                    "30:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "egne"
+                ],
+                [
+                    "56:60"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Tja , gir beng i det meste og durer i vei igjen p\u00e5 sine egne premisser .",
+    "sent_id": "301662-03-03"
+}

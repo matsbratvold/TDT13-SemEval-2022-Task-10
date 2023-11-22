@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Central Bureau of Statistics"
+                ],
+                [
+                    "61:89"
+                ]
+            ],
+            "Target": [
+                [
+                    "economic recovery"
+                ],
+                [
+                    "37:54"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Confounding previous forecasts of an economic recovery , the Central Bureau of Statistics today reported that industrial output remained unchanged in February trend data .",
+    "sent_id": "20020424/21.45.56-26903-0"
+}

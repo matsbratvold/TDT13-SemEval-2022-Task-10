@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "galnaste alle"
+                ],
+                [
+                    "6:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "alle"
+                ],
+                [
+                    "15:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "galnaste"
+                ],
+                [
+                    "6:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab Den galnaste alle kan se ud s\u00e5nn som meg . \u00bb .",
+    "sent_id": "104332-02-08"
+}

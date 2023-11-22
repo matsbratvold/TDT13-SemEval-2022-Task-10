@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Life-modellen"
+                ],
+                [
+                    "22:35"
+                ]
+            ],
+            "Target": [
+                [
+                    "Life-modellen"
+                ],
+                [
+                    "22:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "riktig nok"
+                ],
+                [
+                    "7:17"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Life-modellen"
+                ],
+                [
+                    "22:35"
+                ]
+            ],
+            "Target": [
+                [
+                    "Life-modellen"
+                ],
+                [
+                    "22:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en mindre utstyrt modell"
+                ],
+                [
+                    "38:62"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Life-modellen"
+                ],
+                [
+                    "22:35"
+                ]
+            ],
+            "Target": [
+                [
+                    "Life-modellen"
+                ],
+                [
+                    "22:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til for \u00e5 gi en gunstig lokkepris"
+                ],
+                [
+                    "74:107"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det er riktig nok for Life-modellen , en mindre utstyrt modell som mer er til for \u00e5 gi en gunstig lokkepris .",
+    "sent_id": "202298-30-02"
+}

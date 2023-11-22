@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bulbula"
+                ],
+                [
+                    "47:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "punjabi-varianten"
+                ],
+                [
+                    "27:44"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Det er nesten s\u00e5 man h\u00f8rer punjabi-varianten \u00ab bulbula \u00bb et sted i l\u00e5ten ogs\u00e5 .",
+    "sent_id": "103988-08-02"
+}

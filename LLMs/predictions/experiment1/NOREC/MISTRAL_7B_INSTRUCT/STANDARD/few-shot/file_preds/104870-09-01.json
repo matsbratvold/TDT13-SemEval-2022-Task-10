@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Joni Mitchell"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "platebransjen"
+                ],
+                [
+                    "73:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kloakk"
+                ],
+                [
+                    "93:99"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Joni Mitchell nikkes til i tittelen ( p\u00e5 grunn av hennes oppsummering av platebransjen som \u00ab kloakk \u00bb ? ) .",
+    "sent_id": "104870-09-01"
+}

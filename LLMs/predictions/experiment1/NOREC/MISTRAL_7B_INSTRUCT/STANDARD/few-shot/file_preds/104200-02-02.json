@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "refrenget"
+                ],
+                [
+                    "4:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er muligens mer rettet mot hitlister enn direkte mot Eurovision-seire"
+                ],
+                [
+                    "14:83"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "peker mot"
+                ],
+                [
+                    "116:125"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Men refrenget er muligens mer rettet mot hitlister enn direkte mot Eurovision-seire , hvilket ogs\u00e5 sceneopptredenen peker mot .",
+    "sent_id": "104200-02-02"
+}

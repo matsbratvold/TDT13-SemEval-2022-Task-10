@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "sign"
+                ],
+                [
+                    "53:57"
+                ]
+            ],
+            "Target": [
+                [
+                    "wildlife"
+                ],
+                [
+                    "11:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "can be a lot of fun"
+                ],
+                [
+                    "20:39"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "sign"
+                ],
+                [
+                    "53:57"
+                ]
+            ],
+            "Target": [
+                [
+                    "binoculars"
+                ],
+                [
+                    "72:82"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "A pair of binoculars is helpful"
+                ],
+                [
+                    "62:93"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "\" Watching wildlife can be a lot of fun , \" says the sign . \" A pair of binoculars is helpful . \"",
+    "sent_id": "non_fbis/06.44.52-19992-19"
+}

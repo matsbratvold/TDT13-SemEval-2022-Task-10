@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "right exactly before graduation"
+                ],
+                [
+                    "0:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "graduation"
+                ],
+                [
+                    "21:31"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "right exactly before graduation",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-23"
+}

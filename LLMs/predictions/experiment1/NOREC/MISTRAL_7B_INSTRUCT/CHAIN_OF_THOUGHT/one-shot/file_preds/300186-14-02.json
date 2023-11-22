@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Kanskje kommer det mer av det etter hvert"
+                ],
+                [
+                    "0:41"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "n\u00e5r bli kjent-etappen er unnagjort"
+                ],
+                [
+                    "44:78"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Kanskje kommer det mer av det etter hvert , n\u00e5r bli kjent-etappen er unnagjort .",
+    "sent_id": "300186-14-02"
+}

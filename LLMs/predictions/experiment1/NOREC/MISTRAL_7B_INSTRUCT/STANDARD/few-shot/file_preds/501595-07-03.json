@@ -1,0 +1,83 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "menyene"
+                ],
+                [
+                    "32:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "oppf\u00f8rt"
+                ],
+                [
+                    "43:50"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "de to andre"
+                ],
+                [
+                    "14:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "menyene"
+                ],
+                [
+                    "32:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er oppf\u00f8rt"
+                ],
+                [
+                    "40:50"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "tre anbefalte viner"
+                ],
+                [
+                    "55:74"
+                ]
+            ],
+            "Target": [
+                [
+                    "menyene"
+                ],
+                [
+                    "32:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til"
+                ],
+                [
+                    "75:78"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "B\u00e5de denne og de to andre faste menyene er oppf\u00f8rt med tre anbefalte viner til .",
+    "sent_id": "501595-07-03"
+}

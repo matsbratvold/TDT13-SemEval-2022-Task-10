@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "barna"
+                ],
+                [
+                    "62:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "smart fortalt vis vite"
+                ],
+                [
+                    "10:32"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "bakgrunnen"
+                ],
+                [
+                    "38:48"
+                ]
+            ],
+            "Target": [
+                [
+                    "barna"
+                ],
+                [
+                    "62:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til de andre barna"
+                ],
+                [
+                    "49:67"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "skader"
+                ],
+                [
+                    "80:86"
+                ]
+            ],
+            "Target": [
+                [
+                    "barna"
+                ],
+                [
+                    "62:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sliter aller mest med"
+                ],
+                [
+                    "90:111"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Vi f\u00e5r p\u00e5 smart fortalt vis vite b\u00e5de bakgrunnen til de andre barna , og hvilke skader de sliter aller mest med .",
+    "sent_id": "004983-10-02"
+}

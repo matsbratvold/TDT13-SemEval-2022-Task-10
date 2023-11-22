@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Venezuela"
+                ],
+                [
+                    "16:25"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Garcia Ponce"
+                ],
+                [
+                    "304:316"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "interference of a state"
+                ],
+                [
+                    "436:459"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "He stressed : \" Venezuela 's domestic policy is the exclusive concern of Venezuelans because of our historical tradition and because it is a constitutional mandate . \" He added : \" There is no reason for any country to request the agreement of others to determine its conduct and adopt its decisions . \" Garcia Ponce , who said he was speaking on behalf of the entire CPR , pointed out that it would be \" truly inconceivable \" that the interference of a state to approve or disapprove the decisions of another or other states became a trait of foreign policy .",
+    "sent_id": "20020207/20.22.42-14586-2"
+}

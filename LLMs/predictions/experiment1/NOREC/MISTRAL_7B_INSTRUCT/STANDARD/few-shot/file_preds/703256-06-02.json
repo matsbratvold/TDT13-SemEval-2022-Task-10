@@ -1,0 +1,111 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Det er et velkjent utgangspunkt"
+                ],
+                [
+                    "0:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "velkjent"
+                ],
+                [
+                    "10:18"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "og her m\u00f8ter vi"
+                ],
+                [
+                    "67:82"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilknappede faren"
+                ],
+                [
+                    "92:109"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "den overspente moren"
+                ],
+                [
+                    "112:132"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enkle onkelen"
+                ],
+                [
+                    "139:152"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "den trofaste hushjelpen"
+                ],
+                [
+                    "155:178"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "osv"
+                ],
+                [
+                    "179:182"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "det hele"
+                ],
+                [
+                    "185:193"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i anledningen av at s\u00f8nnen i huset fyller 9 \u00e5r"
+                ],
+                [
+                    "194:240"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det er et velkjent utgangspunkt for b\u00e5de klassisk og nyere drama , og her m\u00f8ter vi den litt tilknappede faren , den overspente moren , den enkle onkelen , den trofaste hushjelpen osv - det hele i anledningen av at s\u00f8nnen i huset fyller 9 \u00e5r .",
+    "sent_id": "703256-06-02"
+}

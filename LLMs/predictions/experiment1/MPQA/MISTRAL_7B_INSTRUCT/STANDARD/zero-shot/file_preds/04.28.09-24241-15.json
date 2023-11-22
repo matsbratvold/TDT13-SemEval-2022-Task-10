@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The DAWN Group of Newspapers"
+                ],
+                [
+                    "2:30"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "@ The DAWN Group of Newspapers , 2002",
+    "sent_id": "non_fbis/04.28.09-24241-15"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "slutten"
+                ],
+                [
+                    "41:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "positiv"
+                ],
+                [
+                    "33:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Dette er utslagsgivende for hvor positiv slutten blir .",
+    "sent_id": "000913-13-02"
+}

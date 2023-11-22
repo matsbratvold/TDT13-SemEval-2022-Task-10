@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "sesong 4"
+                ],
+                [
+                    "19:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "anmeldelsen"
+                ],
+                [
+                    "4:15"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Les anmeldelsen av sesong 4 :",
+    "sent_id": "103992-15-01"
+}

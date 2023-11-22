@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "unnskyldning"
+                ],
+                [
+                    "80:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "burde gi"
+                ],
+                [
+                    "44:52"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "seerne"
+                ],
+                [
+                    "53:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er at det burde gi"
+                ],
+                [
+                    "34:52"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "burde gi seerne en enda mer perfekt unnskyldning til \u00e5 \u00ab binge \u00bb hele sesongen"
+                ],
+                [
+                    "44:122"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det interessante med tidsgrepet , er at det burde gi seerne en enda mer perfekt unnskyldning til \u00e5 \u00ab binge \u00bb hele sesongen .",
+    "sent_id": "103992-16-01"
+}

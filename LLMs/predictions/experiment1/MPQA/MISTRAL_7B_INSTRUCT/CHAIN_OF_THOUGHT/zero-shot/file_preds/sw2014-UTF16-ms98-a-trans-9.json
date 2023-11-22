@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "they"
+                ],
+                [
+                    "5:9"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "might be"
+                ],
+                [
+                    "10:18"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "you"
+                ],
+                [
+                    "22:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "here in Texas"
+                ],
+                [
+                    "42:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "it 's like everybody 's a hunter"
+                ],
+                [
+                    "56:88"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "11:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "hunter"
+                ],
+                [
+                    "82:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "but"
+                ],
+                [
+                    "117:120"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "yeah they might be or you know how we are here in Texas it 's like everybody 's a hunter so i'm not much of a hunter but",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-9"
+}

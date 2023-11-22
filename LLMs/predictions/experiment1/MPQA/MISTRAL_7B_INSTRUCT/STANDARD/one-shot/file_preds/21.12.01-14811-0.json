@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "sketched out"
+                ],
+                [
+                    "151:163"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Bucharest , Feb 28 [ Rompres ] -- The prospects for the construction of a new unit on Russian technology at Romania 's nuclear plant at Cernavoda were sketched out in Moscow during a visit by Romania 's Prime Minister Adrian Nastase on 21 February .",
+    "sent_id": "20020228/21.12.01-14811-0"
+}

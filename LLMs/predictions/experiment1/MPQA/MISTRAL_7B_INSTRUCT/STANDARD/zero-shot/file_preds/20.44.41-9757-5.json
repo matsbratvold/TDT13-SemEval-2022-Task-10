@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bush"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "would slow emissions growth"
+                ],
+                [
+                    "62:89"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Bush 's plan , which he revealed in a speech Thursday night , would slow emissions growth by reducing \" greenhouse gas intensity \" -- the ratio of emissions to economic output -- by a target of 18 percent over 10 years .",
+    "sent_id": "temp_fbis/20.44.41-9757-5"
+}

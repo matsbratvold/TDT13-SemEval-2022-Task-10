@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Resultatet av denne testen"
+                ],
+                [
+                    "0:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ble 53 prosent fullelektrisk kj\u00f8ring"
+                ],
+                [
+                    "27:63"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "vi landet p\u00e5 et gjennomsnittsforbruk p\u00e5 0,38 liter per mil"
+                ],
+                [
+                    "69:127"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som tilsvarer et CO2-utslipp p\u00e5 88 gram per kilometer"
+                ],
+                [
+                    "130:183"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Resultatet av denne testen ble 53 prosent fullelektrisk kj\u00f8ring , og vi landet p\u00e5 et gjennomsnittsforbruk p\u00e5 0,38 liter per mil , som tilsvarer et CO2-utslipp p\u00e5 88 gram per kilometer .",
+    "sent_id": "202298-10-03"
+}

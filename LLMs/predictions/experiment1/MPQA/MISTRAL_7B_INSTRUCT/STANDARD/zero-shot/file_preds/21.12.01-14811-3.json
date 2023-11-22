@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Russian specialists"
+                ],
+                [
+                    "13:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "VVER - 1000 type of reactor"
+                ],
+                [
+                    "39:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "commission"
+                ],
+                [
+                    "100:110"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Western technology"
+                ],
+                [
+                    "119:137"
+                ]
+            ],
+            "Target": [
+                [
+                    "Romania"
+                ],
+                [
+                    "176:183"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cost"
+                ],
+                [
+                    "73:77"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "According to Russian specialists , the VVER - 1000 type of reactor would cost some $ 800 million to commission , while Western technology , equipment , and services would cost Romania more than $ 1 billion .",
+    "sent_id": "20020228/21.12.01-14811-3"
+}

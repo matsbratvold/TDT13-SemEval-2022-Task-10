@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Three leading international organisations"
+                ],
+                [
+                    "31:72"
+                ]
+            ],
+            "Target": [
+                [
+                    "the violation of human rights"
+                ],
+                [
+                    "188:217"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "warned jointly"
+                ],
+                [
+                    "73:87"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "STRASBOURG , Nov 29 ( AFP ) -- Three leading international organisations warned jointly Thursday [ 29 November ] that the international fight against terrorism should not be a pretext for the violation of human rights .",
+    "sent_id": "20011130/12.26.48-19550-0"
+}

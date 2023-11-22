@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "CTRL + Art + Delete"
+                ],
+                [
+                    "2:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "m\u00f8rk og knugende sak"
+                ],
+                [
+                    "30:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00f8rk"
+                ],
+                [
+                    "30:34"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab CTRL + Art + Delete \u00bb er en m\u00f8rk og knugende sak som umiddelbart setter seg som en hard knyttneve mellomgulvet .",
+    "sent_id": "301662-05-02"
+}

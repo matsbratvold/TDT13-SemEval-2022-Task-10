@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "den hoggtannutspj\u00e5kede muskelbunten Durotan"
+                ],
+                [
+                    "41:84"
+                ]
+            ],
+            "Target": [
+                [
+                    "ungen deres skal bli f\u00f8dt"
+                ],
+                [
+                    "127:152"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gleder seg"
+                ],
+                [
+                    "109:119"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det starter med en lett munter scene der den hoggtannutspj\u00e5kede muskelbunten Durotan og hans h\u00f8ygravide kone gleder seg til at ungen deres skal bli f\u00f8dt .",
+    "sent_id": "700863-04-02"
+}

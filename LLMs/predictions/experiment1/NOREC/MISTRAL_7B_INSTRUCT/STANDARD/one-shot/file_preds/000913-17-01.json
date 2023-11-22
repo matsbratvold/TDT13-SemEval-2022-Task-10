@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "generelt h\u00f8yere oppvakthet hos NPCene"
+                ],
+                [
+                    "16:53"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "brettene"
+                ],
+                [
+                    "61:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "frustrerende"
+                ],
+                [
+                    "70:82"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00f8les alltid verdt det til slutt"
+                ],
+                [
+                    "89:121"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Dette , samt en generelt h\u00f8yere oppvakthet hos NPCene , gj\u00f8r brettene frustrerende - men f\u00f8les alltid verdt det til slutt .",
+    "sent_id": "000913-17-01"
+}

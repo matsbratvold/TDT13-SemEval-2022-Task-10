@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "underholdningshistorie"
+                ],
+                [
+                    "20:42"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "er"
+                ],
+                [
+                    "6:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "en"
+                ],
+                [
+                    "9:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "modig oppriktighet"
+                ],
+                [
+                    "58:76"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "som"
+                ],
+                [
+                    "77:80"
+                ]
+            ],
+            "Target": [
+                [
+                    "sl\u00e5r"
+                ],
+                [
+                    "81:85"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "usannsynlig"
+                ],
+                [
+                    "116:127"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "ender"
+                ],
+                [
+                    "99:104"
+                ]
+            ],
+            "Target": [
+                [
+                    "op"
+                ],
+                [
+                    "64:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "feelgood"
+                ],
+                [
+                    "128:136"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dette er en uvanlig underholdningshistorie fortalt med en modig oppriktighet som sl\u00e5r fra seg , og ender opp som en usannsynlig feelgoodfilm",
+    "sent_id": "004983-16-01"
+}

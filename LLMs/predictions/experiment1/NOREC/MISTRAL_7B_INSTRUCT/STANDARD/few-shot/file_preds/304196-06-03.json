@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "det skjedde"
+                ],
+                [
+                    "36:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hvor jeg var"
+                ],
+                [
+                    "20:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Jeg husker fortsatt hvor jeg var da det skjedde .",
+    "sent_id": "304196-06-03"
+}

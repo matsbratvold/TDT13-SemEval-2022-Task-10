@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "its own citizens"
+                ],
+                [
+                    "84:100"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "harsh treatment"
+                ],
+                [
+                    "65:80"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "its hegemonic and belligerent policy towards other nations"
+                ],
+                [
+                    "105:163"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "prove"
+                ],
+                [
+                    "164:169"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Although the United States claims to advocate human rights , its harsh treatment of its own citizens and its hegemonic and belligerent policy towards other nations prove that the claim is just empty rhetoric .",
+    "sent_id": "temp_fbis/20.46.58-22510-5"
+}

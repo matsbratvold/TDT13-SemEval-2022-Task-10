@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Redder"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "nummeret"
+                ],
+                [
+                    "20:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "likevel ikke"
+                ],
+                [
+                    "7:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Redder likevel ikke nummeret .",
+    "sent_id": "104538-02-06"
+}

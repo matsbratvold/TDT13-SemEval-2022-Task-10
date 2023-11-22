@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Astrid Sverresdotter Dypvik"
+                ],
+                [
+                    "0:27"
+                ]
+            ],
+            "Target": [
+                [
+                    "talent og vilje til \u00e5 fortelle"
+                ],
+                [
+                    "32:62"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Astrid Sverresdotter Dypvik har talent og vilje til \u00e5 fortelle .",
+    "sent_id": "301242-02-01"
+}

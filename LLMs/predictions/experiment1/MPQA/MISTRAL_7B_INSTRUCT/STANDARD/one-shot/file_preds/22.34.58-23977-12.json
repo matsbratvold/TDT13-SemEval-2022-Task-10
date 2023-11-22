@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "he"
+                ],
+                [
+                    "28:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "Taiwan independence"
+                ],
+                [
+                    "63:82"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "do n't support"
+                ],
+                [
+                    "48:62"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "he"
+                ],
+                [
+                    "28:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "use of force"
+                ],
+                [
+                    "103:115"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "oppose"
+                ],
+                [
+                    "92:98"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" Our position is clear , \" he continued . \" We do n't support Taiwan independence , but we oppose the use of force . \"",
+    "sent_id": "temp_fbis/22.34.58-23977-12"
+}

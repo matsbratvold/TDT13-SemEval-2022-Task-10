@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ordinary Argentines"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "De la Rua"
+                ],
+                [
+                    "166:175"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "demanding"
+                ],
+                [
+                    "108:117"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Ordinary Argentines"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "suspected of corruption"
+                ],
+                [
+                    "245:268"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Ordinary Argentines have been pouring into the streets night after hot summer night , banging pots and pans demanding , and eventually receiving , the resignation of De la Rua , his unpopular economy minister and aides to Rodriguez Saa who were suspected of corruption .",
+    "sent_id": "non_fbis/12.04.00-12904-11"
+}

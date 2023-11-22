@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ken Loach"
+                ],
+                [
+                    "25:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "Ken Loach"
+                ],
+                [
+                    "25:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "innvendes"
+                ],
+                [
+                    "12:21"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Daniel Blake"
+                ],
+                [
+                    "143:155"
+                ]
+            ],
+            "Target": [
+                [
+                    "Daniel Blake"
+                ],
+                [
+                    "143:155"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er en god film"
+                ],
+                [
+                    "156:170"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det kan nok innvendes at Ken Loach er litt for ivrig med \u00e5 skildre akkurat hvor menneskefiendtlig det britiske velferdssystemet er , men Jeg , Daniel Blake er en god film , med flott skuespill og en sterk historie til ettertanke og refleksjon",
+    "sent_id": "004773-18-01"
+}

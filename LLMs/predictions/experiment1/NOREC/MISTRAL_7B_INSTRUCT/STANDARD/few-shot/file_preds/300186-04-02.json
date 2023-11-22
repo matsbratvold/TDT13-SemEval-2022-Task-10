@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hestesporten"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "tilhengerskare"
+                ],
+                [
+                    "37:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stor og dedikert"
+                ],
+                [
+                    "20:36"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "program"
+                ],
+                [
+                    "92:99"
+                ]
+            ],
+            "Target": [
+                [
+                    "tilhengerskare"
+                ],
+                [
+                    "37:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blitt be\u00e6ret med et program i primetime"
+                ],
+                [
+                    "72:111"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hestesporten har en stor og dedikert tilhengerskare , som aldri f\u00f8r har blitt be\u00e6ret med et program i primetime .",
+    "sent_id": "300186-04-02"
+}

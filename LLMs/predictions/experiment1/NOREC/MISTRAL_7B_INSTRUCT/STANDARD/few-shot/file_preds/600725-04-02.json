@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "historiene"
+                ],
+                [
+                    "53:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "klart at historiene om dem m\u00e5 l\u00e5ne fra Dan Brown"
+                ],
+                [
+                    "44:92"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "teknologien"
+                ],
+                [
+                    "99:110"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "spille en viktig rolle"
+                ],
+                [
+                    "114:136"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Og siden vi tross alt lever i 2017 , er det klart at historiene om dem m\u00e5 l\u00e5ne fra Dan Brown og at teknologien m\u00e5 spille en viktig rolle .",
+    "sent_id": "600725-04-02"
+}

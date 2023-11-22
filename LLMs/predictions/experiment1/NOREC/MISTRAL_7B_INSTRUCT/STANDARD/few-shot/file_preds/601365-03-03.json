@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "eksempel"
+                ],
+                [
+                    "8:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lite"
+                ],
+                [
+                    "3:7"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Et lite eksempel :",
+    "sent_id": "601365-03-03"
+}

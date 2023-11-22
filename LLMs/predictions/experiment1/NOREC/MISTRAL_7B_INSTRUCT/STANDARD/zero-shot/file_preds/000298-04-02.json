@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "duket"
+                ],
+                [
+                    "14:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "politiske intriger"
+                ],
+                [
+                    "24:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fryder"
+                ],
+                [
+                    "105:111"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "duket"
+                ],
+                [
+                    "14:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "overd\u00e5dige hoffball"
+                ],
+                [
+                    "45:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "engasjerer"
+                ],
+                [
+                    "115:125"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "duket"
+                ],
+                [
+                    "14:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "p\u00e5kostede kjoler"
+                ],
+                [
+                    "68:84"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fryder"
+                ],
+                [
+                    "105:111"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det er dermed duket for politiske intriger , overd\u00e5dige hoffball og p\u00e5kostede kjoler \u2013 en forandring som fryder og engasjerer .",
+    "sent_id": "000298-04-02"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Familier"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "hemmeligheter"
+                ],
+                [
+                    "13:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "har"
+                ],
+                [
+                    "9:12"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Familier har hemmeligheter",
+    "sent_id": "703256-05-01"
+}

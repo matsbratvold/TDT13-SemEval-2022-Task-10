@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "50,000 people"
+                ],
+                [
+                    "27:40"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "mass"
+                ],
+                [
+                    "82:86"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Thursday , April 11 : Some 50,000 people , including business and union leaders , mass to demand Chavez 's resignation . The government urges supporters to back Chavez .",
+    "sent_id": "non_fbis/08.11.35-9355-5"
+}

@@ -1,0 +1,111 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Serkonos-universet"
+                ],
+                [
+                    "41:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tiltalende"
+                ],
+                [
+                    "71:81"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Serkonos-universet"
+                ],
+                [
+                    "41:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "detaljrikt"
+                ],
+                [
+                    "84:94"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Serkonos-universet"
+                ],
+                [
+                    "41:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "full av detaljer"
+                ],
+                [
+                    "98:114"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Serkonos-universet"
+                ],
+                [
+                    "41:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hint"
+                ],
+                [
+                    "117:121"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Serkonos-universet"
+                ],
+                [
+                    "41:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "NPC-oppf\u00f8rsler"
+                ],
+                [
+                    "125:139"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Men uavhengig av hvor godt den sitter er Serkonos-universet usedvanlig tiltalende , detaljrikt og full av detaljer , hint og NPC-oppf\u00f8rsler som man m\u00e5 spille gjennom flere ganger for \u00e5 finne .",
+    "sent_id": "000913-26-02"
+}

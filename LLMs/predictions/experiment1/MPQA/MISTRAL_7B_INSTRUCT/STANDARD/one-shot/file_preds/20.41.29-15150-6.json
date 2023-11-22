@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "South Korea"
+                ],
+                [
+                    "21:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "highest growth rate of carbon dioxide emissions"
+                ],
+                [
+                    "41:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "will not be able to fend off"
+                ],
+                [
+                    "107:135"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "But considering that South Korea has the highest growth rate of carbon dioxide emissions in the world , it will not be able to fend off international pressure to join in the global campaign to reduce greenhouse gases much longer , experts note .",
+    "sent_id": "20011115/20.41.29-15150-6"
+}

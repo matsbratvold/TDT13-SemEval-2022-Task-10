@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "masse krefter"
+                ],
+                [
+                    "26:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "masse krefter"
+                ],
+                [
+                    "26:39"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Den er meget dynamisk med masse krefter under panseret .",
+    "sent_id": "202063-02-02"
+}

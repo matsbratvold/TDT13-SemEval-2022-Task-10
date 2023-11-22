@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "California"
+                ],
+                [
+                    "9:19"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "California"
+                ],
+                [
+                    "9:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "my mom"
+                ],
+                [
+                    "20:26"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "California"
+                ],
+                [
+                    "9:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "the last time i was like purchased a gun"
+                ],
+                [
+                    "27:67"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "California"
+                ],
+                [
+                    "9:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "my mom was getting a rifle for my brother that he wanted like an antique one"
+                ],
+                [
+                    "71:147"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "i'm from California my mom the last time i was like purchased a gun my my mom was getting a rifle for my brother that he wanted like an antique one and",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-6"
+}

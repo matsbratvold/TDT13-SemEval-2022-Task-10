@@ -1,0 +1,76 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "strategien fra den milit\u00e6re ledelsen"
+                ],
+                [
+                    "18:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 utnytte de tyske soldatene til siste blodsdr\u00e5pe"
+                ],
+                [
+                    "58:107"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Rasmussen"
+                ],
+                [
+                    "113:122"
+                ]
+            ],
+            "Target": [
+                [
+                    "strategien fra den milit\u00e6re ledelsen"
+                ],
+                [
+                    "18:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 utnytte de tyske soldatene til siste blodsdr\u00e5pe"
+                ],
+                [
+                    "58:107"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Rasmussen"
+                ],
+                [
+                    "113:122"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "havner uventet i en posisjon der han m\u00e5 fors\u00f8ke \u00e5 verne om guttenes liv"
+                ],
+                [
+                    "123:194"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det kan synes som strategien fra den milit\u00e6re ledelsen er \u00e5 utnytte de tyske soldatene til siste blodsdr\u00e5pe , og Rasmussen havner uventet i en posisjon der han m\u00e5 fors\u00f8ke \u00e5 verne om guttenes liv .",
+    "sent_id": "400175-09-02"
+}

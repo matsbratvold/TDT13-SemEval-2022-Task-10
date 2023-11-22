@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Yoshihiko Yamada"
+                ],
+                [
+                    "166:182"
+                ]
+            ],
+            "Target": [
+                [
+                    "piracy attacks for ransom on commercial vessels"
+                ],
+                [
+                    "291:338"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very few"
+                ],
+                [
+                    "282:290"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Yoshihiko Yamada"
+                ],
+                [
+                    "166:182"
+                ]
+            ],
+            "Target": [
+                [
+                    "piracy attacks"
+                ],
+                [
+                    "291:305"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "committed by anti-government guerrillas amidst mounting political unrest"
+                ],
+                [
+                    "401:473"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Among the eight attacks noted above , it was confirmed that a ransom payment was made in five of the cases . However , negotiations about ransom were not disclosed . Yoshihiko Yamada , domestic division chief of Nippon Foundation 's Department of Marine Affairs said , \" There were very few piracy attacks for ransom on commercial vessels . A prevailing view is that these piracy attacks are actually committed by anti-government guerrillas amidst mounting political unrest . \"",
+    "sent_id": "20011003/21.57.16-1319-4"
+}

@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Daniel Blake"
+                ],
+                [
+                    "6:18"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Jeg , Daniel Blake",
+    "sent_id": "004773-01-01"
+}

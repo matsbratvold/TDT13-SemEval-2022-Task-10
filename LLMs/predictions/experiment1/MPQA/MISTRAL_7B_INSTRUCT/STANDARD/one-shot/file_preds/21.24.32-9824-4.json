@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Karunaratne"
+                ],
+                [
+                    "103:114"
+                ]
+            ],
+            "Target": [
+                [
+                    "the attack started"
+                ],
+                [
+                    "80:98"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said"
+                ],
+                [
+                    "115:119"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Karunaratne"
+                ],
+                [
+                    "103:114"
+                ]
+            ],
+            "Target": [
+                [
+                    "casualties among the security forces"
+                ],
+                [
+                    "137:173"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "are no casualties"
+                ],
+                [
+                    "130:147"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" The ship had been about 26 miles ( 42 kilometres ) away from Point Pedro when the attack started , \" Karunaratne said . \" There are no casualties among the security forces at the moment . \"",
+    "sent_id": "20010916/21.24.32-9824-4"
+}

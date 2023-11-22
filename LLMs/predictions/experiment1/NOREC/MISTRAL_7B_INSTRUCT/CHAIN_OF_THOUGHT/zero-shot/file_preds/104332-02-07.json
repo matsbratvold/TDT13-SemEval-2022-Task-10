@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Nydelig"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "kabaretdr\u00f8yt"
+                ],
+                [
+                    "8:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Nydelig"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Nydelig"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "konsekvensanalytisk"
+                ],
+                [
+                    "24:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Nydelig"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Nydelig kabaretdr\u00f8yt og konsekvensanalytisk sterkt :",
+    "sent_id": "104332-02-07"
+}

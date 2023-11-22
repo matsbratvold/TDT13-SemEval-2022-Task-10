@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Bethesda"
+                ],
+                [
+                    "21:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "slapp Dishonored"
+                ],
+                [
+                    "30:46"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dishonored"
+                ],
+                [
+                    "36:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for meg st\u00e5r igjen som det beste spillet som kom til PS3"
+                ],
+                [
+                    "53:109"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er fire \u00e5r siden Bethesda slapp Dishonored , som for meg st\u00e5r igjen som det beste spillet som kom til PS3 .",
+    "sent_id": "000913-04-01"
+}

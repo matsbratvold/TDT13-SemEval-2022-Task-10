@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Politikk"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "forbokstav"
+                ],
+                [
+                    "35:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forbokstav"
+                ],
+                [
+                    "35:45"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Politikk"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "forbokstav"
+                ],
+                [
+                    "35:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forbokstav"
+                ],
+                [
+                    "35:45"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Politikk er med andre ord fortsatt forbokstav ... men det var kanskje ikke s\u00e5 overraskende .",
+    "sent_id": "002988-03-03"
+}

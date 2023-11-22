@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The launch"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "Mission specialist Jerry L. Ross"
+                ],
+                [
+                    "50:82"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "milestone"
+                ],
+                [
+                    "17:26"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The launch was a milestone in U.S. space flight . Mission specialist Jerry L. Ross , a grandfather , became the first astronaut to make seven space flights .",
+    "sent_id": "non_fbis/13.21.23-8227-7"
+}

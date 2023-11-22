@@ -1,0 +1,134 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Armb\u00e5ndet"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "s\u00f8vn"
+                ],
+                [
+                    "22:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "registrerer"
+                ],
+                [
+                    "10:21"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "noe"
+                ],
+                [
+                    "40:43"
+                ]
+            ],
+            "Target": [
+                [
+                    "slippe"
+                ],
+                [
+                    "68:74"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er kjekt \u00e5"
+                ],
+                [
+                    "57:67"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "aktivere"
+                ],
+                [
+                    "83:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sl\u00e5r"
+                ],
+                [
+                    "107:111"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "sit"
+                ],
+                [
+                    "138:141"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sl\u00e5r"
+                ],
+                [
+                    "107:111"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Netflix-maraton"
+                ],
+                [
+                    "170:185"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "inn"
+                ],
+                [
+                    "127:130"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Armb\u00e5ndet registrerer s\u00f8vn automatisk , noe som egentlig er kjekt \u00e5 slippe \u00e5 m\u00e5tte aktivere selv , men den sl\u00e5r dessverre ogs\u00e5 inn n\u00e5r du sitter helt stille i sofaen med Netflix-maraton",
+    "sent_id": "200006-36-01"
+}

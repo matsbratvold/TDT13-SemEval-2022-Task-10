@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Skjermen"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "god lesbarhet"
+                ],
+                [
+                    "29:42"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Skjermen p\u00e5 1,2 tommer , har god lesbarhet b\u00e5de med bakgrunnslys og i dagslys .",
+    "sent_id": "201344-25-01"
+}

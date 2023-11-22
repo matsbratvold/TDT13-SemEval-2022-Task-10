@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "hun"
+                ],
+                [
+                    "12:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "luften og roen"
+                ],
+                [
+                    "53:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "heller ikke redd"
+                ],
+                [
+                    "16:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Samtidig er hun heller ikke redd for \u00e5 gi l\u00e5tene den luften og roen i minimalistiske partier de trenger for \u00e5 leve .",
+    "sent_id": "501385-04-03"
+}

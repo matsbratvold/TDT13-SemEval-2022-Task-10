@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "hennes"
+                ],
+                [
+                    "16:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "l\u00e5tene"
+                ],
+                [
+                    "9:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "beste"
+                ],
+                [
+                    "3:8"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "De beste l\u00e5tene hennes bobler av dette .",
+    "sent_id": "104659-10-01"
+}

@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "A"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "A wall and miles of fences"
+                ],
+                [
+                    "0:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not the best of solutions"
+                ],
+                [
+                    "30:55"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "A"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "Israel persists in the occupation of the territories"
+                ],
+                [
+                    "116:168"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "A"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "Palestinians are willing to die in large numbers to deny Israel that privilege"
+                ],
+                [
+                    "173:251"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A wall and miles of fences is not the best of solutions . Does anybody believe that the intifada can end as long as Israel persists in the occupation of the territories and Palestinians are willing to die in large numbers to deny Israel that privilege ?",
+    "sent_id": "20020225/21.00.49-23712-6"
+}

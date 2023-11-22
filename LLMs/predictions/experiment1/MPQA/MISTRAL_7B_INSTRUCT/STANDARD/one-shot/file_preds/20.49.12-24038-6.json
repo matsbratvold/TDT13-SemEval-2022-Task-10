@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the 15 European Union member states"
+                ],
+                [
+                    "12:47"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Kyoto accord"
+                ],
+                [
+                    "79:95"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "agreed to be formally bound"
+                ],
+                [
+                    "48:75"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "On Monday , the 15 European Union member states agreed to be formally bound to the Kyoto accord , and complete the ratification by June 1 this year .",
+    "sent_id": "20020306/20.49.12-24038-6"
+}

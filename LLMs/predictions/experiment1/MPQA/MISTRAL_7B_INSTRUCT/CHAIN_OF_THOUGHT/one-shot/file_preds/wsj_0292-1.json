@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Kimberly - Clark Corp."
+                ],
+                [
+                    "56:78"
+                ]
+            ],
+            "Target": [
+                [
+                    "newsprint business"
+                ],
+                [
+                    "35:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Despite"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Kimberly - Clark Corp."
+                ],
+                [
+                    "56:78"
+                ]
+            ],
+            "Target": [
+                [
+                    "third - quarter net income"
+                ],
+                [
+                    "101:127"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "posted"
+                ],
+                [
+                    "79:85"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Despite continuing problems in its newsprint business , Kimberly - Clark Corp. posted a 20 % gain in third - quarter net income .",
+    "sent_id": "xbank/wsj_0292-1"
+}

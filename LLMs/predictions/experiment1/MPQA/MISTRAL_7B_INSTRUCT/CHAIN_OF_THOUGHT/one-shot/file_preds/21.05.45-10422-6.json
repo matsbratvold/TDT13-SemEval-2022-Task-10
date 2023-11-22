@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jose Anibal"
+                ],
+                [
+                    "52:63"
+                ]
+            ],
+            "Target": [
+                [
+                    "Cardoso"
+                ],
+                [
+                    "88:95"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "placed himself at the disposal"
+                ],
+                [
+                    "108:138"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Jose Anibal"
+                ],
+                [
+                    "52:63"
+                ]
+            ],
+            "Target": [
+                [
+                    "Argentine Government"
+                ],
+                [
+                    "146:166"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "talk to international financial institutions"
+                ],
+                [
+                    "170:214"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Jose Anibal"
+                ],
+                [
+                    "52:63"
+                ]
+            ],
+            "Target": [
+                [
+                    "Brazil"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "adopt an open posture"
+                ],
+                [
+                    "244:265"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "PSDB [ Brazilian Social Democracy Party ] President Jose Anibal ( Sao Paulo ) said that Cardoso has already placed himself at the disposal of the Argentine Government to talk to international financial institutions . He noted , \" Brazil should adopt an open posture with relation to Argentina , which is experiencing a tragedy . \"",
+    "sent_id": "20011231/21.05.45-10422-6"
+}

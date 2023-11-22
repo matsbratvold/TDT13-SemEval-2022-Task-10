@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "dansegulvet"
+                ],
+                [
+                    "4:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "totalt fremmede"
+                ],
+                [
+                    "116:131"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enhetlig sm\u00f8rje"
+                ],
+                [
+                    "32:47"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "totalt fremmede"
+                ],
+                [
+                    "116:131"
+                ]
+            ],
+            "Target": [
+                [
+                    "totalt fremmede"
+                ],
+                [
+                    "116:131"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bedre m\u00e5ter"
+                ],
+                [
+                    "97:108"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "N\u00e5r dansegulvet tar form som en enhetlig sm\u00f8rje av euforiske individer , finnes det knapt finnes bedre m\u00e5ter \u00e5 m\u00f8te totalt fremmede som ens likemennesker .",
+    "sent_id": "302108-05-03"
+}

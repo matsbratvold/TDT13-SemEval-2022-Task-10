@@ -1,0 +1,41 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "baner"
+                ],
+                [
+                    "5:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lagt opp slik at man kj\u00f8rer berg-og-dalbane mesteparten av brettet"
+                ],
+                [
+                    "14:80"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "noe som bidrar til den allerede gode variasjonen"
+                ],
+                [
+                    "83:131"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Noen baner er lagt opp slik at man kj\u00f8rer berg-og-dalbane mesteparten av brettet , noe som bidrar til den allerede gode variasjonen .",
+    "sent_id": "704794-04-03"
+}

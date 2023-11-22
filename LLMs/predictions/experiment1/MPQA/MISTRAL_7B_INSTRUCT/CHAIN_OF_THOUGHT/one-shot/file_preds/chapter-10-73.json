@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "security and stability operations"
+                ],
+                [
+                    "111:144"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "indefinite task"
+                ],
+                [
+                    "63:78"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "In Phase Four , civilian and military operations turned to the indefinite task of what the armed forces call \" security and stability operations . \"",
+    "sent_id": "ula/chapter-10-73"
+}

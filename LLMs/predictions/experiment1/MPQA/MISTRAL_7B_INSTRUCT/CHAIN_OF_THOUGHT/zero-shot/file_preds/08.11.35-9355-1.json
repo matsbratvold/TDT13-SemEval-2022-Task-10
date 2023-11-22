@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "AFP"
+                ],
+                [
+                    "10:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "crisis"
+                ],
+                [
+                    "50:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "shook"
+                ],
+                [
+                    "62:67"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "AFP"
+                ],
+                [
+                    "10:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "crisis"
+                ],
+                [
+                    "50:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "killed"
+                ],
+                [
+                    "136:142"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "AFP"
+                ],
+                [
+                    "10:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "crisis"
+                ],
+                [
+                    "50:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "injured"
+                ],
+                [
+                    "156:163"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "CARACAS ( AFP ) - Here are the main events of the crisis that shook Venezuela over the past six days , in which at least 41 people were killed and 323 were injured :",
+    "sent_id": "non_fbis/08.11.35-9355-1"
+}

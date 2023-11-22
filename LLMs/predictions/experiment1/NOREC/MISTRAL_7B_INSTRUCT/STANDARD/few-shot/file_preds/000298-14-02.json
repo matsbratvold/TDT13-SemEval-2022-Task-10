@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Claire og Jamie"
+                ],
+                [
+                    "34:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "selskap p\u00e5 slottet i Versailles"
+                ],
+                [
+                    "55:86"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Og spesielt fabelaktig er det n\u00e5r Claire og Jamie er i selskap p\u00e5 slottet i Versailles i andre episode .",
+    "sent_id": "000298-14-02"
+}

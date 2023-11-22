@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "he"
+                ],
+                [
+                    "25:27"
+                ]
+            ],
+            "Target": [
+                [
+                    "the operation"
+                ],
+                [
+                    "35:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "says"
+                ],
+                [
+                    "28:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Radio Range"
+                ],
+                [
+                    "96:107"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "awaiting"
+                ],
+                [
+                    "226:234"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Within a couple months , he says , the operation will move to another part of Guantanamo called Radio Range , where utilities are more readily available and cells will have cots , air conditioning and toilets . The general is awaiting congressional approval before building for Radio Range begins .",
+    "sent_id": "non_fbis/06.44.52-19992-78"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Mer"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "overraskende"
+                ],
+                [
+                    "4:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kanskje"
+                ],
+                [
+                    "24:31"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "han"
+                ],
+                [
+                    "35:38"
+                ]
+            ],
+            "Target": [
+                [
+                    "har med seg"
+                ],
+                [
+                    "39:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hippiemusikeren"
+                ],
+                [
+                    "53:68"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "av fire / fem"
+                ],
+                [
+                    "92:105"
+                ]
+            ],
+            "Target": [
+                [
+                    "som trakterer gitar og keyboards"
+                ],
+                [
+                    "106:138"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "trakterer"
+                ],
+                [
+                    "110:119"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Mer overraskende er det kanskje at han har med seg \u00ab hippiemusikeren \u00bb Jonathan Wilson , en av fire / fem som trakterer gitar og keyboards .",
+    "sent_id": "304196-19-01"
+}

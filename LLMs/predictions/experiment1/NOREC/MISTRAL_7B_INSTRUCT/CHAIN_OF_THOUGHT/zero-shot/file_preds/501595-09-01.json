@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Cevichen"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "fisk"
+                ],
+                [
+                    "49:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "varierer"
+                ],
+                [
+                    "9:17"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Cevichen varierer fra dag til dag ut fra hvilken fisk som er tilgjengelig .",
+    "sent_id": "501595-09-01"
+}

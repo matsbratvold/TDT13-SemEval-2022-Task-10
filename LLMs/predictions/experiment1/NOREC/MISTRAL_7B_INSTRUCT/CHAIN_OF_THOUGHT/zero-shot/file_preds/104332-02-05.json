@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hanne S\u00f8rvaag"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "morsm\u00e5let"
+                ],
+                [
+                    "32:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "g\u00e5tt over til"
+                ],
+                [
+                    "18:31"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Hanne S\u00f8rvaag"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "popfjeset"
+                ],
+                [
+                    "140:149"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cowboyhatt"
+                ],
+                [
+                    "154:164"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hanne S\u00f8rvaag har g\u00e5tt over til morsm\u00e5let sammen med Britt Synn\u00f8ve Johansen og Randi Tytingv\u00e5g f\u00f8r , men dette er en helt annen S\u00f8rvaag enn popfjeset med cowboyhatt .",
+    "sent_id": "104332-02-05"
+}

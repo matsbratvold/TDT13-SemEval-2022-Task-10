@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Viktor Danilov"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "International University of Ecology and Political Science"
+                ],
+                [
+                    "67:124"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "president"
+                ],
+                [
+                    "50:59"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Viktor Danilov - Danilyan , doctor of economics , president of the International University of Ecology and Political Science",
+    "sent_id": "temp_fbis/21.10.31-12974-44"
+}

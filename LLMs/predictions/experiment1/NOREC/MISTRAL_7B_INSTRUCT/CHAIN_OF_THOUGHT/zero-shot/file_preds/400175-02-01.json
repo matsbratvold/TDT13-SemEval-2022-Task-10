@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Enda"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "dansk krigsfilm"
+                ],
+                [
+                    "8:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "uten helter"
+                ],
+                [
+                    "24:35"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Enda"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "dansk krigsfilm"
+                ],
+                [
+                    "8:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med ekstraordin\u00e6re skuespillerprestasjoner"
+                ],
+                [
+                    "42:84"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Enda en dansk krigsfilm uten helter , men med ekstraordin\u00e6re skuespillerprestasjoner .",
+    "sent_id": "400175-02-01"
+}

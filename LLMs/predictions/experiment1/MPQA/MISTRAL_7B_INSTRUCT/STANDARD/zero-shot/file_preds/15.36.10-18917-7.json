@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Chavez"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "President Khatami"
+                ],
+                [
+                    "25:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "thanked"
+                ],
+                [
+                    "17:24"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Chavez"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "Iranian government and nation"
+                ],
+                [
+                    "93:122"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "wished success"
+                ],
+                [
+                    "70:84"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "President Chavez thanked President Khatami for his telephone call and wished success for the Iranian government and nation .",
+    "sent_id": "non_fbis/15.36.10-18917-7"
+}

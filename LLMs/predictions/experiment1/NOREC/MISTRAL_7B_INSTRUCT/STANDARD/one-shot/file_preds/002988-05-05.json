@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Melodien p\u00e5 versene"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skrapete , m\u00f8rk og tweaka elgitar"
+                ],
+                [
+                    "33:66"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Melodien p\u00e5 versene er preget av skrapete , m\u00f8rk og tweaka elgitar .",
+    "sent_id": "002988-05-05"
+}

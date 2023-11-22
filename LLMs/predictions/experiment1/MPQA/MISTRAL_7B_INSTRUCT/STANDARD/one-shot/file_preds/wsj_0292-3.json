@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Kimberly - Clark"
+                ],
+                [
+                    "71:87"
+                ]
+            ],
+            "Target": [
+                [
+                    "improved results in its consumer businesses in North America , Brazil and Korea"
+                ],
+                [
+                    "111:190"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "attributed the gain to"
+                ],
+                [
+                    "88:110"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "After a flat second quarter tied largely to lower newsprint earnings , Kimberly - Clark attributed the gain to improved results in its consumer businesses in North America , Brazil and Korea . Those gains came from higher prices , particularly for disposable diapers and tissue products , and from increased sales , primarily for feminine - care products , the company said . Newsprint results continued to be depressed , the company added , because of industrywide price discounting .",
+    "sent_id": "xbank/wsj_0292-3"
+}

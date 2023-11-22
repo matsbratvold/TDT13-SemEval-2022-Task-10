@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Oil exports"
+                ],
+                [
+                    "2:13"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "threatened"
+                ],
+                [
+                    "85:95"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "- Oil exports , which account for 80 per cent of Venezuela 's foreign revenues , are threatened as the strike stops production at the country 's major refineries .",
+    "sent_id": "non_fbis/08.11.35-9355-4"
+}

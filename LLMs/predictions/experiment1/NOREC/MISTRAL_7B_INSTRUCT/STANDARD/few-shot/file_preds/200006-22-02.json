@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "skjerm"
+                ],
+                [
+                    "38:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bedre"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "skjerm"
+                ],
+                [
+                    "38:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kvadratisk"
+                ],
+                [
+                    "27:37"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "skjerm"
+                ],
+                [
+                    "38:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bedre"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "skjerm"
+                ],
+                [
+                    "38:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kvadratisk"
+                ],
+                [
+                    "27:37"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Da er det bedre med en mer kvadratisk skjerm som p\u00e5 Fitbit Surge .",
+    "sent_id": "200006-22-02"
+}

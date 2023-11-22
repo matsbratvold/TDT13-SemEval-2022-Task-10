@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "120:122"
+                ]
+            ],
+            "Target": [
+                [
+                    "the way the United States is prosecuting the war on terrorism"
+                ],
+                [
+                    "56:117"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reminded critics of"
+                ],
+                [
+                    "123:142"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "And he did what he routinely does when questioned about the way the United States is prosecuting the war on terrorism : He reminded critics of Sept. 11 .",
+    "sent_id": "non_fbis/06.44.52-19992-24"
+}

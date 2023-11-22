@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "United States"
+                ],
+                [
+                    "64:77"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "turning a blind eye"
+                ],
+                [
+                    "113:132"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "BEIJING - China issued its annual report on human rights in the United States on Monday , accusing Washington of turning a blind eye to abuses in its own land while criticizing other countries for theirs .",
+    "sent_id": "non_fbis/04.22.14-2532-1"
+}

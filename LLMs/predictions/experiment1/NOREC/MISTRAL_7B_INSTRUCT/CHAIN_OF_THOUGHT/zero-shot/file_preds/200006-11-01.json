@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "N\u00e5 er det"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "utseendet"
+                ],
+                [
+                    "26:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00e5nn at"
+                ],
+                [
+                    "18:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "N\u00e5 er det en gang s\u00e5nn at utseendet ikke betyr alt .",
+    "sent_id": "200006-11-01"
+}

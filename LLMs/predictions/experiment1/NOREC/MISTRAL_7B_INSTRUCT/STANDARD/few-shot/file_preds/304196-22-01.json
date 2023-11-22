@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "lov"
+                ],
+                [
+                    "11:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det er lov \u00e5 dr\u00f8mme"
+                ],
+                [
+                    "4:23"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Men det er lov \u00e5 dr\u00f8mme .",
+    "sent_id": "304196-22-01"
+}

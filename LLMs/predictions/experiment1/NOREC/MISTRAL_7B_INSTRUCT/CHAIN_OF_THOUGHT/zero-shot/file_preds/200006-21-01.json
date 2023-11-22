@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "L\u00f8fter du"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "h\u00e5ndleddet"
+                ],
+                [
+                    "10:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skal skjermen ogs\u00e5 tennes"
+                ],
+                [
+                    "23:48"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "L\u00f8fter du"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "h\u00e5ndleddet"
+                ],
+                [
+                    "10:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dette skjer heller ikke alltid"
+                ],
+                [
+                    "55:85"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "kan gi oss ulike varsler"
+                ],
+                [
+                    "112:136"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blir det fort frustrerende"
+                ],
+                [
+                    "139:165"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "L\u00f8fter du h\u00e5ndleddet , skal skjermen ogs\u00e5 tennes , men dette skjer heller ikke alltid - og siden armb\u00e5ndet ogs\u00e5 kan gi oss ulike varsler , blir det fort frustrerende .",
+    "sent_id": "200006-21-01"
+}

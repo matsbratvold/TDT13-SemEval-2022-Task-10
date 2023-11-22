@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Bobler"
+                ],
+                [
+                    "2:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dum nok til \u00e5 bli en sommerhit"
+                ],
+                [
+                    "20:50"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Bobler"
+                ],
+                [
+                    "2:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fet nok til at den fortjener det"
+                ],
+                [
+                    "62:94"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "\u00ab Bobler \u00bb er alts\u00e5 dum nok til \u00e5 bli en sommerhit , men ogs\u00e5 fet nok til at den fortjener det .",
+    "sent_id": "103988-15-01"
+}

@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "has been issued"
+                ],
+                [
+                    "113:128"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "With international consensus having been reached regarding a treaty to combat climate change , a ``red light ' ' has been issued to South Korea 's heavily carbon - dependent industries .",
+    "sent_id": "20011115/20.41.29-15150-0"
+}

@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "hele sesong 5"
+                ],
+                [
+                    "14:27"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det er nesten hele sesong 5 ogs\u00e5 .",
+    "sent_id": "103992-08-04"
+}

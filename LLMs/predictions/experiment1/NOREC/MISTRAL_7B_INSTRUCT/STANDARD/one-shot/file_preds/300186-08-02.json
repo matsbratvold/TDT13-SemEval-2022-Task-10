@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "programskaperne"
+                ],
+                [
+                    "8:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "34:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vet"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "programskaperne"
+                ],
+                [
+                    "8:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "34:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "pumpe opp spenningen"
+                ],
+                [
+                    "76:96"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det vet programskaperne ogs\u00e5 , og det blir veldig tydelig n\u00e5r de fors\u00f8ker \u00e5 pumpe opp spenningen :",
+    "sent_id": "300186-08-02"
+}

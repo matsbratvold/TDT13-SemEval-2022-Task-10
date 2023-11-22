@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Tonen"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "satt"
+                ],
+                [
+                    "9:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "satt"
+                ],
+                [
+                    "9:13"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Tonen er satt .",
+    "sent_id": "304196-13-03"
+}

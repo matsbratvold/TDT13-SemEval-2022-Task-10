@@ -1,0 +1,97 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "produsenten"
+                ],
+                [
+                    "20:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00f8ler likevel"
+                ],
+                [
+                    "3:16"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "produsenten"
+                ],
+                [
+                    "20:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "har ofret for mye funksjonalitet"
+                ],
+                [
+                    "32:64"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "produsenten"
+                ],
+                [
+                    "20:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "og ikke minst brukervennlig til fordel for en penere design"
+                ],
+                [
+                    "65:124"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "produsenten"
+                ],
+                [
+                    "20:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som ikke n\u00f8dvendigvis er noe bedre"
+                ],
+                [
+                    "127:161"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Vi f\u00f8ler likevel at produsenten har ofret for mye funksjonalitet og ikke minst brukervennlig til fordel for en penere design , som ikke n\u00f8dvendigvis er noe bedre .",
+    "sent_id": "200006-43-01"
+}

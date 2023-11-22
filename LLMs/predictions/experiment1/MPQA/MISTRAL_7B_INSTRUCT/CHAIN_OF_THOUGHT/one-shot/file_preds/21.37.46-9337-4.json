@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "experts"
+                ],
+                [
+                    "60:67"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "has no right"
+                ],
+                [
+                    "3:15"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "It has no right to issue such a false human rights report , experts said .",
+    "sent_id": "temp_fbis/21.37.46-9337-4"
+}

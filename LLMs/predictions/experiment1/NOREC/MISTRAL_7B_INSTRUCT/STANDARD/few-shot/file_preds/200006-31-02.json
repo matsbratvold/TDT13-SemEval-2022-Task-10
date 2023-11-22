@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Kjekt"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "oss som sitter mye p\u00e5 jobb"
+                ],
+                [
+                    "10:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Kjekt for oss som sitter mye p\u00e5 jobb .",
+    "sent_id": "200006-31-02"
+}

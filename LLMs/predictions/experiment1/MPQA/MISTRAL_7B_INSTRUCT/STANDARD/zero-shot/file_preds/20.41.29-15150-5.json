@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "South Korea"
+                ],
+                [
+                    "90:101"
+                ]
+            ],
+            "Target": [
+                [
+                    "OECD"
+                ],
+                [
+                    "81:85"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Although a member of the Organization for Economic Cooperation and Development ( OECD ) , South Korea is still regarded as a developing country and is not obliged to reduce its GHG emissions under the treaty .",
+    "sent_id": "20011115/20.41.29-15150-5"
+}

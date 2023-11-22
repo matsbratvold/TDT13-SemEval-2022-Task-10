@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "NSC staff members"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "terrorist fund - raising"
+                ],
+                [
+                    "48:72"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "NSC staff members had begun leading meetings on terrorist fund - raising by September 18 .",
+    "sent_id": "ula/chapter-10-44"
+}

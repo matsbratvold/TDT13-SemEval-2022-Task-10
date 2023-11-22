@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Powell"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Wolfowitz"
+                ],
+                [
+                    "17:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not able to justify"
+                ],
+                [
+                    "31:50"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Powell"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Iraq"
+                ],
+                [
+                    "67:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "a problem that had to be dealt with"
+                ],
+                [
+                    "134:169"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Powell"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "300:314"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Powell"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Afghanistan"
+                ],
+                [
+                    "463:474"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "priority"
+                ],
+                [
+                    "482:490"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Powell said that Wolfowitz was not able to justify his belief that Iraq was behind 9/11 . \" Paul was always of the view that Iraq was a problem that had to be dealt with , \" Powell told us . \" And he saw this as one way of using this event as a way to deal with the Iraq problem . \" Powell said that President Bush did not give Wolfowitz 's argument \" much weight . \" Though continuing to worry about Iraq in the following week , Powell said , President Bush saw Afghanistan as the priority .",
+    "sent_id": "ula/chapter-10-56"
+}

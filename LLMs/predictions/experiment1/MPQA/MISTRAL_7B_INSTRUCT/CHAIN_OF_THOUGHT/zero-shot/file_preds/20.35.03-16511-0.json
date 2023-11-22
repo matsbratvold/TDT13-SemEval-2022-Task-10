@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Robert Mugabe"
+                ],
+                [
+                    "70:83"
+                ]
+            ],
+            "Target": [
+                [
+                    "presidential vote in Zimbabwe"
+                ],
+                [
+                    "14:43"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Robert Mugabe"
+                ],
+                [
+                    "70:83"
+                ]
+            ],
+            "Target": [
+                [
+                    "presidential vote in Zimbabwe"
+                ],
+                [
+                    "14:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "war"
+                ],
+                [
+                    "505:508"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Following the presidential vote in Zimbabwe , there is just one thing Robert Mugabe cannot be reproached for , and that is having made a secret of his determination to stay in power by every possible means . The electoral hijacking had been announced , prepared , and organized . It has now taken place . Should one be surprised ? Since he nearly lost his parliamentary majority in June 2000 , the head of state has stated and restated to his supporters that the presidential election was going to be a \" war . \" He was as good as his word .",
+    "sent_id": "20020316/20.35.03-16511-0"
+}

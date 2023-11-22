@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Profit"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "unit"
+                ],
+                [
+                    "14:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fell"
+                ],
+                [
+                    "19:23"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Profit at the unit fell to $ 110.6 million , or 37 cents a share , from $ 142.4 million , or 45 cents a share , largely because of a $ 24 million one - time charge associated with Hughes 's previously announced plan to reduce employment by at least 6,000 people by year end . Even excluding the charge , however , net fell 5 % .",
+    "sent_id": "xbank/wsj_0950-5"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Glimrende spilldesign"
+                ],
+                [
+                    "0:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "flott"
+                ],
+                [
+                    "24:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "flott"
+                ],
+                [
+                    "24:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "flott"
+                ],
+                [
+                    "24:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "tegneserieaktig grafikk"
+                ],
+                [
+                    "32:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tegneserieaktig grafikk"
+                ],
+                [
+                    "32:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "tegneserieaktig grafikk"
+                ],
+                [
+                    "32:55"
+                ]
+            ],
+            "Target": [
+                [
+                    "nok utfordringer"
+                ],
+                [
+                    "59:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nok utfordringer"
+                ],
+                [
+                    "59:75"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Glimrende spilldesign , flott , tegneserieaktig grafikk og nok utfordringer til at b\u00e5de store og sm\u00e5 kan holde p\u00e5 lenge .",
+    "sent_id": "704794-03-04"
+}

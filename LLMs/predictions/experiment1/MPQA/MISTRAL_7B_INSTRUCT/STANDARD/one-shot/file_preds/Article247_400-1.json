@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "emphasize"
+                ],
+                [
+                    "137:146"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "USA Today"
+                ],
+                [
+                    "187:196"
+                ]
+            ],
+            "Target": [
+                [
+                    "Princess Di"
+                ],
+                [
+                    "208:219"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stays with"
+                ],
+                [
+                    "197:207"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "In light of Secretary of State Albright 's imminent trip to the middle east , the New York Times , Los Angeles Times and Washington Post emphasize the deteriorating situation there . But USA Today stays with Princess Di .",
+    "sent_id": "ula/Article247_400-1"
+}

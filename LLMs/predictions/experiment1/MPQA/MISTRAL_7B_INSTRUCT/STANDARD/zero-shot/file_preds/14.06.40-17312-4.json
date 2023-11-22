@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hakansson"
+                ],
+                [
+                    "170:179"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "extremely unlikely"
+                ],
+                [
+                    "84:102"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Hakansson"
+                ],
+                [
+                    "170:179"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "reliable"
+                ],
+                [
+                    "329:337"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "It is still not clear where the iridium container began to leak . \" However , it is extremely unlikely that the leak occurred during the flight from Paris to Memphis , \" Hakansson said . Studsvik expects to get confirmation of the information it has received today . \" But as we received it from a US official , we believe it is reliable , \" Hakansson said .",
+    "sent_id": "20020109/14.06.40-17312-4"
+}

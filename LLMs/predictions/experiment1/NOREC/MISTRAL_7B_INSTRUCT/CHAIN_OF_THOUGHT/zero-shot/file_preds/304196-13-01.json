@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "dunkel mumling"
+                ],
+                [
+                    "16:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "When We Were Young"
+                ],
+                [
+                    "67:85"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dunkel mumling"
+                ],
+                [
+                    "16:30"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det starter med dunkel mumling som blir tydeligere etter hvert i \u00ab When We Were Young \u00bb ( \u00ab Our parents made us who we are .",
+    "sent_id": "304196-13-01"
+}

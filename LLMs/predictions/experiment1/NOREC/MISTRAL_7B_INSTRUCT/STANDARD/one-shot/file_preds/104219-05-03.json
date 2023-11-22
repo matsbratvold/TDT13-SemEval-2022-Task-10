@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "behovet"
+                ],
+                [
+                    "7:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tvunget seg fram"
+                ],
+                [
+                    "52:68"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "N\u00e5 har behovet for forandringer p\u00e5 alle livsomr\u00e5der tvunget seg fram .",
+    "sent_id": "104219-05-03"
+}

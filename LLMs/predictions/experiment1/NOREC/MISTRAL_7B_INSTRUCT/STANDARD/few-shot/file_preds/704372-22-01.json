@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "krossar"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "jag den jag \u00e4lskar"
+                ],
+                [
+                    "8:26"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "krossar jag den jag \u00e4lskar",
+    "sent_id": "704372-22-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Li Guangqiang"
+                ],
+                [
+                    "17:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "China"
+                ],
+                [
+                    "61:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "should not have arrested"
+                ],
+                [
+                    "67:91"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Take the case of Li Guangqiang for example . The report said China should not have arrested Li , a Hong Kong businessman , who was charged with smuggling Bibles into the country in July .",
+    "sent_id": "temp_fbis/21.37.46-9337-19"
+}

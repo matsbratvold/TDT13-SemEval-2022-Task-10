@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ida Lind"
+                ],
+                [
+                    "3:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "Ida"
+                ],
+                [
+                    "3:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til den egoistiske tante"
+                ],
+                [
+                    "33:57"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Og Ida Lind gir herlig heslighet til den egoistiske tante Ida .",
+    "sent_id": "004983-14-02"
+}

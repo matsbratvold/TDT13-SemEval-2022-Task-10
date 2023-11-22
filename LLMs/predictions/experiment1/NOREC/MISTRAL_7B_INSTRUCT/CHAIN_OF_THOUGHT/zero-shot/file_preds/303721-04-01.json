@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "tampen av det briljante altcountryorkesterets tiende fullengder"
+                ],
+                [
+                    "3:66"
+                ]
+            ],
+            "Target": [
+                [
+                    "Shrug & Destroy"
+                ],
+                [
+                    "80:95"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "man"
+                ],
+                [
+                    "74:77"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "P\u00e5 tampen av det briljante altcountryorkesterets tiende fullengder finner man \u00ab Shrug & Destroy \u00bb , hvis finurlige tittel peker seg ut som et slags manifest for musikken de lager om dagen .",
+    "sent_id": "303721-04-01"
+}

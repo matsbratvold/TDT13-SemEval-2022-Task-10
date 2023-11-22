@@ -1,0 +1,102 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "EDS"
+                ],
+                [
+                    "3:6"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "EDS"
+                ],
+                [
+                    "3:6"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "record $ 110.9 million"
+                ],
+                [
+                    "49:71"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "EDS"
+                ],
+                [
+                    "3:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Revenue"
+                ],
+                [
+                    "140:147"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "EDS"
+                ],
+                [
+                    "3:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Revenue"
+                ],
+                [
+                    "140:147"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "$ 1.37 billion"
+                ],
+                [
+                    "161:175"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "At EDS , third - quarter profit jumped 16 % to a record $ 110.9 million , or 93 cents a share , from $ 95.9 million , or 79 cents a share . Revenue rose 12 % to $ 1.37 billion from $ 1.22 billion .",
+    "sent_id": "xbank/wsj_0950-10"
+}

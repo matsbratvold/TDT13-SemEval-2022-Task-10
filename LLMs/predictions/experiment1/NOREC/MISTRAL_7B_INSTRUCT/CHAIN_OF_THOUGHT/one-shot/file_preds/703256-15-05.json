@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ni\u00e5ringen"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "dagen sin"
+                ],
+                [
+                    "25:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "imponerer"
+                ],
+                [
+                    "58:67"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Ni\u00e5ringen som skal feire dagen sin ( Filip J. H. Kilter ) imponerer ogs\u00e5 i de scenene han er med .",
+    "sent_id": "703256-15-05"
+}

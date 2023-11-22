@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hun"
+                ],
+                [
+                    "12:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "heller ikke redd"
+                ],
+                [
+                    "16:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "l\u00e5tene"
+                ],
+                [
+                    "42:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "den luften og roen"
+                ],
+                [
+                    "49:67"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "partier"
+                ],
+                [
+                    "85:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "minimalistiske"
+                ],
+                [
+                    "70:84"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "trenger"
+                ],
+                [
+                    "96:103"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for \u00e5 leve"
+                ],
+                [
+                    "104:114"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Samtidig er hun heller ikke redd for \u00e5 gi l\u00e5tene den luften og roen i minimalistiske partier de trenger for \u00e5 leve .",
+    "sent_id": "501385-04-03"
+}

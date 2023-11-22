@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Beskjeden"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "g\u00e5r"
+                ],
+                [
+                    "10:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vel"
+                ],
+                [
+                    "14:17"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "IKEA-partner-letende streitingene"
+                ],
+                [
+                    "55:88"
+                ]
+            ],
+            "Target": [
+                [
+                    "som"
+                ],
+                [
+                    "89:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Chirag rapper om"
+                ],
+                [
+                    "93:109"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Beskjeden g\u00e5r vel delvis ut til de vaffeljakkekledde , IKEA-partner-letende streitingene som Chirag rapper om i andre vers .",
+    "sent_id": "002988-05-01"
+}

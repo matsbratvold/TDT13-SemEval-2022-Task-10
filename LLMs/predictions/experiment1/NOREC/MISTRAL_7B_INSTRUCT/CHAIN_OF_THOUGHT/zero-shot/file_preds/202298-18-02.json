@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "bilen"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "Toyota Safety Sense systemet"
+                ],
+                [
+                    "113:141"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kommer"
+                ],
+                [
+                    "3:9"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "N\u00e5 kommer bilen med skiltgjenkjenning , filskiftholder , automatisk blending av lys , og andre ting som inng\u00e5r i Toyota Safety Sense systemet .",
+    "sent_id": "202298-18-02"
+}

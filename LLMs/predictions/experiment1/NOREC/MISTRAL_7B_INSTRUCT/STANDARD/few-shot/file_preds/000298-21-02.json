@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "ertende vittighetene"
+                ],
+                [
+                    "18:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "liker godt"
+                ],
+                [
+                    "4:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "episodene i sesong to"
+                ],
+                [
+                    "78:99"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "har flere artige scener"
+                ],
+                [
+                    "100:123"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "scener"
+                ],
+                [
+                    "117:123"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som kanskje ikke er historisk korrekte"
+                ],
+                [
+                    "126:164"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "scener"
+                ],
+                [
+                    "117:123"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som f\u00e5r meg til \u00e5 trekk p\u00e5 smileb\u00e5ndet"
+                ],
+                [
+                    "171:209"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Jeg liker godt de ertende vittighetene som blir kastet omkring , og de f\u00f8rste episodene i sesong to har flere artige scener , som kanskje ikke er historisk korrekte , men som f\u00e5r meg til \u00e5 trekk p\u00e5 smileb\u00e5ndet .",
+    "sent_id": "000298-21-02"
+}

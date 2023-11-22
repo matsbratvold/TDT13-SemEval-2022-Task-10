@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Og det"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "barnespr\u00e5k"
+                ],
+                [
+                    "27:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilgjort"
+                ],
+                [
+                    "18:26"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "som"
+                ],
+                [
+                    "40:43"
+                ]
+            ],
+            "Target": [
+                [
+                    "m\u00e5ten"
+                ],
+                [
+                    "54:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "voksne"
+                ],
+                [
+                    "60:66"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "snakker"
+                ],
+                [
+                    "67:74"
+                ]
+            ],
+            "Target": [
+                [
+                    "barn"
+                ],
+                [
+                    "27:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "n\u00e5r"
+                ],
+                [
+                    "75:78"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "skal"
+                ],
+                [
+                    "82:86"
+                ]
+            ],
+            "Target": [
+                [
+                    "forklare"
+                ],
+                [
+                    "87:95"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "barn"
+                ],
+                [
+                    "27:31"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Og det i et noks\u00e5 tilgjort barnespr\u00e5k , som minner om m\u00e5ten voksne snakker n\u00e5r de skal forklare barn noe vanskelig :",
+    "sent_id": "302975-13-03"
+}

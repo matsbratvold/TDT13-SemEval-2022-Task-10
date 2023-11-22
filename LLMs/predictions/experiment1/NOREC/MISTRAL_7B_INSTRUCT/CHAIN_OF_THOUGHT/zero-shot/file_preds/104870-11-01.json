@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "savnet av virkelig store l\u00e5ter"
+                ],
+                [
+                    "24:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "problemet"
+                ],
+                [
+                    "11:20"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det eneste problemet er savnet av virkelig store l\u00e5ter .",
+    "sent_id": "104870-11-01"
+}

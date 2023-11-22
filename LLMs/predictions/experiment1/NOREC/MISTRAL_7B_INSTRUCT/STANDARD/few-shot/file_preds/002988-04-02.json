@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Magdi"
+                ],
+                [
+                    "63:68"
+                ]
+            ],
+            "Target": [
+                [
+                    "bars"
+                ],
+                [
+                    "11:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rapper"
+                ],
+                [
+                    "56:62"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab Dette er bars , bars , bars ikke en saklig sjargong \u00bb rapper Magdi p\u00e5 f\u00f8rste vers som en slags ansvarsfraskrivelse .",
+    "sent_id": "002988-04-02"
+}

@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dypvik"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "talent og vilje til \u00e5 fortelle"
+                ],
+                [
+                    "11:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "talent og vilje til \u00e5 fortelle"
+                ],
+                [
+                    "11:41"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "alle de personlige historiene"
+                ],
+                [
+                    "47:76"
+                ]
+            ],
+            "Target": [
+                [
+                    "talent og vilje til \u00e5 fortelle"
+                ],
+                [
+                    "11:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "talent og vilje til \u00e5 fortelle"
+                ],
+                [
+                    "11:41"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "talent og vilje til \u00e5 fortelle"
+                ],
+                [
+                    "11:41"
+                ]
+            ],
+            "Target": [
+                [
+                    "jernteppets konsekvenser"
+                ],
+                [
+                    "103:127"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "talent og vilje til \u00e5 fortelle"
+                ],
+                [
+                    "11:41"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "alle de personlige historiene"
+                ],
+                [
+                    "47:76"
+                ]
+            ],
+            "Target": [
+                [
+                    "jernteppets konsekvenser"
+                ],
+                [
+                    "103:127"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "talent og vilje til \u00e5 fortelle"
+                ],
+                [
+                    "11:41"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Dypvik har talent og vilje til \u00e5 fortelle , og alle de personlige historiene gir vektige utdypinger av jernteppets konsekvenser .",
+    "sent_id": "301242-14-01"
+}

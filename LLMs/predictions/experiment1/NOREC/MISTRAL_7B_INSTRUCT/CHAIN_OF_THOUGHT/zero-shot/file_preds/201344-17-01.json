@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ikke overraskende"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fenix Chronos Garmin"
+                ],
+                [
+                    "27:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "benytter"
+                ],
+                [
+                    "18:26"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Ikke overraskende"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fenix Chronos Garmin"
+                ],
+                [
+                    "27:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sitt propriet\u00e6re operativsystem"
+                ],
+                [
+                    "48:79"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Ikke overraskende"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fenix Chronos Garmin"
+                ],
+                [
+                    "27:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som i det store og det hele er"
+                ],
+                [
+                    "82:112"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Ikke overraskende benytter Fenix Chronos Garmin sitt propriet\u00e6re operativsystem , som i det store og det hele er en positiv opplevelse .",
+    "sent_id": "201344-17-01"
+}

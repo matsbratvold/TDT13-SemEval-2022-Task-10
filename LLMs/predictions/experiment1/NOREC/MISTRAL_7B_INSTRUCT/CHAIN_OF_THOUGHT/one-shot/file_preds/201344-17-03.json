@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Litt"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "riktignok til"
+                ],
+                [
+                    "15:28"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "man"
+                ],
+                [
+                    "44:47"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "g\u00e5r det hele som en lek"
+                ],
+                [
+                    "82:105"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Litt \u00f8velse m\u00e5 riktignok til , men s\u00e5 snart man har memorert knappenes funksjon , g\u00e5r det hele som en lek .",
+    "sent_id": "201344-17-03"
+}

@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Beijing"
+                ],
+                [
+                    "33:40"
+                ]
+            ],
+            "Target": [
+                [
+                    "military adventurism in the Taiwan Strait"
+                ],
+                [
+                    "44:85"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Washington"
+                ],
+                [
+                    "89:99"
+                ]
+            ],
+            "Target": [
+                [
+                    "readiness to fight Beijing for Taiwan"
+                ],
+                [
+                    "105:142"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Another factor which might deter Beijing 's military adventurism in the Taiwan Strait is Washington 's \" readiness to fight Beijing for Taiwan , \" which will bear witness to Washington 's determination to remain a power in Asia , according to the magazine .",
+    "sent_id": "20010713/00.42.05-29788-5"
+}

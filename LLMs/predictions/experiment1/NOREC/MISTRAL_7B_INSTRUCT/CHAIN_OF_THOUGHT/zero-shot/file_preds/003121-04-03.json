@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Spesielt i \u00ab Plot Twist \u00bb"
+                ],
+                [
+                    "0:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "Highasakite-estetikk"
+                ],
+                [
+                    "51:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "benytter hun seg ofte"
+                ],
+                [
+                    "26:47"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Spesielt i \u00ab Plot Twist \u00bb"
+                ],
+                [
+                    "0:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "Highasakite-estetikk"
+                ],
+                [
+                    "51:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med overbevisende lyrikk"
+                ],
+                [
+                    "72:96"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Spesielt i \u00ab Plot Twist \u00bb"
+                ],
+                [
+                    "0:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "Highasakite-estetikk"
+                ],
+                [
+                    "51:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "og bastant refreng"
+                ],
+                [
+                    "97:115"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Spesielt i \u00ab Plot Twist \u00bb benytter hun seg ofte av Highasakite-estetikk med overbevisende lyrikk og bastant refreng .",
+    "sent_id": "003121-04-03"
+}

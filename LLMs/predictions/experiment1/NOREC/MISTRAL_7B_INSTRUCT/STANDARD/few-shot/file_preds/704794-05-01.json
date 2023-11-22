@@ -1,0 +1,83 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "spillet"
+                ],
+                [
+                    "6:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sikkert kj\u00f8p"
+                ],
+                [
+                    "20:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "barn"
+                ],
+                [
+                    "42:46"
+                ]
+            ],
+            "Target": [
+                [
+                    "spillet"
+                ],
+                [
+                    "6:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for b\u00e5de"
+                ],
+                [
+                    "33:41"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "gamle Donkey Kong-fans"
+                ],
+                [
+                    "50:72"
+                ]
+            ],
+            "Target": [
+                [
+                    "spillet"
+                ],
+                [
+                    "6:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fans"
+                ],
+                [
+                    "68:72"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Dette spillet er et sikkert kj\u00f8p for b\u00e5de barn og gamle Donkey Kong-fans .",
+    "sent_id": "704794-05-01"
+}

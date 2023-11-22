@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto Protocol"
+                ],
+                [
+                    "45:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "objecting"
+                ],
+                [
+                    "69:78"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto Protocol"
+                ],
+                [
+                    "45:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mentioned"
+                ],
+                [
+                    "115:124"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The United States , having pulled out of the Kyoto Protocol , is now objecting to its implementation in 2002 being mentioned as one of the goals for a global environmental agenda being drawn up at the United Nations .",
+    "sent_id": "non_fbis/04.24.14-26782-2"
+}

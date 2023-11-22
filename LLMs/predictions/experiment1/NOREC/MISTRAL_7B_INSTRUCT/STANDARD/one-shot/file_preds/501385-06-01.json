@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det er synd"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "l\u00e5tene \u2013 r\u00e5terialet \u2013 p\u00e5 \u00ab Ni Liv \u00bb holder tidvis h\u00f8y kvalitet"
+                ],
+                [
+                    "24:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "synd"
+                ],
+                [
+                    "7:11"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er synd , for selve l\u00e5tene \u2013 r\u00e5terialet \u2013 p\u00e5 \u00ab Ni Liv \u00bb holder tidvis h\u00f8y kvalitet .",
+    "sent_id": "501385-06-01"
+}

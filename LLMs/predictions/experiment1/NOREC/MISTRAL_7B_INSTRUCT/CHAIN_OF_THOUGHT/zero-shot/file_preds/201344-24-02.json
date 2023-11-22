@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "den"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "overraskende godt"
+                ],
+                [
+                    "25:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sitter"
+                ],
+                [
+                    "14:20"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "den"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "overraskende godt"
+                ],
+                [
+                    "25:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "p\u00e5 anmelders middels store h\u00e5ndledd"
+                ],
+                [
+                    "43:78"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "den"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "overraskende godt"
+                ],
+                [
+                    "25:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "b\u00e5de p\u00e5 lenke og rem"
+                ],
+                [
+                    "81:101"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Komfortmessig sitter den overraskende godt p\u00e5 anmelders middels store h\u00e5ndledd , b\u00e5de p\u00e5 lenke og rem .",
+    "sent_id": "201344-24-02"
+}

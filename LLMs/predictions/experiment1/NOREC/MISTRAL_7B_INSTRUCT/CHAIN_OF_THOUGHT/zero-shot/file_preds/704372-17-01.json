@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Du gamla"
+                ],
+                [
+                    "2:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "Laura Rivers"
+                ],
+                [
+                    "121:133"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gammelt"
+                ],
+                [
+                    "83:90"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "\" Du gamla ( that \u2019 s alright since my soul got a seat up in the kingdom ) \" er et gammelt og obskurt opptak av sangeren Laura Rivers , forsynt med strykere .",
+    "sent_id": "704372-17-01"
+}

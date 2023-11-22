@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "en"
+                ],
+                [
+                    "3:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "tr\u00f6tt"
+                ],
+                [
+                    "6:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tr\u00f6tt"
+                ],
+                [
+                    "6:11"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "gammal"
+                ],
+                [
+                    "14:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "elefant"
+                ],
+                [
+                    "21:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gammal"
+                ],
+                [
+                    "14:20"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "sa en tr\u00f6tt , gammal elefant",
+    "sent_id": "704372-20-01"
+}

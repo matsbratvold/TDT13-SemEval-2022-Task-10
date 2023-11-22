@@ -1,0 +1,142 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "chairman"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "countries"
+                ],
+                [
+                    "38:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "do their best"
+                ],
+                [
+                    "53:66"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "chairman"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto Protocol"
+                ],
+                [
+                    "82:96"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "put into effect"
+                ],
+                [
+                    "100:115"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "chairman"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "developed countries"
+                ],
+                [
+                    "164:183"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "give financial and technical support"
+                ],
+                [
+                    "190:226"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "chairman"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "island nations"
+                ],
+                [
+                    "285:299"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "alleviate the global warming 's impact"
+                ],
+                [
+                    "306:344"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "chairman"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "satellite observation systems"
+                ],
+                [
+                    "376:405"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The chairman 's paper stated that the countries will do their best to ensure 1997 Kyoto Protocol is put into effect in 2002 to curb global warming . It also stated developed countries would give financial and technical support to those countries vulnerable to climate change , such as island nations , and alleviate the global warming 's impact by introducing devices such as satellite observation systems to monitor rising sea levels .",
+    "sent_id": "non_fbis/04.24.14-26782-8"
+}

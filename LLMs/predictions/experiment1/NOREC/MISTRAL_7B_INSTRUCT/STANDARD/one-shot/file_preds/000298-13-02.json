@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Etter all den skotske ullen og gj\u00f8rma"
+                ],
+                [
+                    "0:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er det forfriskende"
+                ],
+                [
+                    "40:59"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Etter all den skotske ullen og gj\u00f8rma , er det forfriskende med en fargerik by full av overd\u00e5dige hatter og rokokkokjoler i taft og tung silke .",
+    "sent_id": "000298-13-02"
+}

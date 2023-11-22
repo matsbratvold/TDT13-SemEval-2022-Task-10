@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Spanish premier"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "Russia to ratify Kyoto Protocol"
+                ],
+                [
+                    "33:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "urge"
+                ],
+                [
+                    "28:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "EU leader"
+                ],
+                [
+                    "18:27"
+                ]
+            ],
+            "Target": [
+                [
+                    "Russia to ratify Kyoto Protocol"
+                ],
+                [
+                    "33:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "urge"
+                ],
+                [
+                    "28:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Spanish premier , EU leader urge Russia to ratify Kyoto Protocol",
+    "sent_id": "temp_fbis/20.36.23-26588-0"
+}

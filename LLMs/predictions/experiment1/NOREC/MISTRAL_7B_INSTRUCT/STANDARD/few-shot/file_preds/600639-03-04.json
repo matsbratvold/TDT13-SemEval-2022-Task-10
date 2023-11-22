@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Philip"
+                ],
+                [
+                    "45:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blind"
+                ],
+                [
+                    "52:57"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Rachel"
+                ],
+                [
+                    "67:73"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "uskyldig"
+                ],
+                [
+                    "94:102"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Sp\u00f8rsm\u00e5let er bare om forelskelsen har gjort Philip blind eller om Rachel faktisk kan v\u00e6re s\u00e5 uskyldig som hun virker .",
+    "sent_id": "600639-03-04"
+}

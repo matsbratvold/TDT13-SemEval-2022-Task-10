@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "government officials"
+                ],
+                [
+                    "339:359"
+                ]
+            ],
+            "Target": [
+                [
+                    "Waertsilae Marine 's shipyard facilities"
+                ],
+                [
+                    "115:155"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "exodus of skilled workers"
+                ],
+                [
+                    "267:292"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Once its ownership is finalized , the new company will open talks with state - appointed receivers to buy or lease Waertsilae Marine 's shipyard facilities . Subcontractors will be offered a settlement and a swift transition to new management is expected to avert an exodus of skilled workers from Waertsilae Marine 's two big shipyards , government officials said .",
+    "sent_id": "xbank/wsj_0187-3"
+}

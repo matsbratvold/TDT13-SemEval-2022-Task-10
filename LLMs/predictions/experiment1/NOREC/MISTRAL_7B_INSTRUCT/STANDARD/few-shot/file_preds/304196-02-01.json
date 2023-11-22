@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "gamlesjefen"
+                ],
+                [
+                    "35:46"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pink Floyd-debuten"
+                ],
+                [
+                    "12:30"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "gamlesjefen"
+                ],
+                [
+                    "35:46"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pink Floyd-debuten"
+                ],
+                [
+                    "12:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gir"
+                ],
+                [
+                    "31:34"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "gamlesjefen"
+                ],
+                [
+                    "35:46"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pink Floyd-debuten"
+                ],
+                [
+                    "12:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ut sitt beste soloalbum"
+                ],
+                [
+                    "47:70"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "50 \u00e5r etter Pink Floyd-debuten gir gamlesjefen ut sitt beste soloalbum .",
+    "sent_id": "304196-02-01"
+}

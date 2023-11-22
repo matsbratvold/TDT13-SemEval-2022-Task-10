@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "MV Mercs Uhana"
+                ],
+                [
+                    "64:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rammed"
+                ],
+                [
+                    "27:33"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "An explosives - laden boat rammed into the bulk cargo carrier , MV Mercs Uhana , as it approached the Jaffna peninsula carrying food and other essentials to the embattled region .",
+    "sent_id": "20010916/21.24.32-9824-13"
+}

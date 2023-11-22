@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sader"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "new policy of ( US President George W. ) Bush"
+                ],
+                [
+                    "23:68"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "permit decay"
+                ],
+                [
+                    "75:87"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sader"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "concern now is security"
+                ],
+                [
+                    "94:117"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "security"
+                ],
+                [
+                    "109:117"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Sader"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "All eyes are on Pakistan , China , and Russia"
+                ],
+                [
+                    "120:165"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "All eyes are on"
+                ],
+                [
+                    "120:135"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Sader affirmed , \" The new policy of ( US President George W. ) Bush is to permit decay . The concern now is security . All eyes are on Pakistan , China , and Russia . \"",
+    "sent_id": "20011231/21.05.45-10422-14"
+}

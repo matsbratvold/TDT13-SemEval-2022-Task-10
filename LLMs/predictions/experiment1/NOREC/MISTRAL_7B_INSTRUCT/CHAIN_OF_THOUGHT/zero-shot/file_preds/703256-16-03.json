@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den \u00e5pner"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "Hana og Wang"
+                ],
+                [
+                    "107:119"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dominer"
+                ],
+                [
+                    "124:131"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Den \u00e5pner , som nevnt , som et klassisk familiedrama f\u00f8r den glir over i nesten burleske komediescener n\u00e5r Hana og Wang f\u00e5r dominere .",
+    "sent_id": "703256-16-03"
+}

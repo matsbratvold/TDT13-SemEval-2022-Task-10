@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Rumsfeld"
+                ],
+                [
+                    "18:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "commanders"
+                ],
+                [
+                    "60:70"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "offered several thoughts"
+                ],
+                [
+                    "27:51"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Rumsfeld"
+                ],
+                [
+                    "18:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "commanders"
+                ],
+                [
+                    "60:70"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "emphasized the worldwide nature of the conflict"
+                ],
+                [
+                    "125:172"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Rumsfeld"
+                ],
+                [
+                    "18:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "commanders"
+                ],
+                [
+                    "60:70"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "references to specific enemies or regions named only the Taliban , al Qaeda , and Afghanistan"
+                ],
+                [
+                    "179:272"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "On September 19 , Rumsfeld offered several thoughts for his commanders as they worked on their contingency plans . Though he emphasized the worldwide nature of the conflict , the references to specific enemies or regions named only the Taliban , al Qaeda , and Afghanistan .",
+    "sent_id": "ula/chapter-10-62"
+}

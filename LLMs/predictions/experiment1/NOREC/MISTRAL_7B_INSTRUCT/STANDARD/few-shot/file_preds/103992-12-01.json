@@ -1,0 +1,83 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Pousseys Washingtons"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "\u00e5nd"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hviler"
+                ],
+                [
+                    "25:31"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Pousseys Washingtons"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "sesongen"
+                ],
+                [
+                    "37:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5nd"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "oppr\u00f8ret"
+                ],
+                [
+                    "61:69"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "virker"
+                ],
+                [
+                    "70:76"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Pousseys Washingtons \u00e5nd hviler over sesongen , samtidig som oppr\u00f8ret virker akkurat s\u00e5 kaotisk og lite planlagt som slikt muligens er .",
+    "sent_id": "103992-12-01"
+}

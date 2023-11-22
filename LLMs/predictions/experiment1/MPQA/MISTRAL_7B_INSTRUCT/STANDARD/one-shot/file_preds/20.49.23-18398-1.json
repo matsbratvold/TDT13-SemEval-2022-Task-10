@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The separatists"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "killed"
+                ],
+                [
+                    "21:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "were killed"
+                ],
+                [
+                    "16:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The separatists were killed in two separate encounters in the Mandi area of the southern Poonch district , 225 kilometres ( 140 miles ) northwest of Kashmir 's winter capital Jammu .",
+    "sent_id": "20011111/20.49.23-18398-1"
+}

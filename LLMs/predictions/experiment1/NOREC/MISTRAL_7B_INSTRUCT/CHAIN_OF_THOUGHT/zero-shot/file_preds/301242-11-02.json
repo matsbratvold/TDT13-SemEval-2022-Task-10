@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "boka"
+                ],
+                [
+                    "33:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ble tenkt fram"
+                ],
+                [
+                    "38:52"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Det f\u00e5r en til \u00e5 lure p\u00e5 hvordan boka ble tenkt fram .",
+    "sent_id": "301242-11-02"
+}

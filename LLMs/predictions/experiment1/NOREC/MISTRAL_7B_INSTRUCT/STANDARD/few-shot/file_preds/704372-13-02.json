@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "sangen"
+                ],
+                [
+                    "15:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vel det n\u00e6rmeste"
+                ],
+                [
+                    "25:41"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "noen gang"
+                ],
+                [
+                    "52:61"
+                ]
+            ],
+            "Target": [
+                [
+                    "Gyllene Tider"
+                ],
+                [
+                    "69:82"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den poppregete sangen er vel det n\u00e6rmeste Hellstr\u00f6m noen gang kommer Gyllene Tider .",
+    "sent_id": "704372-13-02"
+}

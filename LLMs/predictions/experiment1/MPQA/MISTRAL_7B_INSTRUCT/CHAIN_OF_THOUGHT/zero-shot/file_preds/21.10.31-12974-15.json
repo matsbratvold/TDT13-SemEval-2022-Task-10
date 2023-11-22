@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "gist"
+                ],
+                [
+                    "4:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto terms"
+                ],
+                [
+                    "36:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "quotas can be sold"
+                ],
+                [
+                    "50:68"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "discussants"
+                ],
+                [
+                    "271:282"
+                ]
+            ],
+            "Target": [
+                [
+                    "trading of air"
+                ],
+                [
+                    "321:335"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "differing views"
+                ],
+                [
+                    "298:313"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "participants"
+                ],
+                [
+                    "350:362"
+                ]
+            ],
+            "Target": [
+                [
+                    "Russia"
+                ],
+                [
+                    "414:420"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "useful for Russia"
+                ],
+                [
+                    "403:420"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "discussants"
+                ],
+                [
+                    "271:282"
+                ]
+            ],
+            "Target": [
+                [
+                    "Russia"
+                ],
+                [
+                    "414:420"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "deeply mistaken"
+                ],
+                [
+                    "918:933"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The gist is that , according to the Kyoto terms , quotas can be sold , that is , if you have fewer emissions than your neighbor , then you have every reason to strike an advantageous deal . True , this clause has been stirring up a lot of questions for a long time . The discussants also presented differing views on the trading of air . Some of the participants took the line that this is an extremely useful for Russia , which has \" hot air \" ( that is , it is 30 percent short of the permitted level of CO2 emissions ) , and the country can become the dominant seller in the market ; consequently , it has a greater stake than anyone in the ratification of the Kyoto Protocol . We will also gain from the fact that compliance by other nations with the terms of the protocol will lead to higher demand for gas , of which we have huge resources . So if anyone doubts whether Russia should ratify the document , he is deeply mistaken .",
+    "sent_id": "temp_fbis/21.10.31-12974-15"
+}

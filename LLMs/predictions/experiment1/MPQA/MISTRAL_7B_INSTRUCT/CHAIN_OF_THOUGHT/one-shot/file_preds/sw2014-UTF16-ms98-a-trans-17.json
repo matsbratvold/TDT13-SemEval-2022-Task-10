@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "they"
+                ],
+                [
+                    "4:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "illegal"
+                ],
+                [
+                    "13:20"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "and they 're illegal so i do n't think it would do us any good to outlaw them all together",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-17"
+}

@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "prisoners"
+                ],
+                [
+                    "49:58"
+                ]
+            ],
+            "Target": [
+                [
+                    "Marines"
+                ],
+                [
+                    "79:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "look twice as big"
+                ],
+                [
+                    "93:110"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "prisoners"
+                ],
+                [
+                    "49:58"
+                ]
+            ],
+            "Target": [
+                [
+                    "Marines"
+                ],
+                [
+                    "79:86"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "prisoners"
+                ],
+                [
+                    "49:58"
+                ]
+            ],
+            "Target": [
+                [
+                    "Marines"
+                ],
+                [
+                    "79:86"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "After a 25 - hour flight of mostly sitting , the prisoners hobble along as the Marines , who look twice as big , walk them out and frisk them . One soldier handles a captive like a mannequin - moving him back , forward , and to the side - before lifting him straight off his feet and onto one of two waiting buses .",
+    "sent_id": "non_fbis/06.44.52-19992-12"
+}

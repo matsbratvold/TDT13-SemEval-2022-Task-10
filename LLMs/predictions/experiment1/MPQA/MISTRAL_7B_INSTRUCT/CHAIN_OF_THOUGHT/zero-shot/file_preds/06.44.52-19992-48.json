@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Every so often"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "prisoner"
+                ],
+                [
+                    "17:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "a prisoner"
+                ],
+                [
+                    "15:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "freshly built wood buildings with air conditioners and no windows"
+                ],
+                [
+                    "70:135"
+                ]
+            ],
+            "Target": [
+                [
+                    "prisoner"
+                ],
+                [
+                    "17:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "interrogation rooms"
+                ],
+                [
+                    "48:67"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Three guards accompany him"
+                ],
+                [
+                    "138:164"
+                ]
+            ],
+            "Target": [
+                [
+                    "prisoner"
+                ],
+                [
+                    "17:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "guards"
+                ],
+                [
+                    "144:150"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Every so often a prisoner is led to one of five interrogation rooms , freshly built wood buildings with air conditioners and no windows . Three guards accompany him - one on either side and one behind .",
+    "sent_id": "non_fbis/06.44.52-19992-48"
+}

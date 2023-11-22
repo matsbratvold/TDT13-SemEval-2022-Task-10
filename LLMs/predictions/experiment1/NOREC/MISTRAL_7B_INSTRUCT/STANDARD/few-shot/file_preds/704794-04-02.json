@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "landskaper"
+                ],
+                [
+                    "56:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "flotte"
+                ],
+                [
+                    "36:42"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "gruver"
+                ],
+                [
+                    "75:81"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ned i"
+                ],
+                [
+                    "69:74"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "vann"
+                ],
+                [
+                    "90:94"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "under"
+                ],
+                [
+                    "84:89"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "jungelen"
+                ],
+                [
+                    "117:125"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjennom"
+                ],
+                [
+                    "23:30"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Vi f\u00e5r ogs\u00e5 svingt oss gjennom noen flotte alpelignende landskaper , ned i gruver , under vann , og selvsagt gjennom jungelen .",
+    "sent_id": "704794-04-02"
+}

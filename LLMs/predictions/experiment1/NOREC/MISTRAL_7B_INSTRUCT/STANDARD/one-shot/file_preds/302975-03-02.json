@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "fortelleren"
+                ],
+                [
+                    "10:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "slutt"
+                ],
+                [
+                    "55:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "liker bedre"
+                ],
+                [
+                    "69:80"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "fortelleren"
+                ],
+                [
+                    "10:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "slutt"
+                ],
+                [
+                    "55:60"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "S\u00e5 griper fortelleren inn og sier han vil gi deg en ny slutt som han liker bedre , der familien f\u00e5r bli .",
+    "sent_id": "302975-03-02"
+}

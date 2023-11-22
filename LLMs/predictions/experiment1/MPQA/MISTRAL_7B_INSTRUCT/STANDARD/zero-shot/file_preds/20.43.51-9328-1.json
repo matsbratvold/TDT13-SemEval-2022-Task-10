@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Romanian President Ion Iliescu"
+                ],
+                [
+                    "26:56"
+                ]
+            ],
+            "Target": [
+                [
+                    "Toyota Motor Corp."
+                ],
+                [
+                    "66:84"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "toured"
+                ],
+                [
+                    "57:63"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Nagoya , Feb. 15 Kyodo -- Romanian President Ion Iliescu toured a Toyota Motor Corp. plant in Toyota , Aichi Prefecture , on Friday , the last day of his four - day stay in Japan .",
+    "sent_id": "20020215/20.43.51-9328-1"
+}

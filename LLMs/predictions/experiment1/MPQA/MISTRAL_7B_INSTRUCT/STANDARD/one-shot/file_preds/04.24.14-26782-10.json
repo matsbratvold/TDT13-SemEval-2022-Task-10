@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "assistance to island countries"
+                ],
+                [
+                    "25:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "demanded"
+                ],
+                [
+                    "142:150"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "wording about the impact of global warming"
+                ],
+                [
+                    "156:198"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "demanded"
+                ],
+                [
+                    "142:150"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "a causal relation between unusual climatic phenomena and greenhouse gas emissions"
+                ],
+                [
+                    "237:318"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said"
+                ],
+                [
+                    "227:231"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Furthermore , concerning assistance to island countries , although the U.S. delegation agreed to establish satellite observation systems , it demanded that wording about the impact of global warming be deleted . The delegation said that a causal relation between unusual climatic phenomena and greenhouse gas emissions has not been proved .",
+    "sent_id": "non_fbis/04.24.14-26782-10"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Vaklingen"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "Medivh"
+                ],
+                [
+                    "22:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "preger"
+                ],
+                [
+                    "10:16"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Vaklingen"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "Alliansen"
+                ],
+                [
+                    "79:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skal beskytte"
+                ],
+                [
+                    "65:78"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Vaklingen"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "fienden"
+                ],
+                [
+                    "115:122"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "glir mer og mer mot"
+                ],
+                [
+                    "95:114"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Vaklingen preger ogs\u00e5 Medivh , en fyr som med sine magiske evner skal beskytte Alliansen , men glir mer og mer mot fienden .",
+    "sent_id": "700863-08-03"
+}

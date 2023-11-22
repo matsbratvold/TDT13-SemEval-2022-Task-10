@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "These"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "the right to life"
+                ],
+                [
+                    "13:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "were"
+                ],
+                [
+                    "6:10"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "freedom of expression and religion and freedom from torture"
+                ],
+                [
+                    "33:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "were"
+                ],
+                [
+                    "6:10"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "retroactive imposition of more severe penalties for crimes"
+                ],
+                [
+                    "124:182"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "were"
+                ],
+                [
+                    "6:10"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "These were : the right to life , freedom of expression and religion and freedom from torture , while it also urged that the retroactive imposition of more severe penalties for crimes be avoided .",
+    "sent_id": "20011130/12.26.48-19550-9"
+}

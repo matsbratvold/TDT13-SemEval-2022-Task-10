@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Every so often a prisoner is led to one of five interrogation rooms"
+                ],
+                [
+                    "0:67"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "freshly built wood buildings with air conditioners and no windows"
+                ],
+                [
+                    "70:135"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Three guards accompany him"
+                ],
+                [
+                    "138:164"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "one on either side and one behind"
+                ],
+                [
+                    "167:200"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Every so often a prisoner is led to one of five interrogation rooms , freshly built wood buildings with air conditioners and no windows . Three guards accompany him - one on either side and one behind .",
+    "sent_id": "non_fbis/06.44.52-19992-48"
+}

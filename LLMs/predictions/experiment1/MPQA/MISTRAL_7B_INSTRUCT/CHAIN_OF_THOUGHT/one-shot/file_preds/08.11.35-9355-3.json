@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Union leaders"
+                ],
+                [
+                    "23:36"
+                ]
+            ],
+            "Target": [
+                [
+                    "Chavez"
+                ],
+                [
+                    "94:100"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "aggressive"
+                ],
+                [
+                    "105:115"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Union leaders"
+                ],
+                [
+                    "23:36"
+                ]
+            ],
+            "Target": [
+                [
+                    "Chavez"
+                ],
+                [
+                    "94:100"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "intolerant"
+                ],
+                [
+                    "123:133"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Wednesday , April 10 : Union leaders extend the strike for 24 hours because of what they call Chavez 's `aggressive ' and `intolerant ' response to their demands . The strike is later made indefinite .",
+    "sent_id": "non_fbis/08.11.35-9355-3"
+}

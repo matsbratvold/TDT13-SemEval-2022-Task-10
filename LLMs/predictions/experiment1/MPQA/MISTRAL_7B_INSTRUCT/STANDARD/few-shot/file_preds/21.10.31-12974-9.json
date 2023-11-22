@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Kapitsa"
+                ],
+                [
+                    "279:286"
+                ]
+            ],
+            "Target": [
+                [
+                    "the suggestion from the sixth continent"
+                ],
+                [
+                    "15:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is a good idea to recall"
+                ],
+                [
+                    "60:84"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Kapitsa"
+                ],
+                [
+                    "279:286"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Great Flood"
+                ],
+                [
+                    "85:100"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has been depicted"
+                ],
+                [
+                    "109:126"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Kapitsa"
+                ],
+                [
+                    "279:286"
+                ]
+            ],
+            "Target": [
+                [
+                    "the science of paleoclimatology"
+                ],
+                [
+                    "473:504"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "would not be a bad idea"
+                ],
+                [
+                    "316:339"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "In addition to the suggestion from the sixth continent , it is a good idea to recall the Great Flood , which has been depicted , apart from the Bible , in many of the world 's mythologies : \" What was it ? Before predicting the future , we must learn how to predict the past , \" Kapitsa summed up . In his view , it would not be a bad idea , when the scientific community draws up all sorts of forecasts and plans of action that flow out of them , for it to seek help from the science of paleoclimatology and to gain a broad understanding of its data .",
+    "sent_id": "temp_fbis/21.10.31-12974-9"
+}

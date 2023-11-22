@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Mer sikkerhet"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Mer sikkerhet",
+    "sent_id": "202298-17-01"
+}

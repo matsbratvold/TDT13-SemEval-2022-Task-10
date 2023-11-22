@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "forent med beatsy"
+                ],
+                [
+                    "6:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vibbete hiphop"
+                ],
+                [
+                    "26:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "vibbete hiphop"
+                ],
+                [
+                    "26:40"
+                ]
+            ],
+            "Target": [
+                [
+                    "forent med beatsy"
+                ],
+                [
+                    "6:23"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "houseelementer"
+                ],
+                [
+                    "74:88"
+                ]
+            ],
+            "Target": [
+                [
+                    "forent med beatsy"
+                ],
+                [
+                    "6:23"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Dette forent med beatsy , vibbete hiphop ( \u201c Higgs \u201d , \u201c U.N.I.T.Y \u201d ) og houseelementer ( sm\u00e5tt enerverende \u201c Device Control \u201d ) .",
+    "sent_id": "003036-07-02"
+}

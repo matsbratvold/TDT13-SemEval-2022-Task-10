@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Skjermen"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "god lesbarhet"
+                ],
+                [
+                    "29:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "god"
+                ],
+                [
+                    "29:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Skjermen p\u00e5 1,2 tommer , har god lesbarhet b\u00e5de med bakgrunnslys og i dagslys .",
+    "sent_id": "201344-25-01"
+}

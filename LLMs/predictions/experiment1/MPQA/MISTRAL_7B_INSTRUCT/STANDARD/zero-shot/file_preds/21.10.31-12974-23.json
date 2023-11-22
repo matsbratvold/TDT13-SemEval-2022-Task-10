@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Russia"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "are almost twice as great as those of Germany and Japan"
+                ],
+                [
+                    "96:151"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Russia is third in the world in total emissions -- after the US and China . Russia 's emissions are almost twice as great as those of Germany and Japan ( in fourth and fifth places ) .",
+    "sent_id": "temp_fbis/21.10.31-12974-23"
+}

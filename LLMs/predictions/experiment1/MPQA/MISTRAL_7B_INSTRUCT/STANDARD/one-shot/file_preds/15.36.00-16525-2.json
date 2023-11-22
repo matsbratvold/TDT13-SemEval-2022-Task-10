@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The IMF"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "help Argentina through its current crisis"
+                ],
+                [
+                    "27:68"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not managed"
+                ],
+                [
+                    "12:23"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The IMF has not managed to help Argentina through its current crisis - it has a 132 billion dollar debt to foreign banks and is in its third successive year of recession .",
+    "sent_id": "non_fbis/15.36.00-16525-2"
+}

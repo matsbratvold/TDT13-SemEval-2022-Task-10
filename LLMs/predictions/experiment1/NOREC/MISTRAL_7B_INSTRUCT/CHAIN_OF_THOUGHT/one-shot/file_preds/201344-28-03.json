@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "betyr"
+                ],
+                [
+                    "75:80"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men spesialiserte funksjoner , basert p\u00e5 Garmin sitt eget operativsystem , betyr samtidig et frav\u00e6r av potensielle fordelene som f\u00f8lger med Android Wear eller iOS-baserte smartklokker .",
+    "sent_id": "201344-28-03"
+}

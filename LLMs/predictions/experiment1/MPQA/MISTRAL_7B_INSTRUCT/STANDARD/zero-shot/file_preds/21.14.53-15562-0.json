@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "XINHUA"
+                ],
+                [
+                    "25:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "WTO"
+                ],
+                [
+                    "52:55"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Guangzhou , October 22 ( XINHUA ) -- A forum on the WTO ( the World Trade Organization ) and the Chinese economy was held here Monday .",
+    "sent_id": "20011024/21.14.53-15562-0"
+}

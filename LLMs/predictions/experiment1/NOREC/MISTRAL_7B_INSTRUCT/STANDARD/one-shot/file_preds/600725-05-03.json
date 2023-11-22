@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hun"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Hun"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "eksotisk aksent og katt p\u00e5 fanget"
+                ],
+                [
+                    "8:41"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Hun har eksotisk aksent og katt p\u00e5 fanget og det hele .",
+    "sent_id": "600725-05-03"
+}

@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Cardoso"
+                ],
+                [
+                    "2:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "the protests at the Plaza de Mayo"
+                ],
+                [
+                    "45:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "show"
+                ],
+                [
+                    "79:83"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "De la Sota"
+                ],
+                [
+                    "15:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "a country on the verge of a civil war"
+                ],
+                [
+                    "84:121"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "told"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "the images of the protests at the Plaza de Mayo"
+                ],
+                [
+                    "31:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "commented"
+                ],
+                [
+                    "160:169"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" Cardoso told De la Sota that the images of the protests at the Plaza de Mayo show a country on the verge of a civil war , \" one of the channel 's journalists commented .",
+    "sent_id": "20011231/21.05.45-10422-1"
+}

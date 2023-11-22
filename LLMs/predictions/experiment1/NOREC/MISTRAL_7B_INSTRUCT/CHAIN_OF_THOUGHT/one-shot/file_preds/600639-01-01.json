@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "M\u00f8rk romantikk"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "M\u00f8rk romantikk"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "M\u00f8rk romantikk",
+    "sent_id": "600639-01-01"
+}

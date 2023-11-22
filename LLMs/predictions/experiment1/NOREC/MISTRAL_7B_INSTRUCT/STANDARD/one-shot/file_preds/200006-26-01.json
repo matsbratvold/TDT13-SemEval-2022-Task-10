@@ -1,0 +1,76 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "funksjoner"
+                ],
+                [
+                    "7:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vi har blitt avhengige av"
+                ],
+                [
+                    "18:43"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Alta"
+                ],
+                [
+                    "53:57"
+                ]
+            ],
+            "Target": [
+                [
+                    "Alta"
+                ],
+                [
+                    "53:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "koster et par hundrelapper mer"
+                ],
+                [
+                    "68:98"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "oss"
+                ],
+                [
+                    "110:113"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00f8ler vi oss rett og slett litt snytt"
+                ],
+                [
+                    "101:138"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det er funksjoner vi har blitt avhengige av , og n\u00e5r Alta i tillegg koster et par hundrelapper mer , f\u00f8ler vi oss rett og slett litt snytt .",
+    "sent_id": "200006-26-01"
+}

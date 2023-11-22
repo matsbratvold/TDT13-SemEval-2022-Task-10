@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "procedural mistake"
+                ],
+                [
+                    "38:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has not only"
+                ],
+                [
+                    "18:30"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "facts"
+                ],
+                [
+                    "67:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "are incorrect"
+                ],
+                [
+                    "73:86"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "officials"
+                ],
+                [
+                    "89:98"
+                ]
+            ],
+            "Target": [
+                [
+                    "procedural mistake"
+                ],
+                [
+                    "38:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has not only"
+                ],
+                [
+                    "18:30"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "officials"
+                ],
+                [
+                    "89:98"
+                ]
+            ],
+            "Target": [
+                [
+                    "facts"
+                ],
+                [
+                    "67:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "are incorrect"
+                ],
+                [
+                    "73:86"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The United States has not only made a procedural mistake , but the facts are incorrect , officials said .",
+    "sent_id": "temp_fbis/21.37.46-9337-8"
+}

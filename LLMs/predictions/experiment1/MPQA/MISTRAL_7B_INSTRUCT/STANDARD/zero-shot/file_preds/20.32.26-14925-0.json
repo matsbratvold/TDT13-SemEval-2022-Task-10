@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Interior Minister Rustu Kazim Yucelen"
+                ],
+                [
+                    "26:63"
+                ]
+            ],
+            "Target": [
+                [
+                    "illegal migration by sea"
+                ],
+                [
+                    "139:163"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "announced measures"
+                ],
+                [
+                    "100:118"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "ANKARA , Dec 15 ( A.A ) - Interior Minister Rustu Kazim Yucelen released a decree on Saturday , and announced measures to be taken against illegal migration by sea .",
+    "sent_id": "20011215/20.32.26-14925-0"
+}

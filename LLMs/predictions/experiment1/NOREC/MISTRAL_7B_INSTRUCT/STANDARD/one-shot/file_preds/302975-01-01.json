@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Manipulerende"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "barnebok"
+                ],
+                [
+                    "14:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "om norsk asylpolitikk"
+                ],
+                [
+                    "23:44"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Manipulerende barnebok om norsk asylpolitikk",
+    "sent_id": "302975-01-01"
+}

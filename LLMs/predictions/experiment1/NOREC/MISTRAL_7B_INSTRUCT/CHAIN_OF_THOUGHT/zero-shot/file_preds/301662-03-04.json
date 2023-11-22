@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det er i alle fall fint lite p\u00e5"
+                ],
+                [
+                    "0:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "Cult Drugs"
+                ],
+                [
+                    "34:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fint"
+                ],
+                [
+                    "19:23"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "som minner om et band"
+                ],
+                [
+                    "47:68"
+                ]
+            ],
+            "Target": [
+                [
+                    "Cult Drugs"
+                ],
+                [
+                    "34:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "et band"
+                ],
+                [
+                    "61:68"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er i alle fall fint lite p\u00e5 \u00ab Cult Drugs \u00bb som minner om et band som famler etter nytt fotfeste .",
+    "sent_id": "301662-03-04"
+}

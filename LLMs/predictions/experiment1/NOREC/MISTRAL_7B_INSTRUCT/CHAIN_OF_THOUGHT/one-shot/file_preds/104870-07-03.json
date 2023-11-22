@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "de mer som innskytelser enn retninger"
+                ],
+                [
+                    "15:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fremsto"
+                ],
+                [
+                    "7:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Men da fremsto de mer som innskytelser enn retninger .",
+    "sent_id": "104870-07-03"
+}

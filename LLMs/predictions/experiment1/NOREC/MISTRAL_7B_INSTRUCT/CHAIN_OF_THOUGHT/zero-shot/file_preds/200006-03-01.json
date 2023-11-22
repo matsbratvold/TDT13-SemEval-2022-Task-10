@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fitbit"
+                ],
+                [
+                    "24:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "Alta"
+                ],
+                [
+                    "130:134"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "motebevisste"
+                ],
+                [
+                    "78:90"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Tidligere i \u00e5r lanserte Fitbit et nytt aktivitetsarmb\u00e5nd myntet spesielt p\u00e5 \u00ab motebevisste \u00bb ( les : damer ) som g\u00e5r under navnet Alta .",
+    "sent_id": "200006-03-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "To spille"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "spillere"
+                ],
+                [
+                    "3:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kan samarbeide"
+                ],
+                [
+                    "12:26"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "To spillere kan samarbeide om \u00e5 l\u00f8se brettenes mange utfordringer .",
+    "sent_id": "000787-08-01"
+}

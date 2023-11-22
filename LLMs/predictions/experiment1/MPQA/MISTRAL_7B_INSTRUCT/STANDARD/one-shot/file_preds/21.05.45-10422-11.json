@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Political scientists"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "a political force that can stand up to Peronism and Radicalism"
+                ],
+                [
+                    "45:107"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lacks"
+                ],
+                [
+                    "39:44"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "USP [ University of Sao Paulo ] professor Emir Sader"
+                ],
+                [
+                    "205:257"
+                ]
+            ],
+            "Target": [
+                [
+                    "Peronists will remain in power after the elections"
+                ],
+                [
+                    "272:322"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "believes"
+                ],
+                [
+                    "258:266"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Political scientists agree : Argentina lacks a political force that can stand up to Peronism and Radicalism . This is viewed as the main impediment to the establishment of political order in the country . USP [ University of Sao Paulo ] professor Emir Sader believes that Peronists will remain in power after the elections , slowly growing weaker , allowing room for the emergence of new leadership .",
+    "sent_id": "20011231/21.05.45-10422-11"
+}

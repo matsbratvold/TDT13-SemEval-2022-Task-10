@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Morgan Tsvangirai"
+                ],
+                [
+                    "18:35"
+                ]
+            ],
+            "Target": [
+                [
+                    "Mugabe"
+                ],
+                [
+                    "114:120"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said"
+                ],
+                [
+                    "109:113"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Opposition leader Morgan Tsvangirai , easily beaten by the veteran president according to official results , said Mugabe had stolen the vote through violence and intimidation and by preventing hundreds of thousands of people from voting .",
+    "sent_id": "non_fbis/06.56.31-3120-2"
+}

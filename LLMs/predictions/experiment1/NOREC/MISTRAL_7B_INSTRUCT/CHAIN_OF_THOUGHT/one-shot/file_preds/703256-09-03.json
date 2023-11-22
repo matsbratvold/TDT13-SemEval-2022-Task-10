@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "forretningene"
+                ],
+                [
+                    "33:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tr\u00f8bler seg til"
+                ],
+                [
+                    "62:77"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "stadig m\u00e5"
+                ],
+                [
+                    "99:108"
+                ]
+            ],
+            "Target": [
+                [
+                    "telefonen"
+                ],
+                [
+                    "111:120"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "graver og sp\u00f8r"
+                ],
+                [
+                    "134:148"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "f\u00e5r d\u00e5rlige svar"
+                ],
+                [
+                    "152:168"
+                ]
+            ],
+            "Target": [
+                [
+                    "folk"
+                ],
+                [
+                    "125:129"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "graver og sp\u00f8r"
+                ],
+                [
+                    "134:148"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det kan heller ikke bare skyldes forretningene som tydeligvis tr\u00f8bler seg til for familiefaren som stadig m\u00e5 i telefonen med folk som graver og sp\u00f8r og f\u00e5r d\u00e5rlige svar .",
+    "sent_id": "703256-09-03"
+}

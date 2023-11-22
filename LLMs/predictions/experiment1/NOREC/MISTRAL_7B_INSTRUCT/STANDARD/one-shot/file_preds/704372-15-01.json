@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Jag uten dig"
+                ],
+                [
+                    "2:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "myk kj\u00e6rlighetssang"
+                ],
+                [
+                    "23:42"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" Jag uten dig \" er en myk kj\u00e6rlighetssang , der han uten sin kj\u00e6re er som Clyde uten Bonnie , McCartney uten Lennon og et fly uten vinger .",
+    "sent_id": "704372-15-01"
+}

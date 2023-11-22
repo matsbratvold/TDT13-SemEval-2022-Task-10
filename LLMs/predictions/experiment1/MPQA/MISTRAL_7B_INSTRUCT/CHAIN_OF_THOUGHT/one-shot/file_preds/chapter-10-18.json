@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "A senior al Qaeda detainee"
+                ],
+                [
+                    "0:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "U.S. government efforts"
+                ],
+                [
+                    "43:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forced"
+                ],
+                [
+                    "217:223"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A senior al Qaeda detainee has stated that U.S. government efforts after the 9/11 attacks to monitor the American homeland , including review of Muslims ' immigration files and deportation of nonpermanent residents , forced al Qaeda to operate less freely in the United States .",
+    "sent_id": "ula/chapter-10-18"
+}

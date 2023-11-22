@@ -1,0 +1,40 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "vanskelig \u00e5 vite hvor tett til virkeligheten historien ligger"
+                ],
+                [
+                    "7:68"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "sv\u00e6rt ekte og troverdig"
+                ],
+                [
+                    "98:121"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er vanskelig \u00e5 vite hvor tett til virkeligheten historien ligger , men det f\u00f8les i hvert fall sv\u00e6rt ekte og troverdig .",
+    "sent_id": "004773-17-01"
+}

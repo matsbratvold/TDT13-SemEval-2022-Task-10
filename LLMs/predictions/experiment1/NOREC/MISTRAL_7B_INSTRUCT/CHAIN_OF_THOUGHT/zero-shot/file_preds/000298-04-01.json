@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Der"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "sesong"
+                ],
+                [
+                    "12:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "foregikk"
+                ],
+                [
+                    "19:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "g\u00e5r"
+                ],
+                [
+                    "79:82"
+                ]
+            ],
+            "Target": [
+                [
+                    "turen"
+                ],
+                [
+                    "83:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til"
+                ],
+                [
+                    "102:105"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Frankrike"
+                ],
+                [
+                    "106:115"
+                ]
+            ],
+            "Target": [
+                [
+                    "Paris"
+                ],
+                [
+                    "119:124"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til"
+                ],
+                [
+                    "102:105"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Der forrige sesong foregikk i det skotske h\u00f8ylandet p\u00e5 midten av 1700-tallet , g\u00e5r turen denne gangen til Frankrike og Paris .",
+    "sent_id": "000298-04-01"
+}

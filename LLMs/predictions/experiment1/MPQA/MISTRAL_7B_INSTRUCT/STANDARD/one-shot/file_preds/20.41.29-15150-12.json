@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Korea"
+                ],
+                [
+                    "15:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "join the countries cutting back emissions"
+                ],
+                [
+                    "35:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "will probably join"
+                ],
+                [
+                    "21:39"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Korea"
+                ],
+                [
+                    "15:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "change our energy structure and reduce greenhouse gases"
+                ],
+                [
+                    "151:206"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "plan to step up efforts"
+                ],
+                [
+                    "114:137"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "`` We estimate Korea will probably join the countries cutting back emissions no later than 2018 . Until then , we plan to step up efforts to gradually change our energy structure and reduce greenhouse gases by promoting research on renewable energy and energy - efficient technologies , '' he said .",
+    "sent_id": "20011115/20.41.29-15150-12"
+}

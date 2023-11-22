@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Svaret"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "isolerte samfunnets tradisjonelle forestillinger"
+                ],
+                [
+                    "30:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nok forankret"
+                ],
+                [
+                    "10:23"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Svaret"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "skal vise seg \u00e5 ha en langt videre betydning"
+                ],
+                [
+                    "85:129"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "videre betydning"
+                ],
+                [
+                    "113:129"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Svaret er nok forankret i det isolerte samfunnets tradisjonelle forestillinger , men skal vise seg \u00e5 ha en langt videre betydning .",
+    "sent_id": "500201-11-02"
+}

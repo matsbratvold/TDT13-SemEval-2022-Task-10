@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "innsikt"
+                ],
+                [
+                    "4:11"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Gir innsikt i en kultur de f\u00e6rreste av oss vet noe om .",
+    "sent_id": "500201-02-01"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "starter med skurring fra en radio"
+                ],
+                [
+                    "4:37"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Den starter med skurring fra en radio , noe vi har h\u00f8rt f\u00f8r .",
+    "sent_id": "704372-12-02"
+}

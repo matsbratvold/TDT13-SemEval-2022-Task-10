@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Maria"
+                ],
+                [
+                    "8:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "En plan"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vil v\u00e6re en del av"
+                ],
+                [
+                    "21:39"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "En plan Maria gjerne vil v\u00e6re en del av .",
+    "sent_id": "500201-05-03"
+}

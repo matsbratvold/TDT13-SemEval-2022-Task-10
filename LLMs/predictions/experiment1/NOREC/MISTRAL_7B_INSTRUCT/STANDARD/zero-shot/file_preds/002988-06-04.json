@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sett"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "sammenheng"
+                ],
+                [
+                    "7:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "avbrekk"
+                ],
+                [
+                    "42:49"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Sett"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "sammenheng"
+                ],
+                [
+                    "7:17"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Sett i sammenheng kan l\u00e5ta fungere som et avbrekk fra de meloditunge s\u00f8sknene , og oppleves derfor kanskje mer egenartet .",
+    "sent_id": "002988-06-04"
+}

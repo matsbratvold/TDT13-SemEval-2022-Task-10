@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I alle fall"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "snakker"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vi"
+                ],
+                [
+                    "20:22"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "20:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "gamle penger"
+                ],
+                [
+                    "23:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snakker"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "20:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "dannelse"
+                ],
+                [
+                    "49:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snakker"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "20:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "lykke og idyll og solskinn"
+                ],
+                [
+                    "71:97"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snakker"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "20:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "i det hele tatt"
+                ],
+                [
+                    "101:116"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snakker"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "I alle fall snakker vi gamle penger , vi snakker dannelse , vi snakker lykke og idyll og solskinn og i det hele tatt .",
+    "sent_id": "703256-08-01"
+}

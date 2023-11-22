@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Aleksandr Ginzburg"
+                ],
+                [
+                    "77:95"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Foreign Ministry official"
+                ],
+                [
+                    "20:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "brilliant"
+                ],
+                [
+                    "53:62"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" The assessment by the Foreign Ministry official is brilliant , \" exclaimed Aleksandr Ginzburg , deputy director of the Institute of Atmospheric Physics . \" This is the best thing I have read or heard about the Kyoto Protocol ! \" It is hard to disagree with this .",
+    "sent_id": "temp_fbis/21.10.31-12974-20"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Politisk renkespill"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "renkespill"
+                ],
+                [
+                    "9:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "renkespill"
+                ],
+                [
+                    "9:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Politisk renkespill",
+    "sent_id": "000298-06-01"
+}

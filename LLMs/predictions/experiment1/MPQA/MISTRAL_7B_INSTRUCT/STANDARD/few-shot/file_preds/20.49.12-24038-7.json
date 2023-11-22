@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the US administration"
+                ],
+                [
+                    "16:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "the protocol"
+                ],
+                [
+                    "46:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "opposed"
+                ],
+                [
+                    "38:45"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "European Union countries"
+                ],
+                [
+                    "135:159"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "slammed"
+                ],
+                [
+                    "124:131"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "the US government"
+                ],
+                [
+                    "182:199"
+                ]
+            ],
+            "Target": [
+                [
+                    "its own alternative climate change strategy"
+                ],
+                [
+                    "209:252"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "produced"
+                ],
+                [
+                    "200:208"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "In March 2001 , the US administration opposed the protocol by saying that it contravenes US economic interests , a decision slammed by European Union countries at the time . Instead the US government produced its own alternative climate change strategy aimed at encouraging industries to trim their emissions .",
+    "sent_id": "20020306/20.49.12-24038-7"
+}

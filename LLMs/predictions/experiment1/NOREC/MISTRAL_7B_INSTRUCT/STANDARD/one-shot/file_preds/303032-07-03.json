@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "jeg"
+                ],
+                [
+                    "15:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "Elgs hjemby"
+                ],
+                [
+                    "56:67"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Likevel klarer jeg ikke \u00e5 fri meg helt fra tanken om at Elgs hjemby , Kristiansund , kunne v\u00e6rt beskrevet vel s\u00e5 godt p\u00e5 morsm\u00e5let .",
+    "sent_id": "303032-07-03"
+}

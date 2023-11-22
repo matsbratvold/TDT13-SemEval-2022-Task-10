@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "he"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "the content of the video"
+                ],
+                [
+                    "20:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "defended"
+                ],
+                [
+                    "11:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "he"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "the President"
+                ],
+                [
+                    "63:76"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "he"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "argued"
+                ],
+                [
+                    "135:141"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Oddly , he defended the content of the video by affirming - as the President did - that this is evidence of a humanitarian action . He argued : \" When the United States has faced a situation involving extremist groups holding hostages , they have sent intermediaries to negotiate and no one has said that this shows they have relations with those groups . \"",
+    "sent_id": "20020207/20.22.42-14586-12"
+}

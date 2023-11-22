@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "British chemical and textile company"
+                ],
+                [
+                    "4:40"
+                ]
+            ],
+            "Target": [
+                [
+                    "plan"
+                ],
+                [
+                    "44:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "create"
+                ],
+                [
+                    "95:101"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "analysts"
+                ],
+                [
+                    "226:234"
+                ]
+            ],
+            "Target": [
+                [
+                    "probable market capitalization"
+                ],
+                [
+                    "135:165"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "between"
+                ],
+                [
+                    "166:173"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "analysts"
+                ],
+                [
+                    "226:234"
+                ]
+            ],
+            "Target": [
+                [
+                    "separate company"
+                ],
+                [
+                    "267:283"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "could be effective"
+                ],
+                [
+                    "321:339"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The British chemical and textile company 's plan , which requires shareholder approval , would create a new , listed U.K. stock with a probable market capitalization between # 300 million ( $ 473 million ) and # 400 million , analysts said . The establishment of the separate company , to be called Courtaulds Textiles , could be effective as early as next year 's first quarter .",
+    "sent_id": "xbank/wsj_0376-2"
+}

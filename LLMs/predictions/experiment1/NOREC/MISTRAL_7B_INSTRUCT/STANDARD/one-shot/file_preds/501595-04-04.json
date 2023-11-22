@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "hun"
+                ],
+                [
+                    "14:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "lettheten"
+                ],
+                [
+                    "4:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "serverer med"
+                ],
+                [
+                    "18:30"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "lettheten"
+                ],
+                [
+                    "4:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er helt n\u00f8dvendig n\u00e5r man kommer s\u00e5 tett innp\u00e5 hverandre"
+                ],
+                [
+                    "33:89"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den lettheten hun serverer med , er helt n\u00f8dvendig n\u00e5r man kommer s\u00e5 tett innp\u00e5 hverandre .",
+    "sent_id": "501595-04-04"
+}

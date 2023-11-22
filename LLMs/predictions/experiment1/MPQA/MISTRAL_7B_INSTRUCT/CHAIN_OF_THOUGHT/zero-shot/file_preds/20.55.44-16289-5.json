@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fifty - five people"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "believed to be involved"
+                ],
+                [
+                    "79:102"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Fifty - five people , including former officials , businessmen and bankers are believed to be involved in the case .",
+    "sent_id": "20020326/20.55.44-16289-5"
+}

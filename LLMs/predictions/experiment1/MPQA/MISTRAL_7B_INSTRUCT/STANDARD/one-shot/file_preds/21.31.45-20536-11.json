@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Shivute"
+                ],
+                [
+                    "9:16"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Shivute"
+                ],
+                [
+                    "9:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "these actions be listed as human rights abuses"
+                ],
+                [
+                    "228:274"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Shivute"
+                ],
+                [
+                    "9:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "is it acceptable because they were committed by the US"
+                ],
+                [
+                    "278:332"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "because"
+                ],
+                [
+                    "295:302"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Retorted Shivute : \" The same and worse happened in the United States after the September 11 attacks and with the war in Afghanistan where special camps were built to detain prisoners of war and ' enemies ' of the state . Would these actions be listed as human rights abuses or is it acceptable because they were committed by the US ? \"",
+    "sent_id": "temp_fbis/21.31.45-20536-11"
+}

@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Rose Kathleen Booth"
+                ],
+                [
+                    "31:50"
+                ]
+            ],
+            "Target": [
+                [
+                    "Romanen"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5pner"
+                ],
+                [
+                    "8:13"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Sofia Irina Papestergiades"
+                ],
+                [
+                    "116:142"
+                ]
+            ],
+            "Target": [
+                [
+                    "Romanen"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ledsaget av"
+                ],
+                [
+                    "67:78"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Gomez"
+                ],
+                [
+                    "212:217"
+                ]
+            ],
+            "Target": [
+                [
+                    "Romanen"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 finne \u00e5rsakene til"
+                ],
+                [
+                    "232:252"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Sofia Irina Papestergiades"
+                ],
+                [
+                    "116:142"
+                ]
+            ],
+            "Target": [
+                [
+                    "Romanen"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilsvarende held\u00f8gns pleieavhengig"
+                ],
+                [
+                    "342:376"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Romanen \u00e5pner idet 64 \u00e5r gamle Rose Kathleen Booth fra Yorkshire , ledsaget av sin datter og romanens jeg-forteller Sofia Irina Papestergiades , 25 \u00e5r og antropolog , har kommet til den spansk-amerikanske doktor Gomez \u2019 klinikk for \u00e5 finne \u00e5rsakene til morens invalidiserende sykdom som gj\u00f8r henne ute ute av stand til \u00e5 bevege seg selv , og tilsvarende held\u00f8gns pleieavhengig .",
+    "sent_id": "703572-05-01"
+}

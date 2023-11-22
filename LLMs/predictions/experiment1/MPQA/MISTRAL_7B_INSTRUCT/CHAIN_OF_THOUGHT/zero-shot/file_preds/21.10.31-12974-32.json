@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Ecological - Economic Meaning of the Kyoto Protocol"
+                ],
+                [
+                    "0:55"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto Protocol"
+                ],
+                [
+                    "41:55"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The Ecological - Economic Meaning of the Kyoto Protocol",
+    "sent_id": "temp_fbis/21.10.31-12974-32"
+}

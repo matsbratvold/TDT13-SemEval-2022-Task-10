@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "S\u00f8vndataene"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "generelt v\u00e6rt mer detaljerte"
+                ],
+                [
+                    "18:46"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "S\u00f8vndataene kunne generelt v\u00e6rt mer detaljerte .",
+    "sent_id": "200006-37-01"
+}

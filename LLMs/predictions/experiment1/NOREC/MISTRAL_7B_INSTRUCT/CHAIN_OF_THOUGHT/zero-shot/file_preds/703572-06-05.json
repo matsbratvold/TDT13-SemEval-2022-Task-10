@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Gomez"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "nesten"
+                ],
+                [
+                    "43:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "umerkelig"
+                ],
+                [
+                    "50:59"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Rose"
+                ],
+                [
+                    "108:112"
+                ]
+            ],
+            "Target": [
+                [
+                    "datter"
+                ],
+                [
+                    "36:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lubben og late"
+                ],
+                [
+                    "195:209"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Gomez og hans fortryllende assistentdatter nesten umerkelig l\u00f8ser opp for dem , slik at den forgremmede mor Rose som ved et under observeres spaserende p\u00e5 stranden , og hennes sertifikatl\u00f8se , \u00ab lubben og late \u00bb , datter plutselig kj\u00f8rer grassat p\u00e5 veiene .",
+    "sent_id": "703572-06-05"
+}

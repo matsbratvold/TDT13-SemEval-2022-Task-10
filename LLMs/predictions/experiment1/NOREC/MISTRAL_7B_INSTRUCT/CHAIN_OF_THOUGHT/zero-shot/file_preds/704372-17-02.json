@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hellstr\u00f6m"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "fristelsen til \u00e5 gj\u00f8re enda mer ut av det"
+                ],
+                [
+                    "26:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "faller"
+                ],
+                [
+                    "10:16"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Hellstr\u00f6m"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "kuttet skaper"
+                ],
+                [
+                    "73:86"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hellstr\u00f6m faller ikke for fristelsen til \u00e5 gj\u00f8re enda mer ut av det , og kuttet skaper et fint avbrekk p\u00e5 platen .",
+    "sent_id": "704372-17-02"
+}

@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Basstromme"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "klapp"
+                ],
+                [
+                    "13:18"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "klapp"
+                ],
+                [
+                    "13:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dobbeltromme"
+                ],
+                [
+                    "21:33"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Basstromme , klapp , dobbeltromme , klapp .",
+    "sent_id": "002988-05-04"
+}

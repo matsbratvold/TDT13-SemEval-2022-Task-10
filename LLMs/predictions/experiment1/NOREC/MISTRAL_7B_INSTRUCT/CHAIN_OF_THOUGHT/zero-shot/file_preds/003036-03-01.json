@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Frank Ocean"
+                ],
+                [
+                    "29:40"
+                ]
+            ],
+            "Target": [
+                [
+                    "webkamera"
+                ],
+                [
+                    "54:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sl\u00f8ydsal"
+                ],
+                [
+                    "98:106"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det har g\u00e5tt noen uker siden Frank Ocean satte opp et webkamera i et lagerrom som fungerte som en sl\u00f8ydsal .",
+    "sent_id": "003036-03-01"
+}

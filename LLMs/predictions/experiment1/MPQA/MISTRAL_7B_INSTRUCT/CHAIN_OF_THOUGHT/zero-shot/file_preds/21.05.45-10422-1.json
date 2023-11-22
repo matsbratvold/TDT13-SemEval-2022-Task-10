@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Cardoso"
+                ],
+                [
+                    "2:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "the protests at the Plaza de Mayo"
+                ],
+                [
+                    "45:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "on the verge of a civil war"
+                ],
+                [
+                    "94:121"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "one of the channel 's journalists"
+                ],
+                [
+                    "126:159"
+                ]
+            ],
+            "Target": [
+                [
+                    "the protests at the Plaza de Mayo"
+                ],
+                [
+                    "45:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "on the verge of a civil war"
+                ],
+                [
+                    "94:121"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" Cardoso told De la Sota that the images of the protests at the Plaza de Mayo show a country on the verge of a civil war , \" one of the channel 's journalists commented .",
+    "sent_id": "20011231/21.05.45-10422-1"
+}

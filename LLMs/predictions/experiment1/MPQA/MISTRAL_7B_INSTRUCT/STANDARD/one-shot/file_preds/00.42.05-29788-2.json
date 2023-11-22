@@ -1,0 +1,102 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Nouvel Observateur"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "said"
+                ],
+                [
+                    "23:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "The Nouvel Observateur"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "deployment"
+                ],
+                [
+                    "92:102"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "The Nouvel Observateur"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "resorting"
+                ],
+                [
+                    "176:185"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "The Nouvel Observateur"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "bringing"
+                ],
+                [
+                    "207:215"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The Nouvel Observateur said that Beijing is unlikely to annex Taiwan by force , despite its deployment of missiles along its coastal provinces opposite Taiwan , but is instead resorting to smarter tactics , bringing the Taiwan authorities to heel through Taiwan businessmen who are eager to explore the mainland Chinese market .",
+    "sent_id": "20010713/00.42.05-29788-2"
+}

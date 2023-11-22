@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Output"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "electronics"
+                ],
+                [
+                    "14:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "declined"
+                ],
+                [
+                    "307:315"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Output"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "transportation tools"
+                ],
+                [
+                    "28:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "declined"
+                ],
+                [
+                    "307:315"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Output"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "pharmaceutical industries"
+                ],
+                [
+                    "55:80"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "declined"
+                ],
+                [
+                    "307:315"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Output"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "consumer industries"
+                ],
+                [
+                    "210:229"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "declined"
+                ],
+                [
+                    "307:315"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Output in the electronics , transportation tools , and pharmaceutical industries has fallen an average of 8 % this year . Other industrial sectors posted output increases of 0 - 7 % in annual terms . Output in consumer industries , such as food , beverages , textiles , clothing , footwear , and printing , declined by an average of 2.5 % in annual terms , following a 4 % drop in 2001 .",
+    "sent_id": "20020424/21.45.56-26903-3"
+}

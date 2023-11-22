@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Nydelig kabaretdr\u00f8yt"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sterkt"
+                ],
+                [
+                    "44:50"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Nydelig kabaretdr\u00f8yt og konsekvensanalytisk sterkt :",
+    "sent_id": "104332-02-07"
+}

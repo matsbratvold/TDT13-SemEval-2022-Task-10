@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Refrengene"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "melodi"
+                ],
+                [
+                    "31:37"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Refrengene"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "dominert av en lys"
+                ],
+                [
+                    "40:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "synthlyd"
+                ],
+                [
+                    "70:78"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Refrengene , helt strippet for melodi , dominert av en lys , tikkende synthlyd .",
+    "sent_id": "002988-05-06"
+}

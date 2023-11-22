@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "albumet"
+                ],
+                [
+                    "28:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "l\u00f8ftet"
+                ],
+                [
+                    "10:16"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det ville l\u00f8ftet ogs\u00e5 dette albumet .",
+    "sent_id": "303032-09-02"
+}

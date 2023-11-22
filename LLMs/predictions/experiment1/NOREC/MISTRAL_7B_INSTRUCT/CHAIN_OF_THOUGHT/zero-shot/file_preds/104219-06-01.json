@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Frodig"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "skyldbetynget"
+                ],
+                [
+                    "57:70"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lystl\u00f8gner"
+                ],
+                [
+                    "73:83"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Frodig"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Karin"
+                ],
+                [
+                    "115:120"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "spionerer"
+                ],
+                [
+                    "92:101"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Frodig , n\u00e6rt og humoristisk tegner Midthun bildet av en skyldbetynget \u00ab lystl\u00f8gner \u00bb , som spionerer p\u00e5 samboeren Karin og analyserer alle situasjoner og mennesker han m\u00f8ter .",
+    "sent_id": "104219-06-01"
+}

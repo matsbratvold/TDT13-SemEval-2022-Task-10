@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "over to"
+                ],
+                [
+                    "11:18"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "sabot\u00f8rer"
+                ],
+                [
+                    "19:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fra vest"
+                ],
+                [
+                    "29:37"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "blodige tilnavnet"
+                ],
+                [
+                    "52:69"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "D\u00f8dsdommer over to sabot\u00f8rer fra vest gir henne det blodige tilnavnet .",
+    "sent_id": "301242-08-02"
+}

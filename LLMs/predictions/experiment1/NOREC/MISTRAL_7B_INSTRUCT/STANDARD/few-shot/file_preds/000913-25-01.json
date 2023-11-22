@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dishonored 2"
+                ],
+                [
+                    "63:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mulighetene for variasjon , p\u00e5bygg og resultat"
+                ],
+                [
+                    "11:57"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dishonored 2"
+                ],
+                [
+                    "63:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sinnrike milj\u00f8et , den knallharde estetikken og dystopien"
+                ],
+                [
+                    "141:198"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dishonored 2"
+                ],
+                [
+                    "63:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "plasserer det helt i toppen av utgivelser i \u00e5r"
+                ],
+                [
+                    "232:278"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Alle disse mulighetene for variasjon , p\u00e5bygg og resultat gj\u00f8r Dishonored 2 til et spill man har lyst til \u00e5 begynne p\u00e5 flere ganger , og det sinnrike milj\u00f8et , den knallharde estetikken og dystopien gir det en appell og egenart som plasserer det helt i toppen av utgivelser i \u00e5r .",
+    "sent_id": "000913-25-01"
+}

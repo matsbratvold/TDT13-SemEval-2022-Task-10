@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "U.S. delegation"
+                ],
+                [
+                    "71:86"
+                ]
+            ],
+            "Target": [
+                [
+                    "satellite observation systems"
+                ],
+                [
+                    "107:136"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "demanded"
+                ],
+                [
+                    "142:150"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "U.S. delegation"
+                ],
+                [
+                    "71:86"
+                ]
+            ],
+            "Target": [
+                [
+                    "wording about the impact of global warming"
+                ],
+                [
+                    "156:198"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "demanded"
+                ],
+                [
+                    "142:150"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "U.S. delegation"
+                ],
+                [
+                    "71:86"
+                ]
+            ],
+            "Target": [
+                [
+                    "causal relation between unusual climatic phenomena and greenhouse gas emissions"
+                ],
+                [
+                    "239:318"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said"
+                ],
+                [
+                    "227:231"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Furthermore , concerning assistance to island countries , although the U.S. delegation agreed to establish satellite observation systems , it demanded that wording about the impact of global warming be deleted . The delegation said that a causal relation between unusual climatic phenomena and greenhouse gas emissions has not been proved .",
+    "sent_id": "non_fbis/04.24.14-26782-10"
+}

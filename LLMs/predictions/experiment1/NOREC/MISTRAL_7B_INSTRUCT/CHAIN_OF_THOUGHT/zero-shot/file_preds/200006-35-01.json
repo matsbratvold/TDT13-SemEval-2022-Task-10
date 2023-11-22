@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den vibrerende vekkingen"
+                ],
+                [
+                    "0:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "vibrerende vekkingen"
+                ],
+                [
+                    "4:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kjekk \u00e5 ha"
+                ],
+                [
+                    "35:45"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "selv om vi bruker un\u00f8dvendig mye tid p\u00e5 skru den av"
+                ],
+                [
+                    "48:99"
+                ]
+            ],
+            "Target": [
+                [
+                    "bruker un\u00f8dvendig mye tid p\u00e5 skru den av"
+                ],
+                [
+                    "59:99"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kjekk \u00e5 ha"
+                ],
+                [
+                    "35:45"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "siden skjermen man m\u00e5 tappe p\u00e5 ikke alltid reagerer"
+                ],
+                [
+                    "102:153"
+                ]
+            ],
+            "Target": [
+                [
+                    "skjermen man m\u00e5 tappe p\u00e5 ikke alltid reagerer"
+                ],
+                [
+                    "108:153"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kjekk \u00e5 ha"
+                ],
+                [
+                    "35:45"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Den vibrerende vekkingen er veldig kjekk \u00e5 ha , selv om vi bruker un\u00f8dvendig mye tid p\u00e5 skru den av , siden skjermen man m\u00e5 tappe p\u00e5 ikke alltid reagerer .",
+    "sent_id": "200006-35-01"
+}

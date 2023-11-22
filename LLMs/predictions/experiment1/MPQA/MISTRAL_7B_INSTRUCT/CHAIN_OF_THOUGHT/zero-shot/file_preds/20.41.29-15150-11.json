@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Yoon Jong - soo"
+                ],
+                [
+                    "131:146"
+                ]
+            ],
+            "Target": [
+                [
+                    "South Korea"
+                ],
+                [
+                    "5:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "developing country"
+                ],
+                [
+                    "22:40"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "``As South Korea has `developing country ' status , we are not in a position to voluntarily express our course of action , '' said Yoon Jong - soo , director of the global environment office at the Environment Ministry .",
+    "sent_id": "20011115/20.41.29-15150-11"
+}

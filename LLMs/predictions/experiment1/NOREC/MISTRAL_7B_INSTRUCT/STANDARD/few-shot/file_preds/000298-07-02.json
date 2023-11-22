@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Fortellergrepet"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00f8rte til at jeg f\u00f8rst ble redd"
+                ],
+                [
+                    "16:47"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Fortellergrepet f\u00f8rte til at jeg f\u00f8rst ble redd for \u00e5 miste engasjementet for Claire og Jamies historie .",
+    "sent_id": "000298-07-02"
+}

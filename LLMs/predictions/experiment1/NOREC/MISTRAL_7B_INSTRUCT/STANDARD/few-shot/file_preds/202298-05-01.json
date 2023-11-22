@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "skjer"
+                ],
+                [
+                    "31:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det store"
+                ],
+                [
+                    "21:30"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "effektiviteten"
+                ],
+                [
+                    "67:81"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stort utslag p\u00e5"
+                ],
+                [
+                    "51:66"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det er i motorrommet det store skjer , og det gj\u00f8r stort utslag p\u00e5 effektiviteten .",
+    "sent_id": "202298-05-01"
+}

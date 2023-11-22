@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The State Security Court"
+                ],
+                [
+                    "0:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "news coverage"
+                ],
+                [
+                    "46:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ban"
+                ],
+                [
+                    "39:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The State Security Court has imposed a ban on news coverage of the investigations , citing Article 38 of the Press and Publications Law .",
+    "sent_id": "20020326/20.55.44-16289-6"
+}

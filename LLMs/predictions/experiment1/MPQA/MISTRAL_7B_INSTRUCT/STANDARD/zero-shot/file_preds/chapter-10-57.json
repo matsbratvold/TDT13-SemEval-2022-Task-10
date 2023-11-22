@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "Iraq"
+                ],
+                [
+                    "65:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not to invade"
+                ],
+                [
+                    "51:64"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "Iraq"
+                ],
+                [
+                    "65:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not even on the table"
+                ],
+                [
+                    "129:150"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "President Bush told Bob Woodward that the decision not to invade Iraq was made at the morning session on September 15 . Iraq was not even on the table during the September 15 afternoon session , which dealt solely with Afghanistan .",
+    "sent_id": "ula/chapter-10-57"
+}

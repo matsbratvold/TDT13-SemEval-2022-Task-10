@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Slik serien"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "Slik serien"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til rette for i fra starten av"
+                ],
+                [
+                    "49:79"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Slik serien , sammen med \u00ab House of Cards \u00bb , la til rette for i fra starten av .",
+    "sent_id": "103992-16-02"
+}

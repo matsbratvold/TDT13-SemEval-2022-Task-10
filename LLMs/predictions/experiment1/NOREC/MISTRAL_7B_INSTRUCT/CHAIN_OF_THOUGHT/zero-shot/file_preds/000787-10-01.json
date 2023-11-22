@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "faktiske forskjellen"
+                ],
+                [
+                    "4:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "spillfigurene"
+                ],
+                [
+                    "32:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "46:48"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "utfordringer"
+                ],
+                [
+                    "93:105"
+                ]
+            ],
+            "Target": [
+                [
+                    "valgfri figur"
+                ],
+                [
+                    "123:136"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kan"
+                ],
+                [
+                    "106:109"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Den faktiske forskjellen mellom spillfigurene er likevel ikke s\u00e5 stor i praksis og de fleste utfordringer kan l\u00f8ses med en valgfri figur .",
+    "sent_id": "000787-10-01"
+}

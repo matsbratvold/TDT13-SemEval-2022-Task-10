@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the United States"
+                ],
+                [
+                    "13:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "human rights conditions in many countries and regions in the world"
+                ],
+                [
+                    "99:165"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "distorted"
+                ],
+                [
+                    "89:98"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "the United States"
+                ],
+                [
+                    "13:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "China"
+                ],
+                [
+                    "178:183"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "accused"
+                ],
+                [
+                    "190:197"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "the United States"
+                ],
+                [
+                    "13:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "its own human rights - related problems"
+                ],
+                [
+                    "269:308"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" Once again the United States , assuming the role of `world judge of human rights ' has distorted human rights conditions in many countries and regions in the world , including China , and accused them of human rights violations , all the while turning a blind eye to its own human rights - related problems , \" the Chinese report said .",
+    "sent_id": "non_fbis/04.22.14-2532-6"
+}

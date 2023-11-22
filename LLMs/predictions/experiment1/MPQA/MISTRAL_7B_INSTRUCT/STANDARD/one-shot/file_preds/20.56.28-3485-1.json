@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Kenyan newspaper Daily Nation"
+                ],
+                [
+                    "18:47"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Text of report by Kenyan newspaper Daily Nation web site on 11 | February",
+    "sent_id": "20020211/20.56.28-3485-1"
+}

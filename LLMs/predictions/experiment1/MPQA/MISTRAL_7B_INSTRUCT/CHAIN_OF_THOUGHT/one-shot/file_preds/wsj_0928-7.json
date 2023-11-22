@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sun"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "record backlog of orders"
+                ],
+                [
+                    "20:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reported"
+                ],
+                [
+                    "9:17"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Sun"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "continued strong demand"
+                ],
+                [
+                    "68:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "indicates"
+                ],
+                [
+                    "58:67"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Sun"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "increasing competition"
+                ],
+                [
+                    "144:166"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "faces"
+                ],
+                [
+                    "138:143"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Sun"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "vulnerable to competition"
+                ],
+                [
+                    "264:289"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is vulnerable"
+                ],
+                [
+                    "261:274"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Sun also reported a record backlog of orders . While this indicates continued strong demand for the company 's desk - top computers , Sun faces increasing competition from Digital Equipment Corp. and Hewlett - Packard Co. Recently , analysts have said Sun also is vulnerable to competition from International Business Machines Corp. , which plans to introduce a group of workstations early next year , and Next Inc .",
+    "sent_id": "xbank/wsj_0928-7"
+}

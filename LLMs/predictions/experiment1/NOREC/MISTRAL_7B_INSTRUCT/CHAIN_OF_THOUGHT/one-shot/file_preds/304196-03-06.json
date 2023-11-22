@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "tatt s\u00e5 lang tid"
+                ],
+                [
+                    "16:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Hvorfor har det tatt s\u00e5 lang tid ?",
+    "sent_id": "304196-03-06"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "But despite the heavy guard on the president 's Pink Palace and the Plaza de Mayo outside , there were no rumblings of intervention by the military which has been subordinate to civilian rule since 1983 ."
+                ],
+                [
+                    "0:204"
+                ]
+            ],
+            "Target": [
+                [
+                    "intervention by the military"
+                ],
+                [
+                    "119:147"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "despite"
+                ],
+                [
+                    "4:11"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "But despite the heavy guard on the president 's Pink Palace and the Plaza de Mayo outside , there were no rumblings of intervention by the military which has been subordinate to civilian rule since 1983 .",
+    "sent_id": "non_fbis/12.04.00-12904-15"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fitbit"
+                ],
+                [
+                    "123:129"
+                ]
+            ],
+            "Target": [
+                [
+                    "skrittelling og s\u00f8vnregistrering"
+                ],
+                [
+                    "27:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "optimistiske"
+                ],
+                [
+                    "146:158"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "De andre funksjonene , som skrittelling og s\u00f8vnregistrering virker ogs\u00e5 \u00e5 fungere som de skal , selv om vi fremdeles synes Fitbit er blant de mer optimistiske skrittellerne .",
+    "sent_id": "200006-33-01"
+}

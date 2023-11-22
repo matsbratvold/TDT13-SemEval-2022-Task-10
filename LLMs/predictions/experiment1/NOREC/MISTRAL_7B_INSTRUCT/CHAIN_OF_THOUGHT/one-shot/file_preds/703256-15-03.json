@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Marko Kanic"
+                ],
+                [
+                    "15:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "Familiefaren"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "perfekt"
+                ],
+                [
+                    "32:39"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Marko Kanic"
+                ],
+                [
+                    "15:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "Familiefaren"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stille"
+                ],
+                [
+                    "68:74"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Marko Kanic"
+                ],
+                [
+                    "15:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "Familiefaren"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilbaketrukket inn mot det deprimerte"
+                ],
+                [
+                    "77:114"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Marko Kanic"
+                ],
+                [
+                    "15:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "Familiefaren"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "millimeter fra bristepunktet"
+                ],
+                [
+                    "120:148"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Familiefaren ( Marko Kanic ) er perfekt i sin litt stive framferd , stille , tilbaketrukket inn mot det deprimerte , og millimeter fra bristepunktet .",
+    "sent_id": "703256-15-03"
+}

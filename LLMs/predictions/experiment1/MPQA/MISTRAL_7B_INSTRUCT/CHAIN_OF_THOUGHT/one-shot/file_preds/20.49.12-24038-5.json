@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "GCEP"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "environmental pacts"
+                ],
+                [
+                    "140:159"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "point of reference"
+                ],
+                [
+                    "117:135"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "GCEP , an agency operating under the Ministry of Municipal and Rural Affairs and the Environment , is the country 's point of reference for environmental pacts .",
+    "sent_id": "20020306/20.49.12-24038-5"
+}

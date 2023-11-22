@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "En"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "redigering"
+                ],
+                [
+                    "13:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "strammere"
+                ],
+                [
+                    "3:12"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "ville"
+                ],
+                [
+                    "24:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "romanen"
+                ],
+                [
+                    "36:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hevet"
+                ],
+                [
+                    "30:35"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "En strammere redigering ville hevet romanen .",
+    "sent_id": "104219-10-05"
+}

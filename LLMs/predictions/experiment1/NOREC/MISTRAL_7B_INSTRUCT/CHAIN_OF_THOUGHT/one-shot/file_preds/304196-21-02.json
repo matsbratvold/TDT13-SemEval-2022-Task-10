@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Den varer ut oktober"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "varer"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "dessverre er det ingen Europa-datoer s\u00e5 langt"
+                ],
+                [
+                    "26:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "7:9"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Den varer ut oktober , og dessverre er det ingen Europa-datoer s\u00e5 langt .",
+    "sent_id": "304196-21-02"
+}

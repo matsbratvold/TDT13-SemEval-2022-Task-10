@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "stall"
+                ],
+                [
+                    "15:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "savner mer"
+                ],
+                [
+                    "4:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hestelukt"
+                ],
+                [
+                    "24:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "savner mer"
+                ],
+                [
+                    "4:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "rideturer"
+                ],
+                [
+                    "37:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "savner mer"
+                ],
+                [
+                    "4:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "vakker spansk natur"
+                ],
+                [
+                    "49:68"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "savner mer"
+                ],
+                [
+                    "4:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Jeg savner mer stall og hestelukt og rideturer i vakker spansk natur .",
+    "sent_id": "300186-14-01"
+}

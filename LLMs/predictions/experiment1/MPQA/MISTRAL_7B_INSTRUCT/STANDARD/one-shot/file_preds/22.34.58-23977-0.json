@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "29:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "increasingly close ties between the United States and Taiwan"
+                ],
+                [
+                    "55:115"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "slammed"
+                ],
+                [
+                    "47:54"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "29:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "official exchanges between the two"
+                ],
+                [
+                    "138:172"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "demanding an end to"
+                ],
+                [
+                    "118:137"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "29:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "US weapons sales"
+                ],
+                [
+                    "180:196"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "demanding an end to"
+                ],
+                [
+                    "118:137"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "BEIJING , April 11 ( AFP ) - China on Thursday slammed increasingly close ties between the United States and Taiwan , demanding an end to official exchanges between the two and to US weapons sales .",
+    "sent_id": "temp_fbis/22.34.58-23977-0"
+}

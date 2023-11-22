@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Munken Bistro"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hyggelig"
+                ],
+                [
+                    "20:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "nabolagsrestaurant"
+                ],
+                [
+                    "29:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for hverdagslige og uformelle anledninger"
+                ],
+                [
+                    "48:89"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Munken Bistro er en hyggelig nabolagsrestaurant for hverdagslige og uformelle anledninger .",
+    "sent_id": "501595-13-04"
+}

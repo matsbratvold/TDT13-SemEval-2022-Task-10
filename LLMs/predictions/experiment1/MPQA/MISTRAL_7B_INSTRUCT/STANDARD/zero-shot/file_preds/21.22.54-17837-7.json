@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "lawyers"
+                ],
+                [
+                    "22:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "Elie Hobeika"
+                ],
+                [
+                    "71:83"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "civil suit"
+                ],
+                [
+                    "52:62"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "lawyers"
+                ],
+                [
+                    "22:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "Elie Hobeika"
+                ],
+                [
+                    "71:83"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "militia leader"
+                ],
+                [
+                    "90:104"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "lawyers"
+                ],
+                [
+                    "22:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "Elie Hobeika"
+                ],
+                [
+                    "71:83"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "massacres"
+                ],
+                [
+                    "160:169"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "lawyers"
+                ],
+                [
+                    "22:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "Elie Hobeika"
+                ],
+                [
+                    "71:83"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Lebanese amnesty law"
+                ],
+                [
+                    "363:383"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In the meantime , the lawyers have also initiated a civil suit against Elie Hobeika , the militia leader who is regarded as one of the main perpetrators of the massacres . In the complaint , Hobeika had not yet been called by name . The lawyers deemed it wise to do this now because one of Collignon 's questions is connected with the juridical consequences of a Lebanese amnesty law .",
+    "sent_id": "20011127/21.22.54-17837-7"
+}

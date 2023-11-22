@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "smartvarsling"
+                ],
+                [
+                    "36:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "riktig s\u00e5 praktisk"
+                ],
+                [
+                    "140:158"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Her f\u00e5r man tilgang til blant annet smartvarsling av e-post , SMS , telefonanrop , sosiale medier , som under visse omstendigheter kan v\u00e6re riktig s\u00e5 praktisk .",
+    "sent_id": "201344-21-03"
+}

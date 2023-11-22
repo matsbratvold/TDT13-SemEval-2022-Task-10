@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Aldom\u00f3var"
+                ],
+                [
+                    "31:40"
+                ]
+            ],
+            "Target": [
+                [
+                    "skj\u00f8nnhet"
+                ],
+                [
+                    "17:26"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Sterk , sanselig skj\u00f8nnhet fra Aldom\u00f3var",
+    "sent_id": "702352-01-01"
+}

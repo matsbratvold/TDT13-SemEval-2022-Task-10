@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "L\u00f8vetannbarn"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Isaks tragiske historie"
+                ],
+                [
+                    "81:104"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "griper utover"
+                ],
+                [
+                    "67:80"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "L\u00f8vetannbarn har ogs\u00e5 et mangfold i sin fortelling som gj\u00f8r at den griper utover Isaks tragiske historie .",
+    "sent_id": "004983-10-01"
+}

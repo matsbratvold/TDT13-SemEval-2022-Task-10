@@ -1,0 +1,41 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "L\u00f8fter"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "opp tredeler han har sl\u00e5tt sammen"
+                ],
+                [
+                    "7:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "setter det p\u00e5 et stillas"
+                ],
+                [
+                    "44:68"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "L\u00f8fter opp tredeler han har sl\u00e5tt sammen og setter det p\u00e5 et stillas .",
+    "sent_id": "003036-06-04"
+}

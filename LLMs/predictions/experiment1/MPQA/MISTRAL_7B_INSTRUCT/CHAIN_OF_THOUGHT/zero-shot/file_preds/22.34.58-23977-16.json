@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Chinese missile tests"
+                ],
+                [
+                    "0:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "Taiwan"
+                ],
+                [
+                    "27:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "resulted in"
+                ],
+                [
+                    "42:53"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Washington deploying two aircraft carrier battle groups"
+                ],
+                [
+                    "54:109"
+                ]
+            ],
+            "Target": [
+                [
+                    "Taiwan"
+                ],
+                [
+                    "27:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "to the region"
+                ],
+                [
+                    "110:123"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Chinese missile tests over Taiwan in 1996 resulted in Washington deploying two aircraft carrier battle groups to the region .",
+    "sent_id": "temp_fbis/22.34.58-23977-16"
+}

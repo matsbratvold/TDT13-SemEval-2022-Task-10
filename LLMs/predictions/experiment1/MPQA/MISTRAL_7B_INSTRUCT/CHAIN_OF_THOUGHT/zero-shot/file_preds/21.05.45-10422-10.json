@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Analysts"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "Power"
+                ],
+                [
+                    "35:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Lack of Alternative"
+                ],
+                [
+                    "11:30"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Analysts : Lack of Alternative for Power",
+    "sent_id": "20011231/21.05.45-10422-10"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ensformig"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "kraftfull eller kjedelig monoton"
+                ],
+                [
+                    "10:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "monoton"
+                ],
+                [
+                    "35:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Ensformig kraftfull eller kjedelig monoton ?",
+    "sent_id": "002988-01-01"
+}

@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "beng"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gir"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "beng"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "durer"
+                ],
+                [
+                    "30:35"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "premisser"
+                ],
+                [
+                    "61:70"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "durer"
+                ],
+                [
+                    "30:35"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Tja , gir beng i det meste og durer i vei igjen p\u00e5 sine egne premisser .",
+    "sent_id": "301662-03-03"
+}

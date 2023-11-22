@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "vokal og melodi"
+                ],
+                [
+                    "23:38"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "Ni liv"
+                ],
+                [
+                    "69:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er det noe som skurrer"
+                ],
+                [
+                    "78:100"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I begge tilfeller gikk vokal og melodi sammen som erteris , men p\u00e5 \u00ab Ni liv \u00bb er det noe som skurrer .",
+    "sent_id": "501385-05-03"
+}

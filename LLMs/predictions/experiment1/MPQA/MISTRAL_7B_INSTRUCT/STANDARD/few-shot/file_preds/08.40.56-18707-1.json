@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Foreign Ministry"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "the U.S. State Department 's criticism of Russia 's human rights record"
+                ],
+                [
+                    "83:154"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The Foreign Ministry"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "objected"
+                ],
+                [
+                    "159:167"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The Foreign Ministry said Thursday that it was \" surprised , to put it mildly \" by the U.S. State Department 's criticism of Russia 's human rights record and objected in particular to the \" odious \" section on Chechnya .",
+    "sent_id": "non_fbis/08.40.56-18707-1"
+}

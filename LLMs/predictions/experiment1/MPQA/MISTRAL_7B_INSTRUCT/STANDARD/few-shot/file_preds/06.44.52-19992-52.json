@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Carrico"
+                ],
+                [
+                    "52:59"
+                ]
+            ],
+            "Target": [
+                [
+                    "they"
+                ],
+                [
+                    "21:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "were very unsure"
+                ],
+                [
+                    "26:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" In the beginning , they were very unsure , \" says Carrico . \" They did n't know if we were going to take care of them , hurt them or kill them . \"",
+    "sent_id": "non_fbis/06.44.52-19992-52"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "De skodde seg p\u00e5 naziregimet"
+                ],
+                [
+                    "0:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "seg p\u00e5 naziregimet"
+                ],
+                [
+                    "10:28"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "De skodde seg p\u00e5 naziregimet",
+    "sent_id": "601408-01-01"
+}

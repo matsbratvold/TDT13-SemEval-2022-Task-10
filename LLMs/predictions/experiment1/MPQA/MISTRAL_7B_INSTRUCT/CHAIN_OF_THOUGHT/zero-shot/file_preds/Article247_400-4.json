@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The LAT"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Israeli government"
+                ],
+                [
+                    "45:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dissension"
+                ],
+                [
+                    "23:33"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The LAT"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Israeli government"
+                ],
+                [
+                    "45:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "change of mood"
+                ],
+                [
+                    "306:320"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The LAT"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Israeli government"
+                ],
+                [
+                    "45:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reconsideration"
+                ],
+                [
+                    "522:537"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The LAT focuses on new dissension within the Israeli government about whether or not Israel should continue to maintain forces in southern Lebanon , dissension fueled when an Israeli commando raid there late last week was ambushed , with twelve deaths the result . Perhaps the most striking indicator of a change of mood inside the government reported by the paper is the news that cabinet member Ariel Sharon , who as Defense Minister in 1982 got Israel entrenched in Lebanon in the first place , is among those urging a reconsideration of the deployment .",
+    "sent_id": "ula/Article247_400-4"
+}

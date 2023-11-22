@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Yaris"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "oppgradert utgave"
+                ],
+                [
+                    "25:42"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "detaljene"
+                ],
+                [
+                    "59:68"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "faktisk ikke all verden"
+                ],
+                [
+                    "72:95"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Nye Yaris er som sagt en oppgradert utgave , og de synlige detaljene er faktisk ikke all verden .",
+    "sent_id": "202298-03-04"
+}

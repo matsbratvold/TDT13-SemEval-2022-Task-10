@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "barnehjemmet"
+                ],
+                [
+                    "27:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "S\u00e5rt og stemningsfullt"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "S\u00e5rt og stemningsfullt fra barnehjemmet .",
+    "sent_id": "004983-02-01"
+}

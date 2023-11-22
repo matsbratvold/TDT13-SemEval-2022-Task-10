@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Musikalsk"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "Mitchells tidligere kj\u00e6rester"
+                ],
+                [
+                    "39:68"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Musikalsk er det mer enn et ferniss av Mitchells tidligere kj\u00e6rester , David Crosby og Graham Nash , over helheten .",
+    "sent_id": "104870-09-02"
+}

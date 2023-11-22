@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Man"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "muligheten til \u00e5 utvide funksjonene"
+                ],
+                [
+                    "13:48"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "88:94"
+                ]
+            ],
+            "Target": [
+                [
+                    "sin butikk"
+                ],
+                [
+                    "95:105"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Connect IQ"
+                ],
+                [
+                    "108:118"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Man har ogs\u00e5 muligheten til \u00e5 utvide funksjonene ytterligere , med tredjepartsapper fra Garmin sin butikk , Connect IQ .",
+    "sent_id": "201344-21-05"
+}

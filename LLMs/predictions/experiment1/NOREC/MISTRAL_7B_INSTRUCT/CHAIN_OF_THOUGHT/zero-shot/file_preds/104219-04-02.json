@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "han"
+                ],
+                [
+                    "16:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "reist"
+                ],
+                [
+                    "20:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skulle"
+                ],
+                [
+                    "9:15"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "han"
+                ],
+                [
+                    "16:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "hoppe"
+                ],
+                [
+                    "89:94"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "av"
+                ],
+                [
+                    "95:97"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Egentlig skulle han reist tilbake til Oslo , men en plutselig innskytelse fikk ham til \u00e5 hoppe av flybussen .",
+    "sent_id": "104219-04-02"
+}

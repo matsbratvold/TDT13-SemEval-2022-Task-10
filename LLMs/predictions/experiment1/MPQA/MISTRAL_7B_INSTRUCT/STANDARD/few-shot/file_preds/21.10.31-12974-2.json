@@ -1,0 +1,142 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The 15 member nations of the EU"
+                ],
+                [
+                    "0:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "ratify the Kyoto Protocol"
+                ],
+                [
+                    "108:133"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Iceland"
+                ],
+                [
+                    "136:143"
+                ]
+            ],
+            "Target": [
+                [
+                    "join the ratification"
+                ],
+                [
+                    "188:209"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "are ready to"
+                ],
+                [
+                    "175:187"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Japan"
+                ],
+                [
+                    "146:151"
+                ]
+            ],
+            "Target": [
+                [
+                    "join the ratification"
+                ],
+                [
+                    "188:209"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "are ready to"
+                ],
+                [
+                    "175:187"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Australia"
+                ],
+                [
+                    "154:163"
+                ]
+            ],
+            "Target": [
+                [
+                    "join the ratification"
+                ],
+                [
+                    "188:209"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "are ready to"
+                ],
+                [
+                    "175:187"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Canada"
+                ],
+                [
+                    "168:174"
+                ]
+            ],
+            "Target": [
+                [
+                    "join the ratification"
+                ],
+                [
+                    "188:209"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "are ready to"
+                ],
+                [
+                    "175:187"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The 15 member nations of the EU announced last fall , at a conference in Morocco , their firm intentions to ratify the Kyoto Protocol . Iceland , Japan , Australia and Canada are ready to join the ratification . The world community became hopeful that it would be possible to solve the problems that brought about the UN Convention on Climate Change ( 1994 ) .",
+    "sent_id": "temp_fbis/21.10.31-12974-2"
+}

@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "assistance from the American Government"
+                ],
+                [
+                    "56:95"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cannot wait"
+                ],
+                [
+                    "40:51"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Latin America"
+                ],
+                [
+                    "98:111"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is no longer important"
+                ],
+                [
+                    "112:134"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "For the political scientist , Argentina cannot wait for assistance from the American Government . Latin America is no longer important because the focus now is on global security and no longer on the international economic order .",
+    "sent_id": "20011231/21.05.45-10422-13"
+}

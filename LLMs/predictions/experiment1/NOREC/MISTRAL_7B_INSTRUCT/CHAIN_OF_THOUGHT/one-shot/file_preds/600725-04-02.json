@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "9:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "alt lever"
+                ],
+                [
+                    "18:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tross"
+                ],
+                [
+                    "12:17"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "9:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "historiene om dem"
+                ],
+                [
+                    "53:70"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00e5 l\u00e5ne fra"
+                ],
+                [
+                    "71:82"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "9:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "teknologien"
+                ],
+                [
+                    "99:110"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00e5 spille en viktig rolle"
+                ],
+                [
+                    "111:136"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Og siden vi tross alt lever i 2017 , er det klart at historiene om dem m\u00e5 l\u00e5ne fra Dan Brown og at teknologien m\u00e5 spille en viktig rolle .",
+    "sent_id": "600725-04-02"
+}

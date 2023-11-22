@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Pakistan"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "Musharraf"
+                ],
+                [
+                    "150:159"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Pakistan will need full US support as it proceeds with us"
+                ],
+                [
+                    "369:426"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Pakistan"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "Musharraf"
+                ],
+                [
+                    "150:159"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Musharraf said the GOP [ government of Pakistan ] was making substantial concessions in allowing use of its territory"
+                ],
+                [
+                    "453:570"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Pakistan"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "Musharraf"
+                ],
+                [
+                    "150:159"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Pakistan made its decision swiftly . That afternoon , Secretary of State Powell announced at the beginning of an NSC meeting that Pakistani President Musharraf had agreed to every U.S. request for support in the war on terrorism . The next day , the U.S. embassy in Islamabad confirmed that Musharraf and his top military commanders had agreed to all seven demands . \" Pakistan will need full US support as it proceeds with us , \" the embassy noted . \" Musharraf said the GOP [ government of Pakistan ] was making substantial concessions in allowing use of its territory and that he would pay a domestic price . His standing in Pakistan was certain to suffer . To counterbalance that he needed to show that Pakistan was benefiting from his decisions . \"",
+    "sent_id": "ula/chapter-10-31"
+}

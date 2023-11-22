@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hanne S\u00f8rvaag"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kaninkoker 2"
+                ],
+                [
+                    "18:30"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Hanne S\u00f8rvaag - \u00ab Kaninkoker 2 \u00bb",
+    "sent_id": "104332-01-01"
+}

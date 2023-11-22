@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "In June"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "pirate attacks"
+                ],
+                [
+                    "23:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "took place"
+                ],
+                [
+                    "38:48"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "In June"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "trawl - boats and lumber carriers"
+                ],
+                [
+                    "112:145"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ambushed"
+                ],
+                [
+                    "151:159"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "In June"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Indonesian - registered ship"
+                ],
+                [
+                    "179:207"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "attacked"
+                ],
+                [
+                    "212:220"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "In June"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "crews from two ships"
+                ],
+                [
+                    "229:249"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kidnapped and held for ransom"
+                ],
+                [
+                    "279:308"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "In June"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "a captain"
+                ],
+                [
+                    "262:271"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "held for ransom"
+                ],
+                [
+                    "293:308"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In June , six cases of pirate attacks took place in one day in waters near northern island of Borneo , in which trawl - boats and lumber carriers were ambushed . In addition , an Indonesian - registered ship was attacked and the crews from two ships , including a captain , were kidnapped and held for ransom .",
+    "sent_id": "20011003/21.57.16-1319-3"
+}

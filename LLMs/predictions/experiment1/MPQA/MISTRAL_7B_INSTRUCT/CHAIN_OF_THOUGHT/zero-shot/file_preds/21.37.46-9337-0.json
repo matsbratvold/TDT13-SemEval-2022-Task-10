@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "US State Department"
+                ],
+                [
+                    "15:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "human rights practices in world countries"
+                ],
+                [
+                    "66:107"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "annual report"
+                ],
+                [
+                    "49:62"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "As usual , the US State Department published its annual report on human rights practices in world countries last Monday .",
+    "sent_id": "temp_fbis/21.37.46-9337-0"
+}

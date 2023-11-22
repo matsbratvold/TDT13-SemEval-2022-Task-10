@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The US"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "the election"
+                ],
+                [
+                    "12:24"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The US said the election , extending Mugabe 's 22 - year rule for another six years , was \" fundamentally flawed \" . Zimbabwe had ignored its commitment to a free and fair poll .",
+    "sent_id": "non_fbis/06.56.31-3120-3"
+}

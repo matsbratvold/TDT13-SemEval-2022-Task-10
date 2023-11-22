@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dermed"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "fortelles historien"
+                ],
+                [
+                    "7:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fortelles historien"
+                ],
+                [
+                    "7:26"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Dermed fortelles historien .",
+    "sent_id": "702352-09-03"
+}

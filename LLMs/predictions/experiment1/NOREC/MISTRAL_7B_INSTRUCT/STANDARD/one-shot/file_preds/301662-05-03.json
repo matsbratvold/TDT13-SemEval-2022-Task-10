@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Quitters Don \u2019 t Smoke"
+                ],
+                [
+                    "2:24"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "er dansbar og melodisk punk med stadionkvaliteter"
+                ],
+                [
+                    "27:76"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Purple Shrouds ( The World Covered In )"
+                ],
+                [
+                    "86:125"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "er episk og kompromissl\u00f8s spaghetti-hardcore , komplett med gr\u00e5tende trompeter , som sender lytteren ut p\u00e5 stier man neppe har ferdes p\u00e5 f\u00f8r"
+                ],
+                [
+                    "128:268"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab Quitters Don \u2019 t Smoke \u00bb er dansbar og melodisk punk med stadionkvaliteter , mens \u00ab Purple Shrouds ( The World Covered In ) \u00bb er episk og kompromissl\u00f8s spaghetti-hardcore , komplett med gr\u00e5tende trompeter , som sender lytteren ut p\u00e5 stier man neppe har ferdes p\u00e5 f\u00f8r .",
+    "sent_id": "301662-05-03"
+}

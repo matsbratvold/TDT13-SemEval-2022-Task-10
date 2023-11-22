@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ulempen"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "bilen"
+                ],
+                [
+                    "38:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "at uansett hvilken retning bilen stod i forhold til lyset"
+                ],
+                [
+                    "11:68"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Ulempen er at uansett hvilken retning bilen stod i forhold til lyset ute , s\u00e5 slipper veldig mye lys fra frontruten ned p\u00e5 skjermen , og hele den matte flaten blir som en lysplate .",
+    "sent_id": "202298-27-03"
+}

@@ -1,0 +1,41 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Jazmine Sullivan"
+                ],
+                [
+                    "38:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "velfortjent skryt"
+                ],
+                [
+                    "17:34"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "l\u00e5ner bort stemmen p\u00e5 flere l\u00e5ter"
+                ],
+                [
+                    "61:94"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "En som fortjener velfortjent skryt er Jazmine Sullivan , som l\u00e5ner bort stemmen p\u00e5 flere l\u00e5ter .",
+    "sent_id": "003036-08-02"
+}

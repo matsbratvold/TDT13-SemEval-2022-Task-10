@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The SSI"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "people who could have been exposed to the radiation leak"
+                ],
+                [
+                    "35:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "attempting to trace"
+                ],
+                [
+                    "15:34"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Hakansson"
+                ],
+                [
+                    "346:355"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "examined"
+                ],
+                [
+                    "185:193"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The SSI is now attempting to trace people who could have been exposed to the radiation leak . The SSI says that this involves about ten people in Sweden . The iridium container will be examined in New Orleans by US authorities and Studsvik 's own personnel within the next few weeks . \" When we open it , the whole picture will be cleared up , \" Hakansson said .",
+    "sent_id": "20020109/14.06.40-17312-7"
+}

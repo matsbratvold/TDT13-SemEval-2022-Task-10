@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Andre"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "egne goder"
+                ],
+                [
+                    "23:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bare"
+                ],
+                [
+                    "14:18"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Andre kjemper bare for egne goder .",
+    "sent_id": "103992-10-03"
+}

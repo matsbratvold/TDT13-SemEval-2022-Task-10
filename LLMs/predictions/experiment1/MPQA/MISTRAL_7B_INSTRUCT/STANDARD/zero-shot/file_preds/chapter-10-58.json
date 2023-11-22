@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Rice"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "20:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "the focus would be on Afghanistan"
+                ],
+                [
+                    "81:114"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Rice"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "20:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "he still wanted plans for Iraq"
+                ],
+                [
+                    "126:156"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Rice said that when President Bush called her on Sunday , September 16 , he said the focus would be on Afghanistan , although he still wanted plans for Iraq should the country take some action or the administration eventually determine that it had been involved in the 9/11 attacks .",
+    "sent_id": "ula/chapter-10-58"
+}

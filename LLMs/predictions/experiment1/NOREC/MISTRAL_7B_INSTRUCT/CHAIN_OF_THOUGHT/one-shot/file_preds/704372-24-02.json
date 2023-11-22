@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "han"
+                ],
+                [
+                    "5:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "hun"
+                ],
+                [
+                    "38:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "d\u00f8r f\u00f8r henne"
+                ],
+                [
+                    "9:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "han"
+                ],
+                [
+                    "5:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "hun"
+                ],
+                [
+                    "38:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "h\u00e5per han at hun vil ta asken til havnen og spre den der"
+                ],
+                [
+                    "25:81"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hvis han d\u00f8r f\u00f8r henne , h\u00e5per han at hun vil ta asken til havnen og spre den der .",
+    "sent_id": "704372-24-02"
+}

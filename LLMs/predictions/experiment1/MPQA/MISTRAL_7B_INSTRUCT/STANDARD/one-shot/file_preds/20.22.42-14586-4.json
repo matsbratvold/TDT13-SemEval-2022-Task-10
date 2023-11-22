@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Deputy Cilia Flores"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "meddling in the policies of this country"
+                ],
+                [
+                    "189:229"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "affirmed"
+                ],
+                [
+                    "153:161"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Deputy Cilia Flores , chief of bloc of the Fifth Republic Movement [ MVR ] , used the same tone to express her opinion . Without mincing her words , she affirmed : \" This is an instance of meddling in the policies of this country , which is a sovereign country . \" She added : \" Venezuela designs its own policies in an autonomous manner and , in any event , it is up to Venezuelans to decide them . We respect the sovereignty of all countries and this is why we demand respect for ours . \"",
+    "sent_id": "20020207/20.22.42-14586-4"
+}

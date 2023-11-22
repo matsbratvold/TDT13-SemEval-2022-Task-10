@@ -1,0 +1,74 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Gates"
+                ],
+                [
+                    "29:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "whiny bully"
+                ],
+                [
+                    "138:149"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Microsoft"
+                ],
+                [
+                    "214:223"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "risk to pin the image of Microsoft on just one man"
+                ],
+                [
+                    "189:239"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Microsoft"
+                ],
+                [
+                    "214:223"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "So the shift in the image of Gates has been an interesting one for me to watch . The smart - boy technologist is now being painted as the whiny bully . I personally always thought it was a risk to pin the image of Microsoft on just one man -- at AOL , for example , there was a conscious effort to develop other \" characters , \" for lack of a better word . So there , while you think of Case , you also think of Pittman and Leonsis and increasingly a range of other executives . Steve Ballmer , of course , is now getting a lot more attention at Microsoft , but it still seems to be Bill 's show over there .",
+    "sent_id": "ula/Article247_3500-4"
+}

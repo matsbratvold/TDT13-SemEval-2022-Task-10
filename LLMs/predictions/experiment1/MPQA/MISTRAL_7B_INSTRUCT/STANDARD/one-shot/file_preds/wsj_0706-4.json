@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Security Pacific"
+                ],
+                [
+                    "21:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "the acquisition of San Diego - based Southwest Bancorp"
+                ],
+                [
+                    "117:171"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "completed"
+                ],
+                [
+                    "107:116"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Earlier this month , Security Pacific , which is among the 10 largest bank holding companies in the U.S. , completed the acquisition of San Diego - based Southwest Bancorp .",
+    "sent_id": "xbank/wsj_0706-4"
+}

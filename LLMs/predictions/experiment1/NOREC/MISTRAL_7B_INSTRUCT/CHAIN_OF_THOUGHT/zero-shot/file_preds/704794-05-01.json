@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "spillet"
+                ],
+                [
+                    "6:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "barn og gamle Donkey Kong-fans"
+                ],
+                [
+                    "42:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sikkert kj\u00f8p"
+                ],
+                [
+                    "20:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dette spillet er et sikkert kj\u00f8p for b\u00e5de barn og gamle Donkey Kong-fans .",
+    "sent_id": "704794-05-01"
+}

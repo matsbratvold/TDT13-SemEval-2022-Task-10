@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Ting"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ble snekret"
+                ],
+                [
+                    "5:16"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "musikalske drypp"
+                ],
+                [
+                    "26:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ble spilt av"
+                ],
+                [
+                    "43:55"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Ting ble snekret , og sm\u00e5 musikalske drypp ble spilt av .",
+    "sent_id": "003036-03-02"
+}

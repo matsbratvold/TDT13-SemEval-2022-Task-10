@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dishonored 2"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en triumferende reise inn i et fengslende univers"
+                ],
+                [
+                    "16:65"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dishonored 2"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "proppfullt av detaljer , valg og ekstrem spillbarhet"
+                ],
+                [
+                    "66:118"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Dishonored 2 er en triumferende reise inn i et fengslende univers proppfullt av detaljer , valg og ekstrem spillbarhet .",
+    "sent_id": "000913-03-01"
+}

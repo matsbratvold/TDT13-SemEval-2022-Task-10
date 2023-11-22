@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bit"
+                ],
+                [
+                    "48:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "smygende"
+                ],
+                [
+                    "36:44"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "R&B"
+                ],
+                [
+                    "117:120"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "EDM"
+                ],
+                [
+                    "124:127"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er som snytt ut av"
+                ],
+                [
+                    "128:146"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Rihannas nese"
+                ],
+                [
+                    "147:160"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snytt ut"
+                ],
+                [
+                    "135:143"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dette er fremdeles en tidsriktig og smygende godbit som bygger seg naturlig opp mot et sv\u00e6rt refreng , blandingen av R&B og EDM er som snytt ut av Rihannas nese .",
+    "sent_id": "104200-02-01"
+}

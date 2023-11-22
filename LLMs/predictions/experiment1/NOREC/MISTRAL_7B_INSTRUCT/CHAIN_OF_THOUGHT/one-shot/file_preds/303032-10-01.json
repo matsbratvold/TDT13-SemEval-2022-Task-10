@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sterke"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "l\u00e5ter som"
+                ],
+                [
+                    "7:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Gud \u2013 hj\u00e6lp m\u00e5 hj\u00e6m"
+                ],
+                [
+                    "19:38"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Morrasola"
+                ],
+                [
+                    "55:64"
+                ]
+            ],
+            "Target": [
+                [
+                    "forklaring p\u00e5 hvorfor"
+                ],
+                [
+                    "96:117"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Sterke l\u00e5ter som \u00ab Gud \u2013 hj\u00e6lp m\u00e5 hj\u00e6m \u00bb fra 2010 og \u00ab Morrasola \u00bb ( 1997 / 2010 ) er min beste forklaring p\u00e5 hvorfor .",
+    "sent_id": "303032-10-01"
+}

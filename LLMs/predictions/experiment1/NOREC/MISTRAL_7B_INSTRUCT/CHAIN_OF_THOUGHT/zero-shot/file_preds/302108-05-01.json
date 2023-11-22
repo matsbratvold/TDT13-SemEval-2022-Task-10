@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "oss"
+                ],
+                [
+                    "49:52"
+                ]
+            ],
+            "Target": [
+                [
+                    "klubbmusikk"
+                ],
+                [
+                    "87:98"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kan redde verden"
+                ],
+                [
+                    "99:115"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dette er naturligvis storartede nyheter or de av oss som lever i overbevisningen om at klubbmusikk kan redde verden .",
+    "sent_id": "302108-05-01"
+}

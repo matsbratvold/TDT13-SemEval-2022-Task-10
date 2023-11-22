@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fitbit-bruker"
+                ],
+                [
+                    "60:73"
+                ]
+            ],
+            "Target": [
+                [
+                    "Den sosiale funksjonen i Fitbit-appen"
+                ],
+                [
+                    "0:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er nesten verdt \u00e5 bli"
+                ],
+                [
+                    "38:59"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den sosiale funksjonen i Fitbit-appen er nesten verdt \u00e5 bli Fitbit-bruker i seg selv , med muligheten til \u00e5 se hvor mye dine venner beveger p\u00e5 seg samt starte ulike utfordringer mot dem , som for eksempel \u00e5 g\u00e5 flest mulig skritt i l\u00f8pet av helga .",
+    "sent_id": "200006-40-01"
+}

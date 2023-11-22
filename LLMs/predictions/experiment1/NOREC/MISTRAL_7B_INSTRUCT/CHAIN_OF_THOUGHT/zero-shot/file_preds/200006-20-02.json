@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Kanskje"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "litt gammeldags"
+                ],
+                [
+                    "8:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "litt"
+                ],
+                [
+                    "8:12"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Kanskje"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "det fungerer i det minste"
+                ],
+                [
+                    "30:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det fungerer"
+                ],
+                [
+                    "30:42"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Kanskje litt gammeldags , men det fungerer i det minste .",
+    "sent_id": "200006-20-02"
+}

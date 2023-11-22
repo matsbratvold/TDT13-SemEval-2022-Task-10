@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "De unge soldatene"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "minene"
+                ],
+                [
+                    "75:81"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "flere av de ganske snart blir drept"
+                ],
+                [
+                    "36:71"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "De unge soldatene"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "minene"
+                ],
+                [
+                    "75:81"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "den psykologiske effekten p\u00e5 guttene er forferdelig"
+                ],
+                [
+                    "87:138"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "De unge soldatene er s\u00e5 uerfarne at flere av de ganske snart blir drept av minene , og den psykologiske effekten p\u00e5 guttene er forferdelig .",
+    "sent_id": "400175-09-01"
+}

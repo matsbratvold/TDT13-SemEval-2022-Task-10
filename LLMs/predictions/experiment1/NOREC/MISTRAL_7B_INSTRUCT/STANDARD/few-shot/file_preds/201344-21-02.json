@@ -1,0 +1,40 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "oversiktlig og enkel i bruk"
+                ],
+                [
+                    "9:36"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "er ikke s\u00e5 ulik apper vi har sett fra andre smartklokker"
+                ],
+                [
+                    "42:98"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Appen er oversiktlig og enkel i bruk , og er ikke s\u00e5 ulik apper vi har sett fra andre smartklokker .",
+    "sent_id": "201344-21-02"
+}

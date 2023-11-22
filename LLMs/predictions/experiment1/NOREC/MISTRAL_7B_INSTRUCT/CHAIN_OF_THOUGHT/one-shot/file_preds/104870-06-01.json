@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Selv"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "flere enkelt\u00f8yeblikk"
+                ],
+                [
+                    "8:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "om"
+                ],
+                [
+                    "5:7"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "flere enkelt\u00f8yeblikk"
+                ],
+                [
+                    "8:28"
+                ]
+            ],
+            "Target": [
+                [
+                    "mestret fjellovergangen til radiovennlig kraftpop"
+                ],
+                [
+                    "39:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hadde"
+                ],
+                [
+                    "33:38"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "flere enkelt\u00f8yeblikk"
+                ],
+                [
+                    "8:28"
+                ]
+            ],
+            "Target": [
+                [
+                    "mestret fjellovergangen til radiovennlig kraftpop"
+                ],
+                [
+                    "39:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "uten problemer"
+                ],
+                [
+                    "89:103"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Selv om flere enkelt\u00f8yeblikk her hadde mestret fjellovergangen til radiovennlig kraftpop uten problemer .",
+    "sent_id": "104870-06-01"
+}

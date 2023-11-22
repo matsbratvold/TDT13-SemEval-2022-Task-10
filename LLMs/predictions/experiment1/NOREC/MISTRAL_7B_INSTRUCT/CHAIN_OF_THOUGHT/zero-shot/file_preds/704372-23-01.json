@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hellstr\u00f6m"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "lydklipp"
+                ],
+                [
+                    "34:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "svakhet"
+                ],
+                [
+                    "22:29"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hellstr\u00f6m avsl\u00f8rer en svakhet for lydklipp .",
+    "sent_id": "704372-23-01"
+}

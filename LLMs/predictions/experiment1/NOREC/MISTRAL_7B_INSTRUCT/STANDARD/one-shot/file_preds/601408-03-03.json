@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Oliver H. Langeland"
+                ],
+                [
+                    "14:33"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "inndratt"
+                ],
+                [
+                    "83:91"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Mest kjent er Oliver H. Langeland , som fikk sin bok \" For at I ikke skal d\u00f8mmes \" inndratt etter utgivelsen i 1949 .",
+    "sent_id": "601408-03-03"
+}

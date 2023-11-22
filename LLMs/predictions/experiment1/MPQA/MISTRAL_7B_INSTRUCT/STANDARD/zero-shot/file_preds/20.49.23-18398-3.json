@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Police"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "exchanged heavy gunfire"
+                ],
+                [
+                    "21:44"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Police"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "killing six rebels in Bandi and five in Jalian"
+                ],
+                [
+                    "47:93"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Jammu police senior superintendent Kamal Saini"
+                ],
+                [
+                    "96:142"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "said"
+                ],
+                [
+                    "143:147"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Police and militants exchanged heavy gunfire , killing six rebels in Bandi and five in Jalian , Jammu police senior superintendent Kamal Saini said .",
+    "sent_id": "20011111/20.49.23-18398-3"
+}

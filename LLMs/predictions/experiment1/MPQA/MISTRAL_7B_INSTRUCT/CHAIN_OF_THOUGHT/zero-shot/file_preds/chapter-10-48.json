@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "terrorist networks"
+                ],
+                [
+                    "48:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "elimination"
+                ],
+                [
+                    "183:194"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "terrorism as a threat to our way of life"
+                ],
+                [
+                    "198:238"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "elimination"
+                ],
+                [
+                    "183:194"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The United States would strive to eliminate all terrorist networks , dry up their financial support , and prevent them from acquiring weapons of mass destruction . The goal was the \" elimination of terrorism as a threat to our way of life . \"",
+    "sent_id": "ula/chapter-10-48"
+}

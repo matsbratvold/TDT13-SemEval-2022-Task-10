@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Specialist Fabian Rivas"
+                ],
+                [
+                    "95:118"
+                ]
+            ],
+            "Target": [
+                [
+                    "people"
+                ],
+                [
+                    "55:61"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "afraid"
+                ],
+                [
+                    "20:26"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Specialist Fabian Rivas"
+                ],
+                [
+                    "95:118"
+                ]
+            ],
+            "Target": [
+                [
+                    "people"
+                ],
+                [
+                    "55:61"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "willing to give their life"
+                ],
+                [
+                    "132:158"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" Sometimes you 're afraid for your life because these people are trained to kill you , \" said Specialist Fabian Rivas . \" They 're willing to give their life to take yours . \"",
+    "sent_id": "non_fbis/12.46.57-22041-21"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "sea route to Jaffna"
+                ],
+                [
+                    "57:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "depend"
+                ],
+                [
+                    "39:45"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Government forces as well as civilians depend on a vital sea route to Jaffna to provide them with supplies since the land route is held by the Tiger rebels .",
+    "sent_id": "20010916/21.24.32-9824-18"
+}

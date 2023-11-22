@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "2:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "the sinner"
+                ],
+                [
+                    "17:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hate the sin"
+                ],
+                [
+                    "12:24"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" We do n't hate the sinner , \" he says , \" but we hate the sin . \"",
+    "sent_id": "non_fbis/06.44.52-19992-41"
+}

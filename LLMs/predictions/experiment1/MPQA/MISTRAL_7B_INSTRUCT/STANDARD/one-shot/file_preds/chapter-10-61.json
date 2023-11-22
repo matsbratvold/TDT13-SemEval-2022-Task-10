@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Deputy Secretary Wolfowitz"
+                ],
+                [
+                    "22:48"
+                ]
+            ],
+            "Target": [
+                [
+                    "dealing with Iraq"
+                ],
+                [
+                    "81:98"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "continued to press the case"
+                ],
+                [
+                    "49:76"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Deputy Secretary Wolfowitz"
+                ],
+                [
+                    "22:48"
+                ]
+            ],
+            "Target": [
+                [
+                    "Saddam Hussein"
+                ],
+                [
+                    "244:258"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "argued that if there was even a 10 percent chance"
+                ],
+                [
+                    "189:238"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Deputy Secretary Wolfowitz"
+                ],
+                [
+                    "22:48"
+                ]
+            ],
+            "Target": [
+                [
+                    "suicide pilots"
+                ],
+                [
+                    "1047:1061"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "wondered why so little thought had been devoted"
+                ],
+                [
+                    "982:1029"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Within the Pentagon , Deputy Secretary Wolfowitz continued to press the case for dealing with Iraq . Writing to Rumsfeld on September 17 in a memo headlined \" Preventing More Events , \" he argued that if there was even a 10 percent chance that Saddam Hussein was behind the 9/11 attack , maximum priority should be placed on eliminating that threat . Wolfowitz contended that the odds were \" far more \" than 1 in 10 , citing Saddam 's praise for the attack , his long record of involvement in terrorism , and theories that Ramzi Yousef was an Iraqi agent and Iraq was behind the 1993 attack on the World Trade Center . The next day , Wolfowitz renewed the argument , writing to Rumsfeld about the interest of Yousef 's co-conspirator in the 1995 Manila air plot in crashing an explosives - laden plane into CIA headquarters , and about information from a foreign government regarding Iraqis ' involvement in the attempted hijacking of a Gulf Air flight . Given this background , he wondered why so little thought had been devoted to the danger of suicide pilots , seeing a \" failure of imagination \" and a mind - set that dismissed possibilities .",
+    "sent_id": "ula/chapter-10-61"
+}

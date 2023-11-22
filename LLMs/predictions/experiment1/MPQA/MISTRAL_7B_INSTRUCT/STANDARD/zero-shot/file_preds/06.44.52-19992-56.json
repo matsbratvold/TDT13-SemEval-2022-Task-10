@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The hospital"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Camp X - Ray"
+                ],
+                [
+                    "35:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "several miles from"
+                ],
+                [
+                    "16:34"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "The hospital"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Camp X - Ray"
+                ],
+                [
+                    "35:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "off Recreation Road"
+                ],
+                [
+                    "50:69"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "The hospital"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Americana"
+                ],
+                [
+                    "141:150"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "a bit of"
+                ],
+                [
+                    "132:140"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The hospital is several miles from Camp X - Ray , off Recreation Road . Along the way , if allowed , the detainees would get to see a bit of Americana , a portrait built over the past century .",
+    "sent_id": "non_fbis/06.44.52-19992-56"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "S\u00f8ml\u00f8s"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "alts\u00e5"
+                ],
+                [
+                    "9:14"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "S\u00f8ml\u00f8s , alts\u00e5 .",
+    "sent_id": "103992-08-05"
+}

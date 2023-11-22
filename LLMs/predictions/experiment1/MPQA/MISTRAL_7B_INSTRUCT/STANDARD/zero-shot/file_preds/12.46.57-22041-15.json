@@ -1,0 +1,110 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "detainees"
+                ],
+                [
+                    "4:13"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "may be"
+                ],
+                [
+                    "14:20"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "detainees"
+                ],
+                [
+                    "4:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "operated on"
+                ],
+                [
+                    "49:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "at the Gitmo hospital"
+                ],
+                [
+                    "61:82"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "detainees"
+                ],
+                [
+                    "4:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Koran and Lively Salon anti-dandruff shampoo"
+                ],
+                [
+                    "123:167"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "have brand new copies"
+                ],
+                [
+                    "94:115"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "detainees"
+                ],
+                [
+                    "4:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "wood"
+                ],
+                [
+                    "285:289"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The detainees may be shackled , even as they are operated on at the Gitmo hospital , but they have brand new copies of the Koran and Lively Salon anti-dandruff shampoo that promises \" a gentle formula to restore moisture to your beautiful clean hair \" . Under the tin roofs , there is wood to absorb the sun's heat and keep them cool .",
+    "sent_id": "non_fbis/12.46.57-22041-15"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Blod-Hilde"
+                ],
+                [
+                    "2:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "nazismen"
+                ],
+                [
+                    "68:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hard medfart"
+                ],
+                [
+                    "49:61"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Blod-Hilde"
+                ],
+                [
+                    "2:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "DDR"
+                ],
+                [
+                    "90:93"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fremste jurister"
+                ],
+                [
+                    "95:111"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab Blod-Hilde , den raude giljotinen \u00bb hadde f\u00e5tt hard medfart under nazismen og ble en av DDRs fremste jurister med alle de dilemmaer det medf\u00f8rte .",
+    "sent_id": "301242-08-01"
+}

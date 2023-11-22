@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "det du ikke visste at du hadde lyst til \u00e5 vite noe om"
+                ],
+                [
+                    "4:57"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Alt det du ikke visste at du hadde lyst til \u00e5 vite noe om , omtrent slik vil jeg oppsummere inntrykkene etter \u00e5 ha pl\u00f8yd meg gjennom 469 sider skriftlige ytringer av Tor \u00c5ge Bringsv\u00e6rd i hans siste bok :",
+    "sent_id": "601365-03-01"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Caracas OPEC summit"
+                ],
+                [
+                    "26:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "initiated a successful"
+                ],
+                [
+                    "3:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Caracas OPEC summit"
+                ],
+                [
+                    "26:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "in September 2000"
+                ],
+                [
+                    "46:63"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Caracas OPEC summit"
+                ],
+                [
+                    "26:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "the second in the 40 - year existence of the Organization of Petroleum Exporting Countries"
+                ],
+                [
+                    "66:156"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "He initiated a successful Caracas OPEC summit in September 2000 , the second in the 40 - year existence of the Organization of Petroleum Exporting Countries . FS / LS End",
+    "sent_id": "non_fbis/15.36.10-18917-14"
+}

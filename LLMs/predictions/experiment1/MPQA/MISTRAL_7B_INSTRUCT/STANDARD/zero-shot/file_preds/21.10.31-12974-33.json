@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "market mechanism"
+                ],
+                [
+                    "63:79"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "makes use of"
+                ],
+                [
+                    "46:58"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "global ecological problems"
+                ],
+                [
+                    "106:132"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "provides for economic mechanisms of international cooperation"
+                ],
+                [
+                    "138:199"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "This is the first international document that makes use of the market mechanism as an approach to solving global ecological problems . It provides for economic mechanisms of international cooperation .",
+    "sent_id": "temp_fbis/21.10.31-12974-33"
+}

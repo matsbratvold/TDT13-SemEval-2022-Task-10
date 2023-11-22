@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Westerners"
+                ],
+                [
+                    "5:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "human rights in the Tibet Autonomous Region"
+                ],
+                [
+                    "72:115"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "improving"
+                ],
+                [
+                    "62:71"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Some Westerners who have been there have also seen the ever - improving human rights in the Tibet Autonomous Region , he added .",
+    "sent_id": "temp_fbis/21.37.46-9337-11"
+}

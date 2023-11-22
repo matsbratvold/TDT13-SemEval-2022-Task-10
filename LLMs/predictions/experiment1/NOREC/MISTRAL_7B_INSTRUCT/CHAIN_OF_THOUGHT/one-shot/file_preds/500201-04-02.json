@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bustamante"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "vokste selv opp her"
+                ],
+                [
+                    "11:30"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Bustamante"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "laget filmen i n\u00e6rt samarbeid med lokalbefolkningen"
+                ],
+                [
+                    "40:91"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Bustamante vokste selv opp her , og har laget filmen i n\u00e6rt samarbeid med lokalbefolkningen .",
+    "sent_id": "500201-04-02"
+}

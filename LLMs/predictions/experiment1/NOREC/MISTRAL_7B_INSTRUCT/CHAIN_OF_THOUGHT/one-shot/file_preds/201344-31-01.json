@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Garmin Fenix Chronos i st\u00e5l"
+                ],
+                [
+                    "0:27"
+                ]
+            ],
+            "Target": [
+                [
+                    "Garmin Fenix Chronos i st\u00e5l"
+                ],
+                [
+                    "0:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "veiledende pris"
+                ],
+                [
+                    "46:61"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "varianten med lenke"
+                ],
+                [
+                    "86:105"
+                ]
+            ],
+            "Target": [
+                [
+                    "varianten med lenke"
+                ],
+                [
+                    "86:105"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "pris"
+                ],
+                [
+                    "57:61"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Garmin Fenix Chronos i st\u00e5l med l\u00e6rrem har en veiledende pris p\u00e5 10.699 kroner , mens varianten med lenke er priset til 11.799 kroner .",
+    "sent_id": "201344-31-01"
+}

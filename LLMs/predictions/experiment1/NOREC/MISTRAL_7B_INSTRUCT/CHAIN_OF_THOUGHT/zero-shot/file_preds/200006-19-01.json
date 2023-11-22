@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "seg selv"
+                ],
+                [
+                    "6:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "skjermen"
+                ],
+                [
+                    "83:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "15:17"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "du"
+                ],
+                [
+                    "51:53"
+                ]
+            ],
+            "Target": [
+                [
+                    "skjermen"
+                ],
+                [
+                    "83:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00e5 tappe"
+                ],
+                [
+                    "54:62"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det i seg selv er ikke n\u00f8dvendigvis negativt , men du m\u00e5 tappe ganske hardt for at skjermen skal reagere .",
+    "sent_id": "200006-19-01"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5pner"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "som"
+                ],
+                [
+                    "12:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "et klassisk familiedrama"
+                ],
+                [
+                    "28:52"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "f\u00f8r"
+                ],
+                [
+                    "53:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "den glir over i nesten burleske komediescener"
+                ],
+                [
+                    "57:102"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "n\u00e5r"
+                ],
+                [
+                    "103:106"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Hana og Wang f\u00e5r dominere"
+                ],
+                [
+                    "107:132"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den \u00e5pner , som nevnt , som et klassisk familiedrama f\u00f8r den glir over i nesten burleske komediescener n\u00e5r Hana og Wang f\u00e5r dominere .",
+    "sent_id": "703256-16-03"
+}

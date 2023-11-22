@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "De"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "siden Dance With A Stranger-starten"
+                ],
+                [
+                    "19:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Everyone Needs A Friend"
+                ],
+                [
+                    "86:109"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "De har samarbeidet siden Dance With A Stranger-starten og l\u00e5ter som DWAS-kjenningen \u00ab Everyone Needs A Friend \u00bb .",
+    "sent_id": "303032-05-03"
+}

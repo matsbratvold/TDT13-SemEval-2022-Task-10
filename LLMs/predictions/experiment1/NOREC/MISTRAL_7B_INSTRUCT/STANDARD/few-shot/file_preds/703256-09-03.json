@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "skyldes"
+                ],
+                [
+                    "25:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "heller ikke bare"
+                ],
+                [
+                    "8:24"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "forretningene"
+                ],
+                [
+                    "33:46"
+                ]
+            ],
+            "Target": [
+                [
+                    "tr\u00f8bler"
+                ],
+                [
+                    "62:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "seg til"
+                ],
+                [
+                    "70:77"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "familiefaren"
+                ],
+                [
+                    "82:94"
+                ]
+            ],
+            "Target": [
+                [
+                    "stadig m\u00e5"
+                ],
+                [
+                    "99:108"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i telefonen"
+                ],
+                [
+                    "109:120"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "folk som graver"
+                ],
+                [
+                    "125:140"
+                ]
+            ],
+            "Target": [
+                [
+                    "sp\u00f8r"
+                ],
+                [
+                    "144:148"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "og f\u00e5r d\u00e5rlige svar"
+                ],
+                [
+                    "149:168"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det kan heller ikke bare skyldes forretningene som tydeligvis tr\u00f8bler seg til for familiefaren som stadig m\u00e5 i telefonen med folk som graver og sp\u00f8r og f\u00e5r d\u00e5rlige svar .",
+    "sent_id": "703256-09-03"
+}

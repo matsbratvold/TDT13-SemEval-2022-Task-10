@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Serien holder"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Serien"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "varmt"
+                ],
+                [
+                    "130:135"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "de traumatiske hendelsene fra forrige sesong fortsatt henger som en skygge over paret"
+                ],
+                [
+                    "146:231"
+                ]
+            ],
+            "Target": [
+                [
+                    "hendelsene"
+                ],
+                [
+                    "161:171"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "traumatiske"
+                ],
+                [
+                    "149:160"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Serien holder fortsatt p\u00e5 sin lune humor , og gjensynet med v\u00e5re to helter Claire ( Caitriona Balfe ) og Jamie ( Sam Heughan ) er varmt , selv om de traumatiske hendelsene fra forrige sesong fortsatt henger som en skygge over paret .",
+    "sent_id": "000298-05-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Andre"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "seg opp og fikk beholde store formuer"
+                ],
+                [
+                    "9:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "opp"
+                ],
+                [
+                    "13:16"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Andre la seg opp og fikk beholde store formuer .",
+    "sent_id": "601408-04-02"
+}

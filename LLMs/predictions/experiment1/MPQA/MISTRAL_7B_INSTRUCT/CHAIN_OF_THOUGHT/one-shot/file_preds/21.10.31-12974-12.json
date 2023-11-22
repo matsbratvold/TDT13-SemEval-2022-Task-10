@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Those in attendance"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "it is impossible to explain everything with models"
+                ],
+                [
+                    "93:143"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "found solidarity"
+                ],
+                [
+                    "59:75"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Those in attendance"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "models"
+                ],
+                [
+                    "137:143"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "flawed"
+                ],
+                [
+                    "157:163"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Those in attendance"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "the greenhouse model"
+                ],
+                [
+                    "176:196"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "flawed"
+                ],
+                [
+                    "157:163"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Those in attendance"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "warming"
+                ],
+                [
+                    "249:256"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "beyond dispute"
+                ],
+                [
+                    "226:240"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Those in attendance"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "human beings"
+                ],
+                [
+                    "295:307"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "contribution"
+                ],
+                [
+                    "279:291"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Those in attendance did not argue . On the contrary , they found solidarity in the view that it is impossible to explain everything with models . Models are flawed , including the greenhouse model , and the only thing that is beyond dispute is that warming is underway , and the contribution of human beings to this alarming condition is very large , possible at least 30 percent .",
+    "sent_id": "temp_fbis/21.10.31-12974-12"
+}

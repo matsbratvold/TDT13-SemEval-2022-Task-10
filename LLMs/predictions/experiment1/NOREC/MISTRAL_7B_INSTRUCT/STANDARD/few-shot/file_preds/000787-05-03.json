@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "spillet"
+                ],
+                [
+                    "20:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00f8rste"
+                ],
+                [
+                    "13:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Nintendos f\u00f8rste HD-konsoll"
+                ],
+                [
+                    "36:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "HD"
+                ],
+                [
+                    "30:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Dette er det f\u00f8rste spillet i HD p\u00e5 Nintendos f\u00f8rste HD-konsoll .",
+    "sent_id": "000787-05-03"
+}

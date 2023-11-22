@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Din tid"
+                ],
+                [
+                    "14:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kommer"
+                ],
+                [
+                    "22:28"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "sang"
+                ],
+                [
+                    "36:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "handler om h\u00e5p"
+                ],
+                [
+                    "54:68"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "heter det i \" Din tid kommer \" , en sang som egentlig handler om h\u00e5p .",
+    "sent_id": "704372-09-01"
+}

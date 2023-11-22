@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "maksimal uttelling av historiebiten"
+                ],
+                [
+                    "4:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "Dishonored"
+                ],
+                [
+                    "75:85"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hjelper det nok"
+                ],
+                [
+                    "40:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "maksimal uttelling av historiebiten"
+                ],
+                [
+                    "4:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "DLCen The Brigmore Witches"
+                ],
+                [
+                    "89:115"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hjelper det nok"
+                ],
+                [
+                    "40:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "For maksimal uttelling av historiebiten hjelper det nok p\u00e5 \u00e5 b\u00e5de ha spilt Dishonored og DLCen The Brigmore Witches , for i starten tas det en del snarveier .",
+    "sent_id": "000913-26-01"
+}

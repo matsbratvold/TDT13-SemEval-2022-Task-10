@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Each meal"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "halal"
+                ],
+                [
+                    "42:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "considered"
+                ],
+                [
+                    "31:41"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Each meal"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "religiously appropriate"
+                ],
+                [
+                    "53:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "considered"
+                ],
+                [
+                    "31:41"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Each meal"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "typical breakfast"
+                ],
+                [
+                    "93:110"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "includes"
+                ],
+                [
+                    "111:119"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Each meal"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "includes"
+                ],
+                [
+                    "111:119"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Each meal the detainees get is considered halal , or religiously appropriate for Muslims . A typical breakfast includes oatmeal , an orange , fresh bread and a bottle of water . For lunch , it 's pasta or vegetable stew , dry cereal including Froot Loops , a box of raisins , two granola bars , a bag of chips , and bag of peanuts and water .",
+    "sent_id": "non_fbis/06.44.52-19992-32"
+}

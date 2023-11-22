@@ -1,0 +1,110 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "right"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "cannot take the gun home until you 've taken this course"
+                ],
+                [
+                    "23:79"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cannot"
+                ],
+                [
+                    "23:29"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "cannot take the gun home until you 've taken this course"
+                ],
+                [
+                    "23:79"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "exactly"
+                ],
+                [
+                    "11:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "cannot take the gun home until you 've taken this course"
+                ],
+                [
+                    "23:79"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "exactly"
+                ],
+                [
+                    "11:18"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "sign up here"
+                ],
+                [
+                    "80:92"
+                ]
+            ],
+            "Target": [
+                [
+                    "cannot take the gun home until you 've taken this course"
+                ],
+                [
+                    "23:79"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sign up here"
+                ],
+                [
+                    "80:92"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "right yeah exactly you cannot take the gun home until you 've taken this course sign up here something like that",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-21"
+}

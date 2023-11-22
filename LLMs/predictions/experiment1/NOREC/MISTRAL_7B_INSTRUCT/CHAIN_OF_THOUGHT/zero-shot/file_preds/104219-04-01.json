@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hovedpersonen"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Dagblad-journalisten Kj\u00f8lstad"
+                ],
+                [
+                    "16:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00f8kt"
+                ],
+                [
+                    "81:85"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hovedpersonen , Dagblad-journalisten Kj\u00f8lstad ( vi f\u00e5r ikke vite fornavnet ) har s\u00f8kt midlertidig dekning i den avd\u00f8de farens b\u00e5t i kystsamfunnet Malangen i Troms , der han vokste opp .",
+    "sent_id": "104219-04-01"
+}

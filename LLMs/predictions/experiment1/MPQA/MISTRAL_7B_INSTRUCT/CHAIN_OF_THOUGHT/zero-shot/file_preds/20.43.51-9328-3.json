@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "plant"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "produces"
+                ],
+                [
+                    "10:18"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "plant"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "hybrid electric - gasoline autos including the Prius"
+                ],
+                [
+                    "94:146"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "produces"
+                ],
+                [
+                    "10:18"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The plant produces 14,000 units monthly of Toyota 's Crown and other luxury cars , as well as hybrid electric - gasoline autos including the Prius .",
+    "sent_id": "20020215/20.43.51-9328-3"
+}

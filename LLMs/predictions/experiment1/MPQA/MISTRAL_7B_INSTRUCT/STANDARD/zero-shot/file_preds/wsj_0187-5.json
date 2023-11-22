@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Waertsilae Marine"
+                ],
+                [
+                    "32:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "expected"
+                ],
+                [
+                    "75:83"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Customers holding contracts for Waertsilae Marine 's undelivered ships are expected to subscribe most of the remaining 170 million markkaa in share capital , government officials said .",
+    "sent_id": "xbank/wsj_0187-5"
+}

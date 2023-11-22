@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "leseren"
+                ],
+                [
+                    "15:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "18:20"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Samir"
+                ],
+                [
+                    "51:56"
+                ]
+            ],
+            "Target": [
+                [
+                    "leseren"
+                ],
+                [
+                    "15:22"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Men ogs\u00e5 fordi leseren p\u00e5 dette tidspunktet \u00ab er \u00bb Samir .",
+    "sent_id": "302975-09-02"
+}

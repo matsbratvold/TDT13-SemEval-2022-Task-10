@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Maria"
+                ],
+                [
+                    "12:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pepe"
+                ],
+                [
+                    "46:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kaster"
+                ],
+                [
+                    "5:11"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Selv kaster Maria mer enn lange blikk p\u00e5 unge Pepe , som planlegger \u00e5 emigrere til USA .",
+    "sent_id": "500201-05-02"
+}

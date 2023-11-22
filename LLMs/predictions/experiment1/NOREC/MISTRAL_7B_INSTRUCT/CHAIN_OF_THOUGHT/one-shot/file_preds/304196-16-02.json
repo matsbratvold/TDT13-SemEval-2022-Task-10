@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "kaos"
+                ],
+                [
+                    "18:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Det er ikke noe"
+                ],
+                [
+                    "2:17"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab Det er ikke noe kaos \u00bb , rekker han \u00e5 si f\u00f8r Waters resolutt trykker p\u00e5 av-knappen .",
+    "sent_id": "304196-16-02"
+}

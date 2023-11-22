@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Interfax"
+                ],
+                [
+                    "49:57"
+                ]
+            ],
+            "Target": [
+                [
+                    "report"
+                ],
+                [
+                    "8:14"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Text of report in English by Russian news agency Interfax",
+    "sent_id": "20020117/21.20.15-24907-0"
+}

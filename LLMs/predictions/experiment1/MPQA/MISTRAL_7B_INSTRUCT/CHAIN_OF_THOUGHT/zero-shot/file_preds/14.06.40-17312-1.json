@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "all indications"
+                ],
+                [
+                    "13:28"
+                ]
+            ],
+            "Target": [
+                [
+                    "radioactive container sent from the nuclear technology firm Studsvik to the US"
+                ],
+                [
+                    "35:113"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "did not leak"
+                ],
+                [
+                    "114:126"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "US Transport Department"
+                ],
+                [
+                    "265:288"
+                ]
+            ],
+            "Target": [
+                [
+                    "radioactive container sent from the nuclear technology firm Studsvik to the US"
+                ],
+                [
+                    "35:113"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "no abnormal levels"
+                ],
+                [
+                    "227:245"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "According to all indications , the radioactive container sent from the nuclear technology firm Studsvik to the US did not leak during transport within Sweden . When the container was transshipped in Paris , measurements showed no abnormal levels , according to the US Transport Department .",
+    "sent_id": "20020109/14.06.40-17312-1"
+}

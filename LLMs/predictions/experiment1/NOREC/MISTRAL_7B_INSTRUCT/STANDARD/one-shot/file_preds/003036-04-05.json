@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "lettere irritasjon"
+                ],
+                [
+                    "3:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "oppsto"
+                ],
+                [
+                    "22:28"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "En lettere irritasjon oppsto .",
+    "sent_id": "003036-04-05"
+}

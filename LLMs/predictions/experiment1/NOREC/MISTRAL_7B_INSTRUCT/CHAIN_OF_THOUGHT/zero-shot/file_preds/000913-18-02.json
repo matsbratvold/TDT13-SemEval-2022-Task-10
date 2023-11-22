@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "plottet"
+                ],
+                [
+                    "15:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en smule likt tidligere historier"
+                ],
+                [
+                    "26:59"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "plottet"
+                ],
+                [
+                    "15:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "litt fordi det f\u00f8les noe oppstyltet og uinteressant"
+                ],
+                [
+                    "63:114"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Til dels fordi plottet er en smule likt tidligere historier og litt fordi det f\u00f8les noe oppstyltet og uinteressant .",
+    "sent_id": "000913-18-02"
+}

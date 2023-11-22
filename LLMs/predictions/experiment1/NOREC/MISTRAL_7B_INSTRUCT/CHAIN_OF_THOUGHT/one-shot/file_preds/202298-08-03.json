@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Denne"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "jobber"
+                ],
+                [
+                    "6:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mindre anstrengt"
+                ],
+                [
+                    "13:29"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "og"
+                ],
+                [
+                    "49:51"
+                ]
+            ],
+            "Target": [
+                [
+                    "bruker"
+                ],
+                [
+                    "52:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mindre drivstoff"
+                ],
+                [
+                    "75:91"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Denne jobber mindre anstrengt enn forgjengeren , og bruker derfor merkbart mindre drivstoff .",
+    "sent_id": "202298-08-03"
+}

@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sony"
+                ],
+                [
+                    "20:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "Jon Peters and Peter Guber"
+                ],
+                [
+                    "53:79"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "unresolved"
+                ],
+                [
+                    "6:16"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sony"
+                ],
+                [
+                    "20:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "Guber / Peters Entertainment Co."
+                ],
+                [
+                    "131:163"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "planned acquisition"
+                ],
+                [
+                    "108:127"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sony"
+                ],
+                [
+                    "20:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "Warner Communications Inc."
+                ],
+                [
+                    "263:289"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "litigation"
+                ],
+                [
+                    "247:257"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Warner Communications Inc."
+                ],
+                [
+                    "263:289"
+                ]
+            ],
+            "Target": [
+                [
+                    "Jon Peters and Peter Guber"
+                ],
+                [
+                    "53:79"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "exclusive production contract"
+                ],
+                [
+                    "321:350"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Still unresolved is Sony 's effort to hire producers Jon Peters and Peter Guber to run the studio . Sony 's planned acquisition of Guber / Peters Entertainment Co. for $ 200 million is scheduled to close Monday . Guber / Peters has been locked in litigation with Warner Communications Inc. in an attempt to get out of an exclusive production contract with Warner . Both sides are in talks to settle the dispute .",
+    "sent_id": "xbank/wsj_0175-3"
+}

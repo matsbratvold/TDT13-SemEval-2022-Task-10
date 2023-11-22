@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Fitbit-appen"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enkel og oversiktlig"
+                ],
+                [
+                    "16:36"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Fitbit-appen"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "morsomt \u00e5 fordype seg i helsedataene du registrerer"
+                ],
+                [
+                    "49:100"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Fitbit-appen er enkel og oversiktlig , og det er morsomt \u00e5 fordype seg i helsedataene du registrerer .",
+    "sent_id": "200006-34-01"
+}

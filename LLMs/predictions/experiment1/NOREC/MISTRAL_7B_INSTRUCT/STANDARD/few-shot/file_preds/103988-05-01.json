@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "sangen"
+                ],
+                [
+                    "28:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "varer"
+                ],
+                [
+                    "35:40"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "sangen"
+                ],
+                [
+                    "28:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sies \u00ab bobler \u00bb , eller en avart av ordet , over 150 ganger"
+                ],
+                [
+                    "43:102"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I l\u00f8pet av de 180 sekundene sangen varer , sies \u00ab bobler \u00bb , eller en avart av ordet , over 150 ganger ( ja , jeg telte ) .",
+    "sent_id": "103988-05-01"
+}

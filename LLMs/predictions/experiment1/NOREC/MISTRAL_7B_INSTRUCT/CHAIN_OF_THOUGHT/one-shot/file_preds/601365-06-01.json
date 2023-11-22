@@ -1,0 +1,106 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Denne gangen"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "preges"
+                ],
+                [
+                    "13:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "tapet av n\u00e6r venn"
+                ],
+                [
+                    "28:45"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "preges"
+                ],
+                [
+                    "13:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "kollega og skrivebror Jon Bing"
+                ],
+                [
+                    "48:78"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "preges"
+                ],
+                [
+                    "13:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "( \u00ab for tiden er i himmelen \u00bb )"
+                ],
+                [
+                    "83:114"
+                ]
+            ],
+            "Target": [
+                [
+                    "Denne gangen"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "d\u00f8de"
+                ],
+                [
+                    "115:119"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Denne gangen preges boka av tapet av n\u00e6r venn , kollega og skrivebror Jon Bing som ( \u00ab for tiden er i himmelen \u00bb ) d\u00f8de i 2014 .",
+    "sent_id": "601365-06-01"
+}

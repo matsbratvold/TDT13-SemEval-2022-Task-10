@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "But"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "the government"
+                ],
+                [
+                    "4:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has not taken any concrete steps"
+                ],
+                [
+                    "19:51"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "maintaining"
+                ],
+                [
+                    "104:115"
+                ]
+            ],
+            "Target": [
+                [
+                    "a wait - and - see approach"
+                ],
+                [
+                    "116:143"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "instead"
+                ],
+                [
+                    "144:151"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "But the government has not taken any concrete steps regarding the cutback of greenhouse gas emissions , maintaining a wait - and - see approach instead .",
+    "sent_id": "20011115/20.41.29-15150-10"
+}

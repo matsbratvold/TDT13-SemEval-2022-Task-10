@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Shelton"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "administration"
+                ],
+                [
+                    "20:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reviewed"
+                ],
+                [
+                    "35:43"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Shelton"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "administration"
+                ],
+                [
+                    "20:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "challenged"
+                ],
+                [
+                    "78:88"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Shelton told us the administration reviewed all the Pentagon 's war plans and challenged certain assumptions underlying them , as any prudent organization or leader should do .",
+    "sent_id": "ula/chapter-10-63"
+}

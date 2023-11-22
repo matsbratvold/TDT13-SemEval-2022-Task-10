@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Pink Floyd"
+                ],
+                [
+                    "11:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "Nesten"
+                ],
+                [
+                    "2:8"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "\u00ab Nesten \u00bb Pink Floyd",
+    "sent_id": "304196-05-01"
+}

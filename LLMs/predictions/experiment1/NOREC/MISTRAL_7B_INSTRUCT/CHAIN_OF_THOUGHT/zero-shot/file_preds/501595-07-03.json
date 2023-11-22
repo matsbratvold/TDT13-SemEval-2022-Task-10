@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "denne"
+                ],
+                [
+                    "5:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "de to andre faste menyene"
+                ],
+                [
+                    "14:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "oppf\u00f8rt"
+                ],
+                [
+                    "43:50"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "de to andre faste menyene"
+                ],
+                [
+                    "14:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "tre anbefalte viner til"
+                ],
+                [
+                    "55:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "oppf\u00f8rt"
+                ],
+                [
+                    "43:50"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "B\u00e5de denne og de to andre faste menyene er oppf\u00f8rt med tre anbefalte viner til .",
+    "sent_id": "501595-07-03"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Titanutgaven"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "veiledende pris"
+                ],
+                [
+                    "37:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "13.899 kroner"
+                ],
+                [
+                    "56:69"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Titanutgaven har p\u00e5 sin side f\u00e5tt en veiledende pris p\u00e5 13.899 kroner .",
+    "sent_id": "201344-31-02"
+}

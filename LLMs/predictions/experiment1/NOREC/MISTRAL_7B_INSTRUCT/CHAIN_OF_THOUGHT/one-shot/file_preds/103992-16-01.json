@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "tidsgrepet"
+                ],
+                [
+                    "21:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "interessante"
+                ],
+                [
+                    "4:16"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "er"
+                ],
+                [
+                    "7:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "burde gi seerne"
+                ],
+                [
+                    "44:59"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "en enda mer perfekt unnskyldning"
+                ],
+                [
+                    "60:92"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "unnskyldning"
+                ],
+                [
+                    "80:92"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det interessante med tidsgrepet , er at det burde gi seerne en enda mer perfekt unnskyldning til \u00e5 \u00ab binge \u00bb hele sesongen .",
+    "sent_id": "103992-16-01"
+}

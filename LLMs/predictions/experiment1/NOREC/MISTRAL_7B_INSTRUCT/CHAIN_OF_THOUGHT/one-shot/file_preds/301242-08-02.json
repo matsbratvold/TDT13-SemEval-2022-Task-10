@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "D\u00f8dsdommer"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "gir henne det blodige tilnavnet"
+                ],
+                [
+                    "38:69"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "D\u00f8dsdommer over to sabot\u00f8rer fra vest gir henne det blodige tilnavnet .",
+    "sent_id": "301242-08-02"
+}

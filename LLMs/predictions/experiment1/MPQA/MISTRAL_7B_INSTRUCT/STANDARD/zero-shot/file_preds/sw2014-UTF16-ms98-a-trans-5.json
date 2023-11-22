@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "yeah"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "they do n't they do n't"
+                ],
+                [
+                    "8:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "n't"
+                ],
+                [
+                    "16:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "no"
+                ],
+                [
+                    "5:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "they do n't they do n't"
+                ],
+                [
+                    "8:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "n't"
+                ],
+                [
+                    "16:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "they do n't they do n't"
+                ],
+                [
+                    "8:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "ask anything except how old you are"
+                ],
+                [
+                    "32:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "n't"
+                ],
+                [
+                    "16:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "i do n't think that 's kind of scary"
+                ],
+                [
+                    "68:104"
+                ]
+            ],
+            "Target": [
+                [
+                    "they do n't they do n't"
+                ],
+                [
+                    "8:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "n't"
+                ],
+                [
+                    "16:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "yeah no they do n't they do n't ask anything except how old you are i do n't think that 's kind of scary",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-5"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "A bright spot"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "the company 's power - generation business"
+                ],
+                [
+                    "17:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is experiencing a surge of growth"
+                ],
+                [
+                    "68:101"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A bright spot is the company 's power - generation business , which is experiencing a surge of growth for the first time in years . Mr. Marous said the business will achieve higher sales this year than the company 's target goal of 8.5 % .",
+    "sent_id": "xbank/wsj_0973-7"
+}

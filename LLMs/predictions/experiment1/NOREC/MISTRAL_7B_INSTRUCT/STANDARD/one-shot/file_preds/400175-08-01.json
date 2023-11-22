@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "du"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "utsatte mennesker"
+                ],
+                [
+                    "35:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 f\u00e5 sympati med dem"
+                ],
+                [
+                    "77:97"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Rasmussens armerte hat"
+                ],
+                [
+                    "118:140"
+                ]
+            ],
+            "Target": [
+                [
+                    "\u00e5 sl\u00e5 sprekker"
+                ],
+                [
+                    "141:155"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 sl\u00e5 sprekker"
+                ],
+                [
+                    "141:155"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men n\u00e5r du kommer i n\u00e6rkontakt med utsatte mennesker , risikerer du selvsagt \u00e5 f\u00e5 sympati med dem , og snart begynner Rasmussens armerte hat \u00e5 sl\u00e5 sprekker .",
+    "sent_id": "400175-08-01"
+}

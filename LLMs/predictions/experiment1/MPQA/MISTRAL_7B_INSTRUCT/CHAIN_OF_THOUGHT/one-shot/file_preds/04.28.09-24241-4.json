@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fleischer"
+                ],
+                [
+                    "160:169"
+                ]
+            ],
+            "Target": [
+                [
+                    "material life"
+                ],
+                [
+                    "27:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "will not change"
+                ],
+                [
+                    "5:20"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Fleischer"
+                ],
+                [
+                    "160:169"
+                ]
+            ],
+            "Target": [
+                [
+                    "prisoner of war status"
+                ],
+                [
+                    "213:235"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Fleischer"
+                ],
+                [
+                    "160:169"
+                ]
+            ],
+            "Target": [
+                [
+                    "Al Qaeda"
+                ],
+                [
+                    "246:254"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cannot be considered a state party"
+                ],
+                [
+                    "295:329"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" It will not change their material life on a day - to - day basis : they will continue to be treated well because that 's what the United States does , \" said Fleischer , who noted neither group would be granted prisoner of war status . And , \" Al Qaeda is an international terrorist group and cannot be considered a state party to the Geneva Convention . Its members therefore are not covered , \" by the accord , said the spokesman .",
+    "sent_id": "non_fbis/04.28.09-24241-4"
+}

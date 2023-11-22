@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Pedro Aldom\u00f3var"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pedro Aldom\u00f3var"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Pedro Aldom\u00f3var .",
+    "sent_id": "702352-04-08"
+}

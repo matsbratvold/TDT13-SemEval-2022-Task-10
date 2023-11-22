@@ -1,0 +1,44 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "De to"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "den forl\u00f8sende kraften"
+                ],
+                [
+                    "24:46"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "historien om familien"
+                ],
+                [
+                    "49:70"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "De to er p\u00e5 mange m\u00e5ter den forl\u00f8sende kraften i historien om familien og dens smerte .",
+    "sent_id": "703256-13-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Mar\u00eda Tel\u00f3n"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "Juana"
+                ],
+                [
+                    "26:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "spilt"
+                ],
+                [
+                    "38:43"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Mar\u00eda Tel\u00f3n , som spiller Juana , har spilt i en kortfilm .",
+    "sent_id": "500201-09-02"
+}

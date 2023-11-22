@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "six major risks"
+                ],
+                [
+                    "22:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "suggested"
+                ],
+                [
+                    "3:12"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "development of medium - sized and small enterprises"
+                ],
+                [
+                    "70:121"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "include"
+                ],
+                [
+                    "58:65"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "setting up of a sound social security system"
+                ],
+                [
+                    "132:176"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "and"
+                ],
+                [
+                    "100:103"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "a society ruled by law"
+                ],
+                [
+                    "181:203"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "and"
+                ],
+                [
+                    "100:103"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "He suggested that the six major risks China will confront include the development of medium - sized and small enterprises , and the setting up of a sound social security system and a society ruled by law .",
+    "sent_id": "20011024/21.14.53-15562-6"
+}

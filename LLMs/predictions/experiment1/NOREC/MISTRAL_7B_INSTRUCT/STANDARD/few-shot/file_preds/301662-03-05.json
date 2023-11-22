@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "det hodet"
+                ],
+                [
+                    "7:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "h\u00f8yt hevet"
+                ],
+                [
+                    "17:27"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "maks selvtillit"
+                ],
+                [
+                    "31:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "frem til siste strofe er ferdigskr\u00e5lt"
+                ],
+                [
+                    "75:112"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Her er det hodet h\u00f8yt hevet og maks selvtillit fra f\u00f8rste plekteranslag og frem til siste strofe er ferdigskr\u00e5lt .",
+    "sent_id": "301662-03-05"
+}

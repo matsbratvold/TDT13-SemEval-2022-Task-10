@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "8:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ogs\u00e5 i starten av andre sesong"
+                ],
+                [
+                    "12:42"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "jeg"
+                ],
+                [
+                    "48:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "venter spent p\u00e5 fortsettelsen"
+                ],
+                [
+                    "52:81"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Slik er det ogs\u00e5 i starten av andre sesong , og jeg venter spent p\u00e5 fortsettelsen .",
+    "sent_id": "000298-24-02"
+}

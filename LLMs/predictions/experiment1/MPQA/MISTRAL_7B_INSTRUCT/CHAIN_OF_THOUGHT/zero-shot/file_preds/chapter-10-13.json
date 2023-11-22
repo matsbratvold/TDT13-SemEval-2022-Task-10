@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Deciding"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "border and port security"
+                ],
+                [
+                    "32:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "return"
+                ],
+                [
+                    "25:31"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Evaluating"
+                ],
+                [
+                    "85:95"
+                ]
+            ],
+            "Target": [
+                [
+                    "legislative proposals"
+                ],
+                [
+                    "96:117"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bail out"
+                ],
+                [
+                    "121:129"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Deciding when and how to return border and port security to more normal operations . Evaluating legislative proposals to bail out the airline industry and cap its liability .",
+    "sent_id": "ula/chapter-10-13"
+}

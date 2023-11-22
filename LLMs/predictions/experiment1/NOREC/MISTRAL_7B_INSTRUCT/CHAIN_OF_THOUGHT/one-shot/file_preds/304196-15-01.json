@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Is This The Life We Really Want ?"
+                ],
+                [
+                    "2:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "politisk album"
+                ],
+                [
+                    "44:58"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "s\u00e6rlig med spark til Donald Trump"
+                ],
+                [
+                    "61:94"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "spark til Donald Trump"
+                ],
+                [
+                    "72:94"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab Is This The Life We Really Want ? \u00bb er et politisk album , s\u00e6rlig med spark til Donald Trump .",
+    "sent_id": "304196-15-01"
+}

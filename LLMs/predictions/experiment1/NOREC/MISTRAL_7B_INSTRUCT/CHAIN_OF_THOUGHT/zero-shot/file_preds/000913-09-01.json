@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "en sjokkerende og imponerende kjapp operasjon"
+                ],
+                [
+                    "2:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blir datteren Emily Kaldwin detronisert"
+                ],
+                [
+                    "48:87"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I en sjokkerende og imponerende kjapp operasjon blir datteren Emily Kaldwin detronisert av en gjeng oppviglere som overtar styringen av Serkonos ; dette sender spilleren ut i en lang og meget underholdende jakt etter sannhet , rettferdighet og skyldige .",
+    "sent_id": "000913-09-01"
+}

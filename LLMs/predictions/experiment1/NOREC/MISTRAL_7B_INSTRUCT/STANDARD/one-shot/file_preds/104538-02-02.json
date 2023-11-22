@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "every one of you"
+                ],
+                [
+                    "16:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "having me tonight"
+                ],
+                [
+                    "37:54"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab I wanna thank every one of you for having me tonight .",
+    "sent_id": "104538-02-02"
+}

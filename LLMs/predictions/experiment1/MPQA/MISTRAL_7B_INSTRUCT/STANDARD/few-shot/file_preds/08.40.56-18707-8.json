@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The ministry"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "judging others ' rights records"
+                ],
+                [
+                    "40:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "suggested"
+                ],
+                [
+                    "18:27"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "the situation at home"
+                ],
+                [
+                    "111:132"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "should investigate"
+                ],
+                [
+                    "92:110"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Russia"
+                ],
+                [
+                    "259:265"
+                ]
+            ],
+            "Target": [
+                [
+                    "capital punishment"
+                ],
+                [
+                    "293:311"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "introduced a moratorium"
+                ],
+                [
+                    "266:289"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The ministry also suggested that before judging others ' rights records , the United States should investigate the situation at home , including the government 's failure to ratify some international human rights agreements and the use of the death penalty . Russia introduced a moratorium on capital punishment , a prerequisite for joining the Council of Europe , in 1996 .",
+    "sent_id": "non_fbis/08.40.56-18707-8"
+}

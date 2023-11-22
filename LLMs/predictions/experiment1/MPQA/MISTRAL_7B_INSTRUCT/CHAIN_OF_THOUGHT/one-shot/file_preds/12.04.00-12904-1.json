@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Argentina"
+                ],
+                [
+                    "15:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "leaderless and penniless"
+                ],
+                [
+                    "36:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ended"
+                ],
+                [
+                    "25:30"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "BUENOS AIRES - Argentina ended 2001 leaderless and penniless yesterday with its new interim president resigning a week into the job and the country fearing more bloodshed and the loss of savings frozen in the banks .",
+    "sent_id": "non_fbis/12.04.00-12904-1"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Cao"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "the demand of the 15 million Protestants in China"
+                ],
+                [
+                    "17:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "meet"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Cao said to meet the demand of the 15 million Protestants in China , 28 million copies of the Bible , including those printed in ethnic languages , have been printed .",
+    "sent_id": "temp_fbis/21.37.46-9337-22"
+}

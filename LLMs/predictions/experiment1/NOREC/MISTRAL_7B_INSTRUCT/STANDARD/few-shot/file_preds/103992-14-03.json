@@ -1,0 +1,44 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "seg"
+                ],
+                [
+                    "31:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for langt mot moro"
+                ],
+                [
+                    "35:53"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "humor"
+                ],
+                [
+                    "59:64"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Der forrige sesong til dels la seg for langt mot moro , er humor kun et sporadisk og overdrevent absurd virkemiddel n\u00e5 .",
+    "sent_id": "103992-14-03"
+}

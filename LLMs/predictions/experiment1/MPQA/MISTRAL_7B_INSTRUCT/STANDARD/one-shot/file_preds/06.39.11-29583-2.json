@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Juneidi"
+                ],
+                [
+                    "138:145"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "\" Soon , the government will delegate Jordan 's representative to the United Nations , HH Prince Zeid Ben Raad , to sign the protocol , \" Juneidi told The Jordan Times on Tuesday , adding that an exact date for signing of the environmental agreement had not been set .",
+    "sent_id": "non_fbis/06.39.11-29583-2"
+}

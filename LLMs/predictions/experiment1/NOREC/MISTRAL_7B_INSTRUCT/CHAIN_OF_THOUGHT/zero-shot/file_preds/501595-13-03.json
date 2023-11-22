@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "utradisjonelle fusjonssmaker og storsinnede porsjoner"
+                ],
+                [
+                    "41:94"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00e5r likevel en god opplevelse"
+                ],
+                [
+                    "7:36"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Men vi f\u00e5r likevel en god opplevelse med utradisjonelle fusjonssmaker og storsinnede porsjoner .",
+    "sent_id": "501595-13-03"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The government of Japan"
+                ],
+                [
+                    "2:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "climate change policy"
+                ],
+                [
+                    "58:79"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "appreciates"
+                ],
+                [
+                    "26:37"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "\" The government of Japan appreciates the announcement of climate change policy by the government of the United States on February 14 as a demonstration of its serious intention to address the issue of global warming , \" Foreign Minister Yoriko Kawaguchi said in a statement .",
+    "sent_id": "temp_fbis/20.44.41-9757-1"
+}

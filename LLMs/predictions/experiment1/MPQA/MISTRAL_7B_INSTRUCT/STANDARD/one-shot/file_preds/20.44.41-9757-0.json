@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Japan"
+                ],
+                [
+                    "25:30"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "welcomed"
+                ],
+                [
+                    "38:46"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Japan"
+                ],
+                [
+                    "25:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto Protocol"
+                ],
+                [
+                    "94:108"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "TOKYO , Feb 15 ( AFP ) - Japan Friday welcomed President George W. Bush 's alternative to the Kyoto Protocol on reducing greenhouse gases , but said it will press on with ratification of the pact the US rejected .",
+    "sent_id": "temp_fbis/20.44.41-9757-0"
+}

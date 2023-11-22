@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "astronauts"
+                ],
+                [
+                    "23:33"
+                ]
+            ],
+            "Target": [
+                [
+                    "International Space Station"
+                ],
+                [
+                    "84:111"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "racing"
+                ],
+                [
+                    "66:72"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "hardware"
+                ],
+                [
+                    "53:61"
+                ]
+            ],
+            "Target": [
+                [
+                    "International Space Station"
+                ],
+                [
+                    "84:111"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "truckload"
+                ],
+                [
+                    "40:49"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "CAPE CANAVERAL - Seven astronauts and a truckload of hardware are racing toward the International Space Station following the successful blastoff Monday of the space shuttle Atlantis .",
+    "sent_id": "non_fbis/13.21.23-8227-2"
+}

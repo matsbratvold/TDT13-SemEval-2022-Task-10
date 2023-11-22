@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Xirao - Nima"
+                ],
+                [
+                    "56:68"
+                ]
+            ],
+            "Target": [
+                [
+                    "China"
+                ],
+                [
+                    "35:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "slandering"
+                ],
+                [
+                    "24:34"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" The United States was slandering China again , \" said Xirao - Nima , a professor of Tibetan history at the Central University for Nationalities .",
+    "sent_id": "temp_fbis/21.37.46-9337-3"
+}

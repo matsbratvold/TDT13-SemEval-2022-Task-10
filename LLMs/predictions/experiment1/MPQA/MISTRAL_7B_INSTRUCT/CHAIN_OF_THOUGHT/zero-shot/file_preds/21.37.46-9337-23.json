@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "US human rights report"
+                ],
+                [
+                    "4:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "China"
+                ],
+                [
+                    "40:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "accuses"
+                ],
+                [
+                    "32:39"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The US human rights report also accuses China of taking advantage of anti-terrorism campaigns to crackdown on ethnic group people living in the Xinjiang Uygur Autonomous Region .",
+    "sent_id": "temp_fbis/21.37.46-9337-23"
+}

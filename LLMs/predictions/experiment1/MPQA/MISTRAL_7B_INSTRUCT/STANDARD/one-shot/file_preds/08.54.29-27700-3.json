@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Latin America"
+                ],
+                [
+                    "4:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "coups"
+                ],
+                [
+                    "35:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "moved beyond"
+                ],
+                [
+                    "22:34"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "But Latin America has moved beyond coups , and this pivotal nation in a hemisphere of democracies has the means to remove Mr. Chavez by constitutional and especially nonviolent means .",
+    "sent_id": "non_fbis/08.54.29-27700-3"
+}

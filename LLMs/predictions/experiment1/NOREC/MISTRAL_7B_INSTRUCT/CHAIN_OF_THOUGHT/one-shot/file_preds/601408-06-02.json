@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Henry Johansens virke under krigen"
+                ],
+                [
+                    "44:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "godt kjent"
+                ],
+                [
+                    "82:92"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Ja , de fleste er nok det , men i alle fall Henry Johansens virke under krigen er godt kjent .",
+    "sent_id": "601408-06-02"
+}

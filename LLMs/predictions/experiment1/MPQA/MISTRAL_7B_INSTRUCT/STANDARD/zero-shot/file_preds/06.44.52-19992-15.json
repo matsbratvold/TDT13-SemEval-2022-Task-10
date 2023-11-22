@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "a TV camerawoman"
+                ],
+                [
+                    "40:56"
+                ]
+            ],
+            "Target": [
+                [
+                    "Man"
+                ],
+                [
+                    "2:5"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "scared"
+                ],
+                [
+                    "24:30"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" Man , they must be so scared , \" says a TV camerawoman watching with an international media pool from about 400 yards away .",
+    "sent_id": "non_fbis/06.44.52-19992-15"
+}

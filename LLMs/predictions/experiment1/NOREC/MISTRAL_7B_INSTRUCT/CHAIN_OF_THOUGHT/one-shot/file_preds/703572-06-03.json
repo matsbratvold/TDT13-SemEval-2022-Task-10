@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "finansmann"
+                ],
+                [
+                    "10:20"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "N\u00e5 er han finansmann i Hellas med 29-\u00e5rig italiensk-gresk kone og baby .",
+    "sent_id": "703572-06-03"
+}

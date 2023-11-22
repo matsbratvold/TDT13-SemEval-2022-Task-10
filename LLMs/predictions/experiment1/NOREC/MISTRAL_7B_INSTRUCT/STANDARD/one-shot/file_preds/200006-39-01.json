@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "du"
+                ],
+                [
+                    "7:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "vibrasjonsalarmen"
+                ],
+                [
+                    "29:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "b\u00f8r settes opp"
+                ],
+                [
+                    "47:61"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "du"
+                ],
+                [
+                    "7:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "\u00f8nsket resultat"
+                ],
+                [
+                    "80:95"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "oppn\u00e5r"
+                ],
+                [
+                    "73:79"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "du"
+                ],
+                [
+                    "7:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "selv"
+                ],
+                [
+                    "154:158"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "adlyde"
+                ],
+                [
+                    "188:194"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Da vil du f\u00e5 forslag til n\u00e5r vibrasjonsalarmen b\u00f8r settes opp slik at du oppn\u00e5r \u00f8nsket resultat , og du vil ogs\u00e5 f\u00e5 p\u00e5minnelser om n\u00e5r du b\u00f8r legge deg - selv om det er altfor lett \u00e5 ikke adlyde denne .",
+    "sent_id": "200006-39-01"
+}

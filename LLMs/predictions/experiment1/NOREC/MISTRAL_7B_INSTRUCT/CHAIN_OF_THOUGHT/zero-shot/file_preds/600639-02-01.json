@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "My Cousin Rachel"
+                ],
+                [
+                    "2:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "britiske herreg\u00e5rdsdramaer"
+                ],
+                [
+                    "58:84"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "noe"
+                ],
+                [
+                    "24:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "My Cousin Rachel"
+                ],
+                [
+                    "2:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "real psykologisk thriller"
+                ],
+                [
+                    "114:139"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "setter"
+                ],
+                [
+                    "96:102"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" My Cousin Rachel \" er noe b\u00e5de for dem som er svake for britiske herreg\u00e5rdsdramaer og dem som setter pris p\u00e5 en real psykologisk thriller .",
+    "sent_id": "600639-02-01"
+}

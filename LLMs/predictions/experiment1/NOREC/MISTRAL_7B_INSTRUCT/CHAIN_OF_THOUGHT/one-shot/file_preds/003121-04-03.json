@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "hun"
+                ],
+                [
+                    "35:38"
+                ]
+            ],
+            "Target": [
+                [
+                    "Plot Twist"
+                ],
+                [
+                    "13:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Spesielt i"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "hun"
+                ],
+                [
+                    "35:38"
+                ]
+            ],
+            "Target": [
+                [
+                    "Plot Twist"
+                ],
+                [
+                    "13:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "benytter hun seg ofte av Highasakite-estetikk med overbevisende lyrikk og bastant refreng"
+                ],
+                [
+                    "26:115"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Spesielt i \u00ab Plot Twist \u00bb benytter hun seg ofte av Highasakite-estetikk med overbevisende lyrikk og bastant refreng .",
+    "sent_id": "003121-04-03"
+}

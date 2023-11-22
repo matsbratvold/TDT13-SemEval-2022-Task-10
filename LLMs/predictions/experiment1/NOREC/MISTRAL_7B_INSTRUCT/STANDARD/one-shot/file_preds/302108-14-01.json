@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Operator"
+                ],
+                [
+                    "16:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lirkes ut"
+                ],
+                [
+                    "27:36"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "klimaks"
+                ],
+                [
+                    "114:121"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "starten p\u00e5 en ny og bedre fest"
+                ],
+                [
+                    "126:156"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "S\u00e5 n\u00e5r nevnte \u00ab Operator \u00bb lirkes ut av den virtuelle platebaggen , f\u00f8les det alts\u00e5 ikke s\u00e5 mye som et forl\u00f8sende klimaks som starten p\u00e5 en ny og bedre fest .",
+    "sent_id": "302108-14-01"
+}

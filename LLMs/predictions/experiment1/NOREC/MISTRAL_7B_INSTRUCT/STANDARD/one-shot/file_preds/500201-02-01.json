@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Gir"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "kultur"
+                ],
+                [
+                    "17:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00e6rreste av oss vet noe om"
+                ],
+                [
+                    "27:53"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Gir innsikt i en kultur de f\u00e6rreste av oss vet noe om .",
+    "sent_id": "500201-02-01"
+}

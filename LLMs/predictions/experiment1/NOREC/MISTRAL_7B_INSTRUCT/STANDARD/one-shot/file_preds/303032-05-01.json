@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Den r\u00f8ffe stemmen"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er en dr\u00f8m"
+                ],
+                [
+                    "18:28"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Den r\u00f8ffe stemmen er en dr\u00f8m .",
+    "sent_id": "303032-05-01"
+}

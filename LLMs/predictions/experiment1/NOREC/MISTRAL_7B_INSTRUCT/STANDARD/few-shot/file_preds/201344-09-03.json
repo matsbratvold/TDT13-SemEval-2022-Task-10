@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "dressen"
+                ],
+                [
+                    "32:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "super match"
+                ],
+                [
+                    "16:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "dressen"
+                ],
+                [
+                    "32:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "betydelig mer diskr\u00e9"
+                ],
+                [
+                    "63:83"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Kanskje ikke en super match til dressen , men den fremst\u00e5r som betydelig mer diskr\u00e9 enn hva vi typisk har sett fra andre modeller med tilsvarende funksjoner .",
+    "sent_id": "201344-09-03"
+}

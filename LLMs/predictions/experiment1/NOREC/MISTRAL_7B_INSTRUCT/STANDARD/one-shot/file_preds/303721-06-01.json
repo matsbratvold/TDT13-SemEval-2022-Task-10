@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "du"
+                ],
+                [
+                    "3:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "Wilco"
+                ],
+                [
+                    "35:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "verdens kjedeligste band"
+                ],
+                [
+                    "44:68"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Er du typen som alltid har ment at Wilco er verdens kjedeligste band , er dette bensin p\u00e5 b\u00e5let .",
+    "sent_id": "303721-06-01"
+}

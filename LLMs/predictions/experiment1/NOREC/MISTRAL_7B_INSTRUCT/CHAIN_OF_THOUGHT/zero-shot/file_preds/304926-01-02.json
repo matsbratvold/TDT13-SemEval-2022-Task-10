@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den lille prinsen"
+                ],
+                [
+                    "2:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "Den lille prinsen"
+                ],
+                [
+                    "2:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Den lille prinsen"
+                ],
+                [
+                    "2:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab Den lille prinsen \u00bb",
+    "sent_id": "304926-01-02"
+}

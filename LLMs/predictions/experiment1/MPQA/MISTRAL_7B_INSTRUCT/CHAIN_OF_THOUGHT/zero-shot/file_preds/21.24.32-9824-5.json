@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "ship"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "regular ferry"
+                ],
+                [
+                    "23:36"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "ship"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "transporting troops"
+                ],
+                [
+                    "37:56"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "soldiers"
+                ],
+                [
+                    "154:162"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "1,200"
+                ],
+                [
+                    "148:153"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "He said the ship was a regular ferry transporting troops from the northeastern port of Trincomalee to the northern peninsula of Jaffna . There were 1,200 soldiers aboard the ferry .",
+    "sent_id": "20010916/21.24.32-9824-5"
+}

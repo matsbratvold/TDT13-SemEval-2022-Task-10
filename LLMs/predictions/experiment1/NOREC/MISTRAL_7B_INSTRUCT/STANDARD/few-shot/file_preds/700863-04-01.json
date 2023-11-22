@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "P\u00e5 plussiden"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "onde orker"
+                ],
+                [
+                    "27:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ser"
+                ],
+                [
+                    "60:63"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "P\u00e5 plussiden er at enkelte onde orker \u2013 til tross for at de ser ti ganger verre ut enn i \" Ringenes herre \" -serien \u2013 faktisk vekker litt sympati .",
+    "sent_id": "700863-04-01"
+}

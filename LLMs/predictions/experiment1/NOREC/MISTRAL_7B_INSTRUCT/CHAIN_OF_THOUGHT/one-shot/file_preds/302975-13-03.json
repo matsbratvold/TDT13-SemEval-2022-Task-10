@@ -1,0 +1,72 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "barnespr\u00e5k"
+                ],
+                [
+                    "27:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilgjort"
+                ],
+                [
+                    "18:26"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "barnespr\u00e5k"
+                ],
+                [
+                    "27:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som minner om m\u00e5ten"
+                ],
+                [
+                    "40:59"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "voksne snakker"
+                ],
+                [
+                    "60:74"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "n\u00e5r de skal forklare barn noe vanskelig"
+                ],
+                [
+                    "75:114"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Og det i et noks\u00e5 tilgjort barnespr\u00e5k , som minner om m\u00e5ten voksne snakker n\u00e5r de skal forklare barn noe vanskelig :",
+    "sent_id": "302975-13-03"
+}

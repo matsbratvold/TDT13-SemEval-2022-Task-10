@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Other developed countries"
+                ],
+                [
+                    "0:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto Protocol"
+                ],
+                [
+                    "80:94"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reluctance"
+                ],
+                [
+                    "49:59"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Canada"
+                ],
+                [
+                    "31:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto Protocol"
+                ],
+                [
+                    "80:94"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Canada"
+                ],
+                [
+                    "31:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto Protocol"
+                ],
+                [
+                    "80:94"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cause economic damage"
+                ],
+                [
+                    "168:189"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Other developed countries like Canada have shown reluctance towards signing the Kyoto Protocol , saying it would cut the national GDP by up to 2.5 per cent in 2010 and cause economic damage worth 30 billion Canadian dollars ( $ 19 billion ) .",
+    "sent_id": "non_fbis/06.39.11-29583-9"
+}

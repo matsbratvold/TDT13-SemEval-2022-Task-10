@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "threat of terrorism"
+                ],
+                [
+                    "30:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "recognize that the threat of terrorism requires specific measures"
+                ],
+                [
+                    "11:76"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "excessive steps"
+                ],
+                [
+                    "126:141"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "call on all governments to refrain from any excessive steps which would violate fundamental freedoms and undermine legitimate dissent"
+                ],
+                [
+                    "82:215"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" While we recognize that the threat of terrorism requires specific measures , we call on all governments to refrain from any excessive steps which would violate fundamental freedoms and undermine legitimate dissent , \" a joint statement issued in Strasbourg , Geneva and Warsaw said .",
+    "sent_id": "20011130/12.26.48-19550-2"
+}

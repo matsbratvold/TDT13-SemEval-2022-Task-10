@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "tilbake til utfordringen i starten"
+                ],
+                [
+                    "12:46"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Og da er vi tilbake til utfordringen i starten .",
+    "sent_id": "104659-13-01"
+}

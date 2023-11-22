@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Above all"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "the US media"
+                ],
+                [
+                    "12:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "involvement of Jews in the 11 September events cannot be ruled out"
+                ],
+                [
+                    "47:113"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The media"
+                ],
+                [
+                    "116:125"
+                ]
+            ],
+            "Target": [
+                [
+                    "120 Israeli spies"
+                ],
+                [
+                    "145:162"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "were arrested and were exiled from the United States on the orders of the Department of Justice"
+                ],
+                [
+                    "163:258"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "This"
+                ],
+                [
+                    "261:265"
+                ]
+            ],
+            "Target": [
+                [
+                    "double standards of the US"
+                ],
+                [
+                    "285:311"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Above all , the US media has reported that the involvement of Jews in the 11 September events cannot be ruled out . The media also reported that 120 Israeli spies were arrested and were exiled from the United States on the orders of the Department of Justice . This not only shows the double standards of the US but also its selfishness . This also exposes the background of keeping the US troops and military basis in different parts of the world .",
+    "sent_id": "20020315/20.21.54-4382-7"
+}

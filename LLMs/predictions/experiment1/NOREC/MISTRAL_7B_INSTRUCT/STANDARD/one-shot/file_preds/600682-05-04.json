@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "13:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "intrikat og spennende plott"
+                ],
+                [
+                    "20:47"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "13:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "aldri langtrukkent eller kjedelig"
+                ],
+                [
+                    "110:143"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I tillegg er det et intrikat og spennende plott , og selv om den varer i nesten to og en halv time , blir det aldri langtrukkent eller kjedelig .",
+    "sent_id": "600682-05-04"
+}

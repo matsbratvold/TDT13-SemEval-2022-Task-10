@@ -1,0 +1,74 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Stock prices"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Volume"
+                ],
+                [
+                    "46:52"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "175.2 million shares"
+                ],
+                [
+                    "92:112"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Declining issues"
+                ],
+                [
+                    "115:131"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "1,141 to 406"
+                ],
+                [
+                    "169:181"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Stock prices fell sharply in active trading . Volume on the New York Stock Exchange totaled 175.2 million shares . Declining issues on the Big Board outstripped gainers 1,141 to 406 .",
+    "sent_id": "xbank/wsj_0816-9"
+}

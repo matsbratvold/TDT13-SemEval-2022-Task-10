@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "P\u00e5 norsk"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "P\u00e5 norsk ?",
+    "sent_id": "303032-06-01"
+}

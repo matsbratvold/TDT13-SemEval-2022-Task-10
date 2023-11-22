@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Fire \u00e5rs ventetid"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lenge"
+                ],
+                [
+                    "21:26"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Fire \u00e5rs ventetid er lenge .",
+    "sent_id": "003036-04-04"
+}

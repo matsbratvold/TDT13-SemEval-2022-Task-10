@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "sesongen"
+                ],
+                [
+                    "3:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "imidlertid"
+                ],
+                [
+                    "44:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ordentlig"
+                ],
+                [
+                    "16:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "sesongen"
+                ],
+                [
+                    "3:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "imidlertid"
+                ],
+                [
+                    "44:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ikke over dette grepet"
+                ],
+                [
+                    "55:77"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "sesongen"
+                ],
+                [
+                    "3:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "imidlertid"
+                ],
+                [
+                    "44:54"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "sesongen"
+                ],
+                [
+                    "3:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "imidlertid"
+                ],
+                [
+                    "44:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "alts\u00e5 Skottlands fremtid"
+                ],
+                [
+                    "185:209"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Da sesongen kom ordentlig i gang dvelte den imidlertid ikke over dette grepet , og det tok ikke lang tid f\u00f8r jeg igjen var fullstendig oppslukt i Claires kamp for \u00e5 forandre fortiden , alts\u00e5 Skottlands fremtid .",
+    "sent_id": "000298-08-01"
+}

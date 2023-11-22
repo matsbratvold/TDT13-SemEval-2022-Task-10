@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Frank Ocean"
+                ],
+                [
+                    "20:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "musikk"
+                ],
+                [
+                    "32:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 se"
+                ],
+                [
+                    "39:43"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "noen"
+                ],
+                [
+                    "44:48"
+                ]
+            ],
+            "Target": [
+                [
+                    "du er glad i dypt inn i \u00f8ynene"
+                ],
+                [
+                    "49:79"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "P\u00e5 sitt beste lager Frank Ocean musikk \u00e5 se noen du er glad i dypt inn i \u00f8ynene med et blikk som sier at man aldri gir slipp .",
+    "sent_id": "003036-10-03"
+}

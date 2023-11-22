@@ -1,0 +1,50 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "America"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "is appropriate"
+                ],
+                [
+                    "76:90"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "in my opinion"
+                ],
+                [
+                    "97:110"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "America 's treatment of the Taliban and al Qaeda terrorists at Camp X - Ray is appropriate and , in my opinion , too good for these murderous thugs . Instead of lecturing the United States , our critics may better spend their time reminding others that if terrorists do n't want to be detained at Camp X - Ray , they should join the civilized world .",
+    "sent_id": "non_fbis/06.21.24-4640-14"
+}

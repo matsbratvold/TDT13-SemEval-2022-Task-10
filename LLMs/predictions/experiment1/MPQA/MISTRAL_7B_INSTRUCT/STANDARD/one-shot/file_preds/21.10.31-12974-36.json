@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Developed countries and transitional economies"
+                ],
+                [
+                    "0:46"
+                ]
+            ],
+            "Target": [
+                [
+                    "emissions of greenhouse gases"
+                ],
+                [
+                    "59:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "must reduce"
+                ],
+                [
+                    "47:58"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "New Zealand"
+                ],
+                [
+                    "402:413"
+                ]
+            ],
+            "Target": [
+                [
+                    "emissions"
+                ],
+                [
+                    "59:68"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Australia and Iceland"
+                ],
+                [
+                    "431:452"
+                ]
+            ],
+            "Target": [
+                [
+                    "emissions"
+                ],
+                [
+                    "59:68"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Developed countries and transitional economies must reduce emissions of greenhouse gases by 2008 - 2012 by at least 5 percent from the recognized baseline year of 1990 . The reduction level varies . The US , Japan and members of the EU must reduce emissions by 7 , 6 and 8 percent from the 1990 level . A limitation , rather than reduction , of emissions is specified for several developed countries ( New Zealand , Norway ) , and Australia and Iceland received the right to increase emissions . If a country fails to use up its quota , it can sell the \" surplus . \"",
+    "sent_id": "temp_fbis/21.10.31-12974-36"
+}

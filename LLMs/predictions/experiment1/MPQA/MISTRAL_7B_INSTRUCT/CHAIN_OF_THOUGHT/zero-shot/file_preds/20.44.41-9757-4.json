@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bush"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "greenhouse gas matter"
+                ],
+                [
+                    "19:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "may raise"
+                ],
+                [
+                    "5:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Bush"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "is expected to be the focus of talks"
+                ],
+                [
+                    "138:174"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Bush may raise the greenhouse gas matter when he visits Japan for a three - day stay starting Sunday , although Japan 's weakened economy is expected to be the focus of talks .",
+    "sent_id": "temp_fbis/20.44.41-9757-4"
+}

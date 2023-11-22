@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Tiger guerrillas"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "an independent homeland"
+                ],
+                [
+                    "42:65"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Tiger guerrillas , leading a campaign for an independent homeland in the island 's northeast , have carried out several attacks against navy and merchant ships , including using boats carrying suicide bombers on more than a dozen naval craft .",
+    "sent_id": "20010916/21.24.32-9824-11"
+}

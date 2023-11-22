@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "leseren"
+                ],
+                [
+                    "4:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fryd \u00e5 se"
+                ],
+                [
+                    "22:31"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Sofia"
+                ],
+                [
+                    "63:68"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "utvikler tesen sin om at \u00ab Identitet er alltid vanskelig \u00e5 garantere . \u00bb"
+                ],
+                [
+                    "69:141"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "For leseren er det en fryd \u00e5 se hvordan det hele forl\u00f8per mens Sofia utvikler tesen sin om at \u00ab Identitet er alltid vanskelig \u00e5 garantere . \u00bb",
+    "sent_id": "703572-08-01"
+}

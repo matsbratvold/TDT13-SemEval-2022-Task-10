@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "And as usual"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "the portion about China"
+                ],
+                [
+                    "15:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "contains little truth"
+                ],
+                [
+                    "39:60"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "And as usual"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "the portion about China"
+                ],
+                [
+                    "15:38"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "And as usual"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "the portion about China"
+                ],
+                [
+                    "15:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "exaggerations and fabrications"
+                ],
+                [
+                    "84:114"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "And as usual , the portion about China contains little truth and many absurdities , exaggerations and fabrications .",
+    "sent_id": "temp_fbis/21.37.46-9337-1"
+}

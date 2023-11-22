@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "det"
+                ],
+                [
+                    "5:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "sakteflytende kammerpop"
+                ],
+                [
+                    "9:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "motvillig rytmikk"
+                ],
+                [
+                    "37:54"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "det"
+                ],
+                [
+                    "5:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "mystiskdurende progjazz"
+                ],
+                [
+                    "63:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vanskelig balanse"
+                ],
+                [
+                    "91:108"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Kall det sakteflytende kammerpop med motvillig rytmikk , eller mystiskdurende progjazz med vanskelig balanse .",
+    "sent_id": "104659-08-02"
+}

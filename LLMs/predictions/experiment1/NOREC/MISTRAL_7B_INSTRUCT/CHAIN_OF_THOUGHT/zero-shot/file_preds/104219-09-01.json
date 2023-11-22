@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "fin"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "psykologisk troverdighet"
+                ],
+                [
+                    "8:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "viser"
+                ],
+                [
+                    "33:38"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "psykologisk troverdighet"
+                ],
+                [
+                    "8:32"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "kan bli"
+                ],
+                [
+                    "75:82"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "psykologisk troverdighet"
+                ],
+                [
+                    "8:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "l\u00f8gn"
+                ],
+                [
+                    "87:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "avler l\u00f8gn"
+                ],
+                [
+                    "92:102"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "psykologisk troverdighet"
+                ],
+                [
+                    "8:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "gamle"
+                ],
+                [
+                    "150:155"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skjebnesvangre spor"
+                ],
+                [
+                    "158:177"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Med fin psykologisk troverdighet viser forfatteren hvor innsnevrende livet kan bli n\u00e5r l\u00f8gn avler l\u00f8gn , og hvor vanskelig det kan v\u00e6re \u00e5 komme ut av gamle , skjebnesvangre spor .",
+    "sent_id": "104219-09-01"
+}

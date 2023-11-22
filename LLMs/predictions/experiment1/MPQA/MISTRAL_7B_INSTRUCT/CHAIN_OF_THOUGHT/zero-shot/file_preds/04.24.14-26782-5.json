@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "the protocol"
+                ],
+                [
+                    "36:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "pulled out"
+                ],
+                [
+                    "22:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "the protocol"
+                ],
+                [
+                    "36:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "announced"
+                ],
+                [
+                    "131:140"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "greenhouse gases"
+                ],
+                [
+                    "108:124"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "slow the growth"
+                ],
+                [
+                    "178:193"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The United States has pulled out of the protocol , which obliges developed countries to reduce emissions of greenhouse gases , and announced in February a voluntary U.S. plan to slow the growth of global warming gasses .",
+    "sent_id": "non_fbis/04.24.14-26782-5"
+}

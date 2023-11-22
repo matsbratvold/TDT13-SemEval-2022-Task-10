@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sun"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "up 39 %"
+                ],
+                [
+                    "108:115"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sun"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "$ 20.6 million"
+                ],
+                [
+                    "194:208"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Sun , a maker of computer workstations , reported sales of $ 538.5 million for the quarter ended Sept. 29 , up 39 % from $ 388.5 million a year earlier . In the 1988 period , the company earned $ 20.6 million , or 26 cents a share .",
+    "sent_id": "xbank/wsj_0928-2"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "yeah"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "5:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "it"
+                ],
+                [
+                    "5:7"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "it"
+                ],
+                [
+                    "5:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "5:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "it"
+                ],
+                [
+                    "5:7"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "yeah it 's a it 's a hard decision to make",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-12"
+}

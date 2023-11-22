@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det f\u00f8rste v\u00e5rtegnet"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "riktignok"
+                ],
+                [
+                    "25:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "riktignok"
+                ],
+                [
+                    "25:34"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "en dedikert house- og technoscene"
+                ],
+                [
+                    "47:80"
+                ]
+            ],
+            "Target": [
+                [
+                    "reist"
+                ],
+                [
+                    "85:90"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reist"
+                ],
+                [
+                    "85:90"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det f\u00f8rste v\u00e5rtegnet kom riktignok i fjor , da en dedikert house- og technoscene ble reist i T\u00f8yenparken .",
+    "sent_id": "302108-04-01"
+}

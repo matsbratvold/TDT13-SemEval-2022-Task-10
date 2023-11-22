@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "required"
+                ],
+                [
+                    "8:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "every college student"
+                ],
+                [
+                    "39:60"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "yeah or required required required for every college student oh",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-22"
+}

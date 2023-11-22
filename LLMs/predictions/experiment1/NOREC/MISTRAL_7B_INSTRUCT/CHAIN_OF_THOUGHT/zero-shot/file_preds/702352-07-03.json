@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Uten"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "verken"
+                ],
+                [
+                    "24:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "visuelt eller dramaturgisk"
+                ],
+                [
+                    "31:57"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Uten"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Uten"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "film"
+                ],
+                [
+                    "107:111"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Uten \u00e5 by p\u00e5 noe nytt , verken visuelt eller dramaturgisk , fjetrer han med en intenst sanselig og poetisk film om sorg , skyld og forsoning .",
+    "sent_id": "702352-07-03"
+}

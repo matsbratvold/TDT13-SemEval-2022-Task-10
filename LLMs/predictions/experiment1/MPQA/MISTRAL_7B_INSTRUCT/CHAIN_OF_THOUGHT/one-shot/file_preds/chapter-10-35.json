@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "realized"
+                ],
+                [
+                    "40:48"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "President Bush recalled that he quickly realized that the administration would have to invade Afghanistan with ground troops .",
+    "sent_id": "ula/chapter-10-35"
+}

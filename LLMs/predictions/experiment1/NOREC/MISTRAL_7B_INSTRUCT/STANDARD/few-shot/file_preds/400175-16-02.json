@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "vakre"
+                ],
+                [
+                    "14:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "setter"
+                ],
+                [
+                    "4:10"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "omgivelsene"
+                ],
+                [
+                    "33:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "omgivelsene opp mot det grusomme"
+                ],
+                [
+                    "33:65"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "dramaet"
+                ],
+                [
+                    "83:90"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "menneskeskapte dramaet p\u00e5 m\u00e5ter som gjenoppvekker b\u00e5de John Ford og Kurosawas filmer"
+                ],
+                [
+                    "68:152"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "dramaet"
+                ],
+                [
+                    "83:90"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "godt hjulpet av Kamilla Hj\u00e6lm Knudsens uts\u00f8kte filmfoto"
+                ],
+                [
+                    "155:210"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Han setter de vakre , storsl\u00e5tte omgivelsene opp mot det grusomme , menneskeskapte dramaet p\u00e5 m\u00e5ter som gjenoppvekker b\u00e5de John Ford og Kurosawas filmer , godt hjulpet av Kamilla Hj\u00e6lm Knudsens uts\u00f8kte filmfoto .",
+    "sent_id": "400175-16-02"
+}

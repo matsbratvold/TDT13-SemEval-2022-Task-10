@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "spillbarheten"
+                ],
+                [
+                    "30:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er s\u00e5 overlegen som den er her"
+                ],
+                [
+                    "44:74"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dette er dog lett \u00e5 tilgi n\u00e5r spillbarheten er s\u00e5 overlegen som den er her .",
+    "sent_id": "000913-18-03"
+}

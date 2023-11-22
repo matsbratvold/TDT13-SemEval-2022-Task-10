@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Squires"
+                ],
+                [
+                    "86:93"
+                ]
+            ],
+            "Target": [
+                [
+                    "matbank"
+                ],
+                [
+                    "14:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "spilt"
+                ],
+                [
+                    "77:82"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "En scene i en matbank ( et doneringssenter med matvarer ) er spesielt sterkt spilt av Squires .",
+    "sent_id": "004773-15-01"
+}

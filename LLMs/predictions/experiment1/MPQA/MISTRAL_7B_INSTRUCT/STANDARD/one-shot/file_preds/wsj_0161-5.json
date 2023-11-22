@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "A year earlier"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "net income"
+                ],
+                [
+                    "17:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "was"
+                ],
+                [
+                    "28:31"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "A year earlier"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "revenue"
+                ],
+                [
+                    "74:81"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "was"
+                ],
+                [
+                    "28:31"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "A year earlier , net income was $ 2.1 million , or six cents a share , on revenue of $ 169.9 million .",
+    "sent_id": "xbank/wsj_0161-5"
+}

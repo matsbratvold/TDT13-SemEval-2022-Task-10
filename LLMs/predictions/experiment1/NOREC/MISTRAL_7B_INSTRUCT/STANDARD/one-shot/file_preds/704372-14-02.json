@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "klassisk Hellstr\u00f6m"
+                ],
+                [
+                    "14:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "smaker av"
+                ],
+                [
+                    "4:13"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "han"
+                ],
+                [
+                    "39:42"
+                ]
+            ],
+            "Target": [
+                [
+                    "klassisk Hellstr\u00f6m"
+                ],
+                [
+                    "14:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vrir stemmen i et nytt leie"
+                ],
+                [
+                    "43:70"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det smaker av klassisk Hellstr\u00f6m , men han vrir stemmen i et nytt leie .",
+    "sent_id": "704372-14-02"
+}

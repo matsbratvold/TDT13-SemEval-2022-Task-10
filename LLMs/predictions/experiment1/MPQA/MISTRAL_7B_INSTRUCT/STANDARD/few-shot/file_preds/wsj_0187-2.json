@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "participants"
+                ],
+                [
+                    "63:75"
+                ]
+            ],
+            "Target": [
+                [
+                    "the shipyard 's losses"
+                ],
+                [
+                    "38:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "attempt to limit"
+                ],
+                [
+                    "21:37"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Christian Andersson"
+                ],
+                [
+                    "230:249"
+                ]
+            ],
+            "Target": [
+                [
+                    "the bankruptcy court will get out of the shipbuilding business"
+                ],
+                [
+                    "107:169"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said"
+                ],
+                [
+                    "76:80"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The new company will attempt to limit the shipyard 's losses , participants said . \" The situation is that the bankruptcy court will get out of the shipbuilding business . Everything will be taken over by the new company , \" said Christian Andersson , executive vice president of Oy Waertsilae , former parent of Waertsilae Marine .",
+    "sent_id": "xbank/wsj_0187-2"
+}

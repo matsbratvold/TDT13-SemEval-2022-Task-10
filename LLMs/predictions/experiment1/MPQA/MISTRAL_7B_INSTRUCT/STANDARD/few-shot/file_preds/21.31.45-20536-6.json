@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Government"
+                ],
+                [
+                    "33:47"
+                ]
+            ],
+            "Target": [
+                [
+                    "account for the whereabouts of some persons detained by the security forces"
+                ],
+                [
+                    "56:131"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "did not"
+                ],
+                [
+                    "48:55"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "security force members"
+                ],
+                [
+                    "166:188"
+                ]
+            ],
+            "Target": [
+                [
+                    "tortured and beat citizens who were suspected of complicity with Unita"
+                ],
+                [
+                    "200:270"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reportedly"
+                ],
+                [
+                    "189:199"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" There were deaths in custody . The Government did not account for the whereabouts of some persons detained by the security forces . During arrests and detentions , security force members reportedly tortured and beat citizens who were suspected of complicity with Unita , \" the report says .",
+    "sent_id": "temp_fbis/21.31.45-20536-6"
+}

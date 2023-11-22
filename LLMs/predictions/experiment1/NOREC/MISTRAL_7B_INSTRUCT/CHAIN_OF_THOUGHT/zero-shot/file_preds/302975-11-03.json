@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Samir"
+                ],
+                [
+                    "32:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enig"
+                ],
+                [
+                    "7:11"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Jeg er enig i at flere barn som Samir b\u00f8r f\u00e5 opphold i Norge .",
+    "sent_id": "302975-11-03"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Carmona"
+                ],
+                [
+                    "2:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "Chavez cabinet members"
+                ],
+                [
+                    "66:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "restoration"
+                ],
+                [
+                    "24:35"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Chavez cabinet members"
+                ],
+                [
+                    "66:88"
+                ]
+            ],
+            "Target": [
+                [
+                    "Carmona"
+                ],
+                [
+                    "2:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "move into the Presidential palace"
+                ],
+                [
+                    "89:122"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Chavez cabinet members"
+                ],
+                [
+                    "66:88"
+                ]
+            ],
+            "Target": [
+                [
+                    "Chavez cabinet members"
+                ],
+                [
+                    "66:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hold a meeting"
+                ],
+                [
+                    "127:141"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "- Carmona announces the restoration of the National Assembly , as Chavez cabinet members move into the Presidential palace and hold a meeting .",
+    "sent_id": "non_fbis/08.11.35-9355-20"
+}

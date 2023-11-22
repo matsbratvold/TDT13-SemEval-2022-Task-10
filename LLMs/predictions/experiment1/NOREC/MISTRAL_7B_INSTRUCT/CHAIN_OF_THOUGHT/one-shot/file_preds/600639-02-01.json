@@ -1,0 +1,83 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "My Cousin Rachel"
+                ],
+                [
+                    "2:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er noe b\u00e5de"
+                ],
+                [
+                    "21:32"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "svake for britiske herreg\u00e5rdsdramaer"
+                ],
+                [
+                    "48:84"
+                ]
+            ],
+            "Target": [
+                [
+                    "My Cousin Rachel"
+                ],
+                [
+                    "2:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "21:23"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "setter pris p\u00e5 en real psykologisk thriller"
+                ],
+                [
+                    "96:139"
+                ]
+            ],
+            "Target": [
+                [
+                    "My Cousin Rachel"
+                ],
+                [
+                    "2:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "21:23"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "\" My Cousin Rachel \" er noe b\u00e5de for dem som er svake for britiske herreg\u00e5rdsdramaer og dem som setter pris p\u00e5 en real psykologisk thriller .",
+    "sent_id": "600639-02-01"
+}

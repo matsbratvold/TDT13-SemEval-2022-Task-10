@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "han"
+                ],
+                [
+                    "12:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "rappingen"
+                ],
+                [
+                    "28:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bryte"
+                ],
+                [
+                    "22:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det beviser han ved \u00e5 bryte rappingen med stakkato linjer over en enkel orgel-skank :",
+    "sent_id": "103988-13-02"
+}

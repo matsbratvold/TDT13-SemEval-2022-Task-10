@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Chavez"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "mandate"
+                ],
+                [
+                    "15:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forced out of office"
+                ],
+                [
+                    "52:72"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Chavez"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blamed him for the deaths of 15 people"
+                ],
+                [
+                    "108:146"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Chavez , whose mandate was due to end in 2006 , was forced out of office by the country 's armed forces who blamed him for the deaths of 15 people during demonstrations in the streets of central Caracas against an opposition protest which later became violent .",
+    "sent_id": "non_fbis/15.36.10-18917-12"
+}

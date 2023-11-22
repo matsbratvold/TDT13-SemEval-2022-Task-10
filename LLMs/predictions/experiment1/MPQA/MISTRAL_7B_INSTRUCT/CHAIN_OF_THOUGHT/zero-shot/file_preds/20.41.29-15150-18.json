@@ -1,0 +1,94 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "protocol"
+                ],
+                [
+                    "17:25"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "must be"
+                ],
+                [
+                    "49:56"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "parties"
+                ],
+                [
+                    "81:88"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "must be"
+                ],
+                [
+                    "49:56"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "industrialized countries"
+                ],
+                [
+                    "108:132"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "carbon dioxide emissions"
+                ],
+                [
+                    "179:203"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In order for the protocol to be implemented , it must be ratified by at least 55 parties , including enough industrialized countries to represent at least 55 percent of the total carbon dioxide emissions in 1990 .",
+    "sent_id": "20011115/20.41.29-15150-18"
+}

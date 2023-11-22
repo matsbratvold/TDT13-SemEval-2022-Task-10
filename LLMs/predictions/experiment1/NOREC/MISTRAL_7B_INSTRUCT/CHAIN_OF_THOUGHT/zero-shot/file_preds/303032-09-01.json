@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "norsk med stort hell p\u00e5 to tidligere soloalbum"
+                ],
+                [
+                    "18:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tekstene blir unektelig n\u00e6rere"
+                ],
+                [
+                    "70:100"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Han har sunget p\u00e5 norsk med stort hell p\u00e5 to tidligere soloalbum , og tekstene blir unektelig n\u00e6rere .",
+    "sent_id": "303032-09-01"
+}

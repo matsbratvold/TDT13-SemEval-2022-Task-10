@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Legislators"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "Action from the Brazilian Government"
+                ],
+                [
+                    "20:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Request"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Legislators Request Action from the Brazilian Government",
+    "sent_id": "20011231/21.05.45-10422-3"
+}

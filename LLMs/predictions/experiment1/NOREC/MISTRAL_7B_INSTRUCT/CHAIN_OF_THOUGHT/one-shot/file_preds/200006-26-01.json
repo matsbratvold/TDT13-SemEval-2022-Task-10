@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "18:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "funksjoner"
+                ],
+                [
+                    "7:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "avhengige"
+                ],
+                [
+                    "31:40"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "18:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "Alta"
+                ],
+                [
+                    "53:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "koster"
+                ],
+                [
+                    "68:74"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "18:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "Alta"
+                ],
+                [
+                    "53:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hundrelapper"
+                ],
+                [
+                    "82:94"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "18:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "Alta"
+                ],
+                [
+                    "53:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snytt"
+                ],
+                [
+                    "133:138"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er funksjoner vi har blitt avhengige av , og n\u00e5r Alta i tillegg koster et par hundrelapper mer , f\u00f8ler vi oss rett og slett litt snytt .",
+    "sent_id": "200006-26-01"
+}

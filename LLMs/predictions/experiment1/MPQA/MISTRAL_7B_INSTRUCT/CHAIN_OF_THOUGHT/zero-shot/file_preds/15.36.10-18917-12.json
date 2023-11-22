@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Chavez"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "mandate"
+                ],
+                [
+                    "15:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forced out"
+                ],
+                [
+                    "52:62"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "armed forces"
+                ],
+                [
+                    "91:103"
+                ]
+            ],
+            "Target": [
+                [
+                    "Chavez"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blamed"
+                ],
+                [
+                    "108:114"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "country"
+                ],
+                [
+                    "80:87"
+                ]
+            ],
+            "Target": [
+                [
+                    "Chavez"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mandate"
+                ],
+                [
+                    "15:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Chavez , whose mandate was due to end in 2006 , was forced out of office by the country 's armed forces who blamed him for the deaths of 15 people during demonstrations in the streets of central Caracas against an opposition protest which later became violent .",
+    "sent_id": "non_fbis/15.36.10-18917-12"
+}

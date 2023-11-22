@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Kenya"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "type of tuberculosis reported in Embu"
+                ],
+                [
+                    "30:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Highly contagious"
+                ],
+                [
+                    "10:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Kenya : \" Highly contagious \" type of tuberculosis reported in Embu",
+    "sent_id": "20020211/20.56.28-3485-0"
+}

@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Det skal vi komme tilbake til"
+                ],
+                [
+                    "0:29"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Det skal vi komme tilbake til .",
+    "sent_id": "104659-07-01"
+}

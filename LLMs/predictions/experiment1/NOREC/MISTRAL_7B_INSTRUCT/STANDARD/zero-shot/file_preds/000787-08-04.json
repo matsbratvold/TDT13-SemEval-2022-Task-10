@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Og"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "f\u00f8rste gjennomspilling"
+                ],
+                [
+                    "6:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det meste"
+                ],
+                [
+                    "50:59"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Og p\u00e5 f\u00f8rste gjennomspilling er det lett \u00e5 overse det meste .",
+    "sent_id": "000787-08-04"
+}

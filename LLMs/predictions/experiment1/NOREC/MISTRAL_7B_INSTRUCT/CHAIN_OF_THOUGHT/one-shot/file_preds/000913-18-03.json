@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dette er"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "spillbarheten"
+                ],
+                [
+                    "30:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dog lett \u00e5 tilgi"
+                ],
+                [
+                    "9:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dette er dog lett \u00e5 tilgi n\u00e5r spillbarheten er s\u00e5 overlegen som den er her .",
+    "sent_id": "000913-18-03"
+}

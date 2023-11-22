@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "minister"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto pact"
+                ],
+                [
+                    "76:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "press on"
+                ],
+                [
+                    "37:45"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The minister however said Japan will press on with ratification of the 1997 Kyoto pact on global warming , which environment ministers from 160 countries -- with the exception of the United States -- agreed on in Morocco last November after marathon talks .",
+    "sent_id": "temp_fbis/20.44.41-9757-2"
+}

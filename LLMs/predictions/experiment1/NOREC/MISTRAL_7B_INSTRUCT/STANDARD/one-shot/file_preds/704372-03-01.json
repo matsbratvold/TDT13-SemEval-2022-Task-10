@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "H\u00e5kan Hellstr\u00f6m"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "H\u00e5kan Hellstr\u00f6m er mer enn matrosdress , trompet og asfaltballader .",
+    "sent_id": "704372-03-01"
+}

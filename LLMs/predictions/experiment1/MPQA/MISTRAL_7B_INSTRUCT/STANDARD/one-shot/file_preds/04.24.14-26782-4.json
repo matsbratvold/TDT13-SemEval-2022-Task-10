@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Kyoto pact"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "grew out of"
+                ],
+                [
+                    "15:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "grew out of"
+                ],
+                [
+                    "15:26"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The Kyoto pact grew out of the Conference of the Parties ( COP ) to the U.N. Framework Convention on Climate Change , which itself came out of UNCED .",
+    "sent_id": "non_fbis/04.24.14-26782-4"
+}

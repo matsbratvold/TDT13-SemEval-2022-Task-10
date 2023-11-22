@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ved praktisk bruk"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "27:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sv\u00e6rt responsiv"
+                ],
+                [
+                    "54:69"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Ved praktisk bruk"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "27:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kjapp"
+                ],
+                [
+                    "73:78"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Ved praktisk bruk fremst\u00e5r Fenix Chronos dessuten som sv\u00e6rt responsiv og kjapp .",
+    "sent_id": "201344-19-01"
+}

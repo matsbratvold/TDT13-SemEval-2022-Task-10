@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "delen"
+                ],
+                [
+                    "39:44"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Spesielt p\u00e5 \u00ab slenge rundt med k\u00f8ll\u00e5 \u00bb delen av refrenget .",
+    "sent_id": "104332-02-04"
+}

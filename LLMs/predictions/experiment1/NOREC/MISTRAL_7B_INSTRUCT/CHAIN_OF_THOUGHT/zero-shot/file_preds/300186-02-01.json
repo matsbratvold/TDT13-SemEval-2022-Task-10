@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Er"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "hest"
+                ],
+                [
+                    "3:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "best"
+                ],
+                [
+                    "8:12"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Er hest best ?",
+    "sent_id": "300186-02-01"
+}

@@ -1,0 +1,83 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Endless treffer"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "tids\u00e5nden"
+                ],
+                [
+                    "16:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med britisk-influert elektronika"
+                ],
+                [
+                    "26:58"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "tilf\u00f8rt"
+                ],
+                [
+                    "61:68"
+                ]
+            ],
+            "Target": [
+                [
+                    "Oceans karakteristiske pianoklimpring"
+                ],
+                [
+                    "69:106"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "( \u201c Deathwish \u201d , \u201c Alabama \u201d )"
+                ],
+                [
+                    "107:138"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "gjestes av"
+                ],
+                [
+                    "142:152"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": "",
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Endless treffer tids\u00e5nden med britisk-influert elektronika , tilf\u00f8rt Oceans karakteristiske pianoklimpring ( \u201c Deathwish \u201d , \u201c Alabama \u201d ) og gjestes av blant annet James Blake , Sampha og Arca .",
+    "sent_id": "003036-08-01"
+}

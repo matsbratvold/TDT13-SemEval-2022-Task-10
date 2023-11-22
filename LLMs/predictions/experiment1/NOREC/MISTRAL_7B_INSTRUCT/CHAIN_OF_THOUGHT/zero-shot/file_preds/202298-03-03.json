@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "bilene"
+                ],
+                [
+                    "50:56"
+                ]
+            ],
+            "Target": [
+                [
+                    "avgiftsreduksjon"
+                ],
+                [
+                    "64:80"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vil det fortsette \u00e5 v\u00e6re"
+                ],
+                [
+                    "5:29"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "S\u00e5nn vil det fortsette \u00e5 v\u00e6re i all den tid disse bilene f\u00e5r en avgiftsreduksjon p\u00e5 grunn av drivlinjen .",
+    "sent_id": "202298-03-03"
+}

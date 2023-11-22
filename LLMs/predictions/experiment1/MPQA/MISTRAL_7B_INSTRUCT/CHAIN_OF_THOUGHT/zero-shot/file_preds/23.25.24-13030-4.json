@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "minister"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "mainland China"
+                ],
+                [
+                    "42:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "squeezing"
+                ],
+                [
+                    "60:69"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "minister"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "ROC"
+                ],
+                [
+                    "172:175"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "break through"
+                ],
+                [
+                    "186:199"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The minister went on to say that although mainland China is squeezing Taiwan 's development space in the world community with its huge resources and strong diplomacy , the ROC can still break through its difficulties as long as it implements democracy and obtains the support of overseas Chinese communities .",
+    "sent_id": "20010817/23.25.24-13030-4"
+}

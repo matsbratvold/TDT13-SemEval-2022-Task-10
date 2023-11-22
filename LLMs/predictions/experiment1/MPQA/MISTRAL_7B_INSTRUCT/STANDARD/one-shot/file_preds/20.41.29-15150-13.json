@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jun Mu"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "industries"
+                ],
+                [
+                    "137:147"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "have been rather passive"
+                ],
+                [
+                    "148:172"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Jun Mu , deputy director of the industry and environment team at the Korea Chamber of Commerce and Industry ( KCCI ) , said , ``So far , industries have been rather passive in dealing with emission reductions , as is has been something that was considered to lie far off in the future .",
+    "sent_id": "20011115/20.41.29-15150-13"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det neste som skjer"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "rollene i fengselet"
+                ],
+                [
+                    "79:98"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snus p\u00e5 hodet"
+                ],
+                [
+                    "99:112"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det neste som skjer , cirka umiddelbart etter at f\u00f8rste episode ruller , er at rollene i fengselet snus p\u00e5 hodet .",
+    "sent_id": "103992-09-02"
+}

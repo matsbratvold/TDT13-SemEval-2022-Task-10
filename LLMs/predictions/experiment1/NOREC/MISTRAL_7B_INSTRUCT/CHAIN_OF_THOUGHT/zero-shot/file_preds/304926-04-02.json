@@ -1,0 +1,110 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jentas hverdag"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "oppgaver"
+                ],
+                [
+                    "42:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "absurd"
+                ],
+                [
+                    "28:34"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Jentas hverdag"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "voksenliv"
+                ],
+                [
+                    "95:104"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "suksessfullt"
+                ],
+                [
+                    "82:94"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Jentas hverdag"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "tid"
+                ],
+                [
+                    "143:146"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Jentas hverdag"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "barn"
+                ],
+                [
+                    "162:166"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Jentas hverdag best\u00e5r av en absurd mengde oppgaver som skal forberede henne p\u00e5 et suksessfullt voksenliv , og som etterlater forsvinnende lite tid til det \u00e5 v\u00e6re barn .",
+    "sent_id": "304926-04-02"
+}

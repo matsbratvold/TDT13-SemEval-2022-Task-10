@@ -1,0 +1,110 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Attorney General John Ashcroft"
+                ],
+                [
+                    "442:472"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "risk minimization"
+                ],
+                [
+                    "531:548"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Attorney General John Ashcroft"
+                ],
+                [
+                    "442:472"
+                ]
+            ],
+            "Target": [
+                [
+                    "special interest immigration hearings"
+                ],
+                [
+                    "658:695"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "closed to the public"
+                ],
+                [
+                    "696:716"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Attorney General John Ashcroft"
+                ],
+                [
+                    "442:472"
+                ]
+            ],
+            "Target": [
+                [
+                    "INS attorneys"
+                ],
+                [
+                    "955:968"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "trouble getting information"
+                ],
+                [
+                    "1025:1052"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Attorney General John Ashcroft"
+                ],
+                [
+                    "442:472"
+                ]
+            ],
+            "Target": [
+                [
+                    "clearance process"
+                ],
+                [
+                    "1240:1257"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Beginning on September 11 , Immigration and Naturalization Service agents working in cooperation with the FBI began arresting individuals for immigration violations whom they encountered while following up leads in the FBI 's investigation of the 9/11 attacks . Eventually , 768 aliens were arrested as \" special interest \" detainees . Some ( such as Zacarias Moussaoui ) were actually in INS custody before 9/11 ; most were arrested after . Attorney General John Ashcroft told us that he saw his job in directing this effort as \" risk minimization , \" both to find out who had committed the attacks and to prevent a subsequent attack . Ashcroft ordered all special interest immigration hearings closed to the public , family members , and press ; directed government attorneys to seek denial of bond until such time as they were \" cleared \" of terrorist connections by the FBI and other agencies ; and ordered the identity of the detainees kept secret . INS attorneys charged with prosecuting the immigration violations had trouble getting information about the detainees and any terrorist connections ; in the chaos after the attacks , it was very difficult to reach law enforcement officials , who were following up on other leads . The clearance process approved by the Justice Department was time - consuming , lasting an average of about 80 days .",
+    "sent_id": "ula/chapter-10-15"
+}

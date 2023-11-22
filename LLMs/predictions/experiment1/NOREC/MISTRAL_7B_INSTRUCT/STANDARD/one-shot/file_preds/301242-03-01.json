@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Astrid Sverresdotter Dypvik"
+                ],
+                [
+                    "0:27"
+                ]
+            ],
+            "Target": [
+                [
+                    "Det var DDR"
+                ],
+                [
+                    "45:56"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Astrid Sverresdotter Dypvik kom i 2012 med \u00ab Det var DDR \u00bb , en samling portretterende beretninger om folk i \u00d8st-Tyskland , landet bak muren .",
+    "sent_id": "301242-03-01"
+}

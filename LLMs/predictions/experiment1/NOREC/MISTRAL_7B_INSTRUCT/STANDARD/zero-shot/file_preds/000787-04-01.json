@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Rare"
+                ],
+                [
+                    "41:45"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "P\u00e5 90-tallet tok den britiske utvikleren Rare over utviklingsarbeidet fra den japanske spillgigantens egne skapere og introduserte \u00ab Country \u00bb -serien .",
+    "sent_id": "000787-04-01"
+}

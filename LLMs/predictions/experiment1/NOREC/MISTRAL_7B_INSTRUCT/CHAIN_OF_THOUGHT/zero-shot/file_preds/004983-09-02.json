@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "et sted"
+                ],
+                [
+                    "3:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "felles h\u00e5p og dr\u00f8mmer"
+                ],
+                [
+                    "16:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gi"
+                ],
+                [
+                    "42:44"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "et sted"
+                ],
+                [
+                    "3:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "vennskap og livsgnist"
+                ],
+                [
+                    "45:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gi"
+                ],
+                [
+                    "42:44"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "et sted"
+                ],
+                [
+                    "3:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "riktige tankene"
+                ],
+                [
+                    "75:90"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kan f\u00e5"
+                ],
+                [
+                    "91:97"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "et sted"
+                ],
+                [
+                    "3:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "riktige menneskene"
+                ],
+                [
+                    "120:138"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00e5r v\u00e6re"
+                ],
+                [
+                    "139:147"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Og et sted hvor felles h\u00e5p og dr\u00f8mmer kan gi vennskap og livsgnist hvis de riktige tankene kan f\u00e5 rom til \u00e5 gro , og de riktige menneskene f\u00e5r v\u00e6re der for \u00e5 holde barna i sollyset .",
+    "sent_id": "004983-09-02"
+}

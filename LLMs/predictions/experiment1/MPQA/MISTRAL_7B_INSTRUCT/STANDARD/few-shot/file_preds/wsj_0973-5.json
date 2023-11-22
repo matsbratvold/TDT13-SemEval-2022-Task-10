@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Paul E. Lego"
+                ],
+                [
+                    "30:42"
+                ]
+            ],
+            "Target": [
+                [
+                    "divestiture of $ 300 million of slow - growth , low - profit businesses"
+                ],
+                [
+                    "94:165"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has been more than offset by"
+                ],
+                [
+                    "166:194"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In the past 20 months alone , Paul E. Lego , president and chief operating officer , said the divestiture of $ 300 million of slow - growth , low - profit businesses has been more than offset by $ 600 million in profitable acquisitions .",
+    "sent_id": "xbank/wsj_0973-5"
+}

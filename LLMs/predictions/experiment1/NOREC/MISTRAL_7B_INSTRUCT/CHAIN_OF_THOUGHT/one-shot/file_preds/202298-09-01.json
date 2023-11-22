@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "testbilen"
+                ],
+                [
+                    "2:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "satt det loggboks"
+                ],
+                [
+                    "12:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "finske Driveco"
+                ],
+                [
+                    "34:48"
+                ]
+            ],
+            "Target": [
+                [
+                    "loggboks"
+                ],
+                [
+                    "21:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forteller hvor mye av kj\u00f8returen som er utf\u00f8rt elektrisk"
+                ],
+                [
+                    "53:109"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "I testbilen satt det loggboks fra finske Driveco som forteller hvor mye av kj\u00f8returen som er utf\u00f8rt elektrisk , b\u00e5de i tid og distanse .",
+    "sent_id": "202298-09-01"
+}

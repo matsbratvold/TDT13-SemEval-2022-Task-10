@@ -1,0 +1,61 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Den estetisk sterke"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dystre steampunk-verdenen"
+                ],
+                [
+                    "22:47"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "gjorde at man spilte seg gjennom det flere ganger"
+                ],
+                [
+                    "113:162"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "gjorde at man spilte seg gjennom det flere ganger"
+                ],
+                [
+                    "113:162"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den estetisk sterke , dystre steampunk-verdenen , det gjennomarbeidede spilluniverset og de intrikate oppdragene gjorde at man spilte seg gjennom det flere ganger , for \u00e5 s\u00f8ke nye m\u00e5ter \u00e5 l\u00f8se ting p\u00e5 og for \u00e5 n\u00f8ste opp i sideoppdrag .",
+    "sent_id": "000913-05-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det oppgitte forbruket"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "bilen"
+                ],
+                [
+                    "73:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "raskt til"
+                ],
+                [
+                    "49:58"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det oppgitte forbruket p\u00e5 0,35 liter per mil ble raskt til 0,5 liter n\u00e5r bilen ble brukt i det daglige .",
+    "sent_id": "202298-05-05"
+}

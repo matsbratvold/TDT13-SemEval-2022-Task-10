@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "They"
+                ],
+                [
+                    "2:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "God"
+                ],
+                [
+                    "26:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "n't said"
+                ],
+                [
+                    "12:20"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "They"
+                ],
+                [
+                    "2:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "God"
+                ],
+                [
+                    "26:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "know"
+                ],
+                [
+                    "64:68"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "They"
+                ],
+                [
+                    "2:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "God"
+                ],
+                [
+                    "26:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hope"
+                ],
+                [
+                    "97:101"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" They have n't said that God has abandoned them , because they know , \" he says . \" That 's the hope that they have , that God is their only hope .",
+    "sent_id": "non_fbis/06.44.52-19992-43"
+}

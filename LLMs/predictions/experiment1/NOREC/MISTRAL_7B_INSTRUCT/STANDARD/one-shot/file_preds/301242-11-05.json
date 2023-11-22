@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "n\u00e5 inne til litt mer egen refleksjon"
+                ],
+                [
+                    "18:54"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Og var ikke tiden n\u00e5 inne til litt mer egen refleksjon ?",
+    "sent_id": "301242-11-05"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Servit\u00f8ren"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "raust"
+                ],
+                [
+                    "17:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "deler"
+                ],
+                [
+                    "11:16"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Servit\u00f8ren"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "er lett \u00e5 bli kjent med"
+                ],
+                [
+                    "26:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "deler"
+                ],
+                [
+                    "11:16"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Servit\u00f8ren deler raust og er lett \u00e5 bli kjent med .",
+    "sent_id": "501595-04-03"
+}

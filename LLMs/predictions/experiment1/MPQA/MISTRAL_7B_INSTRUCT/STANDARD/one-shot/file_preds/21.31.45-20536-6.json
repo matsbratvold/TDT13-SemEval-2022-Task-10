@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "deaths in custody"
+                ],
+                [
+                    "13:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "There were"
+                ],
+                [
+                    "2:12"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Government"
+                ],
+                [
+                    "37:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "did not account"
+                ],
+                [
+                    "48:63"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "security force members"
+                ],
+                [
+                    "166:188"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tortured and beat"
+                ],
+                [
+                    "200:217"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" There were deaths in custody . The Government did not account for the whereabouts of some persons detained by the security forces . During arrests and detentions , security force members reportedly tortured and beat citizens who were suspected of complicity with Unita , \" the report says .",
+    "sent_id": "temp_fbis/21.31.45-20536-6"
+}

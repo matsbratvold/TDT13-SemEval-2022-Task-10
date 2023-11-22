@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "alt"
+                ],
+                [
+                    "8:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "interessant"
+                ],
+                [
+                    "20:31"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "alle"
+                ],
+                [
+                    "36:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "interessant"
+                ],
+                [
+                    "20:31"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "nettopp den enkelte"
+                ],
+                [
+                    "105:124"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "interessere"
+                ],
+                [
+                    "93:104"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Om ikke alt er like interessant for alle , skal det godt gj\u00f8res \u00e5 ikke finne noe her som vil interessere nettopp den enkelte .",
+    "sent_id": "601365-10-01"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "he"
+                ],
+                [
+                    "3:5"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "has completely violated"
+                ],
+                [
+                    "20:43"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" The United States has completely violated the UN Charter and the principles of relevant international conferences and documents , \" he added .",
+    "sent_id": "temp_fbis/21.37.46-9337-7"
+}

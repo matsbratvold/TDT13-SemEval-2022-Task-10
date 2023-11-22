@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Beijing"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "diplomatic relations"
+                ],
+                [
+                    "43:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "refused"
+                ],
+                [
+                    "22:29"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Beijing"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "economic exchanges"
+                ],
+                [
+                    "153:171"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "encouraged"
+                ],
+                [
+                    "142:152"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Beijing has also long refused to establish diplomatic relations with any nation that maintains official contact with Taiwan , although it has encouraged economic exchanges between Taiwan and all nations .",
+    "sent_id": "temp_fbis/22.34.58-23977-9"
+}

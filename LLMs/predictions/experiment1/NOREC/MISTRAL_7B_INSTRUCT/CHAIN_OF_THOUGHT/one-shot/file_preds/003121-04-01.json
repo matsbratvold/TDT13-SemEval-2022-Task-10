@@ -1,0 +1,98 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sigrids"
+                ],
+                [
+                    "31:38"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sigrids"
+                ],
+                [
+                    "31:38"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "Plot Twist"
+                ],
+                [
+                    "145:155"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Sigrids"
+                ],
+                [
+                    "31:38"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "Dynamite"
+                ],
+                [
+                    "162:170"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Sigrids"
+                ],
+                [
+                    "31:38"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "Fake Friends"
+                ],
+                [
+                    "197:209"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "\u00ab Don \u2019 t Kill My Vibe EP \u00bb er Sigrids f\u00f8rste EP og inkluderer naturligvis gjennombruddsl\u00e5ten \u00ab Don \u2019 t Kill My Vibe \u00bb , hennes nyeste singler \u00ab Plot Twist \u00bb , \u00ab Dynamite \u00bb og det nye tilskuddet \u00ab Fake Friends \u00bb .",
+    "sent_id": "003121-04-01"
+}

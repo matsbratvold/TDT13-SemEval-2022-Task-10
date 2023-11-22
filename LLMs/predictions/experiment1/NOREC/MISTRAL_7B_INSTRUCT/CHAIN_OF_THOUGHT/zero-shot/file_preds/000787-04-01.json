@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "den britiske utvikleren Rare"
+                ],
+                [
+                    "17:45"
+                ]
+            ],
+            "Target": [
+                [
+                    "den japanske spillgigantens egne skapere"
+                ],
+                [
+                    "74:114"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "den britiske utvikleren Rare"
+                ],
+                [
+                    "17:45"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "introduserte"
+                ],
+                [
+                    "118:130"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "P\u00e5 90-tallet tok den britiske utvikleren Rare over utviklingsarbeidet fra den japanske spillgigantens egne skapere og introduserte \u00ab Country \u00bb -serien .",
+    "sent_id": "000787-04-01"
+}

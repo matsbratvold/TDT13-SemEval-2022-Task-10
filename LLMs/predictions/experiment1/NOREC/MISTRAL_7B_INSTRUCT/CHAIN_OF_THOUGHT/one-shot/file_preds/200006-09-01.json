@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Designen til Alta"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fitbit-aktivitetsarmb\u00e5nd"
+                ],
+                [
+                    "45:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skiller seg"
+                ],
+                [
+                    "18:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Designen til Alta skiller seg fra foreg\u00e5ende Fitbit-aktivitetsarmb\u00e5nd .",
+    "sent_id": "200006-09-01"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "various documents including the US National Security Council memorandum number 68 issued in 1950"
+                ],
+                [
+                    "33:129"
+                ]
+            ],
+            "Target": [
+                [
+                    "US supremacy"
+                ],
+                [
+                    "137:149"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has to be maintained at any cost"
+                ],
+                [
+                    "150:182"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "It is possible that the United States itself planned this suicidal attack"
+                ],
+                [
+                    "369:442"
+                ]
+            ],
+            "Target": [
+                [
+                    "US attack on Afghanistan"
+                ],
+                [
+                    "222:246"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "was not an impulsive action"
+                ],
+                [
+                    "267:294"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "It has been clearly mentioned in various documents including the US National Security Council memorandum number 68 issued in 1950 , that US supremacy has to be maintained at any cost . It can be derived from this that the US attack on Afghanistan without any logic , was not an impulsive action but the psychology of maintaining US supremacy was fully involved in it . It is possible that the United States itself planned this suicidal attack .",
+    "sent_id": "20020315/20.21.54-4382-5"
+}

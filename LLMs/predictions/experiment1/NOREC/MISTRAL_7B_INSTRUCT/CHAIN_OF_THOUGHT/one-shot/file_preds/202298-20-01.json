@@ -1,0 +1,83 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "markeder"
+                ],
+                [
+                    "8:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vil det ogs\u00e5 bli en 1,5-liter uten hybrid \u00e5 f\u00e5"
+                ],
+                [
+                    "17:63"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "andre"
+                ],
+                [
+                    "2:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "markeder"
+                ],
+                [
+                    "8:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vil det ogs\u00e5 bli en 1,5-liter uten hybrid \u00e5 f\u00e5"
+                ],
+                [
+                    "17:63"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Norge"
+                ],
+                [
+                    "98:103"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "denne skal ikke tas inn til Norge"
+                ],
+                [
+                    "70:103"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "I andre markeder vil det ogs\u00e5 bli en 1,5-liter uten hybrid \u00e5 f\u00e5 , men denne skal ikke tas inn til Norge .",
+    "sent_id": "202298-20-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Afghan sources"
+                ],
+                [
+                    "26:40"
+                ]
+            ],
+            "Target": [
+                [
+                    "high - ranking Taleban commanders"
+                ],
+                [
+                    "43:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "visited"
+                ],
+                [
+                    "170:177"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "According to reports from Afghan sources , high - ranking Taleban commanders , including [ Interior Minister ] Mola Abdorrazaq Akhond and Mola Abdol Qahir [ phonetic ] , visited the front line in [ northeastern ] Takhar Province yesterday morning , Tuesday .",
+    "sent_id": "20010718/23.47.18-27024-1"
+}

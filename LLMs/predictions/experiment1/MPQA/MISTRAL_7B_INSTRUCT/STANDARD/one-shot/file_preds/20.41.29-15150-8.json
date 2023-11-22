@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "South Korea"
+                ],
+                [
+                    "38:49"
+                ]
+            ],
+            "Target": [
+                [
+                    "amount of emissions"
+                ],
+                [
+                    "16:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "discharged"
+                ],
+                [
+                    "50:60"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "In terms of the amount of emissions , South Korea discharged 410 million tons of carbon dioxide in 1999 , ranking tenth in the world .",
+    "sent_id": "20011115/20.41.29-15150-8"
+}

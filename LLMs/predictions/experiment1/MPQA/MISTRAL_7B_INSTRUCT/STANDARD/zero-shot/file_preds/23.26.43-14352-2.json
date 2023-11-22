@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "General Chris Pepane"
+                ],
+                [
+                    "16:36"
+                ]
+            ],
+            "Target": [
+                [
+                    "Nyanda"
+                ],
+                [
+                    "51:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "first goodwill visit"
+                ],
+                [
+                    "61:81"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "SANDF spokesman General Chris Pepane said this was Nyanda 's first goodwill visit to China .",
+    "sent_id": "20010819/23.26.43-14352-2"
+}

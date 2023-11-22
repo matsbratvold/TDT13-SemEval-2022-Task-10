@@ -1,0 +1,94 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "challenge"
+                ],
+                [
+                    "40:49"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "ineffective"
+                ],
+                [
+                    "366:377"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Great Britain"
+                ],
+                [
+                    "661:674"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "locked in the familiar psychodrama"
+                ],
+                [
+                    "684:718"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Africa"
+                ],
+                [
+                    "259:265"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "ratified"
+                ],
+                [
+                    "811:819"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "This \" fait accompli \" in Zimbabwe is a challenge for the international community . It can only rise to meet it by making some radical changes . Indignant protests apart , nothing was done to prevent the disaster awaiting one of the key countries in southern Africa , seen as the continent 's growth pole . The weapon of so - called \" intelligent \" sanctions proved ineffective , especially as the punitive measures were taken too late and only served to deny Robert Mugabe and his associates trips abroad and access to the funds they have spirited away . They amounted to no more than a ban on holidays and a golden retirement . Finally and most importantly , Great Britain remained locked in the familiar psychodrama between the former colonizer and colonized . Africa , with its own \" observers , \" has just ratified a shameful electoral sham . Kenya and Tanzania even \" congratulated \" Robert Mugabe on his re-election after the first round .",
+    "sent_id": "20020316/20.35.03-16511-2"
+}

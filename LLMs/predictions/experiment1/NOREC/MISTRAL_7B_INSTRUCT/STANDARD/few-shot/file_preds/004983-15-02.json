@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "filmen"
+                ],
+                [
+                    "61:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "v\u00e6rt plass til mer utbroderte spenningstopper"
+                ],
+                [
+                    "10:55"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det hadde v\u00e6rt plass til mer utbroderte spenningstopper hvis filmen hadde g\u00e5tt utover sine knappe 66 minutt .",
+    "sent_id": "004983-15-02"
+}

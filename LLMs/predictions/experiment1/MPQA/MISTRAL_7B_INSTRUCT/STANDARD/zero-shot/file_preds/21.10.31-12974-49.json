@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Aleksandr Ginzburg"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "Institute of Atmospheric Physics"
+                ],
+                [
+                    "44:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "deputy director"
+                ],
+                [
+                    "21:36"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Aleksandr Ginzburg , deputy director of the Institute of Atmospheric Physics",
+    "sent_id": "temp_fbis/21.10.31-12974-49"
+}

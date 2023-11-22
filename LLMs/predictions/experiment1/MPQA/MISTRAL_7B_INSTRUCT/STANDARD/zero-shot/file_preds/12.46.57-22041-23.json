@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Specialist Rivas"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "press"
+                ],
+                [
+                    "37:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ignored"
+                ],
+                [
+                    "25:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Specialist Rivas"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "propaganda"
+                ],
+                [
+                    "53:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ignored"
+                ],
+                [
+                    "25:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Specialist Rivas"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "job"
+                ],
+                [
+                    "127:130"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very hard time doing"
+                ],
+                [
+                    "103:123"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Specialist Rivas said he ignored the press . \" It 's propaganda . If I let it get to me I would have a very hard time doing my job . \"",
+    "sent_id": "non_fbis/12.46.57-22041-23"
+}

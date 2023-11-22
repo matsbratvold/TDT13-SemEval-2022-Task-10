@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "maten og serveringen"
+                ],
+                [
+                    "42:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "uformell stil"
+                ],
+                [
+                    "20:33"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "maten og serveringen"
+                ],
+                [
+                    "42:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "faste"
+                ],
+                [
+                    "98:103"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "maten og serveringen"
+                ],
+                [
+                    "42:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "flerretters menyer"
+                ],
+                [
+                    "106:124"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "I dag er det en mer uformell stil p\u00e5 b\u00e5de maten og serveringen , men du f\u00e5r fremdeles tilbudet om faste , flerretters menyer .",
+    "sent_id": "501595-06-01"
+}

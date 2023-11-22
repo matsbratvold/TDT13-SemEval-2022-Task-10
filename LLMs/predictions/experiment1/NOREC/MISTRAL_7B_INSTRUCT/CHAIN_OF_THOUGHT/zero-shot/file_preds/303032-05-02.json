@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jeff Wasserman"
+                ],
+                [
+                    "23:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "sedvanlig h\u00f8yt niv\u00e5"
+                ],
+                [
+                    "47:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "holder"
+                ],
+                [
+                    "40:46"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Jeff Wasserman"
+                ],
+                [
+                    "23:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "filosofi"
+                ],
+                [
+                    "90:98"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "32:34"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Tekstene , skrevet med Jeff Wasserman , holder sedvanlig h\u00f8yt niv\u00e5 , og er mer f\u00f8ling enn filosofi .",
+    "sent_id": "303032-05-02"
+}

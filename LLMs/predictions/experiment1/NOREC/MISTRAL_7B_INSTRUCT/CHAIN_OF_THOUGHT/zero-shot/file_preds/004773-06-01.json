@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Blir"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "kasteball"
+                ],
+                [
+                    "5:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kasteball"
+                ],
+                [
+                    "5:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Blir kasteball i systemet",
+    "sent_id": "004773-06-01"
+}

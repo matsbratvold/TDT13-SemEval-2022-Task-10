@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sony Corp."
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "Columbia Pictures Entertainment Inc."
+                ],
+                [
+                    "42:78"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Sony Corp. completed its tender offer for Columbia Pictures Entertainment Inc. , with Columbia shareholders tendering 99.3 % of all common shares outstanding by the Tuesday deadline .",
+    "sent_id": "xbank/wsj_0175-1"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ken Loach"
+                ],
+                [
+                    "20:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "disse kontrastene"
+                ],
+                [
+                    "41:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "overdrive"
+                ],
+                [
+                    "30:39"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Av og til synes jeg Ken Loach overdriver disse kontrastene .",
+    "sent_id": "004773-11-01"
+}

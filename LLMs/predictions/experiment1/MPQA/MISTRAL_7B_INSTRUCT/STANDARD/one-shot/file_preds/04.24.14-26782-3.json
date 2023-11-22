@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "wording on bringing the Kyoto Protocol on global warming into effect in 2002"
+                ],
+                [
+                    "36:112"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "demanded"
+                ],
+                [
+                    "22:30"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The United States has demanded that wording on bringing the Kyoto Protocol on global warming into effect in 2002 be excluded from the implementation documentation of a global environmental agenda being drawn up at the third session of the preparatory meeting of the U.N. Conference on Environment and Development ( UNCED ) , sources said Thursday .",
+    "sent_id": "non_fbis/04.24.14-26782-3"
+}

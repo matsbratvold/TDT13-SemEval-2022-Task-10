@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Lokalet"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "kn\u00f8ttlite"
+                ],
+                [
+                    "11:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "hjertet"
+                ],
+                [
+                    "27:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "stort"
+                ],
+                [
+                    "38:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Lokalet er kn\u00f8ttlite , men hjertet er stort .",
+    "sent_id": "501595-02-01"
+}

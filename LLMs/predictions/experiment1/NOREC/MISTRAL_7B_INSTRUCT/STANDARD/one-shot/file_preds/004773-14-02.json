@@ -1,0 +1,76 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "rolletolkning"
+                ],
+                [
+                    "29:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sterk og bevegende"
+                ],
+                [
+                    "10:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Hayley Squires"
+                ],
+                [
+                    "73:87"
+                ]
+            ],
+            "Target": [
+                [
+                    "rolletolkning"
+                ],
+                [
+                    "29:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "matches fortreffelig"
+                ],
+                [
+                    "49:69"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Katie"
+                ],
+                [
+                    "92:97"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ung , sterk og stolt kvinne som drives stadig nedover av mangelen p\u00e5 hjelp"
+                ],
+                [
+                    "103:177"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er en sterk og bevegende rolletolkning , som matches fortreffelig av Hayley Squires som Katie , en ung , sterk og stolt kvinne som drives stadig nedover av mangelen p\u00e5 hjelp .",
+    "sent_id": "004773-14-02"
+}

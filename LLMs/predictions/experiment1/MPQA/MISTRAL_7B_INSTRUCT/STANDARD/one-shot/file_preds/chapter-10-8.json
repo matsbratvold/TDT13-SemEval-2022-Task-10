@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "White House Deputy Chief of Staff Joshua Bolten"
+                ],
+                [
+                    "72:119"
+                ]
+            ],
+            "Target": [
+                [
+                    "urgent domestic issues"
+                ],
+                [
+                    "35:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "accumulated"
+                ],
+                [
+                    "58:69"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "White House Deputy Chief of Staff Joshua Bolten"
+                ],
+                [
+                    "72:119"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "chaired"
+                ],
+                [
+                    "120:127"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "IMMEDIATE RESPONSES AT HOME As the urgent domestic issues accumulated , White House Deputy Chief of Staff Joshua Bolten chaired a temporary \" domestic consequences \" group .",
+    "sent_id": "ula/chapter-10-8"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Marit Larsen"
+                ],
+                [
+                    "11:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "over underflaten"
+                ],
+                [
+                    "24:40"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Slik l\u00e5ter Marit Larsen over underflaten .",
+    "sent_id": "104870-02-02"
+}

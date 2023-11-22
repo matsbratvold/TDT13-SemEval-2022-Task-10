@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Washington"
+                ],
+                [
+                    "45:55"
+                ]
+            ],
+            "Target": [
+                [
+                    "prisoners"
+                ],
+                [
+                    "80:89"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "being treated humanely"
+                ],
+                [
+                    "94:116"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "None has yet been charged with a crime , but Washington has maintained that the prisoners are being treated humanely .",
+    "sent_id": "non_fbis/04.28.09-24241-11"
+}

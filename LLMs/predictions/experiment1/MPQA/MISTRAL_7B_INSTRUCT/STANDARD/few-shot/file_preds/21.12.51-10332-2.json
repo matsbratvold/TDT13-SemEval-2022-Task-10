@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Zhang"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "serious disturbances such as shop robberies and traffic breakdowns"
+                ],
+                [
+                    "25:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "occurred in Argentina"
+                ],
+                [
+                    "92:113"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Zhang"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "groceries owned by overseas Chinese as well as Argentine citizens with Chinese origin"
+                ],
+                [
+                    "125:210"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "were among those looted"
+                ],
+                [
+                    "211:234"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Zhang said recently some serious disturbances such as shop robberies and traffic breakdowns occurred in Argentina , and some groceries owned by overseas Chinese as well as Argentine citizens with Chinese origin were among those looted .",
+    "sent_id": "20011220/21.12.51-10332-2"
+}

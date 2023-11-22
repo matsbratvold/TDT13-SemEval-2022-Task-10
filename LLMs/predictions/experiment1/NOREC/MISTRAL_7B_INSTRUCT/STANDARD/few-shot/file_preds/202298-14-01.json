@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Nye Yaris"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er likevel langt mer effektiv enn sin forgjenger"
+                ],
+                [
+                    "10:58"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Nye Yaris"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "og den er antagelig langt mer effektiv enn alle de andre konkurrentene i klassen"
+                ],
+                [
+                    "61:141"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Nye Yaris er likevel langt mer effektiv enn sin forgjenger , og den er antagelig langt mer effektiv enn alle de andre konkurrentene i klassen .",
+    "sent_id": "202298-14-01"
+}

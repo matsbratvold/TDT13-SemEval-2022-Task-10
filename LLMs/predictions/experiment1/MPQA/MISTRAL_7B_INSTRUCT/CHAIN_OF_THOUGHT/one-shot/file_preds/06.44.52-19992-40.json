@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Saiful"
+                ],
+                [
+                    "37:43"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "unique"
+                ],
+                [
+                    "26:32"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "\" The role of chaplain is unique , \" Saiful - Islam says . \" We do n't go with a preconceived idea that the person is so and so . As a chaplain we approach them as a human being .",
+    "sent_id": "non_fbis/06.44.52-19992-40"
+}

@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "11:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "events of 11 September 2001"
+                ],
+                [
+                    "67:94"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "attitude"
+                ],
+                [
+                    "29:37"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Noam Chomsky"
+                ],
+                [
+                    "119:131"
+                ]
+            ],
+            "Target": [
+                [
+                    "accomplishment of its goals by aggression and terrorism"
+                ],
+                [
+                    "168:223"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "attitude"
+                ],
+                [
+                    "29:37"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Noam Chomsky"
+                ],
+                [
+                    "119:131"
+                ]
+            ],
+            "Target": [
+                [
+                    "American psyche"
+                ],
+                [
+                    "241:256"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "accomplishment of its goals by aggression and terrorism"
+                ],
+                [
+                    "168:223"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Noam Chomsky"
+                ],
+                [
+                    "119:131"
+                ]
+            ],
+            "Target": [
+                [
+                    "United States"
+                ],
+                [
+                    "387:400"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "actual US objective"
+                ],
+                [
+                    "524:543"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Apparently President Bush 's attitude looks like a reaction to the events of 11 September 2001 . American intellectual Noam Chomsky has proved in his writings that the accomplishment of its goals by aggression and terrorism is a part of the American psyche . This can be traced back to the events in 1818 , when American cowboys used blind force to oppress the blacks . Since then , the United States has been raising artificial slogans of preservation of democracy and human rights and developing standards of living . The actual US objective is the protection of its own interests worldwide for which it does not care for any moral values .",
+    "sent_id": "20020315/20.21.54-4382-3"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Beskjeden"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "g\u00e5r"
+                ],
+                [
+                    "10:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vel"
+                ],
+                [
+                    "14:17"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "IKEA-partner-letende"
+                ],
+                [
+                    "55:75"
+                ]
+            ],
+            "Target": [
+                [
+                    "streitingene"
+                ],
+                [
+                    "76:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som"
+                ],
+                [
+                    "89:92"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Chirag rapper"
+                ],
+                [
+                    "93:106"
+                ]
+            ],
+            "Target": [
+                [
+                    "om"
+                ],
+                [
+                    "90:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i"
+                ],
+                [
+                    "22:23"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Beskjeden g\u00e5r vel delvis ut til de vaffeljakkekledde , IKEA-partner-letende streitingene som Chirag rapper om i andre vers .",
+    "sent_id": "002988-05-01"
+}

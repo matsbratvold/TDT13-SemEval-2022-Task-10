@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "It"
+                ],
+                [
+                    "2:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "freaky"
+                ],
+                [
+                    "13:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "must be"
+                ],
+                [
+                    "5:12"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "chimes in"
+                ],
+                [
+                    "24:33"
+                ]
+            ],
+            "Target": [
+                [
+                    "her colleague"
+                ],
+                [
+                    "34:47"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "\" It must be freaky , \" chimes in her colleague .",
+    "sent_id": "non_fbis/06.44.52-19992-16"
+}

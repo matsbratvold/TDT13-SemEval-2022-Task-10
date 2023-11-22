@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Staff Sgt Albrecht"
+                ],
+                [
+                    "63:81"
+                ]
+            ],
+            "Target": [
+                [
+                    "accusations"
+                ],
+                [
+                    "94:105"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "angry"
+                ],
+                [
+                    "85:90"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Like most Marines and MPs making up the 1,200 - strong force , Staff Sgt Albrecht is angry at accusations that the detainees have been mistreated .",
+    "sent_id": "non_fbis/12.46.57-22041-13"
+}

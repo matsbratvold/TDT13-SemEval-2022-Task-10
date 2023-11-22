@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "independent power segment"
+                ],
+                [
+                    "12:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "grow"
+                ],
+                [
+                    "44:48"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "near - term generation capacity"
+                ],
+                [
+                    "79:110"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "grow"
+                ],
+                [
+                    "44:48"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "He"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "significant share"
+                ],
+                [
+                    "146:163"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "supply"
+                ],
+                [
+                    "137:143"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "He said the independent power segment could grow to provide as much as 50 % of near - term generation capacity , adding : \" We expect to supply a significant share of this market . \"",
+    "sent_id": "xbank/wsj_0973-10"
+}

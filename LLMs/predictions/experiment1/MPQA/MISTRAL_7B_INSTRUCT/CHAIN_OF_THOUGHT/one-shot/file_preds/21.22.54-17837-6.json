@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Investigating Judge Collignon 's questions on the legitimacy of the case against Sharon"
+                ],
+                [
+                    "64:151"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "debate"
+                ],
+                [
+                    "54:60"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "A ruling"
+                ],
+                [
+                    "154:162"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "expected"
+                ],
+                [
+                    "166:174"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Tomorrow , the Chamber for Indictments will begin the debate on Investigating Judge Collignon 's questions on the legitimacy of the case against Sharon . A ruling is expected by the end of this year or early next year .",
+    "sent_id": "20011127/21.22.54-17837-6"
+}

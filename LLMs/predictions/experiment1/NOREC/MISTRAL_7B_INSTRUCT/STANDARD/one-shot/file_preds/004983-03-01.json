@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den Oscar-nominerte L\u00f8vetannbarn"
+                ],
+                [
+                    "0:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "L\u00f8vetannbarn"
+                ],
+                [
+                    "20:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vakker og s\u00e6regen stop-motion animasjonsfilm"
+                ],
+                [
+                    "39:83"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "formidling"
+                ],
+                [
+                    "105:115"
+                ]
+            ],
+            "Target": [
+                [
+                    "L\u00f8vetannbarn"
+                ],
+                [
+                    "20:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "treffer med"
+                ],
+                [
+                    "88:99"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "stemning"
+                ],
+                [
+                    "119:127"
+                ]
+            ],
+            "Target": [
+                [
+                    "L\u00f8vetannbarn"
+                ],
+                [
+                    "20:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "treffer med"
+                ],
+                [
+                    "88:99"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den Oscar-nominerte L\u00f8vetannbarn er en vakker og s\u00e6regen stop-motion animasjonsfilm som treffer med b\u00e5de formidling og stemning .",
+    "sent_id": "004983-03-01"
+}

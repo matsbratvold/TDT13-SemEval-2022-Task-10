@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "All three groups"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "governments"
+                ],
+                [
+                    "44:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said it was essential"
+                ],
+                [
+                    "17:38"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "All three groups"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "All three groups"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "fully consistent with their international law commitments"
+                ],
+                [
+                    "154:211"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is"
+                ],
+                [
+                    "151:153"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "All three groups said it was essential that governments strike a balance between \" legitimate national security concerns and fundamental freedoms that is fully consistent with their international law commitments . \"",
+    "sent_id": "20011130/12.26.48-19550-7"
+}

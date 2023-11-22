@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Zhang"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "US official"
+                ],
+                [
+                    "34:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "violation of US commitments made ( on Taiwan ) and interference in China internal affairs"
+                ],
+                [
+                    "56:145"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Zhang"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "China"
+                ],
+                [
+                    "123:128"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "China is firmly opposed to the remarks"
+                ],
+                [
+                    "148:186"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Zhang said : \" The remarks of the US official are a ... violation of US commitments made ( on Taiwan ) and interference in China internal affairs . China is firmly opposed to the remarks . \"",
+    "sent_id": "temp_fbis/22.34.58-23977-15"
+}

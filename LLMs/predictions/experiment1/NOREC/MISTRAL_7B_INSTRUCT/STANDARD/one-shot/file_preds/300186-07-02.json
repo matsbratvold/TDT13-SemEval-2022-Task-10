@@ -1,0 +1,83 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hjertevarmende \u00f8yeblikk"
+                ],
+                [
+                    "13:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snakker"
+                ],
+                [
+                    "63:70"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "pappaer"
+                ],
+                [
+                    "51:58"
+                ]
+            ],
+            "Target": [
+                [
+                    "hjertevarmende \u00f8yeblikk"
+                ],
+                [
+                    "13:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snakker"
+                ],
+                [
+                    "63:70"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "pappaer"
+                ],
+                [
+                    "51:58"
+                ]
+            ],
+            "Target": [
+                [
+                    "d\u00f8trene"
+                ],
+                [
+                    "83:90"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snakker"
+                ],
+                [
+                    "63:70"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Her er mange hjertevarmende \u00f8yeblikk og sympatiske pappaer som snakker om hvor mye d\u00f8trene betyr for dem .",
+    "sent_id": "300186-07-02"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vokst opp hos en alkoholiserte og aggressive mor"
+                ],
+                [
+                    "4:52"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "men"
+                ],
+                [
+                    "55:58"
+                ]
+            ],
+            "Target": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "da en ulykke i hjemmet gj\u00f8r at han blir foreldrel\u00f8s"
+                ],
+                [
+                    "59:110"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "m\u00e5 han"
+                ],
+                [
+                    "113:119"
+                ]
+            ],
+            "Target": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "flytte til et barnehjem p\u00e5 landet"
+                ],
+                [
+                    "120:153"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Han vokst opp hos en alkoholiserte og aggressive mor , men da en ulykke i hjemmet gj\u00f8r at han blir foreldrel\u00f8s , m\u00e5 han flytte til et barnehjem p\u00e5 landet .",
+    "sent_id": "004983-07-02"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Tekstmaterialet"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00f8lelsesrikt"
+                ],
+                [
+                    "19:31"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Tekstmaterialet er f\u00f8lelsesrikt :",
+    "sent_id": "003036-10-02"
+}

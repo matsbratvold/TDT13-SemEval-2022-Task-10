@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Tropical Freeze"
+                ],
+                [
+                    "21:36"
+                ]
+            ],
+            "Target": [
+                [
+                    "Tropical Freeze"
+                ],
+                [
+                    "21:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "seg fra sin beste side"
+                ],
+                [
+                    "37:59"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "jeg"
+                ],
+                [
+                    "63:66"
+                ]
+            ],
+            "Target": [
+                [
+                    "Tropical Freeze"
+                ],
+                [
+                    "21:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "imponert over fantasien som har blitt lagt ned i enkelte brett"
+                ],
+                [
+                    "72:134"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men innimellom viser Tropical Freeze seg fra sin beste side og jeg blir imponert over fantasien som har blitt lagt ned i enkelte brett .",
+    "sent_id": "000787-11-01"
+}

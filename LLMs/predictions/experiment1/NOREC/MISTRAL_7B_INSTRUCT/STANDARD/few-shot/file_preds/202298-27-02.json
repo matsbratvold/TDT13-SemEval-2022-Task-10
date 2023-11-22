@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "skjermen"
+                ],
+                [
+                    "13:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "matt hine"
+                ],
+                [
+                    "56:65"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det andre er skjermen i midtkonsollen , som har f\u00e5tt en matt hine utenp\u00e5 , antagelig for \u00e5 hindre gjenskinn .",
+    "sent_id": "202298-27-02"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "dette"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "motor \u00e5pnes"
+                ],
+                [
+                    "41:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enkle"
+                ],
+                [
+                    "22:27"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "dette"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "fortelling"
+                ],
+                [
+                    "63:73"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "st\u00f8rre"
+                ],
+                [
+                    "56:62"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "dette"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "utsatt"
+                ],
+                [
+                    "80:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "minoritet"
+                ],
+                [
+                    "103:112"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Med dette forholdsvis enkle sujettet som motor \u00e5pnes en st\u00f8rre fortelling om en utsatt og undertrykket minoritet .",
+    "sent_id": "500201-06-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Chirac"
+                ],
+                [
+                    "10:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "Argentina must make necessary choices"
+                ],
+                [
+                    "22:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "says"
+                ],
+                [
+                    "17:21"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "France 's Chirac says Argentina must make necessary choices",
+    "sent_id": "20020103/20.33.21-17578-0"
+}

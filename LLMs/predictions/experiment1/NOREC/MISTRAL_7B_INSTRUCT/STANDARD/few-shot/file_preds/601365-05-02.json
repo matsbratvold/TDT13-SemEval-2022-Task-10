@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "murstein"
+                ],
+                [
+                    "55:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "seg"
+                ],
+                [
+                    "16:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Og s\u00e5 viser det seg at dette er stoff til en hel liten murstein .",
+    "sent_id": "601365-05-02"
+}

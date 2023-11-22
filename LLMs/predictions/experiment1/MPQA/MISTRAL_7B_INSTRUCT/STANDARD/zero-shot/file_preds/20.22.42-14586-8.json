@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "MVR Deputy Pedro Carreno"
+                ],
+                [
+                    "0:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "Venezuelan Government"
+                ],
+                [
+                    "208:229"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "established a direct relation"
+                ],
+                [
+                    "47:76"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Journalists Ibeyise Pacheco , Marta Colomina , Patricia Poleo , and Marianela Salazar"
+                ],
+                [
+                    "263:348"
+                ]
+            ],
+            "Target": [
+                [
+                    "Colombian rebel groups"
+                ],
+                [
+                    "238:260"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "MVR Deputy Pedro Carreno went even further and established a direct relation between the concerns voiced by the Secretary of State and the disclosure of a video that presumably confirms relations between the Venezuelan Government and the Colombian rebel groups . Journalists Ibeyise Pacheco , Marta Colomina , Patricia Poleo , and Marianela Salazar disclosed this video in recent days .",
+    "sent_id": "20020207/20.22.42-14586-8"
+}

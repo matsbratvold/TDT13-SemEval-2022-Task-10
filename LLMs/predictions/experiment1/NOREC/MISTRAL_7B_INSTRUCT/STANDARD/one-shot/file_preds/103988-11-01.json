@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "l\u00e5tens bejublende vibber"
+                ],
+                [
+                    "4:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00e5 smittefarlige"
+                ],
+                [
+                    "32:48"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men l\u00e5tens bejublende vibber er s\u00e5 smittefarlige at man vil steke og sikle om hverandre .",
+    "sent_id": "103988-11-01"
+}

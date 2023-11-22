@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "S\u00e6rlig albumets bugnende midtstykke"
+                ],
+                [
+                    "0:35"
+                ]
+            ],
+            "Target": [
+                [
+                    "Jeff Tweedy"
+                ],
+                [
+                    "197:208"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "om at Jeff Tweedy er i ferd med \u00e5 bli litt vel bekymringsl\u00f8s"
+                ],
+                [
+                    "191:251"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "S\u00e6rlig albumets bugnende midtstykke byr p\u00e5 f\u00e5 overraskelser , og underbygger dermed en mistanke \u2013 som ogs\u00e5 meldte seg under \u00e5rets Norwegian Wood ( ja , terningkastet var nok noe gener\u00f8st ) \u2013 om at Jeff Tweedy er i ferd med \u00e5 bli litt vel bekymringsl\u00f8s .",
+    "sent_id": "303721-12-01"
+}

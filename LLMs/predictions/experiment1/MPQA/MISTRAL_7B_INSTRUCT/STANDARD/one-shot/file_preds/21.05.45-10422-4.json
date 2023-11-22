@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Deputy Jose Genoino"
+                ],
+                [
+                    "289:308"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "threatens"
+                ],
+                [
+                    "370:379"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "more concrete support from the Brazilian Government for Argentina"
+                ],
+                [
+                    "221:286"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "defended"
+                ],
+                [
+                    "212:220"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Concern has spread to Brazilian legislators . Violent attacks at the Argentine legislature sounded alarm bells in the Brazilian political arena , to the point that senators of the official and opposition parties defended more concrete support from the Brazilian Government for Argentina . Deputy Jose Genoino ( Workers Party -- Sao Paulo ) said that the wave of looting threatens Argentine democracy . He asked that Brazil promote meetings in the South American continent , or serve as intermediary in negotiations with international institutions .",
+    "sent_id": "20011231/21.05.45-10422-4"
+}

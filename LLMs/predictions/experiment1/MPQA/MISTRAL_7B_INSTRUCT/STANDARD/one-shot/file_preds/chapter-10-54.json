@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "A Defense Department paper"
+                ],
+                [
+                    "0:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "al Qaeda"
+                ],
+                [
+                    "164:172"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "specified"
+                ],
+                [
+                    "110:119"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "A Defense Department paper"
+                ],
+                [
+                    "0:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Taliban"
+                ],
+                [
+                    "175:186"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "specified"
+                ],
+                [
+                    "110:119"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "A Defense Department paper"
+                ],
+                [
+                    "0:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "Iraq"
+                ],
+                [
+                    "193:197"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "posed"
+                ],
+                [
+                    "248:253"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A Defense Department paper for the Camp David briefing book on the strategic concept for the war on terrorism specified three priority targets for initial action : al Qaeda , the Taliban , and Iraq . It argued that of the three , al Qaeda and Iraq posed a strategic threat to the United States . Iraq 's long - standing involvement in terrorism was cited , along with its interest in weapons of mass destruction .",
+    "sent_id": "ula/chapter-10-54"
+}

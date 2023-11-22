@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Each meal"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "is considered halal"
+                ],
+                [
+                    "28:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "considered"
+                ],
+                [
+                    "31:41"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Each meal the detainees get is considered halal , or religiously appropriate for Muslims . A typical breakfast includes oatmeal , an orange , fresh bread and a bottle of water . For lunch , it 's pasta or vegetable stew , dry cereal including Froot Loops , a box of raisins , two granola bars , a bag of chips , and bag of peanuts and water .",
+    "sent_id": "non_fbis/06.44.52-19992-32"
+}

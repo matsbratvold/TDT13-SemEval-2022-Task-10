@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "44:49"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pakistan"
+                ],
+                [
+                    "161:169"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "44:49"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pakistan"
+                ],
+                [
+                    "161:169"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Pakistan has not only earned a bad name but also its internal and external problems have increased manifold"
+                ],
+                [
+                    "372:479"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "44:49"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pakistan"
+                ],
+                [
+                    "161:169"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Pakistan should draw its own conclusions in the light of its own circumstances"
+                ],
+                [
+                    "482:560"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "44:49"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pakistan"
+                ],
+                [
+                    "161:169"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Instead of blindly accepting every demand made by the United States and responding positively to every American phone call"
+                ],
+                [
+                    "598:720"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "This report [ above - mentioned document by China ] should be an eye opener for the whole world and the United States should be viewed in its true perspective . Pakistan also needs to rethink in this regard . The way in which Pakistan has been fully supporting the United States after 11 September 2001 - - the total benefit of that has been earned by the United States . Pakistan has not only earned a bad name but also its internal and external problems have increased manifold . Pakistan should draw its own conclusions in the light of its own circumstances , from this report issued by China . Instead of blindly accepting every demand made by the United States and responding positively to every American phone call , Pakistan should take every single step carefully .",
+    "sent_id": "20020315/20.21.54-4382-9"
+}

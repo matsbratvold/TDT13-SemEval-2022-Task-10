@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Trio"
+                ],
+                [
+                    "2:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Jakten p\u00e5 Olavsskrinet"
+                ],
+                [
+                    "9:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Jakten"
+                ],
+                [
+                    "9:15"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab Trio \u2013 Jakten p\u00e5 Olavsskrinet \u00bb",
+    "sent_id": "600725-03-01"
+}

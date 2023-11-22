@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Noheli Pocaterra"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "Venezuela"
+                ],
+                [
+                    "87:96"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stressed"
+                ],
+                [
+                    "61:69"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Noheli Pocaterra"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "the United States"
+                ],
+                [
+                    "130:147"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stated"
+                ],
+                [
+                    "264:270"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Noheli Pocaterra"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "the US Government spokesman"
+                ],
+                [
+                    "210:237"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Noheli Pocaterra , vice president of the National Assembly , stressed that it is up to Venezuela to decide its foreign policy and the United States must respect its decision . According to her , the remarks by the US Government spokesman were uncalled - for . She stated : \" We are quite respectful of the decisions made by Washington , even if we do not agree with them . We demand equal treatment for our foreign policy . \"",
+    "sent_id": "20020207/20.22.42-14586-6"
+}

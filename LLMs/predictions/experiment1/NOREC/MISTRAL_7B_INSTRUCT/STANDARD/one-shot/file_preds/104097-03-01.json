@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "moderne sound"
+                ],
+                [
+                    "40:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "benytter seg av"
+                ],
+                [
+                    "18:33"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "klubbrytmene"
+                ],
+                [
+                    "70:82"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er p\u00e5 langt n\u00e6r s\u00e5 sofistikerte"
+                ],
+                [
+                    "98:129"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Nok et bidrag som benytter seg av samme moderne sound som JOWST , men klubbrytmene fra Montenegro er p\u00e5 langt n\u00e6r s\u00e5 sofistikerte som det v\u00e5re egne gutter serverer .",
+    "sent_id": "104097-03-01"
+}

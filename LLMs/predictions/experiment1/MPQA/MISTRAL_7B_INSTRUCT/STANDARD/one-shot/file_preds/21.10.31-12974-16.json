@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "True"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "makes one think of"
+                ],
+                [
+                    "21:39"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "supporters of the idea of lying on a stove"
+                ],
+                [
+                    "191:233"
+                ]
+            ],
+            "Target": [
+                [
+                    "an opponent"
+                ],
+                [
+                    "240:251"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "found"
+                ],
+                [
+                    "234:239"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "True , this position makes one think of Yemelya 's [ illusory ] happiness and worry about the future development of the country ( both technological and economic as a whole ) . Fortunately , supporters of the idea of lying on a stove found an opponent .",
+    "sent_id": "temp_fbis/21.10.31-12974-16"
+}

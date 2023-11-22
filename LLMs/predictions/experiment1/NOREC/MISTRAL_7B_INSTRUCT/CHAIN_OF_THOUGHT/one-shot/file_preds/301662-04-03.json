@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sleng"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "funk"
+                ],
+                [
+                    "15:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "inn litt funk"
+                ],
+                [
+                    "6:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "bl\u00e5s og trance-aktige synthlinjer"
+                ],
+                [
+                    "22:55"
+                ]
+            ],
+            "Target": [
+                [
+                    "miksen"
+                ],
+                [
+                    "58:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bl\u00e5s og trance-aktige synthlinjer"
+                ],
+                [
+                    "22:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "du"
+                ],
+                [
+                    "68:70"
+                ]
+            ],
+            "Target": [
+                [
+                    "du"
+                ],
+                [
+                    "68:70"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 boltre deg i"
+                ],
+                [
+                    "80:94"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Sleng inn litt funk , bl\u00e5s og trance-aktige synthlinjer i miksen og du har litt \u00e5 boltre deg i .",
+    "sent_id": "301662-04-03"
+}

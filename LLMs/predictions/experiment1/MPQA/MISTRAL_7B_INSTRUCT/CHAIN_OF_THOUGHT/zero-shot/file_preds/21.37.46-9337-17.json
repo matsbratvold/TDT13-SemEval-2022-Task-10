@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Xirao - Nima"
+                ],
+                [
+                    "237:249"
+                ]
+            ],
+            "Target": [
+                [
+                    "doubtful phrases"
+                ],
+                [
+                    "41:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "doubtful"
+                ],
+                [
+                    "41:49"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" Throughout the report , there are many doubtful phrases , such as ' according to credible reports ' , ' various sources ' and ' anecdotal evidence , ' to name a few . It shows that these so - called truths are not true at all , \" said Xirao - Nima .",
+    "sent_id": "temp_fbis/21.37.46-9337-17"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "dette knyttet til"
+                ],
+                [
+                    "8:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "faktorer som brukervennlighet , fysiske dimensjoner , design , eller batteritid"
+                ],
+                [
+                    "26:105"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Ofte er dette knyttet til faktorer som brukervennlighet , fysiske dimensjoner , design , eller batteritid .",
+    "sent_id": "201344-23-02"
+}

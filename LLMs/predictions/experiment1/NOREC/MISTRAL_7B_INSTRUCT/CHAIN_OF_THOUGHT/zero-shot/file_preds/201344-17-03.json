@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Litt \u00f8velse"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "til"
+                ],
+                [
+                    "25:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "riktignok"
+                ],
+                [
+                    "15:24"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "man"
+                ],
+                [
+                    "44:47"
+                ]
+            ],
+            "Target": [
+                [
+                    "har memorert knappenes funksjon"
+                ],
+                [
+                    "48:79"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "g\u00e5r"
+                ],
+                [
+                    "82:85"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "g\u00e5r"
+                ],
+                [
+                    "82:85"
+                ]
+            ],
+            "Target": [
+                [
+                    "hele som en lek"
+                ],
+                [
+                    "90:105"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snart"
+                ],
+                [
+                    "38:43"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Litt \u00f8velse m\u00e5 riktignok til , men s\u00e5 snart man har memorert knappenes funksjon , g\u00e5r det hele som en lek .",
+    "sent_id": "201344-17-03"
+}

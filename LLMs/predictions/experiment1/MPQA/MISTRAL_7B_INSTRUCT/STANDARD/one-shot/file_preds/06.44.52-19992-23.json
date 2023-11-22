@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Defense Secretary Donald Rumsfeld"
+                ],
+                [
+                    "0:33"
+                ]
+            ],
+            "Target": [
+                [
+                    "the allegations"
+                ],
+                [
+                    "41:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "denied"
+                ],
+                [
+                    "34:40"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Defense Secretary Donald Rumsfeld"
+                ],
+                [
+                    "0:33"
+                ]
+            ],
+            "Target": [
+                [
+                    "the detainees"
+                ],
+                [
+                    "74:87"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "insisting"
+                ],
+                [
+                    "59:68"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Defense Secretary Donald Rumsfeld"
+                ],
+                [
+                    "0:33"
+                ]
+            ],
+            "Target": [
+                [
+                    "Afghanistan"
+                ],
+                [
+                    "116:127"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Defense Secretary Donald Rumsfeld denied the allegations , insisting that the detainees have it better here than in Afghanistan .",
+    "sent_id": "non_fbis/06.44.52-19992-23"
+}

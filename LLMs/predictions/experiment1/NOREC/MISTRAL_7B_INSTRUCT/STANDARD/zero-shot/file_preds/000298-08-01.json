@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Da sesongen"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "Claires kamp"
+                ],
+                [
+                    "146:158"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ordentlig i gang dvelte"
+                ],
+                [
+                    "16:39"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Da sesongen"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "Claires kamp"
+                ],
+                [
+                    "146:158"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ikke over dette grepet"
+                ],
+                [
+                    "55:77"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Da sesongen"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "Claires kamp"
+                ],
+                [
+                    "146:158"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Da sesongen"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "Skottlands fremtid"
+                ],
+                [
+                    "191:209"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "alts\u00e5 Skottlands fremtid"
+                ],
+                [
+                    "185:209"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Da sesongen kom ordentlig i gang dvelte den imidlertid ikke over dette grepet , og det tok ikke lang tid f\u00f8r jeg igjen var fullstendig oppslukt i Claires kamp for \u00e5 forandre fortiden , alts\u00e5 Skottlands fremtid .",
+    "sent_id": "000298-08-01"
+}

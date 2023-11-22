@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "global community"
+                ],
+                [
+                    "40:56"
+                ]
+            ],
+            "Target": [
+                [
+                    "climate change treaty"
+                ],
+                [
+                    "139:160"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "strong initiative"
+                ],
+                [
+                    "15:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "European Union"
+                ],
+                [
+                    "70:84"
+                ]
+            ],
+            "Target": [
+                [
+                    "climate change treaty"
+                ],
+                [
+                    "139:160"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "strong initiative"
+                ],
+                [
+                    "15:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "countries"
+                ],
+                [
+                    "87:96"
+                ]
+            ],
+            "Target": [
+                [
+                    "climate change treaty"
+                ],
+                [
+                    "139:160"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "agreed on a set of rules"
+                ],
+                [
+                    "97:121"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "U.S"
+                ],
+                [
+                    "183:186"
+                ]
+            ],
+            "Target": [
+                [
+                    "climate change treaty"
+                ],
+                [
+                    "139:160"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "with or without"
+                ],
+                [
+                    "163:178"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "But due to the strong initiative of the global community , led by the European Union , countries agreed on a set of rules to implement the climate change treaty _ with or without the U.S .",
+    "sent_id": "20011115/20.41.29-15150-17"
+}

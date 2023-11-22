@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "noen"
+                ],
+                [
+                    "140:144"
+                ]
+            ],
+            "Target": [
+                [
+                    "linja"
+                ],
+                [
+                    "32:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vanskelig \u00e5 tenke seg"
+                ],
+                [
+                    "7:28"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "noen"
+                ],
+                [
+                    "140:144"
+                ]
+            ],
+            "Target": [
+                [
+                    "linja"
+                ],
+                [
+                    "32:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "linja \u00ab Picture a leader with no fucking brains \u00bb fra albumets h\u00f8ydepunkt , \u00ab Picture That \u00bb , er myntet p\u00e5 noen andre enn ham "
+                ],
+                [
+                    "32:159"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er vanskelig \u00e5 tenke seg at linja \u00ab Picture a leader with no fucking brains \u00bb fra albumets h\u00f8ydepunkt , \u00ab Picture That \u00bb , er myntet p\u00e5 noen andre enn ham .",
+    "sent_id": "304196-15-02"
+}

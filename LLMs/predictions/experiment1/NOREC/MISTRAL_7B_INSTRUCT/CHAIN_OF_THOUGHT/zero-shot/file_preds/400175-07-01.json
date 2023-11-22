@@ -1,0 +1,50 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "okkupasjonsmakten"
+                ],
+                [
+                    "15:32"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "ungdommene"
+                ],
+                [
+                    "93:103"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gj\u00f8r livet deres til et helvete"
+                ],
+                [
+                    "158:189"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hatet hans mot okkupasjonsmakten er fortsatt s\u00e5 sterkt at han ikke kan se p\u00e5 de stakkarslige ungdommene som annet enn representanter for naziregimet , og han gj\u00f8r livet deres til et helvete .",
+    "sent_id": "400175-07-01"
+}

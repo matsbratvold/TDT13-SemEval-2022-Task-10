@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "They"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "mild"
+                ],
+                [
+                    "20:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "relatively mild"
+                ],
+                [
+                    "9:24"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "emissions"
+                ],
+                [
+                    "73:82"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "records"
+                ],
+                [
+                    "553:560"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "They are relatively mild for our country . We are not required to reduce emissions , but over five years ( from 2008 through 2012 ) we do not have the right to exceed their volume . This approach is based on the fact that Russia 's emissions today are almost 25 percent lower than in 1990 , and , according to forecasts , the baseline level will not be reached in the next 10 years . This is substantiated in detail in the RF Energy Strategy Until 2020 , which the government has adopted . Within the framework of the protocol our country must maintain records of , and monitor , emissions and emission quotas , as well as regulate quotas . This requires creating a national system of inventorying emissions and establishing a special registration center to maintain records of quotas . Despite the outward complexity of the task , the creation of a record - keeping and monitoring system is neither very complicated nor very expensive , since the Goskomstat [ State Statistical Committee ] reporting forms that enterprises fill out contain virtually complete data .",
+    "sent_id": "temp_fbis/21.10.31-12974-38"
+}

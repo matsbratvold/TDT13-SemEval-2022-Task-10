@@ -1,0 +1,103 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Donkey Kong"
+                ],
+                [
+                    "23:34"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Donkey Kong"
+                ],
+                [
+                    "23:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "strander"
+                ],
+                [
+                    "14:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Donkey Kong"
+                ],
+                [
+                    "23:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tropisk \u00f8y"
+                ],
+                [
+                    "41:51"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Donkey Kong"
+                ],
+                [
+                    "23:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "invadert"
+                ],
+                [
+                    "73:81"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Donkey Kong"
+                ],
+                [
+                    "23:34"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I \u00e5rets spill strander Donkey Kong p\u00e5 en tropisk \u00f8y som viser seg \u00e5 v\u00e6re invadert av noe s\u00e5 geografisk motstridende som vikingskip fulle av fiendtlige pingviner .",
+    "sent_id": "704794-04-01"
+}

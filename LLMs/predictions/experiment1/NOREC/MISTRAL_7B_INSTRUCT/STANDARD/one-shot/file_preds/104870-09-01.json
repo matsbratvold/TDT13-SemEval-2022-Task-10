@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Joni Mitchell"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "tittelen"
+                ],
+                [
+                    "27:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nikkes til i"
+                ],
+                [
+                    "14:26"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Joni Mitchell"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "platebransjen"
+                ],
+                [
+                    "73:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00ab kloakk \u00bb ? "
+                ],
+                [
+                    "91:104"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Joni Mitchell nikkes til i tittelen ( p\u00e5 grunn av hennes oppsummering av platebransjen som \u00ab kloakk \u00bb ? ) .",
+    "sent_id": "104870-09-01"
+}

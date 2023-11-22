@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "boka"
+                ],
+                [
+                    "7:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "den forrige"
+                ],
+                [
+                    "28:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "inng\u00e5tt"
+                ],
+                [
+                    "18:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "boka"
+                ],
+                [
+                    "7:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "den forrige"
+                ],
+                [
+                    "28:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjort den til en feit kloss"
+                ],
+                [
+                    "43:70"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "3/4 av boka kunne inng\u00e5tt i den forrige og gjort den til en feit kloss .",
+    "sent_id": "301242-13-02"
+}

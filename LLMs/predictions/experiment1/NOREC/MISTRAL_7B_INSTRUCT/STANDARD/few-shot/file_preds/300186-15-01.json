@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Marco Elsafadi"
+                ],
+                [
+                    "13:27"
+                ]
+            ],
+            "Target": [
+                [
+                    "program"
+                ],
+                [
+                    "79:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "innsatsen hans og programmet"
+                ],
+                [
+                    "61:89"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Programleder Marco Elsafadi holder seg mye i bakgrunnen , og innsatsen hans og programmet kan oppsummeres omtrent likt :",
+    "sent_id": "300186-15-01"
+}

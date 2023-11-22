@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "staff"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "reporters"
+                ],
+                [
+                    "16:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "quick"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "staff"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "hospital"
+                ],
+                [
+                    "46:54"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "staff"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "photographs"
+                ],
+                [
+                    "66:77"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "some"
+                ],
+                [
+                    "81:85"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "staff"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "patients"
+                ],
+                [
+                    "110:118"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not"
+                ],
+                [
+                    "99:102"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The staff gives reporters a quick tour of the hospital , allowing photographs of some sections but not of the patients .",
+    "sent_id": "non_fbis/06.44.52-19992-69"
+}

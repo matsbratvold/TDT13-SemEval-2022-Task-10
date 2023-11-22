@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "stykket"
+                ],
+                [
+                    "4:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hviler"
+                ],
+                [
+                    "12:18"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Men stykket hviler ikke bare p\u00e5 de to .",
+    "sent_id": "703256-15-01"
+}

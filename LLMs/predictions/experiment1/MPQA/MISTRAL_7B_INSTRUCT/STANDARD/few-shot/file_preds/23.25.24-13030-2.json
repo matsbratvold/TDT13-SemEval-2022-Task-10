@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Chang"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "education and cultural work needs to be further strengthened in the Chinese communities in Southeast Asia"
+                ],
+                [
+                    "105:210"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said"
+                ],
+                [
+                    "6:10"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Chang said after visiting Chinese communities in the United States , New Zealand and Southeast Asia that education and cultural work needs to be further strengthened in the Chinese communities in Southeast Asia .",
+    "sent_id": "20010817/23.25.24-13030-2"
+}

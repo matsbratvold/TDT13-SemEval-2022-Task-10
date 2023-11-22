@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "they"
+                ],
+                [
+                    "8:12"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "scary"
+                ],
+                [
+                    "99:104"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "yeah no they do n't they do n't ask anything except how old you are i do n't think that 's kind of scary",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-5"
+}

@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bonusspor"
+                ],
+                [
+                    "24:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en samling"
+                ],
+                [
+                    "13:23"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bonusspor"
+                ],
+                [
+                    "24:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ting som ikke rakk \u00e5 bli med i 2012"
+                ],
+                [
+                    "36:71"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Eller er den en samling bonusspor , ting som ikke rakk \u00e5 bli med i 2012 ?",
+    "sent_id": "301242-11-04"
+}

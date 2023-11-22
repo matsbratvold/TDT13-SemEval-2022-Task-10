@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "de kjerringa"
+                ],
+                [
+                    "10:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "l\u00e5ttittelen"
+                ],
+                [
+                    "36:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Bobler"
+                ],
+                [
+                    "50:56"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "N\u00e5 reiser de kjerringa ved \u00e5 plante l\u00e5ttittelen \u00ab Bobler \u00bb i lytterens temporallapp .",
+    "sent_id": "103988-04-02"
+}

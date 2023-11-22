@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "h\u00f8yttaleren min"
+                ],
+                [
+                    "63:78"
+                ]
+            ],
+            "Target": [
+                [
+                    "spiss gjenstand"
+                ],
+                [
+                    "86:101"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Onkel"
+                ],
+                [
+                    "114:119"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Onkel"
+                ],
+                [
+                    "114:119"
+                ]
+            ],
+            "Target": [
+                [
+                    "verdens mest avv\u00e6pnende sammensetning av bokstaver"
+                ],
+                [
+                    "157:207"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Onkel"
+                ],
+                [
+                    "114:119"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Med et hvilket som helst annet ord , hadde jeg nok introdusert h\u00f8yttaleren min for en spiss gjenstand kjapt , men Onkel , Admiral og refrengmann Eben bruker verdens mest avv\u00e6pnende sammensetning av bokstaver for alt det er verdt .",
+    "sent_id": "103988-06-01"
+}

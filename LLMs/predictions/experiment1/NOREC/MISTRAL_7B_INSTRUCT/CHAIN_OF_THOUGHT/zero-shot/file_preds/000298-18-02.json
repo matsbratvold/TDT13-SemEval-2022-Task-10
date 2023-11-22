@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "kvinnen"
+                ],
+                [
+                    "42:49"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "sterkeste part"
+                ],
+                [
+                    "57:71"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "kvinnen"
+                ],
+                [
+                    "42:49"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "plager mannen"
+                ],
+                [
+                    "88:101"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er ogs\u00e5 interessant \u00e5 se en serie der kvinnen er den sterkeste parten uten at dette plager mannen nevneverdig .",
+    "sent_id": "000298-18-02"
+}

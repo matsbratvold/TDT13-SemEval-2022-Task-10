@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Flores"
+                ],
+                [
+                    "191:197"
+                ]
+            ],
+            "Target": [
+                [
+                    "FMLN"
+                ],
+                [
+                    "138:142"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "may be seeking to cause damage to the country"
+                ],
+                [
+                    "234:279"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "FMLN"
+                ],
+                [
+                    "138:142"
+                ]
+            ],
+            "Target": [
+                [
+                    "Flores"
+                ],
+                [
+                    "191:197"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "condemned last Friday the actions against the government of Chavez"
+                ],
+                [
+                    "293:359"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Asked what repercussions an announced visit to Venezuela - by leaders of the opposition party Farabundo Marti National Liberation Front ( FMLN , left wing ) - would have for his government , Flores said that \" my concern is that they may be seeking to cause damage to the country . \" The FMLN condemned last Friday the actions against the government of Chavez and celebrated his return to the power on Sunday . They criticized Flores for not condemning the rupture of constitutional order in Venezuela .",
+    "sent_id": "20020419/21.31.07-25924-6"
+}

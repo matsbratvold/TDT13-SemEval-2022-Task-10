@@ -1,0 +1,134 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "it"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "gun control"
+                ],
+                [
+                    "45:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "only problem"
+                ],
+                [
+                    "20:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "uh"
+                ],
+                [
+                    "13:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "gun control"
+                ],
+                [
+                    "45:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "only problem"
+                ],
+                [
+                    "20:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "the"
+                ],
+                [
+                    "16:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "radicals"
+                ],
+                [
+                    "74:82"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "then"
+                ],
+                [
+                    "118:122"
+                ]
+            ],
+            "Target": [
+                [
+                    "radicals"
+                ],
+                [
+                    "74:82"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "the"
+                ],
+                [
+                    "16:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "only people carrying guns"
+                ],
+                [
+                    "127:152"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "it really is uh the only problem i have with gun control is that they the radicals wanna ban all kinds of weapons and then the only people carrying guns are gonna be be the people who are gonna kill you anyway",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-13"
+}

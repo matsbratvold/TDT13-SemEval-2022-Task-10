@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Her"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "det hodet h\u00f8yt hevet"
+                ],
+                [
+                    "7:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "h\u00f8yt hevet"
+                ],
+                [
+                    "17:27"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Her er det hodet h\u00f8yt hevet og maks selvtillit fra f\u00f8rste plekteranslag og frem til siste strofe er ferdigskr\u00e5lt .",
+    "sent_id": "301662-03-05"
+}

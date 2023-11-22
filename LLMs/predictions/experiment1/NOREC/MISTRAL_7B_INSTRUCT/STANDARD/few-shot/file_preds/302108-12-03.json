@@ -1,0 +1,76 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "fysiske reaksjonene"
+                ],
+                [
+                    "14:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00f8nsker"
+                ],
+                [
+                    "38:44"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "dansegulv"
+                ],
+                [
+                    "51:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vekker"
+                ],
+                [
+                    "4:10"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "men"
+                ],
+                [
+                    "63:66"
+                ]
+            ],
+            "Target": [
+                [
+                    "EDM"
+                ],
+                [
+                    "84:87"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blottet for motstand"
+                ],
+                [
+                    "95:115"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den vekker de fysiske reaksjonene man \u00f8nsker p\u00e5 et dansegulv , men i likhet med mye EDM er den blottet for motstand .",
+    "sent_id": "302108-12-03"
+}

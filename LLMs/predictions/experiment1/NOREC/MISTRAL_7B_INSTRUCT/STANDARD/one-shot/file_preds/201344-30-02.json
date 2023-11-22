@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "enkelte"
+                ],
+                [
+                    "4:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "prisp\u00e5slaget"
+                ],
+                [
+                    "20:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for et lekrere design"
+                ],
+                [
+                    "33:54"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "andre"
+                ],
+                [
+                    "97:102"
+                ]
+            ],
+            "Target": [
+                [
+                    "prisp\u00e5slaget"
+                ],
+                [
+                    "20:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for andre"
+                ],
+                [
+                    "93:102"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "andre"
+                ],
+                [
+                    "97:102"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "v\u00e6re et mer attraktivt alternativ"
+                ],
+                [
+                    "137:170"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "For enkelte vil nok prisp\u00e5slaget for et lekrere design st\u00e5l eller titan v\u00e6re verdt det , men for andre vil nok merkets egen Fenix 3 HR , v\u00e6re et mer attraktivt alternativ .",
+    "sent_id": "201344-30-02"
+}

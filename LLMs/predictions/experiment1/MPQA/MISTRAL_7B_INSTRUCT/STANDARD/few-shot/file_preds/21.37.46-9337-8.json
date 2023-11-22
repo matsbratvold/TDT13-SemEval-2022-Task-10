@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "officials"
+                ],
+                [
+                    "89:98"
+                ]
+            ],
+            "Target": [
+                [
+                    "the facts"
+                ],
+                [
+                    "63:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "are incorrect"
+                ],
+                [
+                    "73:86"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The United States has not only made a procedural mistake , but the facts are incorrect , officials said .",
+    "sent_id": "temp_fbis/21.37.46-9337-8"
+}

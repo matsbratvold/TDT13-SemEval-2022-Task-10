@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Finally"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "an interpreter"
+                ],
+                [
+                    "10:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "comes"
+                ],
+                [
+                    "25:30"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Eight other young - looking men"
+                ],
+                [
+                    "59:90"
+                ]
+            ],
+            "Target": [
+                [
+                    "recover"
+                ],
+                [
+                    "132:139"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "in their cots"
+                ],
+                [
+                    "140:153"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Most of them sleep"
+                ],
+                [
+                    "156:174"
+                ]
+            ],
+            "Target": [
+                [
+                    "in their cots"
+                ],
+                [
+                    "140:153"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "recover"
+                ],
+                [
+                    "132:139"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Finally , an interpreter comes in to talk to the patient . Eight other young - looking men , with shaved heads and beards growing , recover in their cots . Most of them sleep .",
+    "sent_id": "non_fbis/06.44.52-19992-74"
+}

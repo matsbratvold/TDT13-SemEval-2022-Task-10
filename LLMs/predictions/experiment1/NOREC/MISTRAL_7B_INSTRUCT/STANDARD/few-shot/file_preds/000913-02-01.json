@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "spillegleden"
+                ],
+                [
+                    "13:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "En seier"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "En seier for spillegleden .",
+    "sent_id": "000913-02-01"
+}

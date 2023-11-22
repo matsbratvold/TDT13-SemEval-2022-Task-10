@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jerome"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "the hospital feels no different than a hospital in the states"
+                ],
+                [
+                    "12:73"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "says"
+                ],
+                [
+                    "7:11"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Jerome"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "save for the high security and the various languages the detainees speak"
+                ],
+                [
+                    "76:148"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "save for"
+                ],
+                [
+                    "76:84"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Jerome"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "including French , Russian , Urdu and Arabic"
+                ],
+                [
+                    "151:195"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "including"
+                ],
+                [
+                    "151:160"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Jerome"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Most understand a little English"
+                ],
+                [
+                    "198:230"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "she says"
+                ],
+                [
+                    "233:241"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Jerome says the hospital feels no different than a hospital in the states , save for the high security and the various languages the detainees speak , including French , Russian , Urdu and Arabic . Most understand a little English , she says .",
+    "sent_id": "non_fbis/06.44.52-19992-64"
+}

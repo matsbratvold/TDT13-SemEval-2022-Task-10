@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "John C. Marous"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "company"
+                ],
+                [
+                    "70:77"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "expects sales"
+                ],
+                [
+                    "78:91"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "John C. Marous , chairman and chief executive officer , also said the company expects sales from continuing businesses to rise 8.5 % annually through the next three years .",
+    "sent_id": "xbank/wsj_0973-2"
+}

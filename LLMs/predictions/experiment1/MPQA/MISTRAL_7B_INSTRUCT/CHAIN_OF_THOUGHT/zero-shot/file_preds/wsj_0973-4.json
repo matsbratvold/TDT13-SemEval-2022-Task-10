@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Westinghouse"
+                ],
+                [
+                    "13:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "businesses"
+                ],
+                [
+                    "38:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "shed"
+                ],
+                [
+                    "30:34"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Westinghouse"
+                ],
+                [
+                    "13:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "businesses"
+                ],
+                [
+                    "38:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "acquiring"
+                ],
+                [
+                    "112:121"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Since 1983 , Westinghouse has shed 70 businesses that it did n't expect to produce 10 % operating margins while acquiring 55 businesses .",
+    "sent_id": "xbank/wsj_0973-4"
+}

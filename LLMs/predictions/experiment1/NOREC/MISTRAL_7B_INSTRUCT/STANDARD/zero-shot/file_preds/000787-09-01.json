@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "fire spillbare figurene"
+                ],
+                [
+                    "3:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "Donkey Kong Country"
+                ],
+                [
+                    "100:119"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "alle ulike egenskaper"
+                ],
+                [
+                    "31:52"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "De fire spillbare figurene har alle ulike egenskaper som m\u00e5 utnyttes for \u00e5 komme helskinnet gjennom Donkey Kong Country :",
+    "sent_id": "000787-09-01"
+}

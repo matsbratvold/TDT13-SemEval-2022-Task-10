@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "velsmakende utf\u00f8relser"
+                ],
+                [
+                    "4:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "velsmakende"
+                ],
+                [
+                    "4:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "klassiske rettene"
+                ],
+                [
+                    "33:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "klassiske"
+                ],
+                [
+                    "33:42"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Med velsmakende utf\u00f8relser av de klassiske rettene .",
+    "sent_id": "501595-12-03"
+}

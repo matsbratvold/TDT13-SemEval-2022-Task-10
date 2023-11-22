@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "politiske intriger"
+                ],
+                [
+                    "24:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dermed duket"
+                ],
+                [
+                    "7:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "overd\u00e5dige hoffball"
+                ],
+                [
+                    "45:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dermed duket"
+                ],
+                [
+                    "7:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "p\u00e5kostede kjoler"
+                ],
+                [
+                    "68:84"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dermed duket"
+                ],
+                [
+                    "7:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "en forandring som fryder og engasjerer"
+                ],
+                [
+                    "87:125"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dermed duket"
+                ],
+                [
+                    "7:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er dermed duket for politiske intriger , overd\u00e5dige hoffball og p\u00e5kostede kjoler \u2013 en forandring som fryder og engasjerer .",
+    "sent_id": "000298-04-02"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "publikum"
+                ],
+                [
+                    "41:49"
+                ]
+            ],
+            "Target": [
+                [
+                    "lekne"
+                ],
+                [
+                    "7:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "klatrer rundt"
+                ],
+                [
+                    "25:38"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "De har lekne innfall som klatrer rundt i publikum og ler mens de hopper fram mot konklusjonen .",
+    "sent_id": "104659-10-03"
+}

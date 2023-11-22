@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Only A Fool"
+                ],
+                [
+                    "26:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "startet allerede"
+                ],
+                [
+                    "4:20"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "When The Morning Comes"
+                ],
+                [
+                    "85:107"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "endte i tittell\u00e5ten"
+                ],
+                [
+                    "43:62"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den startet allerede p\u00e5 \u00ab Only A Fool \u00bb og endte i tittell\u00e5ten fra forrige album , \u00ab When The Morning Comes \u00bb ( 2014 ) .",
+    "sent_id": "104870-07-02"
+}

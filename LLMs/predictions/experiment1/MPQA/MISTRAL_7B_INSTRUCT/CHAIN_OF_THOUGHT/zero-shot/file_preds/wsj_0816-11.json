@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The dollar"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "rose"
+                ],
+                [
+                    "11:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "modestly"
+                ],
+                [
+                    "16:24"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "The dollar"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "soared"
+                ],
+                [
+                    "193:199"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "against the pound"
+                ],
+                [
+                    "200:217"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The dollar rose modestly against most major currencies . In late New York trading the dollar was at 1.8400 marks and 142.10 yen compared with 1.8353 marks and 141.52 yen Wednesday . The dollar soared against the pound , which was at $ 1.5765 compared with $ 1.6145 Wednesday .",
+    "sent_id": "xbank/wsj_0816-11"
+}

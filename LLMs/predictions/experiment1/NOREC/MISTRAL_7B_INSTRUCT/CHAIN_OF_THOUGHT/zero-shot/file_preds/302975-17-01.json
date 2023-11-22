@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "sl\u00e5ende effekt"
+                ],
+                [
+                    "11:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sl\u00e5ende"
+                ],
+                [
+                    "11:18"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "lar"
+                ],
+                [
+                    "61:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lar"
+                ],
+                [
+                    "61:64"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "historien"
+                ],
+                [
+                    "86:95"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "historien"
+                ],
+                [
+                    "86:95"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det gir en sl\u00e5ende effekt , og viser hva som kan skje n\u00e5r en lar bildene \u2013 og dernest historien \u2013 tale for seg .",
+    "sent_id": "302975-17-01"
+}

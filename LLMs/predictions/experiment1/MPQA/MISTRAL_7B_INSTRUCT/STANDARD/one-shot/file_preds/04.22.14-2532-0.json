@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "US human rights report"
+                ],
+                [
+                    "17:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "criticizes"
+                ],
+                [
+                    "6:16"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "China criticizes US human rights report",
+    "sent_id": "non_fbis/04.22.14-2532-0"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "She"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Argentine government"
+                ],
+                [
+                    "15:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "declared a 30 - day emergency"
+                ],
+                [
+                    "44:73"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "She added that the Argentine government has declared a 30 - day emergency .",
+    "sent_id": "20011220/21.12.51-10332-3"
+}

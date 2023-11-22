@@ -1,0 +1,50 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "profit"
+                ],
+                [
+                    "27:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rose"
+                ],
+                [
+                    "34:38"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "rose"
+                ],
+                [
+                    "34:38"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In the first nine months , profit rose 10 % to $ 313.2 million , or $ 3.89 a share , from $ 283.9 million , or $ 3.53 a share . Sales rose 6.7 % to $ 4.27 billion from $ 4 billion .",
+    "sent_id": "xbank/wsj_0292-5"
+}

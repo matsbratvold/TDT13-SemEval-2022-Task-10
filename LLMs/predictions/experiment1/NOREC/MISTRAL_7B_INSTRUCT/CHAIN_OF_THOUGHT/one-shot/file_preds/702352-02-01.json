@@ -1,0 +1,50 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "godt"
+                ],
+                [
+                    "5:9"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "v\u00e5re"
+                ],
+                [
+                    "30:34"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Hvor godt kjenner vi egentlig v\u00e5re aller n\u00e6rmeste n\u00e5r livet r\u00f8yner p\u00e5 ?",
+    "sent_id": "702352-02-01"
+}

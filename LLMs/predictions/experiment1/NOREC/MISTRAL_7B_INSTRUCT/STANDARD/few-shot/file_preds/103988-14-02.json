@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Ebens karikerte Apache Indian-aktige refreng"
+                ],
+                [
+                    "13:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som er s\u00e5 enkelt at du kan det utenat f\u00f8r du har h\u00f8rt det"
+                ],
+                [
+                    "60:117"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Og s\u00e5 kommer Ebens karikerte Apache Indian-aktige refreng , som er s\u00e5 enkelt at du kan det utenat f\u00f8r du har h\u00f8rt det .",
+    "sent_id": "103988-14-02"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "problemet"
+                ],
+                [
+                    "24:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "l\u00f8ser"
+                ],
+                [
+                    "14:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "hun"
+                ],
+                [
+                    "20:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "problemet"
+                ],
+                [
+                    "24:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "flytte oss litt n\u00e6rmere en av panelovnene"
+                ],
+                [
+                    "40:81"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "I mellomtiden l\u00f8ser hun problemet ved \u00e5 flytte oss litt n\u00e6rmere en av panelovnene .",
+    "sent_id": "501595-10-03"
+}

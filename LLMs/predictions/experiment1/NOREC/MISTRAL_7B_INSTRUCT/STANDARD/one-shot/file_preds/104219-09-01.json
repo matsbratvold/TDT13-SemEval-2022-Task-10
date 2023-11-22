@@ -1,0 +1,56 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "kan bli"
+                ],
+                [
+                    "75:82"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "l\u00f8gn avler l\u00f8gn"
+                ],
+                [
+                    "87:102"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Med fin psykologisk troverdighet viser forfatteren hvor innsnevrende livet kan bli n\u00e5r l\u00f8gn avler l\u00f8gn , og hvor vanskelig det kan v\u00e6re \u00e5 komme ut av gamle , skjebnesvangre spor .",
+    "sent_id": "104219-09-01"
+}

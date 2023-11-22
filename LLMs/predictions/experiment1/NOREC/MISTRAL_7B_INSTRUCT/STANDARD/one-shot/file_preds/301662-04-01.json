@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Plata"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "et kreativ overskuddslager"
+                ],
+                [
+                    "18:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "formelig et kreativ overskuddslager"
+                ],
+                [
+                    "9:44"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Plata er formelig et kreativ overskuddslager , fritt for rammer og musikalske begrensninger .",
+    "sent_id": "301662-04-01"
+}

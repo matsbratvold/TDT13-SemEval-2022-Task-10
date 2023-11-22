@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "What Preceded the Kyoto Protocol ?"
+                ],
+                [
+                    "0:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto Protocol"
+                ],
+                [
+                    "18:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "What Preceded the Kyoto Protocol ?"
+                ],
+                [
+                    "0:34"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "What Preceded the Kyoto Protocol ?",
+    "sent_id": "temp_fbis/21.10.31-12974-25"
+}

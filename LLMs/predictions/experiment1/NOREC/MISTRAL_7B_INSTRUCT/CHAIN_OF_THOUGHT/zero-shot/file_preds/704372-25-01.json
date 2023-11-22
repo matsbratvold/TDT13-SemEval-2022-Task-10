@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Du"
+                ],
+                [
+                    "2:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "fria"
+                ],
+                [
+                    "5:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "har"
+                ],
+                [
+                    "12:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "har"
+                ],
+                [
+                    "12:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "myk"
+                ],
+                [
+                    "16:19"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "en"
+                ],
+                [
+                    "34:36"
+                ]
+            ],
+            "Target": [
+                [
+                    "tekst"
+                ],
+                [
+                    "37:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som"
+                ],
+                [
+                    "43:46"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "summerer"
+                ],
+                [
+                    "47:55"
+                ]
+            ],
+            "Target": [
+                [
+                    "opp"
+                ],
+                [
+                    "56:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "platen"
+                ],
+                [
+                    "60:66"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" Du fria \" har myk danserytme og en tekst som summerer opp platen :",
+    "sent_id": "704372-25-01"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Venezuela"
+                ],
+                [
+                    "111:120"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "prepared to apply"
+                ],
+                [
+                    "85:102"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Saturday , April 13 : In Washington , the Organization of American States says it is prepared to apply against Venezuela a charter requiring sanctions for any member that abandons democracy .",
+    "sent_id": "non_fbis/08.11.35-9355-13"
+}

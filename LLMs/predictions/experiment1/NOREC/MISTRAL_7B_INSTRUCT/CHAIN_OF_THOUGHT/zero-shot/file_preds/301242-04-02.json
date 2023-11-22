@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "De"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "strategene"
+                ],
+                [
+                    "20:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "3:5"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "men"
+                ],
+                [
+                    "33:36"
+                ]
+            ],
+            "Target": [
+                [
+                    "sm\u00e5"
+                ],
+                [
+                    "37:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "brikker"
+                ],
+                [
+                    "41:48"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "gjenstander"
+                ],
+                [
+                    "51:62"
+                ]
+            ],
+            "Target": [
+                [
+                    "for"
+                ],
+                [
+                    "63:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "historien"
+                ],
+                [
+                    "67:76"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "De er ikke de store strategene , men sm\u00e5 brikker , gjenstander for historien .",
+    "sent_id": "301242-04-02"
+}

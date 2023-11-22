@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Noen"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "Donkey Kong-spill"
+                ],
+                [
+                    "50:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "opplever"
+                ],
+                [
+                    "12:20"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Noen ganger opplever jeg ikke f\u00f8lelsen av et nytt Donkey Kong-spill anno 2014 .",
+    "sent_id": "000787-10-03"
+}

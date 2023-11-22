@@ -1,0 +1,76 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gj\u00f8r"
+                ],
+                [
+                    "4:8"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "vi m\u00e5 bruke"
+                ],
+                [
+                    "12:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mye tid"
+                ],
+                [
+                    "24:31"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "\u00e5 f\u00e5 dem presentert"
+                ],
+                [
+                    "35:54"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "og bli kjent med dem"
+                ],
+                [
+                    "55:75"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Det gj\u00f8r at vi m\u00e5 bruke mye tid p\u00e5 \u00e5 f\u00e5 dem presentert og bli kjent med dem .",
+    "sent_id": "300186-11-02"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Elg"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "synger engelsk igjen p\u00e5 \u00ab Feelosophy \u00bb"
+                ],
+                [
+                    "4:42"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Elg synger engelsk igjen p\u00e5 \u00ab Feelosophy \u00bb .",
+    "sent_id": "303032-07-01"
+}

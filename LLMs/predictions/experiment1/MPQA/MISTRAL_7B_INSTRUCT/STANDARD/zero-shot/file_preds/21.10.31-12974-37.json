@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Russia"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kyoto Protocol"
+                ],
+                [
+                    "32:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Obligations"
+                ],
+                [
+                    "10:21"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Russia 's Obligations Under the Kyoto Protocol",
+    "sent_id": "temp_fbis/21.10.31-12974-37"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The State Department"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "Russia"
+                ],
+                [
+                    "87:93"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "had a poor record"
+                ],
+                [
+                    "94:111"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Russian security forces in Chechnya"
+                ],
+                [
+                    "182:217"
+                ]
+            ],
+            "Target": [
+                [
+                    "serious violations"
+                ],
+                [
+                    "311:329"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "demonstrated little respect"
+                ],
+                [
+                    "225:252"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The State Department 's annual human rights report , which was published Monday , said Russia had a poor record regarding the independence and freedom of the media and in Chechnya . Russian security forces in Chechnya have \" demonstrated little respect for basic human rights and there were credible reports of serious violations , including numerous reports of extrajudicial killings by both the government and Chechen fighters , \" the report said .",
+    "sent_id": "non_fbis/08.40.56-18707-3"
+}

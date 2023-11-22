@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "alpelignende landskaper"
+                ],
+                [
+                    "43:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "svingt"
+                ],
+                [
+                    "12:18"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "gjennom jungelen"
+                ],
+                [
+                    "109:125"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "svingt"
+                ],
+                [
+                    "12:18"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Vi f\u00e5r ogs\u00e5 svingt oss gjennom noen flotte alpelignende landskaper , ned i gruver , under vann , og selvsagt gjennom jungelen .",
+    "sent_id": "704794-04-02"
+}

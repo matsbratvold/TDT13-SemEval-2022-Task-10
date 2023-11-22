@@ -1,0 +1,61 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Oppl\u00f8sningen p\u00e5 218 x 218 piksler"
+                ],
+                [
+                    "0:33"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Oppl\u00f8sningen p\u00e5 218 x 218 piksler"
+                ],
+                [
+                    "0:33"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Oppl\u00f8sningen p\u00e5 218 x 218 piksler"
+                ],
+                [
+                    "0:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "men den f\u00e5r jobben gjort"
+                ],
+                [
+                    "95:119"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Oppl\u00f8sningen p\u00e5 218 x 218 piksler kunne med fordel v\u00e6rt h\u00f8yere , fargene kunne v\u00e6rt sterkere \u2013 men den f\u00e5r jobben gjort .",
+    "sent_id": "201344-25-02"
+}

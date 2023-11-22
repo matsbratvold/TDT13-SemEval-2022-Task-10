@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "En av landets"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "platebransjen"
+                ],
+                [
+                    "89:102"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dropper"
+                ],
+                [
+                    "67:74"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "m\u00e5 vi vel kunne si"
+                ],
+                [
+                    "16:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "platebransjen"
+                ],
+                [
+                    "89:102"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dropper"
+                ],
+                [
+                    "67:74"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "bredest appellerende artister"
+                ],
+                [
+                    "37:66"
+                ]
+            ],
+            "Target": [
+                [
+                    "platebransjen"
+                ],
+                [
+                    "89:102"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dropper"
+                ],
+                [
+                    "67:74"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "med karrieregitaren stilt p\u00e5 banjo"
+                ],
+                [
+                    "134:168"
+                ]
+            ],
+            "Target": [
+                [
+                    "platebransjen"
+                ],
+                [
+                    "89:102"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dropper"
+                ],
+                [
+                    "67:74"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "En av landets , m\u00e5 vi vel kunne si , bredest appellerende artister dropper den etablerte platebransjen og debuterer p\u00e5 eget selskap , med karrieregitaren stilt p\u00e5 banjo .",
+    "sent_id": "104870-04-02"
+}

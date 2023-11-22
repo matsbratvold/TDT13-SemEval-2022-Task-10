@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Munther Halasa"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "bank loans case"
+                ],
+                [
+                    "89:104"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "questionable"
+                ],
+                [
+                    "76:88"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Munther Halasa was one of the six detainees suspected of involvement in the questionable bank loans case which the government referred to the State Security Court prosecutor for investigation .",
+    "sent_id": "20020326/20.55.44-16289-1"
+}

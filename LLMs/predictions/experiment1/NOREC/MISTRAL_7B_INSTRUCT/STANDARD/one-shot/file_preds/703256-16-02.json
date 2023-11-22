@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dette er en helst\u00f8pt forestilling"
+                ],
+                [
+                    "0:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "selv om den beveger seg lekent i ulike retninger"
+                ],
+                [
+                    "34:82"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Dette er en helst\u00f8pt forestilling selv om den beveger seg lekent i ulike retninger .",
+    "sent_id": "703256-16-02"
+}

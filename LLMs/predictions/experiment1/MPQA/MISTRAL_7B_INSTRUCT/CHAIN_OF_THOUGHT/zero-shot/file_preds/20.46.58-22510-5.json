@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "United States"
+                ],
+                [
+                    "13:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "United States"
+                ],
+                [
+                    "13:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "harsh treatment"
+                ],
+                [
+                    "65:80"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "United States"
+                ],
+                [
+                    "13:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "United States"
+                ],
+                [
+                    "13:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hegemonic and belligerent policy"
+                ],
+                [
+                    "109:141"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "United States"
+                ],
+                [
+                    "13:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "United States"
+                ],
+                [
+                    "13:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "empty rhetoric"
+                ],
+                [
+                    "193:207"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Although the United States claims to advocate human rights , its harsh treatment of its own citizens and its hegemonic and belligerent policy towards other nations prove that the claim is just empty rhetoric .",
+    "sent_id": "temp_fbis/20.46.58-22510-5"
+}

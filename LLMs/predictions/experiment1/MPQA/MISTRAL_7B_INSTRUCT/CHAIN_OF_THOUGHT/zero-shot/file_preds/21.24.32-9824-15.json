@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sri Lankan navy"
+                ],
+                [
+                    "24:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "Tiger rebel boats"
+                ],
+                [
+                    "47:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fought"
+                ],
+                [
+                    "40:46"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sri Lankan navy"
+                ],
+                [
+                    "24:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "Chinese merchant vessel"
+                ],
+                [
+                    "143:166"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In September 1999 , the Sri Lankan navy fought Tiger rebel boats off the island 's northeastern coast to prevent the guerrillas from seizing a Chinese merchant vessel .",
+    "sent_id": "20010916/21.24.32-9824-15"
+}

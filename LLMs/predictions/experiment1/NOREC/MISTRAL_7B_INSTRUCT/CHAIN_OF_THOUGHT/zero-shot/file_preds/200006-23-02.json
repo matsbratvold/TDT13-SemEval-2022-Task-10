@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ute"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "skjermen"
+                ],
+                [
+                    "55:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nesten"
+                ],
+                [
+                    "20:26"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Ute i sollys er det nesten umulig \u00e5 se hva som st\u00e5r p\u00e5 skjermen .",
+    "sent_id": "200006-23-02"
+}

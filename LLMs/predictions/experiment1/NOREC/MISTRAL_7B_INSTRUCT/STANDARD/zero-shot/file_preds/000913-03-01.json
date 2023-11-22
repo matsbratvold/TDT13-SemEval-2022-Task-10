@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dishonored 2"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "reise"
+                ],
+                [
+                    "32:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "triumferende"
+                ],
+                [
+                    "19:31"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Dishonored 2"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "univers"
+                ],
+                [
+                    "58:65"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fengslende"
+                ],
+                [
+                    "47:57"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Dishonored 2"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "detaljer"
+                ],
+                [
+                    "80:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "proppfullt"
+                ],
+                [
+                    "66:76"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Dishonored 2"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "valg"
+                ],
+                [
+                    "91:95"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ekstrem"
+                ],
+                [
+                    "99:106"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Dishonored 2"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "spillbarhet"
+                ],
+                [
+                    "107:118"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "proppfullt"
+                ],
+                [
+                    "66:76"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Dishonored 2 er en triumferende reise inn i et fengslende univers proppfullt av detaljer , valg og ekstrem spillbarhet .",
+    "sent_id": "000913-03-01"
+}

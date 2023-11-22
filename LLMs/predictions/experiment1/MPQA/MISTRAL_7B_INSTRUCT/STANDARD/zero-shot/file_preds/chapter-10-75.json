@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "became a different kind of struggle"
+                ],
+                [
+                    "104:139"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "With these initial victories won by the middle of 2002 , the global conflict against Islamist terrorism became a different kind of struggle .",
+    "sent_id": "ula/chapter-10-75"
+}

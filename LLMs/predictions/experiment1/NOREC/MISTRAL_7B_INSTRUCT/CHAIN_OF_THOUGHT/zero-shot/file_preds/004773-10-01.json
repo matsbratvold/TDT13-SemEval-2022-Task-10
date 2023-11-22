@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "flere ganger"
+                ],
+                [
+                    "18:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "han"
+                ],
+                [
+                    "46:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjentar"
+                ],
+                [
+                    "6:13"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "filmen"
+                ],
+                [
+                    "33:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "han"
+                ],
+                [
+                    "46:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00f8ter"
+                ],
+                [
+                    "50:55"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "trygdeetaten"
+                ],
+                [
+                    "72:84"
+                ]
+            ],
+            "Target": [
+                [
+                    "han"
+                ],
+                [
+                    "46:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00f8ter"
+                ],
+                [
+                    "50:55"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "roboter"
+                ],
+                [
+                    "102:109"
+                ]
+            ],
+            "Target": [
+                [
+                    "han"
+                ],
+                [
+                    "46:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00f8ter"
+                ],
+                [
+                    "50:55"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "uten medmenneskelighet"
+                ],
+                [
+                    "110:132"
+                ]
+            ],
+            "Target": [
+                [
+                    "roboter"
+                ],
+                [
+                    "102:109"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fremst\u00e5r"
+                ],
+                [
+                    "89:97"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dette gjentar seg flere ganger i filmen , der han m\u00f8ter ulike ansatte i trygdeetaten som fremst\u00e5r som roboter uten medmenneskelighet .",
+    "sent_id": "004773-10-01"
+}

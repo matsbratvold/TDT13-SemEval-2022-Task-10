@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bush"
+                ],
+                [
+                    "24:28"
+                ]
+            ],
+            "Target": [
+                [
+                    "the pragmatism and unilateralism position with regard to international treaties"
+                ],
+                [
+                    "93:172"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Bush"
+                ],
+                [
+                    "24:28"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "announced"
+                ],
+                [
+                    "315:324"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "the international media"
+                ],
+                [
+                    "561:584"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "was met with"
+                ],
+                [
+                    "522:534"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Since coming to power , Bush , proceeding from the US immediate interests , has also adopted the pragmatism and unilateralism position with regard to international treaties . This March , catering to the interests of the US oil and coal barons who have made large political donations to the Republican Party , Bush announced , without prior consultations with its allies , that the United States would not enforce the \" Kyoto Protocol \" which is aimed at reducing greenhouse gas emissions in the world . This announcement was met with unanimous condemnation by the international media .",
+    "sent_id": "20011208/20.31.54-28680-3"
+}

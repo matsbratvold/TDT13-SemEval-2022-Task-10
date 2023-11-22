@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "BY PHIL LONG"
+                ],
+                [
+                    "9:21"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Author : BY PHIL LONG",
+    "sent_id": "non_fbis/13.21.23-8227-1"
+}

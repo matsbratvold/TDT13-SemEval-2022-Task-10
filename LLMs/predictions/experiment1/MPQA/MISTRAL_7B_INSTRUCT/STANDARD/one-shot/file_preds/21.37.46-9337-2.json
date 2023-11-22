@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "human rights experts"
+                ],
+                [
+                    "113:133"
+                ]
+            ],
+            "Target": [
+                [
+                    "the 2001 report"
+                ],
+                [
+                    "11:26"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Its aim of the 2001 report is to tarnish China 's image and exert political pressure on the Chinese Government , human rights experts said at a seminar held by the China Society for Study of Human Rights ( CSSHR ) on Friday .",
+    "sent_id": "temp_fbis/21.37.46-9337-2"
+}

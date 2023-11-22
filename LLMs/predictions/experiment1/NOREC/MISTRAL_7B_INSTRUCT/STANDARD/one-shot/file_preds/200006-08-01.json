@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Du"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "farger"
+                ],
+                [
+                    "24:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "velge"
+                ],
+                [
+                    "33:38"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Du"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "reimene"
+                ],
+                [
+                    "72:79"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bytte ut"
+                ],
+                [
+                    "63:71"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Du har imidlertid andre farger \u00e5 velge mellom , og du kan ogs\u00e5 bytte ut reimene om du \u00f8nsker det .",
+    "sent_id": "200006-08-01"
+}

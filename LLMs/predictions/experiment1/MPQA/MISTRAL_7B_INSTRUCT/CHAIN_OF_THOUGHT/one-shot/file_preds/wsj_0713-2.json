@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "approval"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "permits"
+                ],
+                [
+                    "41:48"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The approval , which had been expected , permits West Germany 's second - largest bank to acquire shares of the French investment bank .",
+    "sent_id": "xbank/wsj_0713-2"
+}

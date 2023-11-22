@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "legger for \u00f8vrig"
+                ],
+                [
+                    "4:20"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Norge"
+                ],
+                [
+                    "41:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "innom"
+                ],
+                [
+                    "35:40"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Oslo Spektrum"
+                ],
+                [
+                    "59:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "3. desember"
+                ],
+                [
+                    "73:84"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Han legger for \u00f8vrig turen s\u00e5 vidt innom Norge f\u00f8r jul , i Oslo Spektrum 3. desember .",
+    "sent_id": "704372-10-03"
+}

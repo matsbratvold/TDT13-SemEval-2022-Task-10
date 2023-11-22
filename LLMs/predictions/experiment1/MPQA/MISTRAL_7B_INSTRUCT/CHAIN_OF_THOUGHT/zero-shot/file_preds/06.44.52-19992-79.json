@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "For now"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "flights"
+                ],
+                [
+                    "38:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stopped"
+                ],
+                [
+                    "56:63"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "For now , with the camp at capacity , flights here have stopped .",
+    "sent_id": "non_fbis/06.44.52-19992-79"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "En preget mann"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fanget mellom behovet for n\u00e6rhet og kontroll"
+                ],
+                [
+                    "17:61"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "En preget mann , fanget mellom behovet for n\u00e6rhet og kontroll .",
+    "sent_id": "104219-06-02"
+}

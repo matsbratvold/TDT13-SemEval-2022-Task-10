@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "New York Times"
+                ],
+                [
+                    "82:96"
+                ]
+            ],
+            "Target": [
+                [
+                    "middle east"
+                ],
+                [
+                    "64:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "deteriorating situation"
+                ],
+                [
+                    "151:174"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Los Angeles Times"
+                ],
+                [
+                    "99:116"
+                ]
+            ],
+            "Target": [
+                [
+                    "middle east"
+                ],
+                [
+                    "64:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "deteriorating situation"
+                ],
+                [
+                    "151:174"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Washington Post"
+                ],
+                [
+                    "121:136"
+                ]
+            ],
+            "Target": [
+                [
+                    "middle east"
+                ],
+                [
+                    "64:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "deteriorating situation"
+                ],
+                [
+                    "151:174"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "USA Today"
+                ],
+                [
+                    "187:196"
+                ]
+            ],
+            "Target": [
+                [
+                    "Princess Di"
+                ],
+                [
+                    "208:219"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stays with"
+                ],
+                [
+                    "197:207"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "In light of Secretary of State Albright 's imminent trip to the middle east , the New York Times , Los Angeles Times and Washington Post emphasize the deteriorating situation there . But USA Today stays with Princess Di .",
+    "sent_id": "ula/Article247_400-1"
+}

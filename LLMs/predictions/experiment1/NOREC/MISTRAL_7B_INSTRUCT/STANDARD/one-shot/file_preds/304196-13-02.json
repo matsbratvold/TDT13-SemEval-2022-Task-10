@@ -1,0 +1,75 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Or"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "was it God"
+                ],
+                [
+                    "3:13"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Who gives a fuck"
+                ],
+                [
+                    "16:32"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Deja Vu"
+                ],
+                [
+                    "56:63"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Waters"
+                ],
+                [
+                    "113:119"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Or was it God ? Who gives a fuck ? \u00bb ) og glir over i \u00ab Deja Vu \u00bb , som er et ekko av gammel Pink Floyd , bandet Waters forlot etter albumet \u00ab The Final Cut \u00bb i 1983 .",
+    "sent_id": "304196-13-02"
+}

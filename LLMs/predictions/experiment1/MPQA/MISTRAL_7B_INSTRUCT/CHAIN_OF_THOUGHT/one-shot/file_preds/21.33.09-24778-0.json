@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Foreign Minister Ismail Cem"
+                ],
+                [
+                    "30:57"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Fifth Meeting of Foreign Ministers of Europe - Mediterranean Process"
+                ],
+                [
+                    "93:165"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "ANKARA ( A.A ) - 21.04.2002 - Foreign Minister Ismail Cem left on Sunday for Spain to attend the Fifth Meeting of Foreign Ministers of Europe - Mediterranean Process .",
+    "sent_id": "20020421/21.33.09-24778-0"
+}

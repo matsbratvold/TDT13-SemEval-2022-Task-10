@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Campion"
+                ],
+                [
+                    "36:43"
+                ]
+            ],
+            "Target": [
+                [
+                    "nothing"
+                ],
+                [
+                    "76:83"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nothing is scheduled to happen"
+                ],
+                [
+                    "76:106"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" If you do your job right , \" says Campion , 32 , of Kansas City , Mo. , \" nothing is scheduled to happen . \"",
+    "sent_id": "non_fbis/06.44.52-19992-35"
+}

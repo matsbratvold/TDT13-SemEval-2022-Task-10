@@ -1,0 +1,106 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "uh"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "the scale they gave one to ten"
+                ],
+                [
+                    "6:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i'd say i'm probably a four"
+                ],
+                [
+                    "37:64"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "uh"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "i'm not one of these people that believes that we should not be able to buy guns"
+                ],
+                [
+                    "81:161"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "uh"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "i do n't think we should be carrying Uzis either"
+                ],
+                [
+                    "166:214"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "uh"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "i think"
+                ],
+                [
+                    "342:349"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "uh on the scale they gave one to ten i'd say i'm probably a four i'm not totally i'm not one of these people that believes that we should not be able to buy guns but i do n't think we should be carrying Uzis either you know what i mean yeah i know i mean i do n't think machine guns automatic weapons i do n't believe in things like that but i think",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-1"
+}

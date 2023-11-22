@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Secretary Rumsfeld"
+                ],
+                [
+                    "64:82"
+                ]
+            ],
+            "Target": [
+                [
+                    "General Myers"
+                ],
+                [
+                    "94:107"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "instructed"
+                ],
+                [
+                    "83:93"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Secretary Rumsfeld"
+                ],
+                [
+                    "64:82"
+                ]
+            ],
+            "Target": [
+                [
+                    "General Myers"
+                ],
+                [
+                    "94:107"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "thought"
+                ],
+                [
+                    "275:282"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Secretary Rumsfeld"
+                ],
+                [
+                    "64:82"
+                ]
+            ],
+            "Target": [
+                [
+                    "General Myers"
+                ],
+                [
+                    "94:107"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said"
+                ],
+                [
+                    "375:379"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Secretary Rumsfeld"
+                ],
+                [
+                    "64:82"
+                ]
+            ],
+            "Target": [
+                [
+                    "General Myers"
+                ],
+                [
+                    "94:107"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "later explained"
+                ],
+                [
+                    "478:493"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "On the afternoon of 9/11 , according to contemporaneous notes , Secretary Rumsfeld instructed General Myers to obtain quickly as much information as possible . The notes indicate that he also told Myers that he was not simply interested in striking empty training sites . He thought the U.S. response should consider a wide range of options and possibilities . The secretary said his instinct was to hit Saddam Hussein at the same time - not only Bin Ladin . Secretary Rumsfeld later explained that at the time , he had been considering either one of them , or perhaps someone else , as the responsible party .",
+    "sent_id": "ula/chapter-10-52"
+}

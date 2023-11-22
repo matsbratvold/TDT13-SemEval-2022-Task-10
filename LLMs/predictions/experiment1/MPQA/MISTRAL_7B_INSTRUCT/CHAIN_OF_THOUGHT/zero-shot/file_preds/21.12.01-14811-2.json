@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Romania"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Cernavoda n- plant"
+                ],
+                [
+                    "43:61"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "built"
+                ],
+                [
+                    "12:17"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Romania"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "CANDU technology"
+                ],
+                [
+                    "239:255"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "opted for"
+                ],
+                [
+                    "94:103"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Romania"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Russia 's VVER - 4000"
+                ],
+                [
+                    "139:160"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "opted for"
+                ],
+                [
+                    "94:103"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Romania"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "second reactor"
+                ],
+                [
+                    "167:181"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "commissioned"
+                ],
+                [
+                    "199:211"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Romania"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "second reactor"
+                ],
+                [
+                    "167:181"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "estimated to cost"
+                ],
+                [
+                    "260:277"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Romania has built the first reactor at the Cernavoda n- plant on Canadian technology , having opted for a CANDU type of reactor instead of Russia 's VVER - 4000 . The second reactor , which is to be commissioned in 2005 , is also built on CANDU technology and estimated to cost $ 700 million to complete .",
+    "sent_id": "20020228/21.12.01-14811-2"
+}

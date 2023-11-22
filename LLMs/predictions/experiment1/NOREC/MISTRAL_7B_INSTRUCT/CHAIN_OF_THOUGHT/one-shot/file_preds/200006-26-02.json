@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "man"
+                ],
+                [
+                    "8:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "man"
+                ],
+                [
+                    "8:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "motebevisst"
+                ],
+                [
+                    "17:28"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "man"
+                ],
+                [
+                    "8:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "man"
+                ],
+                [
+                    "8:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fortsatt registrere s\u00e5 mye man kan av helsedata"
+                ],
+                [
+                    "41:88"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Selv om man er \u00ab motebevisst \u00bb , vil man fortsatt registrere s\u00e5 mye man kan av helsedata .",
+    "sent_id": "200006-26-02"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dette kj\u00f8rem\u00f8nsteret"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "rot"
+                ],
+                [
+                    "43:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ingen"
+                ],
+                [
+                    "37:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Dette kj\u00f8rem\u00f8nsteret"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "verden"
+                ],
+                [
+                    "63:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "naturligvis ingen"
+                ],
+                [
+                    "25:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Dette kj\u00f8rem\u00f8nsteret"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "verden"
+                ],
+                [
+                    "63:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "men er kun ment for \u00e5 \u00f8ke tiden vi hadde med eldrift"
+                ],
+                [
+                    "72:124"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dette kj\u00f8rem\u00f8nsteret har naturligvis ingen rot i den virkelige verden , men er kun ment for \u00e5 \u00f8ke tiden vi hadde med eldrift .",
+    "sent_id": "202298-11-03"
+}

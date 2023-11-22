@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "reporter"
+                ],
+                [
+                    "17:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "Brazilian president"
+                ],
+                [
+                    "32:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "advised"
+                ],
+                [
+                    "63:70"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Itamaraty"
+                ],
+                [
+                    "160:169"
+                ]
+            ],
+            "Target": [
+                [
+                    "Brazilian president"
+                ],
+                [
+                    "32:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "confirmed"
+                ],
+                [
+                    "194:203"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Planalto Palace"
+                ],
+                [
+                    "178:193"
+                ]
+            ],
+            "Target": [
+                [
+                    "Brazilian president"
+                ],
+                [
+                    "32:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "confirmed"
+                ],
+                [
+                    "194:203"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "De la Sota"
+                ],
+                [
+                    "71:81"
+                ]
+            ],
+            "Target": [
+                [
+                    "Brazilian president"
+                ],
+                [
+                    "32:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "advised"
+                ],
+                [
+                    "63:70"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "According to the reporter , the Brazilian president apparently advised De la Sota to move forward the elections , initially slated for March 2002 . But neither Itamaraty nor the Planalto Palace confirmed the president 's phone call to the governor of Cordoba .",
+    "sent_id": "20011231/21.05.45-10422-2"
+}

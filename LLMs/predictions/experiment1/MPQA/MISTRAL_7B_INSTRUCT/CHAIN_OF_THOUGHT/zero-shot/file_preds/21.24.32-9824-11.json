@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Tiger guerrillas"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "navy and merchant ships"
+                ],
+                [
+                    "136:159"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "attacks"
+                ],
+                [
+                    "120:127"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Tiger guerrillas"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "navy and merchant ships"
+                ],
+                [
+                    "136:159"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "carried out"
+                ],
+                [
+                    "100:111"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Tiger guerrillas"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "navy and merchant ships"
+                ],
+                [
+                    "136:159"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "using boats carrying suicide bombers"
+                ],
+                [
+                    "172:208"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Tiger guerrillas"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "navy and merchant ships"
+                ],
+                [
+                    "136:159"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "on more than a dozen naval craft"
+                ],
+                [
+                    "209:241"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Tiger guerrillas , leading a campaign for an independent homeland in the island 's northeast , have carried out several attacks against navy and merchant ships , including using boats carrying suicide bombers on more than a dozen naval craft .",
+    "sent_id": "20010916/21.24.32-9824-11"
+}

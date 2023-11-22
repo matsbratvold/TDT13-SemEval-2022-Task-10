@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Black Jack Randalls"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "skygge henger"
+                ],
+                [
+                    "20:33"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Jaimie"
+                ],
+                [
+                    "87:93"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "sliter med ettervirkninger"
+                ],
+                [
+                    "94:120"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Black Jack Randalls skygge henger fortsatt over det ellers s\u00e5 lykkelige ekteparet , og Jaimie sliter med ettervirkninger av den traumatiske hendelsen i forrige sesong .",
+    "sent_id": "000298-15-02"
+}

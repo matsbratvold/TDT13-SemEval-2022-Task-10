@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "bond investors"
+                ],
+                [
+                    "63:77"
+                ]
+            ],
+            "Target": [
+                [
+                    "growth to be a little slower"
+                ],
+                [
+                    "99:127"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "would have preferred"
+                ],
+                [
+                    "78:98"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "bond investors"
+                ],
+                [
+                    "63:77"
+                ]
+            ],
+            "Target": [
+                [
+                    "inflation measures in the data"
+                ],
+                [
+                    "151:181"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "showed prices rising at a modest annual rate of 2.9 %"
+                ],
+                [
+                    "187:240"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Federal Reserve"
+                ],
+                [
+                    "287:302"
+                ]
+            ],
+            "Target": [
+                [
+                    "lower interest rates in coming weeks"
+                ],
+                [
+                    "306:342"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reasoned"
+                ],
+                [
+                    "350:358"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The bond market was unmoved by the economic statistics . While bond investors would have preferred growth to be a little slower , they were cheered by inflation measures in the data that showed prices rising at a modest annual rate of 2.9 % . That is another small encouragement for the Federal Reserve to lower interest rates in coming weeks , they reasoned .",
+    "sent_id": "xbank/wsj_0816-7"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "servit\u00f8ren"
+                ],
+                [
+                    "7:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "spisesalen"
+                ],
+                [
+                    "35:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er liten"
+                ],
+                [
+                    "50:58"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "If\u00f8lge servit\u00f8ren er det ikke bare spisesalen som er liten .",
+    "sent_id": "501595-03-04"
+}

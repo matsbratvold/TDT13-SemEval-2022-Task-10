@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "De la Rua 's cowed Radical Party"
+                ],
+                [
+                    "0:32"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "cowed"
+                ],
+                [
+                    "13:18"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Federico Storani"
+                ],
+                [
+                    "69:85"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "madness"
+                ],
+                [
+                    "107:114"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "De la Rua 's cowed Radical Party agreed , with senior party official Federico Storani saying it would be \" madness \" to hold elections now \" because the interim government would n't have the power to apply measures to get us over this crisis . \"",
+    "sent_id": "non_fbis/12.04.00-12904-6"
+}

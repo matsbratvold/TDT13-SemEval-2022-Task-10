@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the government"
+                ],
+                [
+                    "4:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "cutback of greenhouse gas emissions"
+                ],
+                [
+                    "66:101"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has not taken any concrete steps regarding"
+                ],
+                [
+                    "19:61"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "But the government has not taken any concrete steps regarding the cutback of greenhouse gas emissions , maintaining a wait - and - see approach instead .",
+    "sent_id": "20011115/20.41.29-15150-10"
+}

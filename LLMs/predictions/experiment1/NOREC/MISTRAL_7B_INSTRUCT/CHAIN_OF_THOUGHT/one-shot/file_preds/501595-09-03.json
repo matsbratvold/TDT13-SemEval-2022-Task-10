@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Blandingen"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00f8tpotetkake"
+                ],
+                [
+                    "27:39"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Blandingen"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "canchita"
+                ],
+                [
+                    "69:77"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Blandingen"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "syrlige salatblader"
+                ],
+                [
+                    "112:131"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Blandingen serveres med en s\u00f8tpotetkake p\u00e5 den ene siden av fatet og canchita , et slags peruansk popkorn , med syrlige salatblader p\u00e5 den andre siden .",
+    "sent_id": "501595-09-03"
+}

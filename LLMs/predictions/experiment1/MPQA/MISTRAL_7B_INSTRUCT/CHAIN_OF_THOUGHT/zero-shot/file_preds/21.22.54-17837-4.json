@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Walleyn are Verhaeghe"
+                ],
+                [
+                    "0:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "authenticity of the documents"
+                ],
+                [
+                    "43:72"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Public Prosecution Office"
+                ],
+                [
+                    "178:203"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "request Israel to confirm"
+                ],
+                [
+                    "209:234"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Walleyn are Verhaeghe are convinced of the authenticity of the documents . They gave the entire stack to Investigating Magistrate Patrick Collignon . The lawyers expect that the Public Prosecution Office will request Israel to confirm the documents ' authenticity .",
+    "sent_id": "20011127/21.22.54-17837-4"
+}

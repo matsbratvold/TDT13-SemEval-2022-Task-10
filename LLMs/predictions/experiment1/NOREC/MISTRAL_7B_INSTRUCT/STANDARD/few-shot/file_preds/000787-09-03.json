@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Cranky"
+                ],
+                [
+                    "9:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "stokken"
+                ],
+                [
+                    "29:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hoppe"
+                ],
+                [
+                    "20:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Diddy"
+                ],
+                [
+                    "58:63"
+                ]
+            ],
+            "Target": [
+                [
+                    "jetpack"
+                ],
+                [
+                    "81:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fortsatt"
+                ],
+                [
+                    "68:76"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Dixie"
+                ],
+                [
+                    "96:101"
+                ]
+            ],
+            "Target": [
+                [
+                    "h\u00e5ret"
+                ],
+                [
+                    "112:117"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bruke"
+                ],
+                [
+                    "106:111"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Bestefar Cranky kan hoppe p\u00e5 stokken for \u00e5 unng\u00e5 feller , Diddy har fortsatt sin jetpack , mens Dixie kan bruke h\u00e5ret som propell .",
+    "sent_id": "000787-09-03"
+}

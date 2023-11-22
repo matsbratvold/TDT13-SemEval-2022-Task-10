@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Soldiers"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "Camp X"
+                ],
+                [
+                    "25:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Defend"
+                ],
+                [
+                    "18:24"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Soldiers Unite To Defend Camp X - Ray",
+    "sent_id": "non_fbis/12.46.57-22041-0"
+}

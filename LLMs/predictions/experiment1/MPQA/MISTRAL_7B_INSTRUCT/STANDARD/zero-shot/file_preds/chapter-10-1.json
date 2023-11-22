@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "238:252"
+                ]
+            ],
+            "Target": [
+                [
+                    "Air Force One"
+                ],
+                [
+                    "87:100"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reluctantly acceded"
+                ],
+                [
+                    "253:272"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Secret Service"
+                ],
+                [
+                    "131:145"
+                ]
+            ],
+            "Target": [
+                [
+                    "Air Force One"
+                ],
+                [
+                    "87:100"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "238:252"
+                ]
+            ],
+            "Target": [
+                [
+                    "Barksdale Air Force Base"
+                ],
+                [
+                    "751:775"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "identified"
+                ],
+                [
+                    "740:750"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "While the plan at the elementary school had been to return to Washington , by the time Air Force One was airborne at 9:55 A.M. the Secret Service , the President 's advisers , and Vice President Cheney were strongly advising against it . President Bush reluctantly acceded to this advice and , at about 10:10 , Air Force One changed course and began heading due west . The immediate objective was to find a safe location - not too far away - where the President could land and speak to the American people . The Secret Service was also interested in refueling the aircraft and paring down the size of the traveling party . The President 's military aide , an Air Force officer , quickly researched the options and , sometime around 10:20 , identified Barksdale Air Force Base as an appropriate interim destination .",
+    "sent_id": "ula/chapter-10-1"
+}

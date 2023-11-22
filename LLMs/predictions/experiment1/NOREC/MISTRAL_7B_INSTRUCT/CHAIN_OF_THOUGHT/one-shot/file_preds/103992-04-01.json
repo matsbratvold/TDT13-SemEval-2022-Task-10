@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Amerikansk dramakomedie"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i 13 deler"
+                ],
+                [
+                    "24:34"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Amerikansk dramakomedie i 13 deler .",
+    "sent_id": "103992-04-01"
+}

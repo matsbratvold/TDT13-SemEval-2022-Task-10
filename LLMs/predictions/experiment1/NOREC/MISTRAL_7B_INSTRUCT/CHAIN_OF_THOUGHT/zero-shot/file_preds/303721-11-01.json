@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Man"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Schmilco"
+                ],
+                [
+                    "27:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "slipper"
+                ],
+                [
+                    "4:11"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Man slipper ikke unna at \u00ab Schmilco \u00bb oftere enn \u00f8nskelig tenderer mot sistnevnte .",
+    "sent_id": "303721-11-01"
+}

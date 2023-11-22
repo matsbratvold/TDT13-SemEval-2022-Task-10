@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Every so often"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "prisoner"
+                ],
+                [
+                    "17:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "led"
+                ],
+                [
+                    "29:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Three guards"
+                ],
+                [
+                    "138:150"
+                ]
+            ],
+            "Target": [
+                [
+                    "prisoner"
+                ],
+                [
+                    "17:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "accompany"
+                ],
+                [
+                    "151:160"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Every so often a prisoner is led to one of five interrogation rooms , freshly built wood buildings with air conditioners and no windows . Three guards accompany him - one on either side and one behind .",
+    "sent_id": "non_fbis/06.44.52-19992-48"
+}

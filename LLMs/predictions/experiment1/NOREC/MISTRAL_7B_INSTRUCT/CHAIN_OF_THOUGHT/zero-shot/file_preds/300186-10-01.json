@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "realitykonkurranser"
+                ],
+                [
+                    "20:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "Mesternes mester"
+                ],
+                [
+                    "48:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Skal vi danse"
+                ],
+                [
+                    "72:85"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "realitykonkurranser"
+                ],
+                [
+                    "20:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "Skal vi danse"
+                ],
+                [
+                    "72:85"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Skal vi danse"
+                ],
+                [
+                    "72:85"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "realitykonkurranser"
+                ],
+                [
+                    "20:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "Skal vi danse"
+                ],
+                [
+                    "72:85"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Skal vi danse"
+                ],
+                [
+                    "72:85"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Serien ligner andre realitykonkurranser , som \u00ab Mesternes mester \u00bb og \u00ab Skal vi danse \u00bb , men mangler det forf\u00f8rende elementet som gj\u00f8r at du blir sittende og glo , selv om du egentlig hadde tenkt \u00e5 gj\u00f8re noe annet .",
+    "sent_id": "300186-10-01"
+}

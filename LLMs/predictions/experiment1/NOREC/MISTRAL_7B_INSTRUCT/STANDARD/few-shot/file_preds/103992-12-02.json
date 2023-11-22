@@ -1,0 +1,57 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "totalt ubrukelige"
+                ],
+                [
+                    "33:50"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "direkte onde vokterne"
+                ],
+                [
+                    "61:82"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "snart en emmen ettersmak"
+                ],
+                [
+                    "140:164"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Rettferdighetsf\u00f8lelsen for at de totalt ubrukelige , tildels direkte onde vokterne f\u00e5r smake sin egen straffemidler og trakasseringer , f\u00e5r snart en emmen ettersmak .",
+    "sent_id": "103992-12-02"
+}

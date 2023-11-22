@@ -1,0 +1,83 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "fysiske reaksjonene"
+                ],
+                [
+                    "14:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vekker"
+                ],
+                [
+                    "4:10"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "men"
+                ],
+                [
+                    "63:66"
+                ]
+            ],
+            "Target": [
+                [
+                    "fysiske reaksjonene"
+                ],
+                [
+                    "14:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i likhet med mye EDM"
+                ],
+                [
+                    "67:87"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "er"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "den blottet for motstand"
+                ],
+                [
+                    "91:115"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den vekker de fysiske reaksjonene man \u00f8nsker p\u00e5 et dansegulv , men i likhet med mye EDM er den blottet for motstand .",
+    "sent_id": "302108-12-03"
+}

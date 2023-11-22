@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Seks hestejenter"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "hvem som er flinkest til \u00e5 l\u00e6re"
+                ],
+                [
+                    "55:86"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Seks hestejenter sendes til Spania for \u00e5 konkurrere om hvem som er flinkest til \u00e5 l\u00e6re fedrene sine \u00e5 ri .",
+    "sent_id": "300186-03-03"
+}

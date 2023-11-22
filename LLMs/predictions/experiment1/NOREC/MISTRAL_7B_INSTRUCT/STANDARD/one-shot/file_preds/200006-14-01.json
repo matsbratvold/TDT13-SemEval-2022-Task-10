@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "splash proof"
+                ],
+                [
+                    "16:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Den er s\u00e5kalt \u00ab splash proof \u00bb , s\u00e5 den t\u00e5ler tilsynelatende regn og svette .",
+    "sent_id": "200006-14-01"
+}

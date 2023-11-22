@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "unna"
+                ],
+                [
+                    "44:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "effektivt gjort"
+                ],
+                [
+                    "28:43"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "\u00c9n time og 17 minutter blir effektivt gjort unna .",
+    "sent_id": "600725-05-09"
+}

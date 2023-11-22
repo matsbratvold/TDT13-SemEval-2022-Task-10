@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "chronic complainers"
+                ],
+                [
+                    "4:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "treatment of the captured Taliban and al Qaeda terrorists being detained at Guantanamo Bay"
+                ],
+                [
+                    "62:152"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "inhumane"
+                ],
+                [
+                    "197:205"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "chronic complainers"
+                ],
+                [
+                    "4:23"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "inhumane"
+                ],
+                [
+                    "197:205"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "chronic complainers"
+                ],
+                [
+                    "4:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "upgraded accommodations"
+                ],
+                [
+                    "390:413"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "demanded"
+                ],
+                [
+                    "381:389"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The chronic complainers are outraged by , of all things , the treatment of the captured Taliban and al Qaeda terrorists being detained at Guantanamo Bay , Cuba . They have absurdly criticized as \" inhumane \" the decision to temporarily place prison suits , handcuffs and blindfolds on the terrorists during transfer to protect the military personnel guarding them . They have even demanded upgraded accommodations , seemingly forgetting that these are the leaders of a worldwide terrorist organization who have repeatedly vowed to kill innocent Americans through war or terror .",
+    "sent_id": "non_fbis/06.21.24-4640-6"
+}

@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "v\u00e5rtegnet"
+                ],
+                [
+                    "11:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "riktignok"
+                ],
+                [
+                    "25:34"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "en dedikert house- og technoscene"
+                ],
+                [
+                    "47:80"
+                ]
+            ],
+            "Target": [
+                [
+                    "v\u00e5rtegnet"
+                ],
+                [
+                    "11:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ble reist"
+                ],
+                [
+                    "81:90"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det f\u00f8rste v\u00e5rtegnet kom riktignok i fjor , da en dedikert house- og technoscene ble reist i T\u00f8yenparken .",
+    "sent_id": "302108-04-01"
+}

@@ -1,0 +1,79 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hun"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "klare \u00e5 gjenskape"
+                ],
+                [
+                    "10:27"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "l\u00e5tene"
+                ],
+                [
+                    "65:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "krystallklare , lekre og perlende"
+                ],
+                [
+                    "31:64"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "live"
+                ],
+                [
+                    "79:83"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "nasjonens st\u00f8rste skravleklasse"
+                ],
+                [
+                    "105:136"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Kunne hun klare \u00e5 gjenskape de krystallklare , lekre og perlende l\u00e5tene sine , live , helt der ute blant nasjonens st\u00f8rste skravleklasse ?",
+    "sent_id": "104659-06-02"
+}

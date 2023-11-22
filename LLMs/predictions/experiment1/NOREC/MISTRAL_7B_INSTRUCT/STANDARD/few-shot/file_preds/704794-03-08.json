@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "v\u00e5r venn"
+                ],
+                [
+                    "14:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "hjelp"
+                ],
+                [
+                    "23:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00e5r"
+                ],
+                [
+                    "10:13"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Cranky"
+                ],
+                [
+                    "52:58"
+                ]
+            ],
+            "Target": [
+                [
+                    "hjelp"
+                ],
+                [
+                    "23:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med sine egenskaper"
+                ],
+                [
+                    "82:101"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Diddy"
+                ],
+                [
+                    "61:66"
+                ]
+            ],
+            "Target": [
+                [
+                    "hjelp"
+                ],
+                [
+                    "23:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med sine egenskaper"
+                ],
+                [
+                    "82:101"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Dixi"
+                ],
+                [
+                    "70:74"
+                ]
+            ],
+            "Target": [
+                [
+                    "hjelp"
+                ],
+                [
+                    "23:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med sine egenskaper"
+                ],
+                [
+                    "82:101"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Heldigvis f\u00e5r v\u00e5r venn hjelp av sine tre sidekicker Cranky , Diddy og Dixi , hver med sine egenskaper .",
+    "sent_id": "704794-03-08"
+}

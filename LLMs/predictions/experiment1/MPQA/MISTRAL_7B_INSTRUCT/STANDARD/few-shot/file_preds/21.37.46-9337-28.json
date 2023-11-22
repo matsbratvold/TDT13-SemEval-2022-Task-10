@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "al - Qaida members and the Taliban"
+                ],
+                [
+                    "43:77"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "US troops are bombing them"
+                ],
+                [
+                    "92:118"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "because they are terrorists"
+                ],
+                [
+                    "119:146"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The United States"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "not Muslims"
+                ],
+                [
+                    "149:160"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The United States often says that although al - Qaida members and the Taliban are Muslims , US troops are bombing them because they are terrorists , not Muslims , he said .",
+    "sent_id": "temp_fbis/21.37.46-9337-28"
+}

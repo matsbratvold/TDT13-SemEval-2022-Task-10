@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "41:55"
+                ]
+            ],
+            "Target": [
+                [
+                    "the contents of the directives"
+                ],
+                [
+                    "76:106"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "discussed"
+                ],
+                [
+                    "56:65"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "41:55"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "recalled"
+                ],
+                [
+                    "303:311"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "After hearing from his senior advisers , President Bush discussed with Rice the contents of the directives he would issue to set all the plans into motion . Rice prepared a paper that President Bush then considered with principals on Monday morning , September 17 . \" The purpose of this meeting , \" he recalled saying , \" is to assign tasks for the first wave of the war against terrorism . It starts today . \"",
+    "sent_id": "ula/chapter-10-40"
+}

@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Westinghouse Electric Corp."
+                ],
+                [
+                    "0:27"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "more than 10 %"
+                ],
+                [
+                    "107:121"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Westinghouse Electric Corp."
+                ],
+                [
+                    "0:27"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "next year"
+                ],
+                [
+                    "169:178"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Westinghouse Electric Corp. , capitalizing on a major restructuring program , expects operating margins of more than 10 % and double - digit per - share earnings growth next year , top officers told securities analysts here .",
+    "sent_id": "xbank/wsj_0973-1"
+}

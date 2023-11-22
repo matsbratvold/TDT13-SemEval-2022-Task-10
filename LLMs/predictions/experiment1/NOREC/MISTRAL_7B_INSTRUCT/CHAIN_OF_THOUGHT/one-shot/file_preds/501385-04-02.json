@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hun"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "tider"
+                ],
+                [
+                    "16:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "temmelig avanserte progresjoner"
+                ],
+                [
+                    "22:53"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Hun"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "melodilinjer"
+                ],
+                [
+                    "57:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00e5ten hun benytter seg av halvtoner"
+                ],
+                [
+                    "75:110"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hun skriver til tider temmelig avanserte progresjoner og melodilinjer , og m\u00e5ten hun benytter seg av halvtoner for \u00e5 skape spenning i temaene , er mildt sagt forbilledlig .",
+    "sent_id": "501385-04-02"
+}

@@ -1,0 +1,110 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The earnings drop at GM Hughes Electronics"
+                ],
+                [
+                    "0:42"
+                ]
+            ],
+            "Target": [
+                [
+                    "tough times"
+                ],
+                [
+                    "56:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sign"
+                ],
+                [
+                    "48:52"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "tough times"
+                ],
+                [
+                    "56:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "are"
+                ],
+                [
+                    "177:180"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "GM 's North American automotive operations"
+                ],
+                [
+                    "126:168"
+                ]
+            ],
+            "Target": [
+                [
+                    "tough times"
+                ],
+                [
+                    "56:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "are"
+                ],
+                [
+                    "177:180"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "tough times"
+                ],
+                [
+                    "56:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "side"
+                ],
+                [
+                    "233:237"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The earnings drop at GM Hughes Electronics is a sign of tough times at both the defense operations of Hughes Aircraft Co. and GM 's North American automotive operations , which are a primary customer for the Delco Electronics Corp . side of the GM Hughes unit .",
+    "sent_id": "xbank/wsj_0950-4"
+}

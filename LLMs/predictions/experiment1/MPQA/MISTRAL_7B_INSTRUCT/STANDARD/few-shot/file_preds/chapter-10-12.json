@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the national airspace"
+                ],
+                [
+                    "60:81"
+                ]
+            ],
+            "Target": [
+                [
+                    "reopened for use by airports that met newly improvised security standards"
+                ],
+                [
+                    "82:155"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "the financial markets"
+                ],
+                [
+                    "168:189"
+                ]
+            ],
+            "Target": [
+                [
+                    "reopened on Monday , September 17"
+                ],
+                [
+                    "440:473"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Restoring civil aviation . On the morning of September 13 , the national airspace reopened for use by airports that met newly improvised security standards . Reopening the financial markets . After extraordinary emergency efforts involving the White House , the Treasury Department , and the Securities and Exchange Commission , aided by unprecedented cooperation among the usually competitive firms of the financial industry , the markets reopened on Monday , September 17 .",
+    "sent_id": "ula/chapter-10-12"
+}

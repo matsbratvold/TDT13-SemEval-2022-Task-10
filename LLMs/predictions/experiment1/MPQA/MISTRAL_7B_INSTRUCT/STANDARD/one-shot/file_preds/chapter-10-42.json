@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bush and his advisers"
+                ],
+                [
+                    "14:35"
+                ]
+            ],
+            "Target": [
+                [
+                    "new legal authorities for covert action in Afghanistan"
+                ],
+                [
+                    "46:100"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "discussed"
+                ],
+                [
+                    "36:45"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "204:218"
+                ]
+            ],
+            "Target": [
+                [
+                    "broad new authorities for the CIA"
+                ],
+                [
+                    "230:263"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "authorized"
+                ],
+                [
+                    "219:229"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In addition , Bush and his advisers discussed new legal authorities for covert action in Afghanistan , including the administration 's first Memorandum of Notification on Bin Ladin . Shortly thereafter , President Bush authorized broad new authorities for the CIA .",
+    "sent_id": "ula/chapter-10-42"
+}

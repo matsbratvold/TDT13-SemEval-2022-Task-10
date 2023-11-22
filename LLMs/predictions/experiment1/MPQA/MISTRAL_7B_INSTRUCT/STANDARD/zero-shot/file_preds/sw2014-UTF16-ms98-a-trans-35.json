@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "good - bye"
+                ],
+                [
+                    "35:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "good"
+                ],
+                [
+                    "35:39"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "i let 's see yeah yeah we just say good - bye and hang up okay okay okay thanks bye - bye",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-35"
+}

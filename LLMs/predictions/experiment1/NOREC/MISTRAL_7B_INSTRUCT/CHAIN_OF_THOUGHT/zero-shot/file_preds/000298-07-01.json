@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "jeg"
+                ],
+                [
+                    "54:57"
+                ]
+            ],
+            "Target": [
+                [
+                    "tvist"
+                ],
+                [
+                    "44:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tvist"
+                ],
+                [
+                    "44:49"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "F\u00f8rste episode begynner med en dramaturgisk tvist som jeg ikke \u00f8nsker \u00e5 avsl\u00f8re .",
+    "sent_id": "000298-07-01"
+}

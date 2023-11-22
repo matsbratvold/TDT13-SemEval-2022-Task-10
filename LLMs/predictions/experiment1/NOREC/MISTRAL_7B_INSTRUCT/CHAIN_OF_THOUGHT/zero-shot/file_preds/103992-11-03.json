@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Grunnlaget"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "\u00e5pen leirskole"
+                ],
+                [
+                    "24:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mistet kontrollen"
+                ],
+                [
+                    "57:74"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "l\u00e6reren"
+                ],
+                [
+                    "45:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mistet kontrollen"
+                ],
+                [
+                    "57:74"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "modne elevene"
+                ],
+                [
+                    "91:104"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tar ansvar"
+                ],
+                [
+                    "105:115"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Grunnlaget for en slags \u00e5pen leirskole , der l\u00e6reren har mistet kontrollen mens noen av de modne elevene tar ansvar er lagt .",
+    "sent_id": "103992-11-03"
+}

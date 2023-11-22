@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "story"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "tensions"
+                ],
+                [
+                    "79:87"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "easing"
+                ],
+                [
+                    "133:139"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "patient"
+                ],
+                [
+                    "155:162"
+                ]
+            ],
+            "Target": [
+                [
+                    "surgeon"
+                ],
+                [
+                    "175:182"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "invited"
+                ],
+                [
+                    "163:170"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The story got international play because it seemed to underscore the fact that tensions between the Americans and the detainees were easing . Indeed , the patient invited the surgeon for a cup of tea after the operation .",
+    "sent_id": "non_fbis/06.44.52-19992-68"
+}

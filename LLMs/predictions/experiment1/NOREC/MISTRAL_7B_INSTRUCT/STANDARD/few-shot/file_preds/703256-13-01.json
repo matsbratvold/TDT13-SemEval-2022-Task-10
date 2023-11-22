@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "familien"
+                ],
+                [
+                    "62:70"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forl\u00f8sende kraften"
+                ],
+                [
+                    "28:46"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "smerte"
+                ],
+                [
+                    "79:85"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i historien"
+                ],
+                [
+                    "47:58"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "De to er p\u00e5 mange m\u00e5ter den forl\u00f8sende kraften i historien om familien og dens smerte .",
+    "sent_id": "703256-13-01"
+}

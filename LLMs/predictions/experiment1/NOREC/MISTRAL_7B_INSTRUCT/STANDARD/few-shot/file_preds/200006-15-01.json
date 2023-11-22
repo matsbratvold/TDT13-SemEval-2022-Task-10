@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "12:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til at man tar den av og p\u00e5 \u00e9n gang om dagen"
+                ],
+                [
+                    "29:73"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Dermed blir det i hvert fall til at man tar den av og p\u00e5 \u00e9n gang om dagen , om ikke mer .",
+    "sent_id": "200006-15-01"
+}

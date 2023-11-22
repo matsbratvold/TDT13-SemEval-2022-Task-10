@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "engasjert"
+                ],
+                [
+                    "9:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "slik"
+                ],
+                [
+                    "19:23"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Blir jeg engasjert slik at jeg bryr meg om hvordan det g\u00e5r ?",
+    "sent_id": "700863-03-03"
+}

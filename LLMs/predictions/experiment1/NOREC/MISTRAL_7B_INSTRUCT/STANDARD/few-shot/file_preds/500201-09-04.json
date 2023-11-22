@@ -1,0 +1,93 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "unote"
+                ],
+                [
+                    "30:35"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "autentisitet"
+                ],
+                [
+                    "65:77"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00f8lelse av"
+                ],
+                [
+                    "54:64"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "voldsomt n\u00e6rv\u00e6r"
+                ],
+                [
+                    "81:96"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00e6rlig fra"
+                ],
+                [
+                    "99:109"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Mar\u00eda Mercedes Coroy"
+                ],
+                [
+                    "130:150"
+                ]
+            ],
+            "Target": [
+                [
+                    "hovedrolleinnehaver"
+                ],
+                [
+                    "110:129"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00e6rlig fra"
+                ],
+                [
+                    "99:109"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Likevel er her ikke en eneste unote \u00e5 spore ; bare en f\u00f8lelse av autentisitet og voldsomt n\u00e6rv\u00e6r , s\u00e6rlig fra hovedrolleinnehaver Mar\u00eda Mercedes Coroy .",
+    "sent_id": "500201-09-04"
+}

@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00e5r"
+                ],
+                [
+                    "3:6"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "noen"
+                ],
+                [
+                    "31:35"
+                ]
+            ],
+            "Target": [
+                [
+                    "flotte alpelignende landskaper"
+                ],
+                [
+                    "36:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "svingt oss"
+                ],
+                [
+                    "12:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "ned i gruver"
+                ],
+                [
+                    "69:81"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ned"
+                ],
+                [
+                    "69:72"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "under vann"
+                ],
+                [
+                    "84:94"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "under"
+                ],
+                [
+                    "84:89"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "selvsagt gjennom jungelen"
+                ],
+                [
+                    "100:125"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjennom"
+                ],
+                [
+                    "23:30"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Vi f\u00e5r ogs\u00e5 svingt oss gjennom noen flotte alpelignende landskaper , ned i gruver , under vann , og selvsagt gjennom jungelen .",
+    "sent_id": "704794-04-02"
+}

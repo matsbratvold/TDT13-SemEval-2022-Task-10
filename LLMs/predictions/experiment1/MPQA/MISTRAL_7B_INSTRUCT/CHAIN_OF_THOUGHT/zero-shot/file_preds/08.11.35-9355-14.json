@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Pro-Chavez"
+                ],
+                [
+                    "2:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "rioting"
+                ],
+                [
+                    "13:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "breaks out"
+                ],
+                [
+                    "21:31"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "- Pro-Chavez rioting breaks out in Caracas and other parts of country .",
+    "sent_id": "non_fbis/08.11.35-9355-14"
+}

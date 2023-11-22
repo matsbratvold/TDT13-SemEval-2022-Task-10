@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "han"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "K\u00e4nn ingen sorg"
+                ],
+                [
+                    "39:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "G\u00f6teborg"
+                ],
+                [
+                    "63:71"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "han"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "16 \u00e5r senere"
+                ],
+                [
+                    "83:95"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mer desillusjonert"
+                ],
+                [
+                    "96:114"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Der han var ung og s\u00f8kende i debuten \" K\u00e4nn ingen sorg for mig G\u00f6teborg \" , er han 16 \u00e5r senere mer desillusjonert .",
+    "sent_id": "704372-04-02"
+}

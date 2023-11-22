@@ -1,0 +1,41 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Samir og den lange reisa"
+                ],
+                [
+                    "9:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i kortversjon"
+                ],
+                [
+                    "36:49"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bortsett fra at det er en bildebok"
+                ],
+                [
+                    "52:86"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Det er \u00ab Samir og den lange reisa \u00bb i kortversjon , bortsett fra at det er en bildebok .",
+    "sent_id": "302975-04-01"
+}

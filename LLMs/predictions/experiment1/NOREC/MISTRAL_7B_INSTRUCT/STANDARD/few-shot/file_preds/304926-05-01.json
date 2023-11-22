@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "deres n\u00e6rmeste nabo"
+                ],
+                [
+                    "16:35"
+                ]
+            ],
+            "Target": [
+                [
+                    "seg"
+                ],
+                [
+                    "36:39"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "det er han som innvier jenta i historien om den lille prinsen"
+                ],
+                [
+                    "125:186"
+                ]
+            ],
+            "Target": [
+                [
+                    "jenta"
+                ],
+                [
+                    "148:153"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "innvier"
+                ],
+                [
+                    "140:147"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Heldigvis viser deres n\u00e6rmeste nabo seg \u00e5 v\u00e6re en gammel eksentriker som er full av vidl\u00f8ftige ideer og pussige innfall , og det er han som innvier jenta i historien om den lille prinsen .",
+    "sent_id": "304926-05-01"
+}

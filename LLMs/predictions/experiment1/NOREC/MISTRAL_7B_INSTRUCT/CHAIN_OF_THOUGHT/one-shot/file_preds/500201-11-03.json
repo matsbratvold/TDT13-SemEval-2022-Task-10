@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ixcanul"
+                ],
+                [
+                    "18:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "Ixcanul"
+                ],
+                [
+                    "18:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "g\u00e5r fra \u00e5 v\u00e6re en vakker , poetisk film , til \u00e5 bli en smertefull , politisk film"
+                ],
+                [
+                    "28:109"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er ogs\u00e5 her \u00ab Ixcanul \u00bb g\u00e5r fra \u00e5 v\u00e6re en vakker , poetisk film , til \u00e5 bli en smertefull , politisk film som m\u00e5 sees i lys av imperialsimens mange avskygninger \u2014 fra conquistadorenes kolonialisering til n\u00e5tidens globale handel .",
+    "sent_id": "500201-11-03"
+}

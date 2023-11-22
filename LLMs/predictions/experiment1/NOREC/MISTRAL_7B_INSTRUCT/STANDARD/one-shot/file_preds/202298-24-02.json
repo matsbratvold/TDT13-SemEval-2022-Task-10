@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Innvendig"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "deler av dashbordet"
+                ],
+                [
+                    "14:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "samme farge som eksteri\u00f8ret"
+                ],
+                [
+                    "34:61"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Innvendig har deler av dashbordet samme farge som eksteri\u00f8ret , alts\u00e5 henholdsvis r\u00f8dt , bl\u00e5tt eller gr\u00e5tt .",
+    "sent_id": "202298-24-02"
+}

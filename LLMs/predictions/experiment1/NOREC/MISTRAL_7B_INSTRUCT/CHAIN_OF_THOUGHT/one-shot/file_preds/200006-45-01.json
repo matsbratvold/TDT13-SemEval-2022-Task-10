@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Fitbit Blaze"
+                ],
+                [
+                    "39:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snart tilbake"
+                ],
+                [
+                    "10:23"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Fitbit Blaze"
+                ],
+                [
+                    "39:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en ny treningsklokke"
+                ],
+                [
+                    "54:74"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Fitbit Blaze"
+                ],
+                [
+                    "39:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med fargeskjerm"
+                ],
+                [
+                    "75:90"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Vi kommer snart tilbake med en test av Fitbit Blaze , en ny treningsklokke med fargeskjerm .",
+    "sent_id": "200006-45-01"
+}

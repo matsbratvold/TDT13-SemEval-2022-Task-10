@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "folk"
+                ],
+                [
+                    "25:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00f8ter vi"
+                ],
+                [
+                    "16:24"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "22:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "folk"
+                ],
+                [
+                    "25:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "p\u00e5 ulikt vis var brikker i det politiske spillet"
+                ],
+                [
+                    "34:82"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "10:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "folk"
+                ],
+                [
+                    "25:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vest mot \u00f8st"
+                ],
+                [
+                    "127:139"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "I tolv kapitler m\u00f8ter vi folk som p\u00e5 ulikt vis var brikker i det politiske spillet i etterkrigstidens tyske virkelighetskamp , vest mot \u00f8st .",
+    "sent_id": "301242-04-01"
+}

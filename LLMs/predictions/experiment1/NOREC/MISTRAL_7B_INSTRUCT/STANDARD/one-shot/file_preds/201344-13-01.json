@@ -1,0 +1,44 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Begge variantene"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "svart gummirem"
+                ],
+                [
+                    "41:55"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "kj\u00f8pes separat"
+                ],
+                [
+                    "77:91"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Begge variantene kommer for \u00f8vrig med en svart gummirem , og lenken kan ogs\u00e5 kj\u00f8pes separat .",
+    "sent_id": "201344-13-01"
+}

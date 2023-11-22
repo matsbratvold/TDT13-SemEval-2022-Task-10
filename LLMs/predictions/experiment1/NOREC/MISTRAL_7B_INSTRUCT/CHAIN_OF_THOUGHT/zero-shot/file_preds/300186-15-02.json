@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Varmt"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "koselig og trygt"
+                ],
+                [
+                    "8:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Varmt"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Varmt"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "bittelitt kjedelig"
+                ],
+                [
+                    "36:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Varmt"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Varmt , koselig og trygt , men ogs\u00e5 bittelitt kjedelig .",
+    "sent_id": "300186-15-02"
+}

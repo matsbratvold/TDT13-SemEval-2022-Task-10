@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Staff Sgt Chuck Albrecht"
+                ],
+                [
+                    "76:100"
+                ]
+            ],
+            "Target": [
+                [
+                    "Our guys"
+                ],
+                [
+                    "105:113"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "They 're just chilling out"
+                ],
+                [
+                    "2:28"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Staff Sgt Chuck Albrecht"
+                ],
+                [
+                    "76:100"
+                ]
+            ],
+            "Target": [
+                [
+                    "Our guys"
+                ],
+                [
+                    "105:113"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "\" They 're just chilling out , that 's exactly what they 're doing , \" said Staff Sgt Chuck Albrecht . \" Our guys are pretty dirty . The detainees are washing every day . They get granola bars , a box of apple jacks and fresh fruit . \"",
+    "sent_id": "non_fbis/12.46.57-22041-12"
+}

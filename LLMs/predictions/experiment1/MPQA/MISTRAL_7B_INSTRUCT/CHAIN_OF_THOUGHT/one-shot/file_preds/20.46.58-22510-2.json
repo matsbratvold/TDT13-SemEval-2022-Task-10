@@ -1,0 +1,110 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Islamic Republic"
+                ],
+                [
+                    "55:71"
+                ]
+            ],
+            "Target": [
+                [
+                    "Islamic Republic"
+                ],
+                [
+                    "55:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enjoys no social base"
+                ],
+                [
+                    "72:93"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Islamic Republic"
+                ],
+                [
+                    "55:71"
+                ]
+            ],
+            "Target": [
+                [
+                    "Islamic Republic"
+                ],
+                [
+                    "55:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is an unpopular system"
+                ],
+                [
+                    "98:120"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Islamic Republic"
+                ],
+                [
+                    "55:71"
+                ]
+            ],
+            "Target": [
+                [
+                    "Islamic Republic"
+                ],
+                [
+                    "55:71"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Islamic Republic"
+                ],
+                [
+                    "55:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tarnish the image of Iran"
+                ],
+                [
+                    "493:518"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Among the unfounded allegations was the claim that the Islamic Republic enjoys no social base and is an unpopular system because of its human rights violations . However , the massive participation of millions of Iranians in the grand rallies on Feb. 11 to mark the anniversary of the victory of the Islamic Revolution and defy U.S. threats against this country once again revealed the emptiness of U.S. charges against Iran . It is quite clear that such baseless accusations are only made to tarnish the image of Iran , since it follows an independent policy and refuses to bow to U.S. domination .",
+    "sent_id": "temp_fbis/20.46.58-22510-2"
+}

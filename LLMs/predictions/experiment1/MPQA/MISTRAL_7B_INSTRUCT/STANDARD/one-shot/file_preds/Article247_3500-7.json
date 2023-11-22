@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "one company"
+                ],
+                [
+                    "55:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "use"
+                ],
+                [
+                    "9:12"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I always use two simple words when people tell me that one company -- whether it is AOL or Microsoft or Disney -- is in charge of all our destinies : Babylon was . That incredible empire dominated the world and I imagine it did not seem possible to people living then that anyone could loosen that empire 's grip on humanity . But we all know how that story turned out .",
+    "sent_id": "ula/Article247_3500-7"
+}

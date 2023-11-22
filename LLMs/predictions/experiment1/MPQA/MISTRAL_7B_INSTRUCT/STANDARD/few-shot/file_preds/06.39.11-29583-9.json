@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Other developed countries like Canada"
+                ],
+                [
+                    "0:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "signing the Kyoto Protocol"
+                ],
+                [
+                    "68:94"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "have shown reluctance towards"
+                ],
+                [
+                    "38:67"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Other developed countries like Canada have shown reluctance towards signing the Kyoto Protocol , saying it would cut the national GDP by up to 2.5 per cent in 2010 and cause economic damage worth 30 billion Canadian dollars ( $ 19 billion ) .",
+    "sent_id": "non_fbis/06.39.11-29583-9"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Indian security forces"
+                ],
+                [
+                    "33:55"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "killed"
+                ],
+                [
+                    "63:69"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "JAMMU , India , Nov 11 ( AFP ) - Indian security forces Sunday killed 11 Muslim militants in Indian - administered Kashmir , police said .",
+    "sent_id": "20011111/20.49.23-18398-0"
+}

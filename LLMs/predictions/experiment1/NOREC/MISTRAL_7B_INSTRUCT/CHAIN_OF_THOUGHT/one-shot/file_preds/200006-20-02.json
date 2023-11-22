@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Kanskje litt gammeldags"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "men det fungerer i det minste"
+                ],
+                [
+                    "26:55"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Kanskje litt gammeldags , men det fungerer i det minste .",
+    "sent_id": "200006-20-02"
+}

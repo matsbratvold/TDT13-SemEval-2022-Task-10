@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Cao"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Protestants in China"
+                ],
+                [
+                    "46:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "meet the demand"
+                ],
+                [
+                    "12:27"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Cao"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Protestants in China"
+                ],
+                [
+                    "46:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "printed"
+                ],
+                [
+                    "118:125"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Cao"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Protestants in China"
+                ],
+                [
+                    "46:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "copies of the Bible"
+                ],
+                [
+                    "80:99"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Cao"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Protestants in China"
+                ],
+                [
+                    "46:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ethnic languages"
+                ],
+                [
+                    "129:145"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Cao said to meet the demand of the 15 million Protestants in China , 28 million copies of the Bible , including those printed in ethnic languages , have been printed .",
+    "sent_id": "temp_fbis/21.37.46-9337-22"
+}

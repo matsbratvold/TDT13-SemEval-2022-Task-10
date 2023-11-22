@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "GCEP"
+                ],
+                [
+                    "45:49"
+                ]
+            ],
+            "Target": [
+                [
+                    "more funding to contribute to the international community 's efforts in reducing greenhouse gases"
+                ],
+                [
+                    "67:164"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hopes to attract"
+                ],
+                [
+                    "50:66"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "With the signing of the protocol , he said , GCEP hopes to attract more funding to contribute to the international community 's efforts in reducing greenhouse gases , which trap heat in the earth 's atmosphere thus causing climate change .",
+    "sent_id": "20020306/20.49.12-24038-4"
+}

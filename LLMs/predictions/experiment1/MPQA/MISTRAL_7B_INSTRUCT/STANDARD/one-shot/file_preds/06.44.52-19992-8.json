@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Humvees"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "positions"
+                ],
+                [
+                    "99:108"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "take"
+                ],
+                [
+                    "88:92"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Navy helicopter"
+                ],
+                [
+                    "113:128"
+                ]
+            ],
+            "Target": [
+                [
+                    "whirls overhead"
+                ],
+                [
+                    "129:144"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "whirls"
+                ],
+                [
+                    "129:135"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Meanwhile , Humvees mounted with .50 - caliber machine guns and 40 mm grenade launchers take their positions . A Navy helicopter whirls overhead .",
+    "sent_id": "non_fbis/06.44.52-19992-8"
+}

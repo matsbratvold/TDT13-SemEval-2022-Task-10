@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "bumper sticker"
+                ],
+                [
+                    "9:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "true"
+                ],
+                [
+                    "30:34"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "like the bumper sticker it 's true yeah",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-14"
+}

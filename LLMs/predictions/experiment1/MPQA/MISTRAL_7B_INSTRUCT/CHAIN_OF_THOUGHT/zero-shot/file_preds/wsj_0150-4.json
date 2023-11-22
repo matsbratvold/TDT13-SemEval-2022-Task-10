@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Williams"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "Primerica"
+                ],
+                [
+                    "171:180"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "acquired certain assets"
+                ],
+                [
+                    "202:225"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Williams"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "Primerica"
+                ],
+                [
+                    "171:180"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "assumed certain of its liabilities"
+                ],
+                [
+                    "244:278"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Williams , Duluth , Ga. , is an insurance and financial - services holding company . Its subsidiaries ' services are marketed by closely held A.L. Williams & Associates . Primerica , as expected , also acquired certain assets of the agency and assumed certain of its liabilities . Terms were n't disclosed .",
+    "sent_id": "xbank/wsj_0150-4"
+}

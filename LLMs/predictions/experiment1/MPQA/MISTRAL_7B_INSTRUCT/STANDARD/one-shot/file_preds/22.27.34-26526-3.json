@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "attacks on targets in Afghanistan"
+                ],
+                [
+                    "4:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "remain a risky enterprise"
+                ],
+                [
+                    "75:100"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "coming days"
+                ],
+                [
+                    "107:118"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "will reveal"
+                ],
+                [
+                    "119:130"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "broad strategy against terrorism"
+                ],
+                [
+                    "402:434"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cannot be any real talk of success"
+                ],
+                [
+                    "357:391"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The attacks on targets in Afghanistan that began yesterday [ 7 October ] , remain a risky enterprise . The coming days will reveal whether or not they were effective , were sufficiently precisely targeted and limited in scope . That is a clear condition for this first , unavoidable phase in the battle against terrorism to be humanly acceptable . But they cannot be any real talk of success until the broad strategy against terrorism begins to bear fruit . A strategy that worldwide must include both a degree of repression but most importantly constructive and positive measures .",
+    "sent_id": "20011008/22.27.34-26526-3"
+}

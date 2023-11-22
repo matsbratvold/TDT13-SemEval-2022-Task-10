@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "vi"
+                ],
+                [
+                    "15:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tillegg fikk"
+                ],
+                [
+                    "2:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "15:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "naturligvis oppgitt gjennomsnittsforbruk og utslipp"
+                ],
+                [
+                    "18:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tillegg fikk"
+                ],
+                [
+                    "2:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "I tillegg fikk vi naturligvis oppgitt gjennomsnittsforbruk og utslipp .",
+    "sent_id": "202298-09-02"
+}

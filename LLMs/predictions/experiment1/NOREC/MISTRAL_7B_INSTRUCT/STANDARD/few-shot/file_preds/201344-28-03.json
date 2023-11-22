@@ -1,0 +1,111 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "spesialiserte funksjoner"
+                ],
+                [
+                    "4:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "betyr"
+                ],
+                [
+                    "75:80"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "basert p\u00e5"
+                ],
+                [
+                    "31:40"
+                ]
+            ],
+            "Target": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "41:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sitt eget operativsystem"
+                ],
+                [
+                    "48:72"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "betyr"
+                ],
+                [
+                    "75:80"
+                ]
+            ],
+            "Target": [
+                [
+                    "samtidig et frav\u00e6r"
+                ],
+                [
+                    "81:99"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "av potensielle fordelene"
+                ],
+                [
+                    "100:124"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "som f\u00f8lger med"
+                ],
+                [
+                    "125:139"
+                ]
+            ],
+            "Target": [
+                [
+                    "Android Wear eller iOS-baserte smartklokker"
+                ],
+                [
+                    "140:183"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Men spesialiserte funksjoner , basert p\u00e5 Garmin sitt eget operativsystem , betyr samtidig et frav\u00e6r av potensielle fordelene som f\u00f8lger med Android Wear eller iOS-baserte smartklokker .",
+    "sent_id": "201344-28-03"
+}

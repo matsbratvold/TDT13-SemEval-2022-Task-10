@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "A Tiger flotilla"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "MV Yugi"
+                ],
+                [
+                    "60:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "confronted"
+                ],
+                [
+                    "80:90"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "navy gun boats"
+                ],
+                [
+                    "94:108"
+                ]
+            ],
+            "Target": [
+                [
+                    "A Tiger flotilla"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "confronted"
+                ],
+                [
+                    "80:90"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A Tiger flotilla had been moving towards the 14,000 - tonne MV Yugi when it was confronted by navy gun boats , the defence ministry said at the time , adding that the 32 crew members had not been hurt .",
+    "sent_id": "20010916/21.24.32-9824-16"
+}

@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "net income"
+                ],
+                [
+                    "99:109"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fell"
+                ],
+                [
+                    "110:114"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "military spending"
+                ],
+                [
+                    "164:181"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "declining"
+                ],
+                [
+                    "154:163"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "GM vehicle production"
+                ],
+                [
+                    "195:216"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "slumping"
+                ],
+                [
+                    "186:194"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "General Motors Corp. 's big defense and automotive electronics unit , GM Hughes Electronics , said net income fell 22 % in the third quarter , reflecting declining military spending and slumping GM vehicle production .",
+    "sent_id": "xbank/wsj_0950-1"
+}

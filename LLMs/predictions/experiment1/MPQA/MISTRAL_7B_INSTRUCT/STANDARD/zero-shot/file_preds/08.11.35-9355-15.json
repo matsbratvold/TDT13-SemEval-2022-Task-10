@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "refuses to recognise orders"
+                ],
+                [
+                    "75:102"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "- The commander of Venezuela 's paratrooper brigade - Chavez 's old unit - refuses to recognise orders of the interim government .",
+    "sent_id": "non_fbis/08.11.35-9355-15"
+}

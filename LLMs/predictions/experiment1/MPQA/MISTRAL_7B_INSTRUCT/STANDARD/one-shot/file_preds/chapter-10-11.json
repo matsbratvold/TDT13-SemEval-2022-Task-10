@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "They"
+                ],
+                [
+                    "23:27"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "evaluated legislative options"
+                ],
+                [
+                    "28:57"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "217:231"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "promised"
+                ],
+                [
+                    "232:240"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Compensating victims . They evaluated legislative options , eventually setting up a federal compensation fund and defining the powers of a special master to run it . Determining federal assistance . On September 13 , President Bush promised to provide $ 20 billion for New York City , in addition to the $ 20 billion his budget director had already guessed might be needed for the country as a whole .",
+    "sent_id": "ula/chapter-10-11"
+}

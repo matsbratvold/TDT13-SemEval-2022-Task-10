@@ -1,0 +1,138 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Brazilian legislators"
+                ],
+                [
+                    "22:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "spread"
+                ],
+                [
+                    "12:18"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Argentine legislature"
+                ],
+                [
+                    "69:90"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sounded alarm bells"
+                ],
+                [
+                    "91:110"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "senators"
+                ],
+                [
+                    "164:172"
+                ]
+            ],
+            "Target": [
+                [
+                    "Brazilian political arena"
+                ],
+                [
+                    "118:143"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "defended more concrete support"
+                ],
+                [
+                    "212:242"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Deputy Jose Genoino"
+                ],
+                [
+                    "289:308"
+                ]
+            ],
+            "Target": [
+                [
+                    "Argentine democracy"
+                ],
+                [
+                    "380:399"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "threatens"
+                ],
+                [
+                    "370:379"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Deputy Jose Genoino"
+                ],
+                [
+                    "289:308"
+                ]
+            ],
+            "Target": [
+                [
+                    "Brazil"
+                ],
+                [
+                    "22:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "promote meetings"
+                ],
+                [
+                    "423:439"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Concern has spread to Brazilian legislators . Violent attacks at the Argentine legislature sounded alarm bells in the Brazilian political arena , to the point that senators of the official and opposition parties defended more concrete support from the Brazilian Government for Argentina . Deputy Jose Genoino ( Workers Party -- Sao Paulo ) said that the wave of looting threatens Argentine democracy . He asked that Brazil promote meetings in the South American continent , or serve as intermediary in negotiations with international institutions .",
+    "sent_id": "20011231/21.05.45-10422-4"
+}

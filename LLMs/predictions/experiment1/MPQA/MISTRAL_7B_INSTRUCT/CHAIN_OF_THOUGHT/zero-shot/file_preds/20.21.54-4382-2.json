@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "35:40"
+                ]
+            ],
+            "Target": [
+                [
+                    "United States"
+                ],
+                [
+                    "120:133"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "first ever"
+                ],
+                [
+                    "48:58"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Iranian President"
+                ],
+                [
+                    "321:338"
+                ]
+            ],
+            "Target": [
+                [
+                    "United States"
+                ],
+                [
+                    "120:133"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dictatorial move"
+                ],
+                [
+                    "420:436"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Iranian President"
+                ],
+                [
+                    "321:338"
+                ]
+            ],
+            "Target": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "500:514"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "axis of evil"
+                ],
+                [
+                    "556:568"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The above - mentioned statement by China is the first ever by an important country after the 11 September events in the United States . In the document , the United States has been very openly told that it has become the number one country in damaging solidarity of other countries and violating human rights there . The Iranian President Mohammed Khatami , on the start of his visit to Austria , protested against this dictatorial move by the United States . He also condemned the statement made by President Bush terming Iran , Iraq and North Korea as ' axis of evil ' and that these countries are preparing weapons of mass destruction .",
+    "sent_id": "20020315/20.21.54-4382-2"
+}

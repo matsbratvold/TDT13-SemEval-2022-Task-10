@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "cluster of at least 20 boats"
+                ],
+                [
+                    "2:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "LTTE"
+                ],
+                [
+                    "84:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "pre-dawn attack"
+                ],
+                [
+                    "103:118"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "MV Pride of South"
+                ],
+                [
+                    "126:143"
+                ]
+            ],
+            "Target": [
+                [
+                    "LTTE"
+                ],
+                [
+                    "84:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "attack"
+                ],
+                [
+                    "112:118"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A cluster of at least 20 boats of the separatist Liberation Tigers of Tamil Eelam ( LTTE ) mounted the pre-dawn attack on the MV Pride of South off the island 's Point Pedro coast , ministry spokesman Sanath Karunaratne said .",
+    "sent_id": "20010916/21.24.32-9824-1"
+}

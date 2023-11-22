@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Etter gullalderen til spillserien p\u00e5 80- og 90-tallet"
+                ],
+                [
+                    "0:53"
+                ]
+            ],
+            "Target": [
+                [
+                    "Nintendo"
+                ],
+                [
+                    "63:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "klart \u00e5 l\u00f8fte Donkey Kong"
+                ],
+                [
+                    "72:97"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Etter gullalderen til spillserien p\u00e5 80- og 90-tallet har ikke Nintendo klart \u00e5 l\u00f8fte Donkey Kong \u2013 en av selskapets mest sentrale spillhelter \u2013 til samme h\u00f8ye niv\u00e5 som kongen selv ; Mario .",
+    "sent_id": "000787-03-01"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hybridteknologi"
+                ],
+                [
+                    "77:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00f8vrige biler"
+                ],
+                [
+                    "60:72"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dette bekrefter egentlig erfaringer vi har opplevd b\u00e5de med \u00f8vrige biler med hybridteknologi uten lademuligheter .",
+    "sent_id": "202298-12-01"
+}

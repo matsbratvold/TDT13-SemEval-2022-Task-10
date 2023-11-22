@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Wolfowitz"
+                ],
+                [
+                    "98:107"
+                ]
+            ],
+            "Target": [
+                [
+                    "Taiwan"
+                ],
+                [
+                    "68:74"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "committed"
+                ],
+                [
+                    "23:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" The United States is committed to doing whatever it takes to help Taiwan defend itself , \" said Wolfowitz , echoing President George W. Bush 's remarks made when he first took office last year .",
+    "sent_id": "temp_fbis/22.34.58-23977-11"
+}

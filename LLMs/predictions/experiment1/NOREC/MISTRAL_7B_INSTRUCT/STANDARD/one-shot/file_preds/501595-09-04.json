@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en enkel og r\u00f8ff"
+                ],
+                [
+                    "7:23"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "variert rett"
+                ],
+                [
+                    "26:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med komponenter som kler hverandre godt"
+                ],
+                [
+                    "41:80"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er en enkel og r\u00f8ff , variert rett , med komponenter som kler hverandre godt .",
+    "sent_id": "501595-09-04"
+}

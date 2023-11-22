@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Restaurantene"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "individuelt"
+                ],
+                [
+                    "23:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vurderes"
+                ],
+                [
+                    "14:22"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "service"
+                ],
+                [
+                    "75:82"
+                ]
+            ],
+            "Target": [
+                [
+                    "mat"
+                ],
+                [
+                    "85:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "konsept"
+                ],
+                [
+                    "91:98"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "pris"
+                ],
+                [
+                    "101:105"
+                ]
+            ],
+            "Target": [
+                [
+                    "atmosf\u00e6re"
+                ],
+                [
+                    "109:118"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "innenfor sin egen sjanger"
+                ],
+                [
+                    "119:144"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Restaurantene vurderes individuelt og p\u00e5 bakgrunn av helhetsopplevelsen av service , mat , konsept , pris og atmosf\u00e6re innenfor sin egen sjanger .",
+    "sent_id": "501595-14-01"
+}

@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "one company"
+                ],
+                [
+                    "55:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Babylon was"
+                ],
+                [
+                    "150:161"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "one company"
+                ],
+                [
+                    "55:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "That incredible empire"
+                ],
+                [
+                    "164:186"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "one company"
+                ],
+                [
+                    "55:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "I imagine it did not seem possible"
+                ],
+                [
+                    "211:245"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "one company"
+                ],
+                [
+                    "55:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "But we all know how that story turned out"
+                ],
+                [
+                    "327:368"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I always use two simple words when people tell me that one company -- whether it is AOL or Microsoft or Disney -- is in charge of all our destinies : Babylon was . That incredible empire dominated the world and I imagine it did not seem possible to people living then that anyone could loosen that empire 's grip on humanity . But we all know how that story turned out .",
+    "sent_id": "ula/Article247_3500-7"
+}

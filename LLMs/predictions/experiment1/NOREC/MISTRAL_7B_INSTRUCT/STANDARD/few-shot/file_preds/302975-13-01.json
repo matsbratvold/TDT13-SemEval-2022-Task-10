@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Skiftet fra rammefortelling til fortellingen i fortellingen \u2013 Samirs historie \u2013 er uelegant"
+                ],
+                [
+                    "0:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "elegant"
+                ],
+                [
+                    "84:91"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Skiftet fra rammefortelling til fortellingen i fortellingen \u2013 Samirs historie \u2013 er uelegant .",
+    "sent_id": "302975-13-01"
+}

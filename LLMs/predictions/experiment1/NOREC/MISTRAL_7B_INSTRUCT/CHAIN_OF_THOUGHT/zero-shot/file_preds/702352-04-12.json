@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "time"
+                ],
+                [
+                    "2:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "38 min"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Aldersgrense"
+                ],
+                [
+                    "16:28"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "1 time 38 min . Aldersgrense : 9 \u00e5r .",
+    "sent_id": "702352-04-12"
+}

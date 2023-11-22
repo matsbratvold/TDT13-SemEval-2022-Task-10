@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "rollefigurer"
+                ],
+                [
+                    "15:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "underspilles"
+                ],
+                [
+                    "28:40"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "skuespillertradisjoner"
+                ],
+                [
+                    "81:103"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilsier"
+                ],
+                [
+                    "104:111"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "f\u00f8lelser"
+                ],
+                [
+                    "120:128"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "spilles direkte ut"
+                ],
+                [
+                    "129:147"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det er sjelden rollefigurer underspilles s\u00e5 konsentrert i nordiske filmer , v\u00e5re skuespillertradisjoner tilsier ofte at f\u00f8lelser spilles direkte ut .",
+    "sent_id": "400175-11-01"
+}

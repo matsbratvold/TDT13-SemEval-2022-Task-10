@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "she"
+                ],
+                [
+                    "70:73"
+                ]
+            ],
+            "Target": [
+                [
+                    "criticisms of the destinations of the presidential trips"
+                ],
+                [
+                    "11:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "remarked"
+                ],
+                [
+                    "74:82"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "As for the criticisms of the destinations of the presidential trips , she remarked : \" In addition to the fact that we do not have to ask anyone for permission to decide where and when we should visit a country , the President has visited countries with which we have direct trade relations , countries that are OPEC members , with the specific objective of strengthening our economy . \"",
+    "sent_id": "20020207/20.22.42-14586-5"
+}

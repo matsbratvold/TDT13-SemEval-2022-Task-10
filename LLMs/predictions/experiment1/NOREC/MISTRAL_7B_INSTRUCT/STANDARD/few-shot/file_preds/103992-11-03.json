@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "\u00e5pen leirskole"
+                ],
+                [
+                    "24:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Grunnlaget"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Grunnlaget for en slags \u00e5pen leirskole , der l\u00e6reren har mistet kontrollen mens noen av de modne elevene tar ansvar er lagt .",
+    "sent_id": "103992-11-03"
+}

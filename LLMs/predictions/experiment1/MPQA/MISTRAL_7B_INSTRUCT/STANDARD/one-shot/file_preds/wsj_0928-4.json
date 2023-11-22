@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Scott McNealy"
+                ],
+                [
+                    "17:30"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "was hampered"
+                ],
+                [
+                    "97:109"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In a statement , Scott McNealy , Sun's chief executive officer , said the company 's performance was hampered by problems tied to the introduction of a major new family of computers in April . One of those new computers , called Sparcstation 1 , accounted for nearly half of the 28,000 systems Sun shipped in the quarter , he said . More than two - thirds of the systems shipped , meanwhile , were products introduced in April .",
+    "sent_id": "xbank/wsj_0928-4"
+}

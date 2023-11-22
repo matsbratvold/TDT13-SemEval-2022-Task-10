@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Om"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "alle"
+                ],
+                [
+                    "36:40"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "skal det"
+                ],
+                [
+                    "43:51"
+                ]
+            ],
+            "Target": [
+                [
+                    "gj\u00f8res"
+                ],
+                [
+                    "57:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 ikke finne noe her"
+                ],
+                [
+                    "64:84"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Om ikke alt er like interessant for alle , skal det godt gj\u00f8res \u00e5 ikke finne noe her som vil interessere nettopp den enkelte .",
+    "sent_id": "601365-10-01"
+}

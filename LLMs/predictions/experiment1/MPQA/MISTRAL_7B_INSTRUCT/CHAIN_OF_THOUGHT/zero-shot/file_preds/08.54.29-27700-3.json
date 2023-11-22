@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Latin America"
+                ],
+                [
+                    "4:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "Mr. Chavez"
+                ],
+                [
+                    "122:132"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has moved beyond coups"
+                ],
+                [
+                    "18:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Latin America"
+                ],
+                [
+                    "4:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "Mr. Chavez"
+                ],
+                [
+                    "122:132"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has the means to remove"
+                ],
+                [
+                    "98:121"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "But Latin America has moved beyond coups , and this pivotal nation in a hemisphere of democracies has the means to remove Mr. Chavez by constitutional and especially nonviolent means .",
+    "sent_id": "non_fbis/08.54.29-27700-3"
+}

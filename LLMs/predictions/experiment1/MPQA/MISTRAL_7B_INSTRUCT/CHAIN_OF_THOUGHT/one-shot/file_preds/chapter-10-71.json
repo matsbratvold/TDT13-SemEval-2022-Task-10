@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "the rule of the Taliban"
+                ],
+                [
+                    "1360:1383"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "eliminate"
+                ],
+                [
+                    "903:912"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In Phase One , the United States and its allies would move forces into the region and arrange to operate from or over neighboring countries such as Uzbekistan and Pakistan . This occurred in the weeks following 9/11 , aided by overwhelming international sympathy for the United States . In Phase Two , air strikes and Special Operations attacks would hit key al Qaeda and Taliban targets . In an innovative joint effort , CIA and Special Operations forces would be deployed to work together with each major Afghan faction opposed to the Taliban . The Phase Two strikes and raids began on October 7 . The basing arrangements contemplated for Phase One were substantially secured - after arduous effort - by the end of that month . In Phase Three , the United States would carry out \" decisive operations \" using all elements of national power , including ground troops , to topple the Taliban regime and eliminate al Qaeda 's sanctuary in Afghanistan . Mazar - e - Sharif , in northern Afghanistan , fell to a coalition assault by Afghan and U.S. forces on November 9 . Four days later the Taliban had fled from Kabul . By early December , all major cities had fallen to the coalition . On December 22 , Hamid Karzai , a Pashtun leader from Kandahar , was installed as the chairman of Afghanistan 's interim administration . Afghanistan had been liberated from the rule of the Taliban .",
+    "sent_id": "ula/chapter-10-71"
+}

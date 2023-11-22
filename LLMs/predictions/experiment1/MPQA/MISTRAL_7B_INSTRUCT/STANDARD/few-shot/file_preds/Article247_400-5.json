@@ -1,0 +1,50 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Several papers"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "H and R Block has finally wriggled out of its controlling stake of Compuserve"
+                ],
+                [
+                    "30:107"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "AOL is set to take it over"
+                ],
+                [
+                    "148:174"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Several papers have word that H and R Block has finally wriggled out of its controlling stake of Compuserve , but it 's the Post with the news that AOL is set to take it over .",
+    "sent_id": "ula/Article247_400-5"
+}

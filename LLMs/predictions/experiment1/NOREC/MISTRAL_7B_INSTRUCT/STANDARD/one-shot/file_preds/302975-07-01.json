@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "de"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "starter"
+                ],
+                [
+                    "11:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med et barneperspektiv"
+                ],
+                [
+                    "19:41"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "vesle Synne"
+                ],
+                [
+                    "44:55"
+                ]
+            ],
+            "Target": [
+                [
+                    "gleder seg til \u00e5 f\u00e5 en ny gutt i klassen"
+                ],
+                [
+                    "56:96"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "seg til \u00e5 f\u00e5 en ny gutt i klassen"
+                ],
+                [
+                    "63:96"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "klarer de ikke \u00e5 fri boka fra en bel\u00e6rende fortellerstemme"
+                ],
+                [
+                    "99:157"
+                ]
+            ],
+            "Target": [
+                [
+                    "de"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bel\u00e6rende fortellerstemme"
+                ],
+                [
+                    "132:157"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Selv om de starter med et barneperspektiv \u2013 vesle Synne gleder seg til \u00e5 f\u00e5 en ny gutt i klassen \u2013 klarer de ikke \u00e5 fri boka fra en bel\u00e6rende fortellerstemme .",
+    "sent_id": "302975-07-01"
+}

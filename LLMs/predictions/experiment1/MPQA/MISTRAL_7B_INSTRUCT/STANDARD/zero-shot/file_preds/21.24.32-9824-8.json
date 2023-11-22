@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "boat"
+                ],
+                [
+                    "17:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "attack"
+                ],
+                [
+                    "38:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "came under attack"
+                ],
+                [
+                    "27:44"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "navy vessel"
+                ],
+                [
+                    "56:67"
+                ]
+            ],
+            "Target": [
+                [
+                    "retaliated"
+                ],
+                [
+                    "68:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "exploded"
+                ],
+                [
+                    "98:106"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "As it neared the boat , it came under attack . When the navy vessel retaliated , the fishing boat exploded .",
+    "sent_id": "20010916/21.24.32-9824-8"
+}

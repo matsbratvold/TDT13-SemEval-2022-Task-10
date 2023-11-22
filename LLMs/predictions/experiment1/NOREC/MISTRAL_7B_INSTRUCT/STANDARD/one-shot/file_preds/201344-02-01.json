@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Garmin Fenix Chronos"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "tur- og treningskamerat"
+                ],
+                [
+                    "34:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "meget god"
+                ],
+                [
+                    "24:33"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Garmin Fenix Chronos"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "vanlige smartklokker"
+                ],
+                [
+                    "80:100"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Garmin Fenix Chronos er meget god tur- og treningskamerat , og mye flottere enn vanlige smartklokker .",
+    "sent_id": "201344-02-01"
+}

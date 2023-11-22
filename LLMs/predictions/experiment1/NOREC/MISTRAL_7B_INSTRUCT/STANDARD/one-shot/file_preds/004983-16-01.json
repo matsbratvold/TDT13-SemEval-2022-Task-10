@@ -1,0 +1,51 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dette er en uvanlig underholdningshistorie"
+                ],
+                [
+                    "0:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fortalt med en modig oppriktighet"
+                ],
+                [
+                    "43:76"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "sl\u00e5r fra seg"
+                ],
+                [
+                    "81:93"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dette er en uvanlig underholdningshistorie fortalt med en modig oppriktighet som sl\u00e5r fra seg , og ender opp som en usannsynlig feelgoodfilm",
+    "sent_id": "004983-16-01"
+}

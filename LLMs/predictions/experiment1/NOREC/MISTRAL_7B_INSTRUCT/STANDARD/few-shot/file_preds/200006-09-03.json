@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Polar A360"
+                ],
+                [
+                    "52:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "minne litt om en av v\u00e5re andre favoritter"
+                ],
+                [
+                    "8:49"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "aktivitetsarmb\u00e5nd fra Jawbone"
+                ],
+                [
+                    "74:103"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "minne litt om en av v\u00e5re andre favoritter"
+                ],
+                [
+                    "8:49"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det kan minne litt om en av v\u00e5re andre favoritter , Polar A360 , eller et aktivitetsarmb\u00e5nd fra Jawbone .",
+    "sent_id": "200006-09-03"
+}

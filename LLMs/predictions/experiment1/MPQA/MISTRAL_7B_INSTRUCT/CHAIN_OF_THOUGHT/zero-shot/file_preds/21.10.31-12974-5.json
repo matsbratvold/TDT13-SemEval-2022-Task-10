@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Andrey Gudkov"
+                ],
+                [
+                    "8:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "Russia"
+                ],
+                [
+                    "105:111"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lands situated in a condition of permafrost will gradually turn into fertile soils for agricultural production"
+                ],
+                [
+                    "160:270"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Andrey Gudkov"
+                ],
+                [
+                    "8:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "Russia"
+                ],
+                [
+                    "105:111"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rich Russian fields that stretch across the Arctic zone"
+                ],
+                [
+                    "283:338"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Andrey Gudkov"
+                ],
+                [
+                    "8:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "Russia"
+                ],
+                [
+                    "105:111"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blocking off the sun with an umbrella that would be suspended in space"
+                ],
+                [
+                    "402:472"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "And now Andrey Gudkov , an expert at the Center for Strategic Studies , follows Budyko in insisting that Russia , as well as Canada and Alaska , gain , since \" lands situated in a condition of permafrost will gradually turn into fertile soils for agricultural production . \" But the rich Russian fields that stretch across the Arctic zone are small comfort to humankind as a whole , so Gudkov proposes blocking off the sun with an umbrella that would be suspended in space . The expert immediately sketched on a blackboard what this should look like , mixing up chemical symbols : rockets would carry metallic sodium into orbits around the earth . Cooling aerosols dispersed over the polar zones would prevent overheating of the tundra during sunny summer nights .",
+    "sent_id": "temp_fbis/21.10.31-12974-5"
+}

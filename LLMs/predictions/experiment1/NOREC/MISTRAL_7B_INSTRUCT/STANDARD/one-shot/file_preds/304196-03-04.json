@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men han"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "han"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "har ikke gitt ut et studioalbum p\u00e5 25 \u00e5r"
+                ],
+                [
+                    "8:48"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men han har ikke gitt ut et studioalbum p\u00e5 25 \u00e5r .",
+    "sent_id": "304196-03-04"
+}

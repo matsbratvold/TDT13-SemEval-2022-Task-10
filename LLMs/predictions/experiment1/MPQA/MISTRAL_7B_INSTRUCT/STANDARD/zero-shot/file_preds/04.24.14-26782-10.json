@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "U.S. delegation"
+                ],
+                [
+                    "71:86"
+                ]
+            ],
+            "Target": [
+                [
+                    "assistance to island countries"
+                ],
+                [
+                    "25:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "demanded that wording about the impact of global warming be deleted"
+                ],
+                [
+                    "142:209"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "U.S. delegation"
+                ],
+                [
+                    "71:86"
+                ]
+            ],
+            "Target": [
+                [
+                    "assistance to island countries"
+                ],
+                [
+                    "25:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "said that a causal relation between unusual climatic phenomena and greenhouse gas emissions has not been proved"
+                ],
+                [
+                    "227:338"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Furthermore , concerning assistance to island countries , although the U.S. delegation agreed to establish satellite observation systems , it demanded that wording about the impact of global warming be deleted . The delegation said that a causal relation between unusual climatic phenomena and greenhouse gas emissions has not been proved .",
+    "sent_id": "non_fbis/04.24.14-26782-10"
+}

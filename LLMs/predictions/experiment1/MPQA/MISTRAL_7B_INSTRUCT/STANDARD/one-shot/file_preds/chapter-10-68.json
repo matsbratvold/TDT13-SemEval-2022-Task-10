@@ -1,0 +1,138 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "the new war"
+                ],
+                [
+                    "27:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "argued"
+                ],
+                [
+                    "15:21"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "every terrorist group of global reach"
+                ],
+                [
+                    "170:207"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "will not end"
+                ],
+                [
+                    "151:163"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "had a message"
+                ],
+                [
+                    "266:279"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "had a message"
+                ],
+                [
+                    "266:279"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "join us"
+                ],
+                [
+                    "506:513"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "had a message"
+                ],
+                [
+                    "266:279"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "President Bush argued that the new war went beyond Bin Ladin . \" Our war on terror begins with al Qaeda , but it does not end there , \" he said . \" It will not end until every terrorist group of global reach has been found , stopped , and defeated . \" The President had a message for the Pentagon : \" The hour is coming when America will act , and you will make us proud . \" He also had a message for those outside the United States . \" This is civilization 's fight , \" he said . \" We ask every nation to join us . \"",
+    "sent_id": "ula/chapter-10-68"
+}

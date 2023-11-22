@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Iranian president"
+                ],
+                [
+                    "0:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "President Chavez"
+                ],
+                [
+                    "70:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "expressed the hope"
+                ],
+                [
+                    "27:45"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The Iranian president also expressed the hope that with the return of President Chavez the Venezuelan government would be able to achieve its exalted objectives with the support of the people .",
+    "sent_id": "non_fbis/15.36.10-18917-3"
+}

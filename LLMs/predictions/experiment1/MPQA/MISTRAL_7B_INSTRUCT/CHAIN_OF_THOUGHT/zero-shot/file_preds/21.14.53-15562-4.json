@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Experts"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Chinese economy"
+                ],
+                [
+                    "17:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tremendous opportunities"
+                ],
+                [
+                    "43:67"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Experts"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Chinese economy"
+                ],
+                [
+                    "17:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "many challenges"
+                ],
+                [
+                    "126:141"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Experts said the Chinese economy will have tremendous opportunities after China 's entry to the WTO , while it will also face many challenges which will require accelerated and profound reform in enterprises , the financial system and social security .",
+    "sent_id": "20011024/21.14.53-15562-4"
+}

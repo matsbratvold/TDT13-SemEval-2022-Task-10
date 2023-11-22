@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "blocking shields"
+                ],
+                [
+                    "31:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "answer"
+                ],
+                [
+                    "82:88"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "As for all the ideas regarding blocking shields , umbrellas and the like , I will answer this way . The Kyoto Protocol proposes adapting to climate change . There are no proposals there to erect screens or to shoot cooling aerosols into the atmosphere . Already everything humankind does causes incredible damage to nature . We emit greenhouse gases , we thaw out the frozen regions that emit methane , we destroy forests , and in the south , deserts are expanding , a process that alters the heat exchange between the earth 's surface and the atmosphere . That is , all of our actions are accompanied by a deterioration in the climate . In this situation it is very frightening to do anything else -- for example , to suspend some umbrella , screen or something else in that vein .",
+    "sent_id": "temp_fbis/21.10.31-12974-48"
+}

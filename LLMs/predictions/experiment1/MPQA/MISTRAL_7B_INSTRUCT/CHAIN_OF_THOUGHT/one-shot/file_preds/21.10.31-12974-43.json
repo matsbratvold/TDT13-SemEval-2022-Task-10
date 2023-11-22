@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "will rise"
+                ],
+                [
+                    "89:98"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Russia"
+                ],
+                [
+                    "101:107"
+                ]
+            ],
+            "Target": [
+                [
+                    "St. Petersburg"
+                ],
+                [
+                    "155:169"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "low - lying areas"
+                ],
+                [
+                    "127:144"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Russia"
+                ],
+                [
+                    "101:107"
+                ]
+            ],
+            "Target": [
+                [
+                    "Western Siberia"
+                ],
+                [
+                    "198:213"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enormous territory"
+                ],
+                [
+                    "176:194"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "If the glaciers of Antarctica and Greenland melt down , the level of the world 's oceans will rise . Russia has quite a lot of low - lying areas , such as St. Petersburg . The enormous territory of Western Siberia risks turning into a sea .",
+    "sent_id": "temp_fbis/21.10.31-12974-43"
+}

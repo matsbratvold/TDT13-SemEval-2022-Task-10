@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "balladen"
+                ],
+                [
+                    "23:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "un\u00f8dvendig"
+                ],
+                [
+                    "32:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "EP"
+                ],
+                [
+                    "49:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "overlegent"
+                ],
+                [
+                    "76:86"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "avhengighetsskapende bangers"
+                ],
+                [
+                    "98:126"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "overlegent"
+                ],
+                [
+                    "76:86"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "I dette tilfellet blir balladen un\u00f8dvendig p\u00e5 en EP som for det meste er et overlegent produkt av avhengighetsskapende bangers .",
+    "sent_id": "003121-05-03"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Life-modellen"
+                ],
+                [
+                    "22:35"
+                ]
+            ],
+            "Target": [
+                [
+                    "en mindre utstyrt modell"
+                ],
+                [
+                    "38:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "riktig nok"
+                ],
+                [
+                    "7:17"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Life-modellen"
+                ],
+                [
+                    "22:35"
+                ]
+            ],
+            "Target": [
+                [
+                    "en mindre utstyrt modell"
+                ],
+                [
+                    "38:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til for \u00e5 gi en gunstig lokkepris"
+                ],
+                [
+                    "74:107"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er riktig nok for Life-modellen , en mindre utstyrt modell som mer er til for \u00e5 gi en gunstig lokkepris .",
+    "sent_id": "202298-30-02"
+}

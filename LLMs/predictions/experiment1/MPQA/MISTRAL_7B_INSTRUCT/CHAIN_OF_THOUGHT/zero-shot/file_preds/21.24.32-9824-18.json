@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Government forces"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "sea route"
+                ],
+                [
+                    "57:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "depend"
+                ],
+                [
+                    "39:45"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "civilians"
+                ],
+                [
+                    "29:38"
+                ]
+            ],
+            "Target": [
+                [
+                    "sea route"
+                ],
+                [
+                    "57:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "depend"
+                ],
+                [
+                    "39:45"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Government forces as well as civilians depend on a vital sea route to Jaffna to provide them with supplies since the land route is held by the Tiger rebels .",
+    "sent_id": "20010916/21.24.32-9824-18"
+}

@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "guess"
+                ],
+                [
+                    "6:11"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "but i guess that 's it that 's my opinion on it so what now",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-32"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Wilcos"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "skuldertrekk og \u00f8deleggelse"
+                ],
+                [
+                    "29:56"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Wilcos seneste slagplan er \u00ab skuldertrekk og \u00f8deleggelse \u00bb .",
+    "sent_id": "303721-03-02"
+}

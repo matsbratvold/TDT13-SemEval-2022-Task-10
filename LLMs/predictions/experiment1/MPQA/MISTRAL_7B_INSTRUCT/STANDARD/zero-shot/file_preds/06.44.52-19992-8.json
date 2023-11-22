@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Meanwhile"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "Humvees"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "A Navy helicopter whirls overhead"
+                ],
+                [
+                    "111:144"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Meanwhile , Humvees mounted with .50 - caliber machine guns and 40 mm grenade launchers take their positions . A Navy helicopter whirls overhead .",
+    "sent_id": "non_fbis/06.44.52-19992-8"
+}

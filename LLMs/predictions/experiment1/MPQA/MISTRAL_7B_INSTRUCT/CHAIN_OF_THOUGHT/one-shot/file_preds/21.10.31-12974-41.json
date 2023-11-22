@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Many people in Russia"
+                ],
+                [
+                    "42:63"
+                ]
+            ],
+            "Target": [
+                [
+                    "climate change"
+                ],
+                [
+                    "25:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "how much fuel we'll save"
+                ],
+                [
+                    "70:94"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Many people in Russia"
+                ],
+                [
+                    "42:63"
+                ]
+            ],
+            "Target": [
+                [
+                    "climate change"
+                ],
+                [
+                    "25:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "how much fuel we'll save"
+                ],
+                [
+                    "70:94"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Should we be happy about climate change ? Many people in Russia say : how much fuel we'll save ! But the warming will definitely not be uniform . If the mean temperature rises by 2 degrees , the range of fluctuations will widen and will go , for example , from - 40 to + 45 degrees . So there will not be less of a need for fuel if , on the average , one winter out of every three winters becomes much colder than the harshest previous one . And what will happen during the new , overly warm summer seasons ? What will happen to industrial and transport facilities , housing and other infrastructure that were built in permafrost , which will turn into muddy swamp ?",
+    "sent_id": "temp_fbis/21.10.31-12974-41"
+}

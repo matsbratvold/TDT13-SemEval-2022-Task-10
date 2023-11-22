@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ikke bare"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "denne barmhjertige oppf\u00f8rselen"
+                ],
+                [
+                    "15:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det oppleves ogs\u00e5"
+                ],
+                [
+                    "106:123"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Ikke bare"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "det oppleves ogs\u00e5"
+                ],
+                [
+                    "106:123"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjennom spillets gang kinkigere \u00e5 finne harml\u00f8se v\u00e5pen"
+                ],
+                [
+                    "124:178"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Ikke bare"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "vanlige piler finnes i hopetall"
+                ],
+                [
+                    "228:259"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mens vanlige piler finnes i hopetall"
+                ],
+                [
+                    "223:259"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Ikke bare gj\u00f8r denne barmhjertige oppf\u00f8rselen det innfl\u00f8kt \u00e5 skaffe seg runer for \u00e5 f\u00e5 flere egenskaper , det oppleves ogs\u00e5 gjennom spillets gang kinkigere \u00e5 finne harml\u00f8se v\u00e5pen ( nesten ikke en bed\u00f8velsespil \u00e5 oppdrive , mens vanlige piler finnes i hopetall ) .",
+    "sent_id": "000913-16-01"
+}

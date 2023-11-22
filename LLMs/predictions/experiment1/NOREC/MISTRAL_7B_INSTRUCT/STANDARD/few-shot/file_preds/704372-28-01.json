@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Filosofien"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "den samme som for 16 \u00e5r siden"
+                ],
+                [
+                    "21:50"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Filosofien er dermed den samme som for 16 \u00e5r siden .",
+    "sent_id": "704372-28-01"
+}

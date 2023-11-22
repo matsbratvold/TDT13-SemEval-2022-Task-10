@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "sniking"
+                ],
+                [
+                    "21:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det var d\u00e9t som var mest morsomt i Dishonored"
+                ],
+                [
+                    "37:82"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "sniking"
+                ],
+                [
+                    "21:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det er utvilsomt denne varianten som er vanskeligst og mest tidkrevende"
+                ],
+                [
+                    "88:159"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Jeg bestemte meg for sniking , fordi det var d\u00e9t som var mest morsomt i Dishonored , og det er utvilsomt denne varianten som er vanskeligst og mest tidkrevende .",
+    "sent_id": "000913-15-01"
+}

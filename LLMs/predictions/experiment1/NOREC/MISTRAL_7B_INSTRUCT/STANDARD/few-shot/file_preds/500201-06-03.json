@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "alkoholen"
+                ],
+                [
+                    "13:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sprit"
+                ],
+                [
+                    "39:44"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "For eksempel alkoholen , her i form av sprit solgt fra en plankebu av en bar , i regi av plantasjen og med trekk i en l\u00f8nn som dermed fort vekk kan vises seg \u00e5 v\u00e6re drukket opp .",
+    "sent_id": "500201-06-03"
+}

@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "godt"
+                ],
+                [
+                    "7:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "godt"
+                ],
+                [
+                    "7:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "og"
+                ],
+                [
+                    "14:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "ja"
+                ],
+                [
+                    "17:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ja"
+                ],
+                [
+                    "17:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "og"
+                ],
+                [
+                    "14:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "enda litt bedre enn sist"
+                ],
+                [
+                    "22:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enda litt bedre enn sist"
+                ],
+                [
+                    "22:46"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "men"
+                ],
+                [
+                    "49:52"
+                ]
+            ],
+            "Target": [
+                [
+                    "i m\u00f8te med de siste \u00e5renes utrolige kvalitetsniv\u00e5 p\u00e5 plattformspill"
+                ],
+                [
+                    "53:120"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kommer Tropical Freeze til kort"
+                ],
+                [
+                    "121:152"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er godt , og ja , enda litt bedre enn sist , men i m\u00f8te med de siste \u00e5renes utrolige kvalitetsniv\u00e5 p\u00e5 plattformspill kommer Tropical Freeze til kort",
+    "sent_id": "000787-12-02"
+}

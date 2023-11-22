@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Rice"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "10:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "We 're at war"
+                ],
+                [
+                    "62:75"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Rice"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "Director of Central Intelligence George Tenet"
+                ],
+                [
+                    "89:134"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "early signs all pointed to al Qaeda"
+                ],
+                [
+                    "201:236"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Rice"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "Deputies Committee"
+                ],
+                [
+                    "256:274"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "pending presidential directive"
+                ],
+                [
+                    "291:321"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Rice said President Bush began the meeting with the words , \" We 're at war , \" and that Director of Central Intelligence George Tenet said the agency was still assessing who was responsible , but the early signs all pointed to al Qaeda . That evening the Deputies Committee returned to the pending presidential directive they had labored over during the summer .",
+    "sent_id": "ula/chapter-10-4"
+}

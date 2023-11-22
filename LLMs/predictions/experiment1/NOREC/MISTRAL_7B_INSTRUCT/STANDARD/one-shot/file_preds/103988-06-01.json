@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Onkel"
+                ],
+                [
+                    "114:119"
+                ]
+            ],
+            "Target": [
+                [
+                    "h\u00f8yttaleren min"
+                ],
+                [
+                    "63:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "verdens mest avv\u00e6pnende sammensetning av bokstaver"
+                ],
+                [
+                    "157:207"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Med et hvilket som helst annet ord , hadde jeg nok introdusert h\u00f8yttaleren min for en spiss gjenstand kjapt , men Onkel , Admiral og refrengmann Eben bruker verdens mest avv\u00e6pnende sammensetning av bokstaver for alt det er verdt .",
+    "sent_id": "103988-06-01"
+}

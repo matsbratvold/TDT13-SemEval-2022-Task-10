@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "POPmusic"
+                ],
+                [
+                    "11:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er den eneste radioen som ikke spiller etter 15 timer p\u00e5 batteri"
+                ],
+                [
+                    "29:93"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Sammen med POPmusic er dette er den eneste radioen som ikke spiller etter 15 timer p\u00e5 batteri .",
+    "sent_id": "202868-05-01"
+}

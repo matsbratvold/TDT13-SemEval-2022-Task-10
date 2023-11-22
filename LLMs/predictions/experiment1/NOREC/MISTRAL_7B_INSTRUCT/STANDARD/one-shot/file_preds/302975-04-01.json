@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Samir og den lange reisa"
+                ],
+                [
+                    "9:33"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det er \u00ab Samir og den lange reisa \u00bb i kortversjon , bortsett fra at det er en bildebok .",
+    "sent_id": "302975-04-01"
+}

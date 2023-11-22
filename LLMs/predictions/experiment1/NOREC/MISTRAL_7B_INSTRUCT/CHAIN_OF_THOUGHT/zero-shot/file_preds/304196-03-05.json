@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "et operaalbum"
+                ],
+                [
+                    "20:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "riktignok"
+                ],
+                [
+                    "10:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Han lagde riktignok et operaalbum i 2005 , men har alts\u00e5 litt \u00e5 \u00ab ta igjen \u00bb .",
+    "sent_id": "304196-03-05"
+}

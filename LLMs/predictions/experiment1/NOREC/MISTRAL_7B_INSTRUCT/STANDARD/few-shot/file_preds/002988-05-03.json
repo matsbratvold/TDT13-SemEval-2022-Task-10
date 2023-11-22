@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "pakket"
+                ],
+                [
+                    "12:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "monoton forkledning"
+                ],
+                [
+                    "25:44"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "beaten"
+                ],
+                [
+                    "50:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjennomg\u00e5ende diffus og tam"
+                ],
+                [
+                    "60:87"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Det hele er pakket inn i monoton forkledning hvor beaten er gjennomg\u00e5ende diffus og tam .",
+    "sent_id": "002988-05-03"
+}

@@ -1,0 +1,42 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "spilles s\u00e5 riktig ut mot hverandre"
+                ],
+                [
+                    "53:87"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Sjelden har jeg sett et kammerspill der alle rollene spilles s\u00e5 riktig ut mot hverandre .",
+    "sent_id": "703256-15-02"
+}

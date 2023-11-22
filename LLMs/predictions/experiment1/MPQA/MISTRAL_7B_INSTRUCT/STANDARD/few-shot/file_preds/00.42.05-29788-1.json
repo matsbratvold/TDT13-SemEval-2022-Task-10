@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "a French weekly"
+                ],
+                [
+                    "184:199"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Paris , July 11 ( CNA ) -- Taiwan 's economy will become totally dependent on mainland China within the next few years , causing the island to lose control of its own political fate , a French weekly warned Thursday .",
+    "sent_id": "20010713/00.42.05-29788-1"
+}

@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "en salt og mineralsk chablis fra William F\u00e8vre"
+                ],
+                [
+                    "8:54"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Vinen , en salt og mineralsk chablis fra William F\u00e8vre , er med p\u00e5 \u00e5 dempe syrligheten .",
+    "sent_id": "501595-09-05"
+}

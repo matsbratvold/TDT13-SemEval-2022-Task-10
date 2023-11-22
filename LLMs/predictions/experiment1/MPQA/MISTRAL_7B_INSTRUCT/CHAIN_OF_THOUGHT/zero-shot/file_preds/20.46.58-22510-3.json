@@ -1,0 +1,106 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "It"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "the U.S. State Department"
+                ],
+                [
+                    "23:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "annual global human rights report"
+                ],
+                [
+                    "52:85"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Washington"
+                ],
+                [
+                    "116:126"
+                ]
+            ],
+            "Target": [
+                [
+                    "most countries and international human rights organizations"
+                ],
+                [
+                    "165:224"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "the killing of a large number of innocent civilians in Afghanistan"
+                ],
+                [
+                    "229:295"
+                ]
+            ],
+            "Target": [
+                [
+                    "Washington"
+                ],
+                [
+                    "116:126"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "the torture and inhuman treatment of the Taleban and Al - Qaeda prisoners at its military base at Guantanamo Bay"
+                ],
+                [
+                    "300:412"
+                ]
+            ],
+            "Target": [
+                [
+                    "Washington"
+                ],
+                [
+                    "116:126"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "It is interesting that the U.S. State Department 's annual global human rights report came this year at a time when Washington itself is being sharply criticized by most countries and international human rights organizations for the killing of a large number of innocent civilians in Afghanistan and the torture and inhuman treatment of the Taleban and Al - Qaeda prisoners at its military base at Guantanamo Bay .",
+    "sent_id": "temp_fbis/20.46.58-22510-3"
+}

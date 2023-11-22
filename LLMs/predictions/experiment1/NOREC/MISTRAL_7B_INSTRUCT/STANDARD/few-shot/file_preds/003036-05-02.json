@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Frank Ocean"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "visuelt album"
+                ],
+                [
+                    "52:65"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lansert"
+                ],
+                [
+                    "41:48"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Frank Ocean har , i likhet med Beyonc\u00e9 , lansert et visuelt album .",
+    "sent_id": "003036-05-02"
+}

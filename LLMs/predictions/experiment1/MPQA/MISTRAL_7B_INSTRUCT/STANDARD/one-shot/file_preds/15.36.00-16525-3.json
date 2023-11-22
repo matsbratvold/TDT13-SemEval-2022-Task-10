@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The government"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "a restriction on movement of capitals abroad"
+                ],
+                [
+                    "33:77"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "imposed"
+                ],
+                [
+                    "25:32"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The government this week imposed a restriction on movement of capitals abroad , limiting the sum to 1,000 USD per person .",
+    "sent_id": "non_fbis/15.36.00-16525-3"
+}

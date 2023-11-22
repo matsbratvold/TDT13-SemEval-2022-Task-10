@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "En overraskende gullrekkesatsning"
+                ],
+                [
+                    "0:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "men det er lett \u00e5 forst\u00e5 hva de har tenkt"
+                ],
+                [
+                    "36:77"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "En overraskende gullrekkesatsning , men det er lett \u00e5 forst\u00e5 hva de har tenkt .",
+    "sent_id": "300186-04-01"
+}

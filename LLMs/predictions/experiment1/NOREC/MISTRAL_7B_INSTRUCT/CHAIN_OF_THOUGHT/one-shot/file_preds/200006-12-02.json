@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "hullene"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "festeanordningen"
+                ],
+                [
+                    "38:54"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "hullene"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "festeanordningen"
+                ],
+                [
+                    "38:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "antagelig fordi"
+                ],
+                [
+                    "57:72"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "hullene"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "festeanordningen"
+                ],
+                [
+                    "38:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det er ikke bare-bare \u00e5 trykke p\u00e5 plass"
+                ],
+                [
+                    "106:145"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Mulig fordi hullene er for trange for festeanordningen , antagelig fordi det skal sitte godt nok p\u00e5 , men det er ikke bare-bare \u00e5 trykke p\u00e5 plass .",
+    "sent_id": "200006-12-02"
+}

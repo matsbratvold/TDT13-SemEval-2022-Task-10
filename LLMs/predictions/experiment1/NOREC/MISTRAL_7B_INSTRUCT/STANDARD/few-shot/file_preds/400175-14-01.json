@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "st\u00f8tt"
+                ],
+                [
+                    "5:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "klassisk dansk film"
+                ],
+                [
+                    "15:34"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "St\u00e5r st\u00f8tt som klassisk dansk film",
+    "sent_id": "400175-14-01"
+}

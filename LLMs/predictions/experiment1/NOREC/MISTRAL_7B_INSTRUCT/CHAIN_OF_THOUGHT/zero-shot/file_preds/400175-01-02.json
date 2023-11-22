@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "dette \u00e5rets beste nordiske film"
+                ],
+                [
+                    "3:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5rets beste"
+                ],
+                [
+                    "9:20"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Er dette \u00e5rets beste nordiske film ?",
+    "sent_id": "400175-01-02"
+}

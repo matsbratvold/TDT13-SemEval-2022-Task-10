@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "It is interesting"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "the U.S. State Department 's annual global human rights report"
+                ],
+                [
+                    "23:85"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "came"
+                ],
+                [
+                    "86:90"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "It is interesting that the U.S. State Department 's annual global human rights report came this year at a time when Washington itself is being sharply criticized by most countries and international human rights organizations for the killing of a large number of innocent civilians in Afghanistan and the torture and inhuman treatment of the Taleban and Al - Qaeda prisoners at its military base at Guantanamo Bay .",
+    "sent_id": "temp_fbis/20.46.58-22510-3"
+}

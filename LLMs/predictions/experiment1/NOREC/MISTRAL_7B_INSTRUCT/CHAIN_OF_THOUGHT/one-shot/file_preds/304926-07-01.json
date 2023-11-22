@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "filmens dataanimerte partier"
+                ],
+                [
+                    "32:60"
+                ]
+            ],
+            "Target": [
+                [
+                    "filmens dataanimerte partier"
+                ],
+                [
+                    "32:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er de mest vellykkede"
+                ],
+                [
+                    "65:86"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "blir st\u00e5ende som fasit"
+                ],
+                [
+                    "124:146"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Til syvende og sist er det ogs\u00e5 filmens dataanimerte partier som er de mest vellykkede , og det er ogs\u00e5 dette uttrykket som blir st\u00e5ende som fasit n\u00e5r de to fortellingene smelter i hverandre .",
+    "sent_id": "304926-07-01"
+}

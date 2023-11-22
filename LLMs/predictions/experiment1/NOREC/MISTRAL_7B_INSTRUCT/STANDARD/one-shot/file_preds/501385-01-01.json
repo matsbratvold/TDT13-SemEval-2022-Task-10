@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Silja Sol"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "dans"
+                ],
+                [
+                    "24:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "besatt"
+                ],
+                [
+                    "34:40"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Silja Sol f\u00e5r deg til \u00e5 danse som besatt",
+    "sent_id": "501385-01-01"
+}

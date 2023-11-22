@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ikke alle historiene i boka er Berlin-historier"
+                ],
+                [
+                    "0:47"
+                ]
+            ],
+            "Target": [
+                [
+                    "historiene i boka"
+                ],
+                [
+                    "10:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Ikke alle"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Ikke alle historiene i boka er Berlin-historier .",
+    "sent_id": "301242-10-01"
+}

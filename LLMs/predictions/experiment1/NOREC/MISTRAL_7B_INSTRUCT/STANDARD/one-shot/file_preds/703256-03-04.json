@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Renberg"
+                ],
+                [
+                    "55:62"
+                ]
+            ],
+            "Target": [
+                [
+                    "teatertriks"
+                ],
+                [
+                    "79:90"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "plukket r\u00e5tt av"
+                ],
+                [
+                    "63:78"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Renberg"
+                ],
+                [
+                    "55:62"
+                ]
+            ],
+            "Target": [
+                [
+                    "fortellerknep"
+                ],
+                [
+                    "94:107"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vet funker"
+                ],
+                [
+                    "112:122"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Som dramatiker , og denne gang ogs\u00e5 som regiss\u00f8r , har Renberg plukket r\u00e5tt av teatertriks og fortellerknep han vet funker .",
+    "sent_id": "703256-03-04"
+}

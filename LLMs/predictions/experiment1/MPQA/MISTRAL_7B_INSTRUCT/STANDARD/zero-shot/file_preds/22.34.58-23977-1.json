@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Zhang Qiyue"
+                ],
+                [
+                    "167:178"
+                ]
+            ],
+            "Target": [
+                [
+                    "United States"
+                ],
+                [
+                    "36:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sale of arms"
+                ],
+                [
+                    "16:28"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Zhang Qiyue"
+                ],
+                [
+                    "167:178"
+                ]
+            ],
+            "Target": [
+                [
+                    "United States"
+                ],
+                [
+                    "36:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "upgrading of relations with Taiwan"
+                ],
+                [
+                    "53:87"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Zhang Qiyue"
+                ],
+                [
+                    "167:178"
+                ]
+            ],
+            "Target": [
+                [
+                    "Taiwan"
+                ],
+                [
+                    "81:87"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sale of arms"
+                ],
+                [
+                    "16:28"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Zhang Qiyue"
+                ],
+                [
+                    "167:178"
+                ]
+            ],
+            "Target": [
+                [
+                    "Taiwan"
+                ],
+                [
+                    "81:87"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\" The continual sale of arms by the United States or upgrading of relations with Taiwan will only lead to tensions across the straits , \" foreign ministry spokeswoman Zhang Qiyue said .",
+    "sent_id": "temp_fbis/22.34.58-23977-1"
+}

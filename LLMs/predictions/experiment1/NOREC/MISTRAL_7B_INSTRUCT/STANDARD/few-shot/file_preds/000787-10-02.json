@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "designjobb"
+                ],
+                [
+                    "15:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "En middels god"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "brettene"
+                ],
+                [
+                    "50:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjort brettene litt uoriginale"
+                ],
+                [
+                    "44:74"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "brettene"
+                ],
+                [
+                    "50:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "minner om utfordringer jeg har f\u00e5tt f\u00f8r i andre Donkey Kong-spill"
+                ],
+                [
+                    "80:145"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "En middels god designjobb har rett og slett gjort brettene litt uoriginale \u2013 de minner om utfordringer jeg har f\u00e5tt f\u00f8r i andre Donkey Kong-spill .",
+    "sent_id": "000787-10-02"
+}

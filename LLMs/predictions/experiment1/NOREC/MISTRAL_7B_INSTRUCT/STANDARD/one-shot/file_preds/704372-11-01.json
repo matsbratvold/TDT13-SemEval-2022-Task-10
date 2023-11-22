@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Runaway"
+                ],
+                [
+                    "2:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "fri som en byrd"
+                ],
+                [
+                    "12:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stammer"
+                ],
+                [
+                    "32:39"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "1974"
+                ],
+                [
+                    "51:55"
+                ]
+            ],
+            "Target": [
+                [
+                    "Runaway"
+                ],
+                [
+                    "2:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stammer ogs\u00e5 fra"
+                ],
+                [
+                    "32:48"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "\" Runaway ( fri som en byrd ) \" stammer ogs\u00e5 fra \" 1974 \" , da under en annen tittel .",
+    "sent_id": "704372-11-01"
+}

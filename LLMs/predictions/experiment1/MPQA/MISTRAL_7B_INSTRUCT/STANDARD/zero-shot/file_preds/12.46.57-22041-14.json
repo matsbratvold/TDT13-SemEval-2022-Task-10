@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Marines"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "The conditions"
+                ],
+                [
+                    "200:214"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Col Terry Carrico"
+                ],
+                [
+                    "282:299"
+                ]
+            ],
+            "Target": [
+                [
+                    "The conditions"
+                ],
+                [
+                    "200:214"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The Marines live in an encampment 100 yards from Camp X - Ray 's gates . Some of their tents saw service in the Korean War . There are holes in them , but for now the problem is the stifling heat . \" The conditions my men live in are very similar to those of the detainees , \" said Col Terry Carrico .",
+    "sent_id": "non_fbis/12.46.57-22041-14"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "forteller"
+                ],
+                [
+                    "3:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "venninnene"
+                ],
+                [
+                    "24:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "heller"
+                ],
+                [
+                    "17:23"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Da forteller hun heller venninnene at han studerer til sivilingeni\u00f8r ...",
+    "sent_id": "104219-07-02"
+}

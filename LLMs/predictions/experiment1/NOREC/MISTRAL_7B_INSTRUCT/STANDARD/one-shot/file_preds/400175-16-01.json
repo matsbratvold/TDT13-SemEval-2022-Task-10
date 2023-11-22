@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Zandvliet"
+                ],
+                [
+                    "22:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "filmskaper"
+                ],
+                [
+                    "4:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enkle virkemidler"
+                ],
+                [
+                    "37:54"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "Zandvliet"
+                ],
+                [
+                    "22:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "filmskaper"
+                ],
+                [
+                    "4:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "effekten blir desto sterkere"
+                ],
+                [
+                    "61:89"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Som filmskaper bruker Zandvliet ofte enkle virkemidler , men effekten blir desto sterkere .",
+    "sent_id": "400175-16-01"
+}

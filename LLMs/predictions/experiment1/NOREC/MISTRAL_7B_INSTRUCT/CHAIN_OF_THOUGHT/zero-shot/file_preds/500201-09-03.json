@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ut"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "de medvirkende noen skuespillererfaring"
+                ],
+                [
+                    "25:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ingen"
+                ],
+                [
+                    "16:21"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Ut over det har ingen av de medvirkende noen skuespillererfaring .",
+    "sent_id": "500201-09-03"
+}

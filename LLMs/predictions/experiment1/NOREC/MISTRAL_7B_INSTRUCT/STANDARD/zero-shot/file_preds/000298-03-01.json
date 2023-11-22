@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Tidsreiseeventyret"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "Outlander"
+                ],
+                [
+                    "19:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kommer endelig tilbake"
+                ],
+                [
+                    "77:99"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Tidsreiseeventyret Outlander , basert p\u00e5 Diana Gabaldons popul\u00e6re bokserie , kommer endelig tilbake p\u00e5 TV-skjermen denne uken .",
+    "sent_id": "000298-03-01"
+}

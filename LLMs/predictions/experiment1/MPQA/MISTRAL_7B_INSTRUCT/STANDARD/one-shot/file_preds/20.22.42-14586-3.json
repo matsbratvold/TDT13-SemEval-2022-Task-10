@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the top representative of the CPR"
+                ],
+                [
+                    "145:178"
+                ]
+            ],
+            "Target": [
+                [
+                    "the statement by the US Foreign Secretary"
+                ],
+                [
+                    "215:256"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "violates"
+                ],
+                [
+                    "65:73"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "the top representative of the CPR"
+                ],
+                [
+                    "145:178"
+                ]
+            ],
+            "Target": [
+                [
+                    "a change in the policies of President Chavez"
+                ],
+                [
+                    "270:314"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "will lead to"
+                ],
+                [
+                    "257:269"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "\" This is not in keeping with the rules of international law and violates the principle of nonintervention in the affairs of other countries , \" the top representative of the CPR noted . However , he ruled out that the statement by the US Foreign Secretary will lead to a change in the policies of President Chavez .",
+    "sent_id": "20020207/20.22.42-14586-3"
+}

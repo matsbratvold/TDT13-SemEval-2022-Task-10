@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Av de \u00f8vrige endringene"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "bilen"
+                ],
+                [
+                    "65:70"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er ny"
+                ],
+                [
+                    "71:76"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Av de \u00f8vrige endringene m\u00e5 du antagelig v\u00e6re kjenner for \u00e5 se at bilen er ny .",
+    "sent_id": "202298-15-01"
+}

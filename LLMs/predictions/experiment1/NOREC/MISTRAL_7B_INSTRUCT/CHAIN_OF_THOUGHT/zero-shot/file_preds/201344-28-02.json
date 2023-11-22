@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sammenlignet med mulige konkurrenter som TAG Heuer Connected og Apple Watch"
+                ],
+                [
+                    "0:75"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "81:94"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "noe mer enn bare en smartklokke"
+                ],
+                [
+                    "95:126"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Sammenlignet med mulige konkurrenter som TAG Heuer Connected og Apple Watch , er Fenix Chronos noe mer enn bare en smartklokke , med sin tydelige sport og aktivitetsprofil .",
+    "sent_id": "201344-28-02"
+}

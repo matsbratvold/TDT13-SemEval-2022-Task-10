@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Dow Jones Industrial Average"
+                ],
+                [
+                    "0:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "tumbled"
+                ],
+                [
+                    "33:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tumbled"
+                ],
+                [
+                    "33:40"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Long - term Treasury bonds"
+                ],
+                [
+                    "89:115"
+                ]
+            ],
+            "Target": [
+                [
+                    "ended slightly higher"
+                ],
+                [
+                    "116:137"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ended"
+                ],
+                [
+                    "116:121"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "The dollar"
+                ],
+                [
+                    "140:150"
+                ]
+            ],
+            "Target": [
+                [
+                    "rose modestly against the mark and the yen"
+                ],
+                [
+                    "151:193"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rose"
+                ],
+                [
+                    "151:155"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "The dollar"
+                ],
+                [
+                    "140:150"
+                ]
+            ],
+            "Target": [
+                [
+                    "soared against the pound following the resignation of Britain 's chancellor of the Exchequer"
+                ],
+                [
+                    "200:292"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "soared"
+                ],
+                [
+                    "200:206"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The Dow Jones Industrial Average tumbled 39.55 points , to 2613.73 , in active trading . Long - term Treasury bonds ended slightly higher . The dollar rose modestly against the mark and the yen , but soared against the pound following the resignation of Britain 's chancellor of the Exchequer , Nigel Lawson .",
+    "sent_id": "xbank/wsj_0816-2"
+}

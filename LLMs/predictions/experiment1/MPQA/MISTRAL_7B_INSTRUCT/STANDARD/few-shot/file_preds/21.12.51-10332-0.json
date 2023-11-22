@@ -1,0 +1,110 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "36:41"
+                ]
+            ],
+            "Target": [
+                [
+                    "the current difficulties"
+                ],
+                [
+                    "106:130"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "believes that"
+                ],
+                [
+                    "42:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "36:41"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Argentine government and people"
+                ],
+                [
+                    "56:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "will overcome the current difficulties"
+                ],
+                [
+                    "92:130"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "36:41"
+                ]
+            ],
+            "Target": [
+                [
+                    "revive their economy"
+                ],
+                [
+                    "133:153"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "China"
+                ],
+                [
+                    "36:41"
+                ]
+            ],
+            "Target": [
+                [
+                    "maintain their social stability"
+                ],
+                [
+                    "158:189"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Beijing , December 20 ( XINHUA ) -- China believes that the Argentine government and people will overcome the current difficulties , revive their economy and maintain their social stability , said Chinese Foreign Ministry Spokeswoman Zhang Qiyue here Thursday .",
+    "sent_id": "20011220/21.12.51-10332-0"
+}

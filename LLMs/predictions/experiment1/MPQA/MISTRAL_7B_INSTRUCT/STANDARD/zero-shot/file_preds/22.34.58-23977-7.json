@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "She"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "April 26 to May 3 visit by Chinese Vice President Hu Jintao to Washington"
+                ],
+                [
+                    "26:99"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "refused to confirm"
+                ],
+                [
+                    "4:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Hong Kong press"
+                ],
+                [
+                    "121:136"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "is widely expected to be centered on"
+                ],
+                [
+                    "174:210"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "She refused to confirm an April 26 to May 3 visit by Chinese Vice President Hu Jintao to Washington , as reported in the Hong Kong press . The visit , if Beijing allows it , is widely expected to be centered on China 's dissatisfaction over the Taiwan issue .",
+    "sent_id": "temp_fbis/22.34.58-23977-7"
+}

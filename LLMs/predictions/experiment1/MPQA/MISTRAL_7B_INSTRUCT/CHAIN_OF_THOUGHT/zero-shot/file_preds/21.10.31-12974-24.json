@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "American"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "President Bush"
+                ],
+                [
+                    "55:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "withdrew"
+                ],
+                [
+                    "228:236"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "American at first signed the document , but a year ago President Bush announced that he would not impose regulations in his country on the discharge of greenhouse gases into the atmosphere . This meant , in effect , that the US withdrew from the accords .",
+    "sent_id": "temp_fbis/21.10.31-12974-24"
+}

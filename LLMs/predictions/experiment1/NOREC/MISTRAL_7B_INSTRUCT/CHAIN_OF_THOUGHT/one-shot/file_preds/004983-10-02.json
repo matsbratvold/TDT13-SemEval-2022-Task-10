@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00e5r p\u00e5 smart fortalt vis vite"
+                ],
+                [
+                    "3:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bakgrunnen til de andre barna"
+                ],
+                [
+                    "38:67"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hvilke skader de sliter aller mest med"
+                ],
+                [
+                    "73:111"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Vi f\u00e5r p\u00e5 smart fortalt vis vite b\u00e5de bakgrunnen til de andre barna , og hvilke skader de sliter aller mest med .",
+    "sent_id": "004983-10-02"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Sigrids"
+                ],
+                [
+                    "31:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Don \u2019 t Kill My Vibe EP"
+                ],
+                [
+                    "2:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "\u00ab Don \u2019 t Kill My Vibe EP \u00bb er Sigrids f\u00f8rste EP og inkluderer naturligvis gjennombruddsl\u00e5ten \u00ab Don \u2019 t Kill My Vibe \u00bb , hennes nyeste singler \u00ab Plot Twist \u00bb , \u00ab Dynamite \u00bb og det nye tilskuddet \u00ab Fake Friends \u00bb .",
+    "sent_id": "003121-04-01"
+}

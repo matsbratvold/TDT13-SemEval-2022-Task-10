@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "representatives of 165 countries"
+                ],
+                [
+                    "16:48"
+                ]
+            ],
+            "Target": [
+                [
+                    "rules to implement the 1997 Kyoto Protocol"
+                ],
+                [
+                    "71:113"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "agreed"
+                ],
+                [
+                    "57:63"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Last Saturday , representatives of 165 countries finally agreed on the rules to implement the 1997 Kyoto Protocol after two weeks of negotiations held in Marrakech , Morocco .",
+    "sent_id": "20011115/20.41.29-15150-1"
+}

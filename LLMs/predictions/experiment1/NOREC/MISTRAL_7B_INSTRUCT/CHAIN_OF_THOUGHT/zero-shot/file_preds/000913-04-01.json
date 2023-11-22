@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bethesda"
+                ],
+                [
+                    "21:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "Dishonored"
+                ],
+                [
+                    "36:46"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det er fire \u00e5r siden Bethesda slapp Dishonored , som for meg st\u00e5r igjen som det beste spillet som kom til PS3 .",
+    "sent_id": "000913-04-01"
+}

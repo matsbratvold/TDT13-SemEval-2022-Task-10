@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "forretningene"
+                ],
+                [
+                    "33:46"
+                ]
+            ],
+            "Target": [
+                [
+                    "familiefaren"
+                ],
+                [
+                    "82:94"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tr\u00f8bler seg til"
+                ],
+                [
+                    "62:77"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "familiefaren"
+                ],
+                [
+                    "82:94"
+                ]
+            ],
+            "Target": [
+                [
+                    "graver og sp\u00f8r"
+                ],
+                [
+                    "134:148"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "graver og sp\u00f8r"
+                ],
+                [
+                    "134:148"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "familiefaren"
+                ],
+                [
+                    "82:94"
+                ]
+            ],
+            "Target": [
+                [
+                    "folk som graver og sp\u00f8r"
+                ],
+                [
+                    "125:148"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00e5r d\u00e5rlige svar"
+                ],
+                [
+                    "152:168"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det kan heller ikke bare skyldes forretningene som tydeligvis tr\u00f8bler seg til for familiefaren som stadig m\u00e5 i telefonen med folk som graver og sp\u00f8r og f\u00e5r d\u00e5rlige svar .",
+    "sent_id": "703256-09-03"
+}

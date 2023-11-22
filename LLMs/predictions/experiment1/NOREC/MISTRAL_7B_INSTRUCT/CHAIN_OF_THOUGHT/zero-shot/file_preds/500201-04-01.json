@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Filmen"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "vulkansk fjellandskap i Guatemala"
+                ],
+                [
+                    "20:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "foreg\u00e5r"
+                ],
+                [
+                    "7:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Filmen"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "snakker"
+                ],
+                [
+                    "79:86"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Filmen foreg\u00e5r i et vulkansk fjellandskap i Guatemala , befolket av mayaer som snakker kaqchikel .",
+    "sent_id": "500201-04-01"
+}

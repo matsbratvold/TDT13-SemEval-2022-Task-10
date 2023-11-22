@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bush"
+                ],
+                [
+                    "23:27"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "called"
+                ],
+                [
+                    "37:43"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The Kyoto pact , which Bush Thursday called \" an unsound international treaty \" , commits countries to cut their emissions of greenhouse gases to below 1990 levels by a timetable of 2008 - 2012 .",
+    "sent_id": "temp_fbis/20.44.41-9757-6"
+}

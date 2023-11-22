@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Serkonos-universet"
+                ],
+                [
+                    "41:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "usedvanlig tiltalende"
+                ],
+                [
+                    "60:81"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "detaljrikt"
+                ],
+                [
+                    "84:94"
+                ]
+            ],
+            "Target": [
+                [
+                    "Serkonos-universet"
+                ],
+                [
+                    "41:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "og full av detaljer"
+                ],
+                [
+                    "95:114"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "hint"
+                ],
+                [
+                    "117:121"
+                ]
+            ],
+            "Target": [
+                [
+                    "Serkonos-universet"
+                ],
+                [
+                    "41:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "og NPC-oppf\u00f8rsler"
+                ],
+                [
+                    "122:139"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men uavhengig av hvor godt den sitter er Serkonos-universet usedvanlig tiltalende , detaljrikt og full av detaljer , hint og NPC-oppf\u00f8rsler som man m\u00e5 spille gjennom flere ganger for \u00e5 finne .",
+    "sent_id": "000913-26-02"
+}

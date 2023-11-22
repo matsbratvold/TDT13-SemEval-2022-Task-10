@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dette er"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "naturligvis storartede nyheter"
+                ],
+                [
+                    "9:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "or de av oss som lever i overbevisningen"
+                ],
+                [
+                    "40:80"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Dette er naturligvis storartede nyheter or de av oss som lever i overbevisningen om at klubbmusikk kan redde verden .",
+    "sent_id": "302108-05-01"
+}

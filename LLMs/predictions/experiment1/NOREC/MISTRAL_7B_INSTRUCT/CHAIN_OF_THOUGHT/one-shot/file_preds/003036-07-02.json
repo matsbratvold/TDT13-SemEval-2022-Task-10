@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "beatsy"
+                ],
+                [
+                    "17:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "forent med beatsy"
+                ],
+                [
+                    "6:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vibbete hiphop"
+                ],
+                [
+                    "26:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Higgs"
+                ],
+                [
+                    "45:50"
+                ]
+            ],
+            "Target": [
+                [
+                    "vibbete hiphop"
+                ],
+                [
+                    "26:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    " Device Control "
+                ],
+                [
+                    "110:126"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "vibbete hiphop"
+                ],
+                [
+                    "26:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    " Device Control "
+                ],
+                [
+                    "110:126"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dette forent med beatsy , vibbete hiphop ( \u201c Higgs \u201d , \u201c U.N.I.T.Y \u201d ) og houseelementer ( sm\u00e5tt enerverende \u201c Device Control \u201d ) .",
+    "sent_id": "003036-07-02"
+}

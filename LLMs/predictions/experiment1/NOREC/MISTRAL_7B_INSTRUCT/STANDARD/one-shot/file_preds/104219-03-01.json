@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "\u00e6rlighet"
+                ],
+                [
+                    "41:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "viktigheten"
+                ],
+                [
+                    "26:37"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "\u00e6rlighet"
+                ],
+                [
+                    "41:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "viktigheten"
+                ],
+                [
+                    "26:37"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "\u00e6rlighet"
+                ],
+                [
+                    "41:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "viktigheten"
+                ],
+                [
+                    "26:37"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Den blir en p\u00e5minnelse om viktigheten av \u00e6rlighet n\u00e5r vi vil rydde opp i v\u00e5re liv .",
+    "sent_id": "104219-03-01"
+}

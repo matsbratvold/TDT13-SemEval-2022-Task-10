@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "God"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "gun control"
+                ],
+                [
+                    "4:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "it"
+                ],
+                [
+                    "16:18"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "gun control"
+                ],
+                [
+                    "4:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "16:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "it"
+                ],
+                [
+                    "16:18"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "people"
+                ],
+                [
+                    "63:69"
+                ]
+            ],
+            "Target": [
+                [
+                    "get so emotional about it"
+                ],
+                [
+                    "70:95"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "it"
+                ],
+                [
+                    "16:18"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "God gun control it 's it 's such a heated topic in the the and people get so emotional about it",
+    "sent_id": "ula/sw2014-UTF16-ms98-a-trans-24"
+}

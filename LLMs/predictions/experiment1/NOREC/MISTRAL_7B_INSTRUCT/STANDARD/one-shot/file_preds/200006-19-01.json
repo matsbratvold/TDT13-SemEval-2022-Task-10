@@ -1,0 +1,44 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Det i seg selv"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ikke n\u00f8dvendigvis negativt"
+                ],
+                [
+                    "18:44"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "skal reagere"
+                ],
+                [
+                    "92:104"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Det i seg selv er ikke n\u00f8dvendigvis negativt , men du m\u00e5 tappe ganske hardt for at skjermen skal reagere .",
+    "sent_id": "200006-19-01"
+}

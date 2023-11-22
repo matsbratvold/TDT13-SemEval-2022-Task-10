@@ -1,0 +1,61 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "deler av dashbordet"
+                ],
+                [
+                    "14:33"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "deler av dashbordet"
+                ],
+                [
+                    "14:33"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "deler av dashbordet"
+                ],
+                [
+                    "14:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "alts\u00e5 henholdsvis r\u00f8dt , bl\u00e5tt eller gr\u00e5tt"
+                ],
+                [
+                    "64:106"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Innvendig har deler av dashbordet samme farge som eksteri\u00f8ret , alts\u00e5 henholdsvis r\u00f8dt , bl\u00e5tt eller gr\u00e5tt .",
+    "sent_id": "202298-24-02"
+}

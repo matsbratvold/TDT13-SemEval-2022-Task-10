@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "N. Ratsiborinskiy"
+                ],
+                [
+                    "28:45"
+                ]
+            ],
+            "Target": [
+                [
+                    "ratify"
+                ],
+                [
+                    "123:129"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "recommends"
+                ],
+                [
+                    "84:94"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The Foreign Ministry , said N. Ratsiborinskiy , clarifying his agency 's position , recommends that the government move to ratify , since the view at Smolenskaya Square is that the impact of our national efforts will be greater if they are integrated into the efforts of the EU .",
+    "sent_id": "temp_fbis/21.10.31-12974-19"
+}

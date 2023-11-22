@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "vaktene"
+                ],
+                [
+                    "11:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "oppf\u00f8rer seg"
+                ],
+                [
+                    "19:31"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Og hvordan vaktene oppf\u00f8rer seg n\u00e5r de ikke har makten og begge batongendene .",
+    "sent_id": "103992-11-02"
+}

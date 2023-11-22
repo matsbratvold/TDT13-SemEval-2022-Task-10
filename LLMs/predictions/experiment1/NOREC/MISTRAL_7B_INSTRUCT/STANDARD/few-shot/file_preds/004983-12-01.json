@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Regiss\u00f8r Claude Barras , dukkemakerne , lyssetterne , kulissebyggerne og fotografene"
+                ],
+                [
+                    "0:84"
+                ]
+            ],
+            "Target": [
+                [
+                    "filmen"
+                ],
+                [
+                    "154:160"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Regiss\u00f8r Claude Barras , dukkemakerne , lyssetterne , kulissebyggerne og fotografene har alle gjort en imponerende jobb med \u00e5 gi hjerte og sjel til denne filmen .",
+    "sent_id": "004983-12-01"
+}

@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "understreker det"
+                ],
+                [
+                    "11:27"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "m\u00e5ltidet"
+                ],
+                [
+                    "34:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rundes av p\u00e5 italiensk og spansk vis"
+                ],
+                [
+                    "43:79"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "tiramisu"
+                ],
+                [
+                    "86:94"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med"
+                ],
+                [
+                    "82:85"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "crema catalana"
+                ],
+                [
+                    "98:112"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med"
+                ],
+                [
+                    "82:85"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Dessertene understreker det , n\u00e5r m\u00e5ltidet rundes av p\u00e5 italiensk og spansk vis , med tiramisu og crema catalana .",
+    "sent_id": "501595-12-02"
+}

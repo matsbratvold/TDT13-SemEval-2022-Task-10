@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "2:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "til himmelen"
+                ],
+                [
+                    "38:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kj\u00f8pe en b\u00f8tte med popcorn og g\u00e5 p\u00e5 kino"
+                ],
+                [
+                    "64:104"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "2:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "til himmelen"
+                ],
+                [
+                    "38:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kj\u00f8pe en b\u00f8tte med popcorn og g\u00e5 p\u00e5 kino"
+                ],
+                [
+                    "64:104"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "2:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "til himmelen"
+                ],
+                [
+                    "38:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kj\u00f8pe en b\u00f8tte med popcorn og g\u00e5 p\u00e5 kino"
+                ],
+                [
+                    "64:104"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "\u00ab Jeg tenker at hvis jeg kommer dit ( til himmelen ) , skal jeg kj\u00f8pe en b\u00f8tte med popcorn og g\u00e5 p\u00e5 kino sammen med Jon og den amerikanske science fictionmesteren Ray Bradbury \u00bb heter det innledningsvis .",
+    "sent_id": "601365-08-01"
+}

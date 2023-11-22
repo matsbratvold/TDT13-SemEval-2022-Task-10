@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "det noe som skurrer"
+                ],
+                [
+                    "16:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er det noe som skurrer"
+                ],
+                [
+                    "13:35"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Men selvsagt er det noe som skurrer .",
+    "sent_id": "703256-09-01"
+}
