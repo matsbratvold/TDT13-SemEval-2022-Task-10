@@ -41,12 +41,9 @@ def convert_char_offsets_to_token_idxs(char_offsets, token_offsets):
 
 def convert_opinion_to_tuple(sentence):
     text = sentence["text"]
-    with open("test.txt", "w") as f:
-        json.dump(sentence, f, indent=4)
     opinions = sentence["opinions"]
     opinion_tuples = []
     token_offsets = list(tk.span_tokenize(text))
-    #
     if len(opinions) > 0:
         for opinion in opinions:
             holder_char_idxs = opinion["Source"][1]
