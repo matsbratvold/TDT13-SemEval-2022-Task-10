@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "tilfellet"
+                ],
+                [
+                    "8:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dette"
+                ],
+                [
+                    "2:7"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "balladen"
+                ],
+                [
+                    "23:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "un\u00f8dvendig"
+                ],
+                [
+                    "32:42"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "EP"
+                ],
+                [
+                    "49:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "overlegent"
+                ],
+                [
+                    "76:86"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "avhengighetsskapende"
+                ],
+                [
+                    "98:118"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bangers"
+                ],
+                [
+                    "119:126"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "I dette tilfellet blir balladen un\u00f8dvendig p\u00e5 en EP som for det meste er et overlegent produkt av avhengighetsskapende bangers .",
+    "sent_id": "003121-05-03"
+}

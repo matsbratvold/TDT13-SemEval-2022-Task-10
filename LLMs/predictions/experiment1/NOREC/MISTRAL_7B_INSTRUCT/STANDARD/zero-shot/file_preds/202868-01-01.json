@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Philips"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "AE5252"
+                ],
+                [
+                    "8:14"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Philips AE5252",
+    "sent_id": "202868-01-01"
+}

@@ -1,0 +1,74 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Paaid"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Paaid for All inclusive but this was not exactly what I received"
+                ],
+                [
+                    "0:64"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "the local fish market evening was extra as well as the ala carte"
+                ],
+                [
+                    "227:291"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "they do give you a RS375 off the ala carte menu which is an insult due to the price charged for self service"
+                ],
+                [
+                    "294:402"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Paaid for All inclusive but this was not exactly what I received , for this I had to pay ' extra ' , All inclusive to this hotel is meals in the main self sevice restaurant , does not include any other restaurant on the site , the local fish market evening was extra as well as the ala carte , they do give you a RS375 off the ala carte menu which is an insult due to the price charged for self service .",
+    "sent_id": "opener_en/kaf/hotel/english00112_7ec44bf4213be4f1226c04cb302f1b7b-3"
+}

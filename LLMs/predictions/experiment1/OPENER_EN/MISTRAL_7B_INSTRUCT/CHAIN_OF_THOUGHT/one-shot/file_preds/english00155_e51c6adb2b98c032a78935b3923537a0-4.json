@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Wellness offer"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very good"
+                ],
+                [
+                    "31:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "quality"
+                ],
+                [
+                    "19:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very good"
+                ],
+                [
+                    "31:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Wellness offer and quality are very good .",
+    "sent_id": "opener_en/kaf/hotel/english00155_e51c6adb2b98c032a78935b3923537a0-4"
+}

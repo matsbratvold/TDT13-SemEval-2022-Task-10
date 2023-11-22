@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Thomsons"
+                ],
+                [
+                    "15:23"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I wouln 't use Thomsons ever again .",
+    "sent_id": "opener_en/kaf/hotel/english00220_fa8115ab7f09678324fbeee56a7b1f34-5"
+}

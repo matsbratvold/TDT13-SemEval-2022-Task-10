@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "people"
+                ],
+                [
+                    "4:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "rest and relaxatio"
+                ],
+                [
+                    "25:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "realy great"
+                ],
+                [
+                    "50:61"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "For people who want some rest and relaxatio it is realy great .",
+    "sent_id": "opener_en/kaf/hotel/english00222_fd5bd3330c0b96b7ddc0ff8e0482a572-3"
+}

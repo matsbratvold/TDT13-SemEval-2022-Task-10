@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "anything"
+                ],
+                [
+                    "15:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cannot find"
+                ],
+                [
+                    "3:14"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "We cannot find anything to complain about .",
+    "sent_id": "opener_en/kaf/hotel/english00003_0726ad8554ba78a391080a2d6c705f2d-2"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Stayed here"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "here"
+                ],
+                [
+                    "7:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Stayed"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Stayed here with my wife for a short holiday .",
+    "sent_id": "opener_en/kaf/hotel/english00097_6ace8a44dd0caa70cdaa62a2cc5cfd54-2"
+}

@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "On 1st visit in June"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "English people"
+                ],
+                [
+                    "53:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hardly any"
+                ],
+                [
+                    "42:52"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "On 1st visit in June"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "German & Russian"
+                ],
+                [
+                    "105:121"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mainly"
+                ],
+                [
+                    "98:104"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "quite a few"
+                ],
+                [
+                    "160:171"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "On 1st visit in June there appeared to be hardly any English people at all staying in the hotel , mainly German & Russian , yet on our second stay , there were quite a few english families .",
+    "sent_id": "opener_en/kaf/hotel/english00074_5043dc58494745b461da0773b8d0a648-6"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Nice hotel"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "Nes"
+                ],
+                [
+                    "28:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Nice"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Nice hotel in the centre of Nes .",
+    "sent_id": "opener_en/kaf/hotel/english00170_fe19919b11b7ac3480d3fe451afd15a7-1"
+}

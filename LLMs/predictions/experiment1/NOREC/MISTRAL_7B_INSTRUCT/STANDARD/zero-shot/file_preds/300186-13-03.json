@@ -1,0 +1,22 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Dr\u00f8mme meg bort !",
+    "sent_id": "300186-13-03"
+}

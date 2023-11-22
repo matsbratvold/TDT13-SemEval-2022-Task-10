@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "situation"
+                ],
+                [
+                    "11:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "view of the canal"
+                ],
+                [
+                    "29:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "could not have been better"
+                ],
+                [
+                    "47:73"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Delightful situation and the view of the canal could not have been better .",
+    "sent_id": "opener_en/kaf/hotel/english00038_2a905390ffe1f23af8075a24535f6fa6-2"
+}

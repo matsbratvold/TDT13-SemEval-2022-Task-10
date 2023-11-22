@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "3/4 av boka"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "den forrige"
+                ],
+                [
+                    "28:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "inng\u00e5tt"
+                ],
+                [
+                    "18:25"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "3/4 av boka"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "den forrige"
+                ],
+                [
+                    "28:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjort"
+                ],
+                [
+                    "43:48"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "3/4 av boka"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "den forrige"
+                ],
+                [
+                    "28:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til en feit kloss"
+                ],
+                [
+                    "53:70"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "3/4 av boka kunne inng\u00e5tt i den forrige og gjort den til en feit kloss .",
+    "sent_id": "301242-13-02"
+}

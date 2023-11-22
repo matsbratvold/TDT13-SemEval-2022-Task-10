@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "chic"
+                ],
+                [
+                    "6:10"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "hotel chic !",
+    "sent_id": "opener_en/kaf/hotel/english00029_2a5891717bff19947a0b858a3b1e8230-2"
+}

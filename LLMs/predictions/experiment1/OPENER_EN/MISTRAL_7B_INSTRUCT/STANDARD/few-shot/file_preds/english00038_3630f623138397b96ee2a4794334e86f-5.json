@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "very sunny relaxing week"
+                ],
+                [
+                    "31:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In April we will be back for a very sunny relaxing week",
+    "sent_id": "opener_en/kaf/hotel/english00038_3630f623138397b96ee2a4794334e86f-5"
+}

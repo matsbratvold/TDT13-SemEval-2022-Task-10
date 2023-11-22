@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hun"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "eksotisk aksent"
+                ],
+                [
+                    "8:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "aksent"
+                ],
+                [
+                    "17:23"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Hun"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "katt p\u00e5 fanget"
+                ],
+                [
+                    "27:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fanget"
+                ],
+                [
+                    "35:41"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Hun"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "det hele"
+                ],
+                [
+                    "45:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hele"
+                ],
+                [
+                    "49:53"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Hun har eksotisk aksent og katt p\u00e5 fanget og det hele .",
+    "sent_id": "600725-05-03"
+}

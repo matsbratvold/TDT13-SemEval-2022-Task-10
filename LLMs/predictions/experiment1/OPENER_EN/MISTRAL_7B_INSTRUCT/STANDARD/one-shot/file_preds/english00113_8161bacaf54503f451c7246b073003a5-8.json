@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Front desk"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "32:34"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "clerk"
+                ],
+                [
+                    "71:76"
+                ]
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "32:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "insisted that we pay up for a better room"
+                ],
+                [
+                    "77:118"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Front desk wasn 't the best , quite slow for passport registration and clerk insisted that we pay up for a better room .",
+    "sent_id": "opener_en/kaf/hotel/english00113_8161bacaf54503f451c7246b073003a5-8"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Se"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "krigsherjet land"
+                ],
+                [
+                    "53:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "flykter"
+                ],
+                [
+                    "38:45"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Se"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Norge"
+                ],
+                [
+                    "98:103"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bor"
+                ],
+                [
+                    "72:75"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Se"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "asyls\u00f8knaden"
+                ],
+                [
+                    "127:139"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "avslag"
+                ],
+                [
+                    "117:123"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Se for deg en roman om en familie som flykter fra et krigsherjet land , bor et halv\u00e5r p\u00e5 mottak i Norge , f\u00f8r de f\u00e5r avslag p\u00e5 asyls\u00f8knaden .",
+    "sent_id": "302975-03-01"
+}

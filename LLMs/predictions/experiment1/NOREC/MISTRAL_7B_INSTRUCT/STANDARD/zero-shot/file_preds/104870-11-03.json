@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "verden"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00e5 forfriskende"
+                ],
+                [
+                    "14:29"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Men du verden s\u00e5 forfriskende det skal bli \u00e5 se dette fra en scene .",
+    "sent_id": "104870-11-03"
+}

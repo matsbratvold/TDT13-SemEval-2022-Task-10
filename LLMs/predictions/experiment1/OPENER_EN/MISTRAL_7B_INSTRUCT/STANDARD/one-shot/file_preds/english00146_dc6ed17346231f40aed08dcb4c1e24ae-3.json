@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "already went 14 times to this hotel and we already booked again for april 2013 for 2 weeks"
+                ],
+                [
+                    "3:93"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "We already went 14 times to this hotel and we already booked again for april 2013 for 2 weeks !",
+    "sent_id": "opener_en/kaf/hotel/english00146_dc6ed17346231f40aed08dcb4c1e24ae-3"
+}

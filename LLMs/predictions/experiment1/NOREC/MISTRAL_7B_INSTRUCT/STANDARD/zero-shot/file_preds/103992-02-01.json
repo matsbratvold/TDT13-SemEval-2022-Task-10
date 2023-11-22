@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Femte sesong fra Litchfield"
+                ],
+                [
+                    "0:27"
+                ]
+            ],
+            "Target": [
+                [
+                    "Litchfield"
+                ],
+                [
+                    "17:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mislykket taktskifte"
+                ],
+                [
+                    "38:58"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Femte sesong fra Litchfield byr p\u00e5 et mislykket taktskifte .",
+    "sent_id": "103992-02-01"
+}

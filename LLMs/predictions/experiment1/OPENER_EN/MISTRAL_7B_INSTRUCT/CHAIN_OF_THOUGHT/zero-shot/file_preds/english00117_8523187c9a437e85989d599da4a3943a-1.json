@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "wonderful"
+                ],
+                [
+                    "11:20"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Absolutely wonderful",
+    "sent_id": "opener_en/kaf/hotel/english00117_8523187c9a437e85989d599da4a3943a-1"
+}

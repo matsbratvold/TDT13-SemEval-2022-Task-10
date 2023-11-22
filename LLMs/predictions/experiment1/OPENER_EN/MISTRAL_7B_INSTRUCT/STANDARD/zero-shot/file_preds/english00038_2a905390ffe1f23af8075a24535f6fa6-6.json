@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "staff"
+                ],
+                [
+                    "11:16"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "both"
+                ],
+                [
+                    "34:38"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "staff"
+                ],
+                [
+                    "11:16"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "both"
+                ],
+                [
+                    "34:38"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "All of the staff that we met were both efficient and friendly .",
+    "sent_id": "opener_en/kaf/hotel/english00038_2a905390ffe1f23af8075a24535f6fa6-6"
+}

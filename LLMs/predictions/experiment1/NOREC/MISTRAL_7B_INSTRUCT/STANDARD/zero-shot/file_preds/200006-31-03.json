@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Du"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "tidsrom"
+                ],
+                [
+                    "21:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "velge"
+                ],
+                [
+                    "7:12"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Du kan velge hvilket tidsrom i l\u00f8pet av dagen det skal gjelde for , mellom 5 og 14 timer .",
+    "sent_id": "200006-31-03"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "15:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "naturligvis oppgitt gjennomsnittsforbruk og utslipp"
+                ],
+                [
+                    "18:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjennomsnittsforbruk og utslipp"
+                ],
+                [
+                    "38:69"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "I tillegg fikk vi naturligvis oppgitt gjennomsnittsforbruk og utslipp .",
+    "sent_id": "202298-09-02"
+}

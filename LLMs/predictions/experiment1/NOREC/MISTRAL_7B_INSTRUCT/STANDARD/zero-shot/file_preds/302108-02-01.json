@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "kozefar"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "Latskap"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Latskap fra kozefar .",
+    "sent_id": "302108-02-01"
+}

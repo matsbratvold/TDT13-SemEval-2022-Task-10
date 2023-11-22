@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "we"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "38:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "talk care of everything"
+                ],
+                [
+                    "44:67"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "we"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Flowers Champagne"
+                ],
+                [
+                    "70:87"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "they even set up a special room for us"
+                ],
+                [
+                    "90:128"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "we got engaged while we there and the hotel talk care of everything , Flowers Champagne , they even set up a special room for us .",
+    "sent_id": "opener_en/kaf/hotel/english00164_f47aebce11fc3b76fecdd1db6a13904f-6"
+}

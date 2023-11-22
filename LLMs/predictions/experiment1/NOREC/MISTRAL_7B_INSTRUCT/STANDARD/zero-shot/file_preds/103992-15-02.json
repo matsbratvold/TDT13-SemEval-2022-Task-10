@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "mye moro"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "moro"
+                ],
+                [
+                    "8:12"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "For mye moro",
+    "sent_id": "103992-15-02"
+}

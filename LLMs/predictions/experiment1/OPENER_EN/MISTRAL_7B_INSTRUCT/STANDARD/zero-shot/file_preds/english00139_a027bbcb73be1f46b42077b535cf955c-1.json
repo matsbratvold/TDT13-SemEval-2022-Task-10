@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "luxury"
+                ],
+                [
+                    "15:21"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "\u0421laiming to be luxury",
+    "sent_id": "opener_en/kaf/hotel/english00139_a027bbcb73be1f46b42077b535cf955c-1"
+}

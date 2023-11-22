@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "They"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "ignored the red flag"
+                ],
+                [
+                    "5:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "no salestalk"
+                ],
+                [
+                    "39:51"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "They"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "were kinda rude"
+                ],
+                [
+                    "58:73"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rude"
+                ],
+                [
+                    "69:73"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "They ignored the red flag that means \" no salestalk \" and were kinda rude .",
+    "sent_id": "opener_en/kaf/hotel/english00140_a052f3702cce7297bc2aff92662d1db3-11"
+}

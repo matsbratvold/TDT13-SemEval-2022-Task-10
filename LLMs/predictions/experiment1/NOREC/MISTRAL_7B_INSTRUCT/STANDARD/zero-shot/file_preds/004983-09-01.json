@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "barnehjemmet"
+                ],
+                [
+                    "4:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "17:19"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Men barnehjemmet er ogs\u00e5 et sted hvor alle deler samme skjebne .",
+    "sent_id": "004983-09-01"
+}

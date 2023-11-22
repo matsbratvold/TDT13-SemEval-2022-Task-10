@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Av den grunn"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Yo La Tengo"
+                ],
+                [
+                    "27:38"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Av den grunn minner den om Yo La Tengo , et annet septembervennlig band som stadig balanserer mellom det fascinerende og det kjedsommelige .",
+    "sent_id": "303721-10-02"
+}

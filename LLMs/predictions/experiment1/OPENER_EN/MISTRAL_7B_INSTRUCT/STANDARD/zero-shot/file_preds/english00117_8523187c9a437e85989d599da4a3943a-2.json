@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Sheraton Hotel Jumeriah"
+                ],
+                [
+                    "0:27"
+                ]
+            ],
+            "Target": [
+                [
+                    "The Sheraton Hotel Jumeriah"
+                ],
+                [
+                    "0:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "highly recommendable"
+                ],
+                [
+                    "31:51"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "The Sheraton Hotel Jumeriah is highly recommendable .",
+    "sent_id": "opener_en/kaf/hotel/english00117_8523187c9a437e85989d599da4a3943a-2"
+}

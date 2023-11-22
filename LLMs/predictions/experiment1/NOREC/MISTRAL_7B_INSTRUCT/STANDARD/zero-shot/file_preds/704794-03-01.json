@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den hissige gorillaen"
+                ],
+                [
+                    "0:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "Donkey Kong"
+                ],
+                [
+                    "22:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00e5ttet finne seg"
+                ],
+                [
+                    "38:54"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Den hissige gorillaen"
+                ],
+                [
+                    "0:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "Donkey Kong"
+                ],
+                [
+                    "22:33"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Den hissige gorillaen"
+                ],
+                [
+                    "0:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "Nintendo"
+                ],
+                [
+                    "152:160"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bl\u00e5se liv i figuren"
+                ],
+                [
+                    "175:194"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Den hissige gorillaen Donkey Kong har m\u00e5ttet finne seg i \u00e5 leve i skyggen av sin gamle arkadespill-kollega Mario , men n\u00e5 ser det etter hvert ut til at Nintendo for alvor vil bl\u00e5se liv i figuren .",
+    "sent_id": "704794-03-01"
+}

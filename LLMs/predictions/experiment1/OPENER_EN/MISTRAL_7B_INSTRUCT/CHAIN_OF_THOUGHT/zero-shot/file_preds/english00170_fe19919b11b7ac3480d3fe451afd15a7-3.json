@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "It"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "the beach"
+                ],
+                [
+                    "70:79"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "really close"
+                ],
+                [
+                    "6:18"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "It is really close to the centre of Nes and you are within minutes at the beach with the bike .",
+    "sent_id": "opener_en/kaf/hotel/english00170_fe19919b11b7ac3480d3fe451afd15a7-3"
+}

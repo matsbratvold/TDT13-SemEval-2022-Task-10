@@ -1,0 +1,16 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": "",
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Took me hours to check in , although I had a reservation and also paid in advance .",
+    "sent_id": "opener_en/kaf/hotel/english00172_cee4504ab4cc06e93f44e33ed1e02b4f-3"
+}

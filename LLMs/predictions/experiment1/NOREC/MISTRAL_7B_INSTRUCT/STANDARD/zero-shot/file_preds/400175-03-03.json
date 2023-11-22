@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "dem var barnesoldater"
+                ],
+                [
+                    "13:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "pisket av g\u00e5rde til fronten under Hitlers siste dager"
+                ],
+                [
+                    "37:90"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Men mange av dem var barnesoldater , pisket av g\u00e5rde til fronten under Hitlers siste dager og helt uten erfaring .",
+    "sent_id": "400175-03-03"
+}

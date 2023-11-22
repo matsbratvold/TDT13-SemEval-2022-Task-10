@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "refurbishment works"
+                ],
+                [
+                    "24:43"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "I was there during some refurbishment works so it was not the best moment to be there .",
+    "sent_id": "opener_en/kaf/hotel/english00149_aa9eb0dd94281b1d1b5182662c047aff-3"
+}

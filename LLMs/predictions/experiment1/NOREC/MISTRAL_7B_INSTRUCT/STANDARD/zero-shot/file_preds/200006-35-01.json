@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "vibrerende vekkingen"
+                ],
+                [
+                    "4:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er veldig kjekk \u00e5 ha"
+                ],
+                [
+                    "25:45"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "4:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "bruker un\u00f8dvendig mye tid p\u00e5 skru den av"
+                ],
+                [
+                    "59:99"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "siden skjermen man m\u00e5 tappe p\u00e5 ikke alltid reagerer"
+                ],
+                [
+                    "102:153"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Den vibrerende vekkingen er veldig kjekk \u00e5 ha , selv om vi bruker un\u00f8dvendig mye tid p\u00e5 skru den av , siden skjermen man m\u00e5 tappe p\u00e5 ikke alltid reagerer .",
+    "sent_id": "200006-35-01"
+}

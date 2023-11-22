@@ -1,0 +1,132 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "conference rooms"
+                ],
+                [
+                    "15:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "good"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "location"
+                ],
+                [
+                    "73:81"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "good"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "pool"
+                ],
+                [
+                    "118:122"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "good"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "restaurants"
+                ],
+                [
+                    "125:136"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "good"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "internet"
+                ],
+                [
+                    "139:147"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "good"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "5 minutes to airport"
+                ],
+                [
+                    "150:170"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "everything you need to do a business and relax after that"
+                ],
+                [
+                    "173:230"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "There are good conference rooms with all necessary infrastructure , good location allowing you to have nice evening , pool , restaurants , internet , 5 minutes to airport \u00b7 everything you need to do a business and relax after that .",
+    "sent_id": "opener_en/kaf/hotel/english00050_495e277eea2f9aa0e88d6122299c3894-2"
+}

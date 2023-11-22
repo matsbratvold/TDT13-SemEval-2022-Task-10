@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "H\u00f8res det velkjent ut ?"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "H\u00f8res det"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "velkjent"
+                ],
+                [
+                    "10:18"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "H\u00f8res det velkjent ut ?",
+    "sent_id": "703256-12-01"
+}

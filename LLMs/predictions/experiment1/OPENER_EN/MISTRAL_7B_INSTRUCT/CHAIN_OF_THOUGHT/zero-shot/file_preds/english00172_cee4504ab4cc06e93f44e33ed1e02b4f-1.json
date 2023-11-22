@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "To"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "expensive"
+                ],
+                [
+                    "3:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "To"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "expensive"
+                ],
+                [
+                    "3:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "bad quality"
+                ],
+                [
+                    "15:26"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "To expensive , bad quality",
+    "sent_id": "opener_en/kaf/hotel/english00172_cee4504ab4cc06e93f44e33ed1e02b4f-1"
+}

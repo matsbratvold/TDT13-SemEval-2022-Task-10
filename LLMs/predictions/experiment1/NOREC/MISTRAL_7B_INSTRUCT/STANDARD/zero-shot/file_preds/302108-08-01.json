@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Derfor"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "DJ Koze"
+                ],
+                [
+                    "67:74"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "synd"
+                ],
+                [
+                    "17:21"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Derfor er det s\u00e5 synd at det snaut halvannen time lange settet til DJ Koze kun glimtvis klarer \u00e5 mane til slike tilstander .",
+    "sent_id": "302108-08-01"
+}

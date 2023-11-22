@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Og"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "vi"
+                ],
+                [
+                    "9:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilbake til utfordringen"
+                ],
+                [
+                    "12:36"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Og da er vi tilbake til utfordringen i starten .",
+    "sent_id": "104659-13-01"
+}

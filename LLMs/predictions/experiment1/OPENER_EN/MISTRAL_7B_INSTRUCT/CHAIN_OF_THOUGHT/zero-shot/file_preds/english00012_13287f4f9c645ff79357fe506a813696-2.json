@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The hotel"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "45:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "might at first be appealing"
+                ],
+                [
+                    "10:37"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The hotel might at first be appealing due to it 's special architectual design and features .",
+    "sent_id": "opener_en/kaf/hotel/english00012_13287f4f9c645ff79357fe506a813696-2"
+}

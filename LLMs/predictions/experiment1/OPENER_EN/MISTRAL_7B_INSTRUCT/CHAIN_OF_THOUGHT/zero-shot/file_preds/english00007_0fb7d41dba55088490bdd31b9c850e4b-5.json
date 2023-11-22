@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "One"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "the best holidays I have had"
+                ],
+                [
+                    "7:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "One of the best holidays I have had"
+                ],
+                [
+                    "0:35"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "One of the best holidays I have had .",
+    "sent_id": "opener_en/kaf/hotel/english00007_0fb7d41dba55088490bdd31b9c850e4b-5"
+}

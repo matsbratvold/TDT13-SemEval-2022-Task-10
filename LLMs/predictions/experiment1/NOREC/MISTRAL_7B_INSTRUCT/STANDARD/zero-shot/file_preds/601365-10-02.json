@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Og"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "mye av stoffet"
+                ],
+                [
+                    "12:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "b\u00e6res"
+                ],
+                [
+                    "6:11"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Og s\u00e5 b\u00e6res mye av stoffet av en viktig samtidskritik .",
+    "sent_id": "601365-10-02"
+}

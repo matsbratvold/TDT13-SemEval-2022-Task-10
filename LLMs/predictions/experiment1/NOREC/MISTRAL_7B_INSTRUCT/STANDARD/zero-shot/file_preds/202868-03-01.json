@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "sterkt klaffen du m\u00e5 dra ut"
+                ],
+                [
+                    "12:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "misliker"
+                ],
+                [
+                    "3:11"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Vi misliker sterkt klaffen du m\u00e5 dra ut for \u00e5 f\u00e5 radioen til \u00e5 st\u00e5 .",
+    "sent_id": "202868-03-01"
+}

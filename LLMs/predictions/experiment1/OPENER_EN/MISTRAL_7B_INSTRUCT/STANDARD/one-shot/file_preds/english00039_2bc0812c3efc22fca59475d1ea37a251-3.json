@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "this area"
+                ],
+                [
+                    "24:33"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "this area"
+                ],
+                [
+                    "24:33"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I was forced to stay in this area due to my business reason , but oterwise I would not suggest to come here to spend your holidys .",
+    "sent_id": "opener_en/kaf/hotel/english00039_2bc0812c3efc22fca59475d1ea37a251-3"
+}

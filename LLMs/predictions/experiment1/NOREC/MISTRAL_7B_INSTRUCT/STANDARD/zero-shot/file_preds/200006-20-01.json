@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Charge-modellene"
+                ],
+                [
+                    "3:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "statistikken"
+                ],
+                [
+                    "82:94"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "knapp"
+                ],
+                [
+                    "30:35"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "P\u00e5 Charge-modellene er det en knapp p\u00e5 siden man trykker p\u00e5 for \u00e5 bla seg gjennom statistikken .",
+    "sent_id": "200006-20-01"
+}

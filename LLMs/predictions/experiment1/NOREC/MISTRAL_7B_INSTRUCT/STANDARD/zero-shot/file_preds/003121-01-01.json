@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ikke"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "k\u00f8dd med Sigrid"
+                ],
+                [
+                    "5:20"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Ikke k\u00f8dd med Sigrid",
+    "sent_id": "003121-01-01"
+}

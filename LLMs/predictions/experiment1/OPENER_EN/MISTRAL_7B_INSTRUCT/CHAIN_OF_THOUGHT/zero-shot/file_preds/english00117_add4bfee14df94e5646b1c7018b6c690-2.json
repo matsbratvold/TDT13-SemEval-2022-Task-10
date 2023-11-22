@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "Linen"
+                ],
+                [
+                    "22:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "change"
+                ],
+                [
+                    "28:34"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I have experienced in Linen change in the bath room of Villa which i staid , since the linen are not fresh on my entry to the room .",
+    "sent_id": "opener_en/kaf/hotel/english00117_add4bfee14df94e5646b1c7018b6c690-2"
+}

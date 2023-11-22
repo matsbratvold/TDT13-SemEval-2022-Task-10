@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "NB :",
+    "sent_id": "103992-07-01"
+}

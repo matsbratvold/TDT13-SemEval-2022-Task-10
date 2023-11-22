@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Garmins"
+                ],
+                [
+                    "17:24"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Fenix Chronos er Garmins f\u00f8rste fors\u00f8k p\u00e5 en smartklokke de \u00f8verste prisklassene .",
+    "sent_id": "201344-28-01"
+}

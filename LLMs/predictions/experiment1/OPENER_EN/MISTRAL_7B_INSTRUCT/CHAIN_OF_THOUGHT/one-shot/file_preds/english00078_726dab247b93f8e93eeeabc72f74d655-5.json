@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "Romania"
+                ],
+                [
+                    "10:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "love my country"
+                ],
+                [
+                    "22:37"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "better than us at tourism"
+                ],
+                [
+                    "63:88"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I 'm from Romania , i love my country , but the bulgarians are better than us at tourism !",
+    "sent_id": "opener_en/kaf/hotel/english00078_726dab247b93f8e93eeeabc72f74d655-5"
+}

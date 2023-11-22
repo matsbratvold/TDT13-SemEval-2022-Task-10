@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jag"
+                ],
+                [
+                    "2:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "dig"
+                ],
+                [
+                    "11:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "17:19"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Jag"
+                ],
+                [
+                    "2:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "dig"
+                ],
+                [
+                    "11:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en myk kj\u00e6rlighetssang"
+                ],
+                [
+                    "20:42"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Jag"
+                ],
+                [
+                    "2:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "dig"
+                ],
+                [
+                    "11:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "der han uten sin kj\u00e6re er som Clyde uten Bonnie"
+                ],
+                [
+                    "45:92"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Jag"
+                ],
+                [
+                    "2:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "dig"
+                ],
+                [
+                    "11:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "McCartney uten Lennon"
+                ],
+                [
+                    "95:116"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Jag"
+                ],
+                [
+                    "2:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "dig"
+                ],
+                [
+                    "11:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "et fly uten vinger"
+                ],
+                [
+                    "120:138"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "\" Jag uten dig \" er en myk kj\u00e6rlighetssang , der han uten sin kj\u00e6re er som Clyde uten Bonnie , McCartney uten Lennon og et fly uten vinger .",
+    "sent_id": "704372-15-01"
+}

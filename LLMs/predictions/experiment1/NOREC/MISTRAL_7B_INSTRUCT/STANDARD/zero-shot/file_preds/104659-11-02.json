@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "\u00e5 komme til g\u00f8yal leamuspop som \u00ab Feel You \u00bb "
+                ],
+                [
+                    "4:49"
+                ]
+            ],
+            "Target": [
+                [
+                    "monoton samtidspop"
+                ],
+                [
+                    "70:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vente seg igjennom"
+                ],
+                [
+                    "91:109"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "For \u00e5 komme til g\u00f8yal leamuspop som \u00ab Feel You \u00bb , er det minutter av monoton samtidspop \u00e5 vente seg igjennom .",
+    "sent_id": "104659-11-02"
+}

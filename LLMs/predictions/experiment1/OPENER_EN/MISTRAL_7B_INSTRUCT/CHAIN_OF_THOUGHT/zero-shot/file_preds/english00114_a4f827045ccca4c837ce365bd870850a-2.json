@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "this hotel"
+                ],
+                [
+                    "32:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "never ever come back"
+                ],
+                [
+                    "8:28"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "this hotel"
+                ],
+                [
+                    "32:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not worth the money"
+                ],
+                [
+                    "78:97"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "this hotel"
+                ],
+                [
+                    "32:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "4 stars"
+                ],
+                [
+                    "114:121"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "I would never ever come back to this hotel even if they paid me. simply it 's not worth the money , let alone the 4 stars .",
+    "sent_id": "opener_en/kaf/hotel/english00114_a4f827045ccca4c837ce365bd870850a-2"
+}

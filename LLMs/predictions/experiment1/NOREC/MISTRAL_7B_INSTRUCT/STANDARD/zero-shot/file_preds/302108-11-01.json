@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "DJ Koze"
+                ],
+                [
+                    "7:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "varme"
+                ],
+                [
+                    "40:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "litt etterlengtet"
+                ],
+                [
+                    "22:39"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "DJ Koze"
+                ],
+                [
+                    "7:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "utvalget"
+                ],
+                [
+                    "101:109"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "heller uinspirert"
+                ],
+                [
+                    "110:127"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Inntil DJ Koze bl\u00e5ser litt etterlengtet varme inn i sirkusteltet med sitt koda , fremst\u00e5r imidlertid utvalget heller uinspirert .",
+    "sent_id": "302108-11-01"
+}

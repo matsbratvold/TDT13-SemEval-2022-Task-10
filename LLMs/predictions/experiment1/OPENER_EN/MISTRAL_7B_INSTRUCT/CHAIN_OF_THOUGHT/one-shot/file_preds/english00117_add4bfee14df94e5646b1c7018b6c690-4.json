@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Club Dolphin"
+                ],
+                [
+                    "60:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Other than the aforesaid"
+                ],
+                [
+                    "0:24"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Other than the aforesaid , i have nothing to complain about Club Dolphin during my several visits .",
+    "sent_id": "opener_en/kaf/hotel/english00117_add4bfee14df94e5646b1c7018b6c690-4"
+}

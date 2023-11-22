@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dana beach"
+                ],
+                [
+                    "3:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "everything good"
+                ],
+                [
+                    "17:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In Dana beach is everything good , the food , the rooms , the people who are working there ! !",
+    "sent_id": "opener_en/kaf/hotel/english00146_dc6ed17346231f40aed08dcb4c1e24ae-2"
+}

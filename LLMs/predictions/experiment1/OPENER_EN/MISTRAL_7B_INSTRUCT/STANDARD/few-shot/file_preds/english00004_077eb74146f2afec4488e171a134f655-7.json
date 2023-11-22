@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "me and my friend"
+                ],
+                [
+                    "4:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "it was the perfekt Hotel"
+                ],
+                [
+                    "21:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enjoy a week at the beach and do some trips to Kallithea or to Kassandria"
+                ],
+                [
+                    "65:138"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "All in all"
+                ],
+                [
+                    "225:235"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "we are satisfied"
+                ],
+                [
+                    "236:252"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "For me and my friend it was the perfekt Hotel for our purpose to enjoy a week at the beach and do some trips to Kallithea or to Kassandria ( every Thursday there is a market and this is great fun and a nice alternation ; ) ) All in all we are satisfied .",
+    "sent_id": "opener_en/kaf/hotel/english00004_077eb74146f2afec4488e171a134f655-7"
+}

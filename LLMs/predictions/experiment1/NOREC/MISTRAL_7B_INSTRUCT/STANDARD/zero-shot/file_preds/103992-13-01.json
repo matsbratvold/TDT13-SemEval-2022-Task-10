@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Serien"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "heller"
+                ],
+                [
+                    "14:20"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Serien hviler heller ikke lenger p\u00e5 enkeltkarakterer .",
+    "sent_id": "103992-13-01"
+}

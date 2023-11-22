@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "It"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "really Bad"
+                ],
+                [
+                    "7:17"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "It was really Bad .",
+    "sent_id": "opener_en/kaf/hotel/english00219_fa68930c28a452677d4f82d9400ddf4a-2"
+}

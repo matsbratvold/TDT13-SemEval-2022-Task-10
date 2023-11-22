@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Filmen"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "kledelig rufsete i linjene"
+                ],
+                [
+                    "10:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "7:9"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Filmen"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "nydelige \u00f8yeblikk"
+                ],
+                [
+                    "53:70"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjennom"
+                ],
+                [
+                    "71:78"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Filmen"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "kunstferdige kulisser"
+                ],
+                [
+                    "84:105"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "og"
+                ],
+                [
+                    "37:39"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Filmen"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "uttrykksfulle dukker"
+                ],
+                [
+                    "109:129"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "og"
+                ],
+                [
+                    "37:39"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Filmen er kledelig rufsete i linjene og finner flere nydelige \u00f8yeblikk gjennom sine kunstferdige kulisser og uttrykksfulle dukker .",
+    "sent_id": "004983-13-01"
+}

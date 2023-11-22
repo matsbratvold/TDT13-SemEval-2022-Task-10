@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "They"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "us"
+                ],
+                [
+                    "17:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "just to keep us happy"
+                ],
+                [
+                    "16:37"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "They were there just to keep us happy .",
+    "sent_id": "opener_en/kaf/hotel/english00148_ddb06f1e4ab012d85f9120c394168c48-6"
+}

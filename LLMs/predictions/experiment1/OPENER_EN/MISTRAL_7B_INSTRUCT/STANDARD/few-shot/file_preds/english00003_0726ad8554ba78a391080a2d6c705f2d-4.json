@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "facilties"
+                ],
+                [
+                    "64:73"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not available"
+                ],
+                [
+                    "96:109"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "only remark maybe is that for families with little children the facilties ( playing ground ) is not available",
+    "sent_id": "opener_en/kaf/hotel/english00003_0726ad8554ba78a391080a2d6c705f2d-4"
+}

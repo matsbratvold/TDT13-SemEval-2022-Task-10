@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det er sjelden"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "rollefigurer underspilles"
+                ],
+                [
+                    "15:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sjelden"
+                ],
+                [
+                    "7:14"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "v\u00e5re skuespillertradisjoner"
+                ],
+                [
+                    "76:103"
+                ]
+            ],
+            "Target": [
+                [
+                    "f\u00f8lelser spilles direkte ut"
+                ],
+                [
+                    "120:147"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilsier ofte"
+                ],
+                [
+                    "104:116"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det er sjelden rollefigurer underspilles s\u00e5 konsentrert i nordiske filmer , v\u00e5re skuespillertradisjoner tilsier ofte at f\u00f8lelser spilles direkte ut .",
+    "sent_id": "400175-11-01"
+}

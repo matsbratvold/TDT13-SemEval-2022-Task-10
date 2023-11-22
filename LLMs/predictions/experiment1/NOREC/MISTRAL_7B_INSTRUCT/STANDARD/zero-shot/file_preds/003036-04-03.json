@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Channel Orange"
+                ],
+                [
+                    "19:33"
+                ]
+            ],
+            "Target": [
+                [
+                    "Channel Orange"
+                ],
+                [
+                    "19:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lenge siden"
+                ],
+                [
+                    "7:18"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det er lenge siden Channel Orange ble lansert .",
+    "sent_id": "003036-04-03"
+}

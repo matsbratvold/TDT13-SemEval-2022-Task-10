@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "39:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Absolutely gorgeous"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "39:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "super relaxing"
+                ],
+                [
+                    "24:38"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Absolutely gorgeous and super relaxing hotel",
+    "sent_id": "opener_en/kaf/hotel/english00097_6ace8a44dd0caa70cdaa62a2cc5cfd54-1"
+}

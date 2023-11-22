@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Donetsk"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "tourist destination"
+                ],
+                [
+                    "17:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not"
+                ],
+                [
+                    "11:14"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Donetsk"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "choices"
+                ],
+                [
+                    "45:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "limited"
+                ],
+                [
+                    "57:64"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Donetsk is not a tourist destination and the choices are limited .",
+    "sent_id": "opener_en/kaf/hotel/english00015_10b768c75ce75f96ee4722d418252686-5"
+}

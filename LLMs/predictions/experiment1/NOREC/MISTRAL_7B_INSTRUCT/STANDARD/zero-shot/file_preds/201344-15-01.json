@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Funksjonell multisport"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "multisport"
+                ],
+                [
+                    "12:22"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Funksjonell multisport",
+    "sent_id": "201344-15-01"
+}

@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Great location"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Great location"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "good hotel"
+                ],
+                [
+                    "17:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "good hotel"
+                ],
+                [
+                    "17:27"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Great location , good hotel",
+    "sent_id": "opener_en/kaf/hotel/english00195_e73656ac387fb1d16eee3f0baafa97d3-1"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Metro"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "key station"
+                ],
+                [
+                    "21:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has"
+                ],
+                [
+                    "15:18"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "The Metro also has a key station minutes from the front door .",
+    "sent_id": "opener_en/kaf/hotel/english00091_64b95794b1aa41efbaabced339b2deff-5"
+}

@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "food"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "cold"
+                ],
+                [
+                    "21:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cold"
+                ],
+                [
+                    "21:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "food"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "not enough crockery / cutlery etc"
+                ],
+                [
+                    "28:61"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not enough"
+                ],
+                [
+                    "28:38"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "restaurants"
+                ],
+                [
+                    "65:76"
+                ]
+            ],
+            "Target": [
+                [
+                    "cold"
+                ],
+                [
+                    "21:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cold"
+                ],
+                [
+                    "21:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "restaurants"
+                ],
+                [
+                    "65:76"
+                ]
+            ],
+            "Target": [
+                [
+                    "not enough crockery / cutlery etc"
+                ],
+                [
+                    "28:61"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not enough"
+                ],
+                [
+                    "28:38"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "However the food was cold , not enough crockery / cutlery etc in restaurants .",
+    "sent_id": "opener_en/kaf/hotel/english00008_09b68606f282d93380da630fd5e3738a-3"
+}

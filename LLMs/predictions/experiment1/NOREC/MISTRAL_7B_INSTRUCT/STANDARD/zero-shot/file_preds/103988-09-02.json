@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Og"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "f\u00f8rste lytt"
+                ],
+                [
+                    "16:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ved"
+                ],
+                [
+                    "12:15"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Og spesielt ved f\u00f8rste lytt .",
+    "sent_id": "103988-09-02"
+}

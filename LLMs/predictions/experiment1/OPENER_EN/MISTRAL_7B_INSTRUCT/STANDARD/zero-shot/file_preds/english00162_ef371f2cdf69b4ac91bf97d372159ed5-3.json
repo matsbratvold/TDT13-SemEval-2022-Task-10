@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "And"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "next stay"
+                ],
+                [
+                    "24:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "booked"
+                ],
+                [
+                    "14:20"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "And I already booked my next stay for the end of this month ( July 2011 ) .",
+    "sent_id": "opener_en/kaf/hotel/english00162_ef371f2cdf69b4ac91bf97d372159ed5-3"
+}

@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "distance"
+                ],
+                [
+                    "61:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "minus"
+                ],
+                [
+                    "9:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "distance"
+                ],
+                [
+                    "61:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "plus"
+                ],
+                [
+                    "47:51"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The only minus ( for some people it might be a plus ) is the distance from firenze itself .",
+    "sent_id": "opener_en/kaf/hotel/english00222_fd5bd3330c0b96b7ddc0ff8e0482a572-4"
+}

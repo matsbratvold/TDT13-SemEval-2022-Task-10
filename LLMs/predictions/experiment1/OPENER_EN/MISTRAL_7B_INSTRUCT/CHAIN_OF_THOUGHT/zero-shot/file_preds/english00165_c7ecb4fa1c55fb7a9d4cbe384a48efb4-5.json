@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "There"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "amphitheatre"
+                ],
+                [
+                    "19:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "variety"
+                ],
+                [
+                    "49:56"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "There was also the amphitheatre next door with a variety of shows and entertainment each night .",
+    "sent_id": "opener_en/kaf/hotel/english00165_c7ecb4fa1c55fb7a9d4cbe384a48efb4-5"
+}

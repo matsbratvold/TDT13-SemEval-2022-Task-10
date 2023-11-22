@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I sprickorna"
+                ],
+                [
+                    "2:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "ljuset"
+                ],
+                [
+                    "22:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kommer ljuset inn"
+                ],
+                [
+                    "15:32"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "\" I sprickorna kommer ljuset inn \" henter tittelen fra Leonard Cohens \" Anthem \" ( there is a crack in everything , that's how the light gets in ) .",
+    "sent_id": "704372-13-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Viktigere"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "13:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er blitt bedre"
+                ],
+                [
+                    "37:51"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Viktigere er det at sikkerhetspakken er blitt bedre .",
+    "sent_id": "202298-18-01"
+}

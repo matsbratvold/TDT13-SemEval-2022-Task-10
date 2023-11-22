@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jakten"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Norge"
+                ],
+                [
+                    "33:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjennom"
+                ],
+                [
+                    "11:18"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Jakten g\u00e5r gjennom stor deler av Norge .",
+    "sent_id": "600725-05-04"
+}

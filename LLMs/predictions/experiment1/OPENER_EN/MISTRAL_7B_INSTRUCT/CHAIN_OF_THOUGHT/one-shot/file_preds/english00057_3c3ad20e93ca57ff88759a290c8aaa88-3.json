@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Although"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "the room"
+                ],
+                [
+                    "9:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "small"
+                ],
+                [
+                    "22:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "it"
+                ],
+                [
+                    "28:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "was"
+                ],
+                [
+                    "18:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "clean and quite servicable"
+                ],
+                [
+                    "35:61"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "we"
+                ],
+                [
+                    "64:66"
+                ]
+            ],
+            "Target": [
+                [
+                    "spent"
+                ],
+                [
+                    "67:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "most days sight \u00b7 seeing in Paris"
+                ],
+                [
+                    "73:106"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Although the room was small it was clean and quite servicable ( we spent most days sight \u00b7 seeing in Paris .",
+    "sent_id": "opener_en/kaf/hotel/english00057_3c3ad20e93ca57ff88759a290c8aaa88-3"
+}

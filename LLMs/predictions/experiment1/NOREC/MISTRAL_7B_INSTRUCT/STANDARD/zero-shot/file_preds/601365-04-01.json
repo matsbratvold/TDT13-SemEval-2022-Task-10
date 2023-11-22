@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Egentlig"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "ordet"
+                ],
+                [
+                    "15:20"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Egentlig betyr ordet :",
+    "sent_id": "601365-04-01"
+}

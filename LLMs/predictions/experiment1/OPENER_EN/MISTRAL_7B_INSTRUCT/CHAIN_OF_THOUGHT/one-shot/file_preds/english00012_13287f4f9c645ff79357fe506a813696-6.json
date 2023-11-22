@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Room amenities"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "below standard with no water heater and an very old television possibly from the stone age"
+                ],
+                [
+                    "20:110"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Room amenities were below standard with no water heater and an very old television possibly from the stone age .",
+    "sent_id": "opener_en/kaf/hotel/english00012_13287f4f9c645ff79357fe506a813696-6"
+}

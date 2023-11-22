@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "room"
+                ],
+                [
+                    "13:17"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "clean"
+                ],
+                [
+                    "35:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "room"
+                ],
+                [
+                    "13:17"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "servicable"
+                ],
+                [
+                    "51:61"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "sight"
+                ],
+                [
+                    "83:88"
+                ]
+            ],
+            "Target": [
+                [
+                    "Paris"
+                ],
+                [
+                    "101:106"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sight"
+                ],
+                [
+                    "83:88"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Although the room was small it was clean and quite servicable ( we spent most days sight \u00b7 seeing in Paris .",
+    "sent_id": "opener_en/kaf/hotel/english00057_3c3ad20e93ca57ff88759a290c8aaa88-3"
+}

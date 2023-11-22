@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "A brilliant oasis"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "in a desert wilderness"
+                ],
+                [
+                    "18:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A brilliant oasis in a desert wilderness",
+    "sent_id": "opener_en/kaf/hotel/english00081_74f5522e8f5628a2c6591c3411d1bc7f-1"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Top hotel"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Top hotel"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Top hotel .",
+    "sent_id": "opener_en/kaf/hotel/english00038_3630f623138397b96ee2a4794334e86f-1"
+}

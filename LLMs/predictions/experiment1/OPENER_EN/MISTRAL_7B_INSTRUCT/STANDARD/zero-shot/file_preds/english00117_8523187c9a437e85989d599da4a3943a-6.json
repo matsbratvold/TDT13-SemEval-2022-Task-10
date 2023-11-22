@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "staying there"
+                ],
+                [
+                    "8:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "loved"
+                ],
+                [
+                    "2:7"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "this hotel"
+                ],
+                [
+                    "55:65"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "spoken very highly of"
+                ],
+                [
+                    "33:54"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "I loved staying there , and have spoken very highly of this hotel to my friends and colleagues .",
+    "sent_id": "opener_en/kaf/hotel/english00117_8523187c9a437e85989d599da4a3943a-6"
+}

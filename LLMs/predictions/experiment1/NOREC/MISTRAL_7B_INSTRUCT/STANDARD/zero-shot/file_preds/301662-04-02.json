@@ -1,0 +1,46 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Grunnstammen"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Blood Command"
+                ],
+                [
+                    "48:61"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Grunnstammen er fortsatt punk og hardcore , men Blood Command skriver i tillegg melodier som de djerveste popsnekkerne vil misunne dem .",
+    "sent_id": "301662-04-02"
+}

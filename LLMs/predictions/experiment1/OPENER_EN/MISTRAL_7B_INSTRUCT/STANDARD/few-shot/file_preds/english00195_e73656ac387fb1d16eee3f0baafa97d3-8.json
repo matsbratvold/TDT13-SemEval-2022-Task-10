@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "But you are so close to restaurants and bars that there is really no reason to eat in"
+                ],
+                [
+                    "0:85"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "But you are so close to restaurants and bars that there is really no reason to eat in .",
+    "sent_id": "opener_en/kaf/hotel/english00195_e73656ac387fb1d16eee3f0baafa97d3-8"
+}

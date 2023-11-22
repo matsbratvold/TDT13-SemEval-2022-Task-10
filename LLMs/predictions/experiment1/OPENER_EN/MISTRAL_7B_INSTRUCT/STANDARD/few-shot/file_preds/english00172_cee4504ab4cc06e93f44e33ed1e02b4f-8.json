@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "a disaster"
+                ],
+                [
+                    "14:24"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "comfortable chairs / tables"
+                ],
+                [
+                    "29:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bad"
+                ],
+                [
+                    "59:62"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bad quality food"
+                ],
+                [
+                    "59:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "no diversity"
+                ],
+                [
+                    "78:90"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "cold tea / coffee"
+                ],
+                [
+                    "93:110"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bad"
+                ],
+                [
+                    "59:62"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Breakfast was a disaster , uncomfortable chairs / tables , bad quality food , no diversity , cold tea / coffee .",
+    "sent_id": "opener_en/kaf/hotel/english00172_cee4504ab4cc06e93f44e33ed1e02b4f-8"
+}

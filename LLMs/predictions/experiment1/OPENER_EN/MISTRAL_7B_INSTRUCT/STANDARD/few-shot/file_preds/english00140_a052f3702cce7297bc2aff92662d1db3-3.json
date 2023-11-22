@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ahmed F."
+                ],
+                [
+                    "11:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "Sultana Caf\u00e9"
+                ],
+                [
+                    "38:50"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Especially Ahmed F. who worked in the Sultana Caf\u00e9 .",
+    "sent_id": "opener_en/kaf/hotel/english00140_a052f3702cce7297bc2aff92662d1db3-3"
+}

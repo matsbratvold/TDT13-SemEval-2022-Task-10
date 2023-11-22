@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "with a good mix of age groups"
+                ],
+                [
+                    "0:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "with a good mix of age groups"
+                ],
+                [
+                    "0:29"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "with a good mix of age groups .",
+    "sent_id": "opener_en/kaf/hotel/english00014_17224596ebb4a03e814c12ea1c18e41e-7"
+}

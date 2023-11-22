@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Vivaldi Hotel"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "Puteaux"
+                ],
+                [
+                    "20:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "in walking distance to the metro ( Paris )"
+                ],
+                [
+                    "42:84"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The Vivaldi Hotel ( Puteaux , France ) is in walking distance to the metro ( Paris ) .",
+    "sent_id": "opener_en/kaf/hotel/english00057_3c3ad20e93ca57ff88759a290c8aaa88-2"
+}

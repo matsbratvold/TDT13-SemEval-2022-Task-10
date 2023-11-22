@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "stall og hestelukt og rideturer"
+                ],
+                [
+                    "15:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "savner"
+                ],
+                [
+                    "4:10"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Jeg savner mer stall og hestelukt og rideturer i vakker spansk natur .",
+    "sent_id": "300186-14-01"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Lovely hotel"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Lovely"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Lovely hotel .",
+    "sent_id": "opener_en/kaf/hotel/english00074_5043dc58494745b461da0773b8d0a648-1"
+}

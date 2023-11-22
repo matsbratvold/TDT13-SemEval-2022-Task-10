@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "imponeres"
+                ],
+                [
+                    "8:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vil"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Jeg vil imponeres mer !",
+    "sent_id": "300186-13-02"
+}

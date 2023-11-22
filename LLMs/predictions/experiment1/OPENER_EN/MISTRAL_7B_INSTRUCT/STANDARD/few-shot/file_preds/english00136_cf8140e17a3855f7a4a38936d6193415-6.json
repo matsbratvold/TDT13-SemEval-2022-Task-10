@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "atmosphere"
+                ],
+                [
+                    "4:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "right"
+                ],
+                [
+                    "18:23"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "26:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very cozy"
+                ],
+                [
+                    "32:41"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The atmosphere is right , it 's very cozy .",
+    "sent_id": "opener_en/kaf/hotel/english00136_cf8140e17a3855f7a4a38936d6193415-6"
+}

@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "tables"
+                ],
+                [
+                    "38:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "plenty of tables"
+                ],
+                [
+                    "28:44"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "tables"
+                ],
+                [
+                    "38:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not enough tables"
+                ],
+                [
+                    "49:66"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In the bar areas there were plenty of tables but not enough tables so nowhere to sit .",
+    "sent_id": "opener_en/kaf/hotel/english00008_09b68606f282d93380da630fd5e3738a-5"
+}

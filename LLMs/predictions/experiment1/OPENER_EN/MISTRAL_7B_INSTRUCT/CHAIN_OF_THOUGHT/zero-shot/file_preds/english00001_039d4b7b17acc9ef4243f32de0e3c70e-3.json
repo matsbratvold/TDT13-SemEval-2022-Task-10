@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Condition"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "room"
+                ],
+                [
+                    "17:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very poor"
+                ],
+                [
+                    "25:34"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Condition"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "room"
+                ],
+                [
+                    "17:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not cleaned properly"
+                ],
+                [
+                    "51:71"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Condition of the room is very poor and also it was not cleaned properly .",
+    "sent_id": "opener_en/kaf/hotel/english00001_039d4b7b17acc9ef4243f32de0e3c70e-3"
+}

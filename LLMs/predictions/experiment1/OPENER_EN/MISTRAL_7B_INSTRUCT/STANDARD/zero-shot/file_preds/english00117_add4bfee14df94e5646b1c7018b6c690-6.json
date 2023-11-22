@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Prashanth"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Prashanth",
+    "sent_id": "opener_en/kaf/hotel/english00117_add4bfee14df94e5646b1c7018b6c690-6"
+}

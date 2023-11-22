@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "For ikke \u00e5 snakke om funksjonen som gj\u00f8r det mulig \u00e5 lokalisere eierens mistede smarttelefon"
+                ],
+                [
+                    "0:92"
+                ]
+            ],
+            "Target": [
+                [
+                    "funksjonen som gj\u00f8r det mulig \u00e5 lokalisere eierens mistede smarttelefon"
+                ],
+                [
+                    "21:92"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "For ikke \u00e5 snakke om funksjonen som gj\u00f8r det mulig \u00e5 lokalisere eierens mistede smarttelefon .",
+    "sent_id": "201344-21-04"
+}

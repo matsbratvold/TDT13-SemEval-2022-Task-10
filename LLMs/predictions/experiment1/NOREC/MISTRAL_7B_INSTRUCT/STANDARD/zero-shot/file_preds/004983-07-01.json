@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Isak"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "vondt"
+                ],
+                [
+                    "32:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "opplevd"
+                ],
+                [
+                    "20:27"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Isak er 9 \u00e5r og har opplevd mye vondt .",
+    "sent_id": "004983-07-01"
+}

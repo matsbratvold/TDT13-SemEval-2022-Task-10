@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Bliss"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Really enjoyed"
+                ],
+                [
+                    "9:23"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Bliss .. Really enjoyed !",
+    "sent_id": "opener_en/kaf/hotel/english00214_f731285c2d232cf15e5cdae66ab186b1-1"
+}

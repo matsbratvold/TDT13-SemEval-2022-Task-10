@@ -1,0 +1,134 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Breakfast"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "was"
+                ],
+                [
+                    "10:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "disaster"
+                ],
+                [
+                    "16:24"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "comfortable chairs / tables"
+                ],
+                [
+                    "29:56"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "bad quality food"
+                ],
+                [
+                    "59:75"
+                ]
+            ],
+            "Target": [
+                [
+                    "was"
+                ],
+                [
+                    "10:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bad quality"
+                ],
+                [
+                    "59:70"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "no diversity"
+                ],
+                [
+                    "78:90"
+                ]
+            ],
+            "Target": [
+                [
+                    "was"
+                ],
+                [
+                    "10:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "no diversity"
+                ],
+                [
+                    "78:90"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "cold tea / coffee"
+                ],
+                [
+                    "93:110"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "cold"
+                ],
+                [
+                    "93:97"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Breakfast was a disaster , uncomfortable chairs / tables , bad quality food , no diversity , cold tea / coffee .",
+    "sent_id": "opener_en/kaf/hotel/english00172_cee4504ab4cc06e93f44e33ed1e02b4f-8"
+}

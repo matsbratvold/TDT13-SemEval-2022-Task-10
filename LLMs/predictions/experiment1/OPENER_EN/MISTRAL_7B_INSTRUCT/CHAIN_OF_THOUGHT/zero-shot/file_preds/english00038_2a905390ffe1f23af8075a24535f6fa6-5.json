@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "dinner"
+                ],
+                [
+                    "4:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "dining room staff"
+                ],
+                [
+                    "33:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "excellent"
+                ],
+                [
+                    "15:24"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The dinner was excellent and the dining room staff made sure we had a table all to ourselves .",
+    "sent_id": "opener_en/kaf/hotel/english00038_2a905390ffe1f23af8075a24535f6fa6-5"
+}

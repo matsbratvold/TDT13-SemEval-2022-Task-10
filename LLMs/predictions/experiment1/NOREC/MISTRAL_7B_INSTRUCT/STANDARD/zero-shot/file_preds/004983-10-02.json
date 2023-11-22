@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "barna"
+                ],
+                [
+                    "62:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vite"
+                ],
+                [
+                    "28:32"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "barna"
+                ],
+                [
+                    "62:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sliter"
+                ],
+                [
+                    "90:96"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "barna"
+                ],
+                [
+                    "62:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sliter"
+                ],
+                [
+                    "90:96"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Vi f\u00e5r p\u00e5 smart fortalt vis vite b\u00e5de bakgrunnen til de andre barna , og hvilke skader de sliter aller mest med .",
+    "sent_id": "004983-10-02"
+}

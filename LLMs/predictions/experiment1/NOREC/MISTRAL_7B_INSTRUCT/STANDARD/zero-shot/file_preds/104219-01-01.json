@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bokanmeldelse"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Bokanmeldelse :",
+    "sent_id": "104219-01-01"
+}

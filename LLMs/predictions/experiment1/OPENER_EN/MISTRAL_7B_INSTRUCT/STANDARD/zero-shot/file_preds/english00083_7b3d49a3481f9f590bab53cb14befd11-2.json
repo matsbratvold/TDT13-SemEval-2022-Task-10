@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "A"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "big hotel"
+                ],
+                [
+                    "2:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "slendid"
+                ],
+                [
+                    "40:47"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "A"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "slendid garden"
+                ],
+                [
+                    "40:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "slendid"
+                ],
+                [
+                    "40:47"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "A"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "swimmingpool warm water"
+                ],
+                [
+                    "67:90"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "warm"
+                ],
+                [
+                    "80:84"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "A big hotel ( about 700 rooms ? ) and a slendid garden and in some swimmingpool warm water .",
+    "sent_id": "opener_en/kaf/hotel/english00083_7b3d49a3481f9f590bab53cb14befd11-2"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "9:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Fantasic"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Fantasic hotel .",
+    "sent_id": "opener_en/kaf/hotel/english00099_6bd92afbc1db2e16e92cc8cf0105c93e-1"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "A lot of noise"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "A lot of noise"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A lot of noise .",
+    "sent_id": "opener_en/kaf/hotel/english00203_eb3bae183b573012e1d929eaa6f6c99d-6"
+}

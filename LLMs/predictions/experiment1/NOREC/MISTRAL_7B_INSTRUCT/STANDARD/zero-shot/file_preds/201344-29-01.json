@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fenix"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fenix"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Fenix",
+    "sent_id": "201344-29-01"
+}

@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Totally"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "overpriced"
+                ],
+                [
+                    "8:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Totally"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "lousy"
+                ],
+                [
+                    "21:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "service"
+                ],
+                [
+                    "27:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lousy"
+                ],
+                [
+                    "21:26"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "bad"
+                ],
+                [
+                    "37:40"
+                ]
+            ],
+            "Target": [
+                [
+                    "location"
+                ],
+                [
+                    "41:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bad"
+                ],
+                [
+                    "37:40"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "noise"
+                ],
+                [
+                    "52:57"
+                ]
+            ],
+            "Target": [
+                [
+                    "from houses close"
+                ],
+                [
+                    "58:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "noise"
+                ],
+                [
+                    "52:57"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Totally overpriced , lousy service , bad location ( noise from houses close \u00b7 by ) .",
+    "sent_id": "opener_en/kaf/hotel/english00065_454ddd5112d4969a9a26218d2cb6d815-7"
+}

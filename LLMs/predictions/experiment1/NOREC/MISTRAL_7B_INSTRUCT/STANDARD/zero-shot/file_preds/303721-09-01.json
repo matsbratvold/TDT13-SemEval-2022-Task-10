@@ -1,0 +1,70 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Cry All Day"
+                ],
+                [
+                    "108:119"
+                ]
+            ],
+            "Target": [
+                [
+                    "Cry All Day"
+                ],
+                [
+                    "108:119"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Shrug and Destroy"
+                ],
+                [
+                    "147:164"
+                ]
+            ],
+            "Target": [
+                [
+                    "Shrug and Destroy"
+                ],
+                [
+                    "147:164"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det samme kan ogs\u00e5 sies om de resterende h\u00f8ydepunktene her : \u00ab We Aren \u2019 t the World ( Safety Girl ) \u00bb og \u00ab Cry All Day \u00bb , i tillegg til nevnte \u00ab Shrug and Destroy \u00bb .",
+    "sent_id": "303721-09-01"
+}

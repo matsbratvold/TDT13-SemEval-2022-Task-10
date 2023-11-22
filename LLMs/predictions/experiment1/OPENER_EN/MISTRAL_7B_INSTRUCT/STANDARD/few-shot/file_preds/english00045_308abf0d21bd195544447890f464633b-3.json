@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "A big and nice appartement"
+                ],
+                [
+                    "0:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "but the madrasses of the bed were awfull hard"
+                ],
+                [
+                    "29:74"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A big and nice appartement \u00b7 but the madrasses of the bed were awfull hard .",
+    "sent_id": "opener_en/kaf/hotel/english00045_308abf0d21bd195544447890f464633b-3"
+}

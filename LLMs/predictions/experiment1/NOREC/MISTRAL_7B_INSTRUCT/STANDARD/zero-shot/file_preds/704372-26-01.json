@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Baby vi"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "inget"
+                ],
+                [
+                    "12:17"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Baby vi har inget",
+    "sent_id": "704372-26-01"
+}

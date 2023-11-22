@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "holiday"
+                ],
+                [
+                    "8:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Perfect"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Perfect holiday",
+    "sent_id": "opener_en/kaf/hotel/english00165_c7ecb4fa1c55fb7a9d4cbe384a48efb4-1"
+}

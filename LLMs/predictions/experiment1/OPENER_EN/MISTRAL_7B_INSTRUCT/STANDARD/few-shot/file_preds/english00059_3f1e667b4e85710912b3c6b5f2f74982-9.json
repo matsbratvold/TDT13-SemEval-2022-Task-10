@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Restaurants"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ok , but not outstanding"
+                ],
+                [
+                    "16:40"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Restaurants are ok , but not outstanding .",
+    "sent_id": "opener_en/kaf/hotel/english00059_3f1e667b4e85710912b3c6b5f2f74982-9"
+}

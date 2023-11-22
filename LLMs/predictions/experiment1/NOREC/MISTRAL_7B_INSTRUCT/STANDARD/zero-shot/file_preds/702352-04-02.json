@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Julieta"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Julieta .",
+    "sent_id": "702352-04-02"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "folk som p\u00e5 ulikt vis var brikker i det politiske spillet i etterkrigstidens tyske virkelighetskamp"
+                ],
+                [
+                    "25:124"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00f8ter vi"
+                ],
+                [
+                    "16:24"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "I tolv kapitler m\u00f8ter vi folk som p\u00e5 ulikt vis var brikker i det politiske spillet i etterkrigstidens tyske virkelighetskamp , vest mot \u00f8st .",
+    "sent_id": "301242-04-01"
+}

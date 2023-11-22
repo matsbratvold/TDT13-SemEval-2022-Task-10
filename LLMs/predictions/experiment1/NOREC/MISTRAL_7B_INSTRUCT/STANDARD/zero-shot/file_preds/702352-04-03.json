@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sjanger"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Sjanger :",
+    "sent_id": "702352-04-03"
+}

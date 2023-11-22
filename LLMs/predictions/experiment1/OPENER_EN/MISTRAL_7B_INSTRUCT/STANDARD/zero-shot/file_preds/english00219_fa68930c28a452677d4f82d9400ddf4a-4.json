@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dirty"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "room lock"
+                ],
+                [
+                    "10:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "brocken"
+                ],
+                [
+                    "24:31"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Dirty"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "room lock"
+                ],
+                [
+                    "10:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "brocken"
+                ],
+                [
+                    "24:31"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Dirty"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "room lock"
+                ],
+                [
+                    "10:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "brocken"
+                ],
+                [
+                    "24:31"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Dirty.our room lock was brocken and we were not sure if someone came in .",
+    "sent_id": "opener_en/kaf/hotel/english00219_fa68930c28a452677d4f82d9400ddf4a-4"
+}

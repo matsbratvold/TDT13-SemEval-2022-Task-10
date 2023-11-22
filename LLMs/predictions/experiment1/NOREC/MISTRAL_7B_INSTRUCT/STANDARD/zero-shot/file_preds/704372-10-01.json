@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "ep-en"
+                ],
+                [
+                    "19:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ble gitt ut"
+                ],
+                [
+                    "4:15"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Hellstr\u00f6m"
+                ],
+                [
+                    "83:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "varslet om"
+                ],
+                [
+                    "52:62"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Den ble gitt ut p\u00e5 ep-en \" 1974 \" tidligere i \u00e5r og varslet om at en ny og m\u00f8rkere Hellstr\u00f6m var p\u00e5 vei .",
+    "sent_id": "704372-10-01"
+}

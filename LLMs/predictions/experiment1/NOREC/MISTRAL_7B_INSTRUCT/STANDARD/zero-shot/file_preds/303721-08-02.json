@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ved gjentatte lytt \u00e5penbarer den seg"
+                ],
+                [
+                    "0:36"
+                ]
+            ],
+            "Target": [
+                [
+                    "den"
+                ],
+                [
+                    "29:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "imidlertid som en beskjeden juvel"
+                ],
+                [
+                    "37:70"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "Ved gjentatte lytt \u00e5penbarer den seg"
+                ],
+                [
+                    "0:36"
+                ]
+            ],
+            "Target": [
+                [
+                    "den"
+                ],
+                [
+                    "29:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mildt melankolsk p\u00e5 samme m\u00e5te som en skj\u00f8nn h\u00f8stdag"
+                ],
+                [
+                    "73:125"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Ved gjentatte lytt \u00e5penbarer den seg imidlertid som en beskjeden juvel , mildt melankolsk p\u00e5 samme m\u00e5te som en skj\u00f8nn h\u00f8stdag .",
+    "sent_id": "303721-08-02"
+}

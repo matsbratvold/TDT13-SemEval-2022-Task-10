@@ -1,0 +1,76 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The actual neighbourhood"
+                ],
+                [
+                    "0:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "neighbourhood"
+                ],
+                [
+                    "11:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is not great"
+                ],
+                [
+                    "25:37"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "however"
+                ],
+                [
+                    "38:45"
+                ]
+            ],
+            "Target": [
+                [
+                    "neighbourhood"
+                ],
+                [
+                    "11:24"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "mostly betting shops and convenience stores"
+                ],
+                [
+                    "48:91"
+                ]
+            ],
+            "Target": [
+                [
+                    "neighbourhood"
+                ],
+                [
+                    "11:24"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "The actual neighbourhood is not great however , mostly betting shops and convenience stores .",
+    "sent_id": "opener_en/kaf/hotel/english00156_bceddd6fce4fdf6cc6c030fee377f4aa-3"
+}

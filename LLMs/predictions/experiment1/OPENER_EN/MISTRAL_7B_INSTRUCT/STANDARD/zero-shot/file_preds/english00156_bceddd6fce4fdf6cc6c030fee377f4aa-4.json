@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The hotel"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "very secure"
+                ],
+                [
+                    "13:24"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "The hotel"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "swipe card access"
+                ],
+                [
+                    "40:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "with swipe card access to each floor"
+                ],
+                [
+                    "35:71"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "The hotel is very secure however , with swipe card access to each floor .",
+    "sent_id": "opener_en/kaf/hotel/english00156_bceddd6fce4fdf6cc6c030fee377f4aa-4"
+}

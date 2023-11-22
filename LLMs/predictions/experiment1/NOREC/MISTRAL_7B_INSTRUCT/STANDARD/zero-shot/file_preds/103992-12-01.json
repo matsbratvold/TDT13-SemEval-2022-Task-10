@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Pousseys Washingtons"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "sesongen"
+                ],
+                [
+                    "37:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5nd hviler"
+                ],
+                [
+                    "21:31"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "Pousseys Washingtons"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "oppr\u00f8ret"
+                ],
+                [
+                    "61:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "virker akkurat s\u00e5 kaotisk og lite planlagt som slikt muligens er"
+                ],
+                [
+                    "70:134"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Pousseys Washingtons \u00e5nd hviler over sesongen , samtidig som oppr\u00f8ret virker akkurat s\u00e5 kaotisk og lite planlagt som slikt muligens er .",
+    "sent_id": "103992-12-01"
+}

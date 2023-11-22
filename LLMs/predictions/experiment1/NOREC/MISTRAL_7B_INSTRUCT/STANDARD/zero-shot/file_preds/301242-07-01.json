@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "mannfolk"
+                ],
+                [
+                    "12:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mest"
+                ],
+                [
+                    "7:11"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "mannfolk"
+                ],
+                [
+                    "12:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "med"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "to"
+                ],
+                [
+                    "31:33"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "mannfolk"
+                ],
+                [
+                    "12:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "mannfolk"
+                ],
+                [
+                    "12:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det er mest mannfolk med , med to unntak .",
+    "sent_id": "301242-07-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Terrible"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "room"
+                ],
+                [
+                    "9:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Terrible"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Terrible room",
+    "sent_id": "opener_en/kaf/hotel/english00220_fa8115ab7f09678324fbeee56a7b1f34-1"
+}

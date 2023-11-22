@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Interior"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "rooms"
+                ],
+                [
+                    "30:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "superb"
+                ],
+                [
+                    "12:18"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Interior is superb as well as rooms .",
+    "sent_id": "opener_en/kaf/hotel/english00050_495e277eea2f9aa0e88d6122299c3894-3"
+}

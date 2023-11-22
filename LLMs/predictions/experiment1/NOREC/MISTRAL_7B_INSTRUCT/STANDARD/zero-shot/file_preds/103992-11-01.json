@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Oppr\u00f8ret"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "karakterer vi kjenner"
+                ],
+                [
+                    "41:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "muligheten til \u00e5 se"
+                ],
+                [
+                    "13:32"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Oppr\u00f8ret"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "karakterer vi kjenner"
+                ],
+                [
+                    "41:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fungerer sammen"
+                ],
+                [
+                    "63:78"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Oppr\u00f8ret"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "karakterer vi kjenner"
+                ],
+                [
+                    "41:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fri lek"
+                ],
+                [
+                    "113:120"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Oppr\u00f8ret gir muligheten til \u00e5 se hvordan karakterer vi kjenner fungerer sammen i det man i barnehagen ville kalt fri lek .",
+    "sent_id": "103992-11-01"
+}

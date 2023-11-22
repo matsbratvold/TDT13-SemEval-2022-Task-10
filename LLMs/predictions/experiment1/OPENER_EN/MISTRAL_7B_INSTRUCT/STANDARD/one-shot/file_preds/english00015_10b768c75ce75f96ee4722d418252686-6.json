@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "the way they solved the food situation"
+                ],
+                [
+                    "11:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "I did like the way they solved the food situation"
+                ],
+                [
+                    "0:49"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "you"
+                ],
+                [
+                    "52:55"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "you basically get a budget you can use in a canine like restaurant that was very good"
+                ],
+                [
+                    "52:137"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I did like the way they solved the food situation , you basically get a budget you can use in a canine like restaurant that was very good .",
+    "sent_id": "opener_en/kaf/hotel/english00015_10b768c75ce75f96ee4722d418252686-6"
+}

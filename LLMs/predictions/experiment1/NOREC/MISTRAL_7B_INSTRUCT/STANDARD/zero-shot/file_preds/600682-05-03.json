@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Filmen"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "sitrende nerve"
+                ],
+                [
+                    "14:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sitrende"
+                ],
+                [
+                    "14:22"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Filmen"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "sl\u00e5ende vakker visuelt"
+                ],
+                [
+                    "37:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sl\u00e5ende"
+                ],
+                [
+                    "37:44"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Filmen har en sitrende nerve , og er sl\u00e5ende vakker visuelt .",
+    "sent_id": "600682-05-03"
+}

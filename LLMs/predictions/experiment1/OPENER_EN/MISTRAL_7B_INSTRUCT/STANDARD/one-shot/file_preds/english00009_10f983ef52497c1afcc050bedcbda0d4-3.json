@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "that"
+                ],
+                [
+                    "16:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "really liked"
+                ],
+                [
+                    "3:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "We really liked that .",
+    "sent_id": "opener_en/kaf/hotel/english00009_10f983ef52497c1afcc050bedcbda0d4-3"
+}

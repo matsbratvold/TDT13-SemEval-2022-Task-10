@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "h\u00f8re p\u00e5 annet de siste dagene"
+                ],
+                [
+                    "28:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "knapt at lyst til"
+                ],
+                [
+                    "8:25"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "det virker ikke som jeg er den eneste"
+                ],
+                [
+                    "63:100"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det virker ikke som"
+                ],
+                [
+                    "63:82"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Jeg har knapt at lyst til \u00e5 h\u00f8re p\u00e5 annet de siste dagene , og det virker ikke som jeg er den eneste .",
+    "sent_id": "302108-09-02"
+}

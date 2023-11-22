@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "location of this hotel"
+                ],
+                [
+                    "4:26"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "The location of this hotel can 't be beat .",
+    "sent_id": "opener_en/kaf/hotel/english00091_64b95794b1aa41efbaabced339b2deff-3"
+}

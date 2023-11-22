@@ -1,0 +1,98 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "food"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "quality"
+                ],
+                [
+                    "23:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "was of a good quality"
+                ],
+                [
+                    "9:30"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "food"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "quality"
+                ],
+                [
+                    "23:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "in the five"
+                ],
+                [
+                    "50:61"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "in the five"
+                ],
+                [
+                    "50:61"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "food was was of a good quality and well presented in the five restaraunts .",
+    "sent_id": "opener_en/kaf/hotel/english00014_17224596ebb4a03e814c12ea1c18e41e-5"
+}

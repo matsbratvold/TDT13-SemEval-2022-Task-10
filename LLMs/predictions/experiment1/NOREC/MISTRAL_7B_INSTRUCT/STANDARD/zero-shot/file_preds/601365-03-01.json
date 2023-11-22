@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Alt"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "du"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "du hadde lyst til \u00e5 vite noe om"
+                ],
+                [
+                    "26:57"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Alt"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "jeg"
+                ],
+                [
+                    "77:80"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Alt det du ikke visste at du hadde lyst til \u00e5 vite noe om , omtrent slik vil jeg oppsummere inntrykkene etter \u00e5 ha pl\u00f8yd meg gjennom 469 sider skriftlige ytringer av Tor \u00c5ge Bringsv\u00e6rd i hans siste bok :",
+    "sent_id": "601365-03-01"
+}

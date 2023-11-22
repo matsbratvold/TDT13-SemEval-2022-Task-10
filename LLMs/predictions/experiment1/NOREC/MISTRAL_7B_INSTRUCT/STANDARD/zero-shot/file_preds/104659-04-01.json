@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Julia Holter"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "popsangene"
+                ],
+                [
+                    "49:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lager noen av de fineste og rareste"
+                ],
+                [
+                    "13:48"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Julia Holter lager noen av de fineste og rareste popsangene p\u00e5 denne siden av Kate Bush og Sirkus Arnardo .",
+    "sent_id": "104659-04-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Budskapet"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "frem"
+                ],
+                [
+                    "14:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "uansett"
+                ],
+                [
+                    "19:26"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Budskapet n\u00e5r frem uansett .",
+    "sent_id": "004773-11-02"
+}

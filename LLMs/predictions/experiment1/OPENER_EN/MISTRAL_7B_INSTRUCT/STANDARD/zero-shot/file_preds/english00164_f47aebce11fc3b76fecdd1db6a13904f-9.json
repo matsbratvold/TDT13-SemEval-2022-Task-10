@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "WOW"
+                ],
+                [
+                    "64:67"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "We had two course and a bottle of champagne and it cost us \u00a3 31 WOW .",
+    "sent_id": "opener_en/kaf/hotel/english00164_f47aebce11fc3b76fecdd1db6a13904f-9"
+}

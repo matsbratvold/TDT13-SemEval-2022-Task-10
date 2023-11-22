@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "all inclusive"
+                ],
+                [
+                    "8:21"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "my son"
+                ],
+                [
+                    "35:41"
+                ]
+            ],
+            "Target": [
+                [
+                    "fussy eater"
+                ],
+                [
+                    "55:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "extremely fussy eater"
+                ],
+                [
+                    "45:66"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "all times of the day"
+                ],
+                [
+                    "115:135"
+                ]
+            ],
+            "Target": [
+                [
+                    "finding something to eat"
+                ],
+                [
+                    "86:110"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "no problems finding something to eat"
+                ],
+                [
+                    "74:110"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "We were all inclusive and although my son is extremely fussy eater he had no problems finding something to eat for all times of the day .",
+    "sent_id": "opener_en/kaf/hotel/english00214_f731285c2d232cf15e5cdae66ab186b1-5"
+}

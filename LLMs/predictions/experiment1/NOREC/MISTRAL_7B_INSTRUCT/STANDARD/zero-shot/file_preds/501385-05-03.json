@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I begge tilfeller"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "gikk vokal og melodi sammen som erteris"
+                ],
+                [
+                    "18:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "men"
+                ],
+                [
+                    "42:45"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "I begge tilfeller"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "er det noe som skurrer"
+                ],
+                [
+                    "78:100"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "p\u00e5"
+                ],
+                [
+                    "64:66"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Ni liv"
+                ],
+                [
+                    "69:75"
+                ]
+            ],
+            "Target": [
+                [
+                    "er det noe som skurrer"
+                ],
+                [
+                    "78:100"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "15:17"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "I begge tilfeller gikk vokal og melodi sammen som erteris , men p\u00e5 \u00ab Ni liv \u00bb er det noe som skurrer .",
+    "sent_id": "501385-05-03"
+}

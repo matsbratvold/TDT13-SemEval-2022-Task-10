@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Selv"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "de starter"
+                ],
+                [
+                    "8:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vesle Synne gleder seg til \u00e5 f\u00e5 en ny gutt i klassen"
+                ],
+                [
+                    "44:96"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Selv om de starter med et barneperspektiv \u2013 vesle Synne gleder seg til \u00e5 f\u00e5 en ny gutt i klassen \u2013 klarer de ikke \u00e5 fri boka fra en bel\u00e6rende fortellerstemme .",
+    "sent_id": "302975-07-01"
+}

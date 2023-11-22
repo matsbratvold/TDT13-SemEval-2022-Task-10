@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "igjen"
+                ],
+                [
+                    "17:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "om"
+                ],
+                [
+                    "14:16"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Gamle traumer om igjen",
+    "sent_id": "702352-08-01"
+}

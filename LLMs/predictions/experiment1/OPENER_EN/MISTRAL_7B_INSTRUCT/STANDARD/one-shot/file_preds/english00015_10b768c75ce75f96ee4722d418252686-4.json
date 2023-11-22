@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "you"
+                ],
+                [
+                    "3:6"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "If you are looking at the \" budget \" hotel and you don 't care much about the room size and the available facilities , then this hotel might be an option for you .",
+    "sent_id": "opener_en/kaf/hotel/english00015_10b768c75ce75f96ee4722d418252686-4"
+}

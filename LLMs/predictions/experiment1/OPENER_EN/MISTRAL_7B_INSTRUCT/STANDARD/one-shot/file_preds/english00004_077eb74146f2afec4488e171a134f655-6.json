@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "The food"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ok"
+                ],
+                [
+                    "13:15"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "good offer"
+                ],
+                [
+                    "17:27"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "giant buffet"
+                ],
+                [
+                    "30:42"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "especially the deserts were very good"
+                ],
+                [
+                    "83:120"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The food was ok. good offer , giant buffet ( in the morning AND in the evening ) , especially the deserts were very good .",
+    "sent_id": "opener_en/kaf/hotel/english00004_077eb74146f2afec4488e171a134f655-6"
+}

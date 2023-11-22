@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "It"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not negative review"
+                ],
+                [
+                    "6:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "It 's not negative review .",
+    "sent_id": "opener_en/kaf/hotel/english00149_aa9eb0dd94281b1d1b5182662c047aff-2"
+}

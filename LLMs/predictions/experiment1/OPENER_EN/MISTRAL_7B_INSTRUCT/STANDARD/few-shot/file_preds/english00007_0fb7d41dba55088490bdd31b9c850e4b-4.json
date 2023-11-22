@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "The food"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "really nice"
+                ],
+                [
+                    "13:24"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "they had a good range"
+                ],
+                [
+                    "25:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "that catered for all tastes"
+                ],
+                [
+                    "47:74"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The food was really nice they had a good range that catered for all tastes .",
+    "sent_id": "opener_en/kaf/hotel/english00007_0fb7d41dba55088490bdd31b9c850e4b-4"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "N\u00e5"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "kart og terreng"
+                ],
+                [
+                    "6:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tydeligere avklart"
+                ],
+                [
+                    "22:40"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "N\u00e5 er kart og terreng tydeligere avklart , om ikke helt ferdig samstemt .",
+    "sent_id": "104870-08-01"
+}

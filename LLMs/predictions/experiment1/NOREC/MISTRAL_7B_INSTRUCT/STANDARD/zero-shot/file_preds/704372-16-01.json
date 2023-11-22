@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "P\u00e4rlor"
+                ],
+                [
+                    "2:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "sang"
+                ],
+                [
+                    "17:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "knytter"
+                ],
+                [
+                    "26:33"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "\" P\u00e4rlor \" er en sang som knytter neven i v\u00e6ret , om enn p\u00e5 dansegulvet .",
+    "sent_id": "704372-16-01"
+}

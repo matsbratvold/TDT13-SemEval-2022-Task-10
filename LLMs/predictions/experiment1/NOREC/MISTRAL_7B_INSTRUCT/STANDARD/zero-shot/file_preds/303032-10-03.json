@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "engelsk"
+                ],
+                [
+                    "32:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hadde ikke v\u00e6rt like god"
+                ],
+                [
+                    "4:28"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Den hadde ikke v\u00e6rt like god p\u00e5 engelsk .",
+    "sent_id": "303032-10-03"
+}

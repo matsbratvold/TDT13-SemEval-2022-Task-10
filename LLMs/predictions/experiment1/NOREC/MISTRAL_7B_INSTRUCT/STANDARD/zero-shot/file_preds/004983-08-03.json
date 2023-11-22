@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "En verden"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "vold"
+                ],
+                [
+                    "13:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vurderer"
+                ],
+                [
+                    "53:61"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "En verden"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "mobbing"
+                ],
+                [
+                    "20:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vurderer"
+                ],
+                [
+                    "53:61"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "En verden"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "voksne"
+                ],
+                [
+                    "31:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vurderer"
+                ],
+                [
+                    "53:61"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "En verden"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "tiden"
+                ],
+                [
+                    "47:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gj\u00f8r seg opp"
+                ],
+                [
+                    "65:77"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "En verden av vold , mobbing og voksne som hele tiden vurderer og gj\u00f8r seg opp meninger .",
+    "sent_id": "004983-08-03"
+}

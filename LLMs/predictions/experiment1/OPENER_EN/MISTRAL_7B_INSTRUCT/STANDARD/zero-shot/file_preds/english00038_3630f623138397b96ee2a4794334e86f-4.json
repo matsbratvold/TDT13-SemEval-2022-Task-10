@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Every time"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "holiday"
+                ],
+                [
+                    "27:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "wonderfull"
+                ],
+                [
+                    "16:26"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Every time is a wonderfull holiday",
+    "sent_id": "opener_en/kaf/hotel/english00038_3630f623138397b96ee2a4794334e86f-4"
+}

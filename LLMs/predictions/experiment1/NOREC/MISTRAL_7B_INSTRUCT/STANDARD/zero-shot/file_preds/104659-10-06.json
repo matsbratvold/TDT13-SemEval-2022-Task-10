@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sannsynligvis"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "seiersplystring og lykkelig marsjtakt"
+                ],
+                [
+                    "26:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "brukt som virkemiddel"
+                ],
+                [
+                    "69:90"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Sannsynligvis f\u00f8rste gang seiersplystring og lykkelig marsjtakt blir brukt som virkemiddel i en konsert i T\u00f8yenparken .",
+    "sent_id": "104659-10-06"
+}

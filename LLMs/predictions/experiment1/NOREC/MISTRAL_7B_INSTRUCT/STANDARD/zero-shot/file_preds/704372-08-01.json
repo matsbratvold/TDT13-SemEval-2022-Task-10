@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "min v\u00e4n"
+                ],
+                [
+                    "16:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "min"
+                ],
+                [
+                    "16:19"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "som en psykopat min v\u00e4n",
+    "sent_id": "704372-08-01"
+}

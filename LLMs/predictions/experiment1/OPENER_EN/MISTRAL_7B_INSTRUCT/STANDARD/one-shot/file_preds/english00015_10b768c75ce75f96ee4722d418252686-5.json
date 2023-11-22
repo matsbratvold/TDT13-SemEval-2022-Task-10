@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Donetsk"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not a tourist destination and the choices are limited"
+                ],
+                [
+                    "11:64"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Donetsk is not a tourist destination and the choices are limited .",
+    "sent_id": "opener_en/kaf/hotel/english00015_10b768c75ce75f96ee4722d418252686-5"
+}

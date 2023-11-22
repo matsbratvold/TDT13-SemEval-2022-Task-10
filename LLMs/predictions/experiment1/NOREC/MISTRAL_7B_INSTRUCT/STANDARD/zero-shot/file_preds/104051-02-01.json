@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Joci P\u00e1pai"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "Origo"
+                ],
+                [
+                    "13:18"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Joci P\u00e1pai \u2013 Origo",
+    "sent_id": "104051-02-01"
+}

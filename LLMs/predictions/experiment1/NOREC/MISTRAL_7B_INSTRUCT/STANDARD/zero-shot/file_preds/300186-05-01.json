@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "dyktige d\u00f8tre og kl\u00f8nete fedre borger"
+                ],
+                [
+                    "17:54"
+                ]
+            ],
+            "Target": [
+                [
+                    "morsomme og r\u00f8rende scener"
+                ],
+                [
+                    "64:90"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "borger"
+                ],
+                [
+                    "48:54"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Og kombinasjonen dyktige d\u00f8tre og kl\u00f8nete fedre borger for b\u00e5de morsomme og r\u00f8rende scener , som hele familien kan relatere til .",
+    "sent_id": "300186-05-01"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "For det meste"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "ganske langdrygt"
+                ],
+                [
+                    "14:30"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "For det meste ganske langdrygt .",
+    "sent_id": "103992-17-03"
+}

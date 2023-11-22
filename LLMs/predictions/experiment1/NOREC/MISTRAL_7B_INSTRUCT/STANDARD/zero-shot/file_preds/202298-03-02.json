@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "denne generasjonen Yaris"
+                ],
+                [
+                    "11:35"
+                ]
+            ],
+            "Target": [
+                [
+                    "hybrid"
+                ],
+                [
+                    "49:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ble \u00e5 f\u00e5"
+                ],
+                [
+                    "36:44"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "hybridutgaven"
+                ],
+                [
+                    "79:92"
+                ]
+            ],
+            "Target": [
+                [
+                    "salget"
+                ],
+                [
+                    "116:122"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stukket av med"
+                ],
+                [
+                    "101:115"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Helt siden denne generasjonen Yaris ble \u00e5 f\u00e5 som hybrid fra 2012 , er det ogs\u00e5 hybridutgaven som har stukket av med salget her hjemme .",
+    "sent_id": "202298-03-02"
+}

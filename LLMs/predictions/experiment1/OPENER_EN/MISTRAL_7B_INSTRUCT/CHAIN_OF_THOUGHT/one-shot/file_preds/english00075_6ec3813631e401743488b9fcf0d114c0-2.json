@@ -1,0 +1,104 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "very good"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "price"
+                ],
+                [
+                    "24:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "according"
+                ],
+                [
+                    "10:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "excellent"
+                ],
+                [
+                    "33:42"
+                ]
+            ],
+            "Target": [
+                [
+                    "sea"
+                ],
+                [
+                    "43:46"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "very friendly"
+                ],
+                [
+                    "47:60"
+                ]
+            ],
+            "Target": [
+                [
+                    "people"
+                ],
+                [
+                    "61:67"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "i would like to be again in that place"
+                ],
+                [
+                    "69:107"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "i will not forget the smilling faces of the emploeys of the hotel and how helpfull they were"
+                ],
+                [
+                    "109:201"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "very good according the price .. excellent sea.very friendly people. i would like to be again in that place. i will not forget the smilling faces of the emploeys of the hotel and how helpfull they were >",
+    "sent_id": "opener_en/kaf/hotel/english00075_6ec3813631e401743488b9fcf0d114c0-2"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "And"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "we stayed without any pension and the kitchenware were very deficient"
+                ],
+                [
+                    "6:75"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "And \u00b7 we stayed without any pension and the kitchenware were very deficient .",
+    "sent_id": "opener_en/kaf/hotel/english00045_308abf0d21bd195544447890f464633b-4"
+}

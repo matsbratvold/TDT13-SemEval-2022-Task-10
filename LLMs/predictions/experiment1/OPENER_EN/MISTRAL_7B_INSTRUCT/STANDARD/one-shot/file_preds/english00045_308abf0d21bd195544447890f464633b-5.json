@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "We would not have been able to cook a meal"
+                ],
+                [
+                    "0:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "We would not have been able to cook a meal og we had to cook water for coffee in a pot .",
+    "sent_id": "opener_en/kaf/hotel/english00045_308abf0d21bd195544447890f464633b-5"
+}

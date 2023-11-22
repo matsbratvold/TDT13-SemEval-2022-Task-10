@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "size and condition of the room"
+                ],
+                [
+                    "16:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Disadvantages"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Disadvantages \u00b7 size and condition of the room .",
+    "sent_id": "opener_en/kaf/hotel/english00138_9f942cd30f42d0abad59c036950aef81-5"
+}

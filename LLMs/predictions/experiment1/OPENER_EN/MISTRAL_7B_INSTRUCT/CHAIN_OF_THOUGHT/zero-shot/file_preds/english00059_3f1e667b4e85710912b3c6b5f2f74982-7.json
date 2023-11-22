@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Big"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "clean"
+                ],
+                [
+                    "6:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Big"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Big"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "impersonal"
+                ],
+                [
+                    "14:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Big"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "clean"
+                ],
+                [
+                    "6:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "impersonal"
+                ],
+                [
+                    "14:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "clean"
+                ],
+                [
+                    "6:11"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Big , clean , impersonal .",
+    "sent_id": "opener_en/kaf/hotel/english00059_3f1e667b4e85710912b3c6b5f2f74982-7"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Perfect"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "in every way"
+                ],
+                [
+                    "8:20"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Perfect in every way",
+    "sent_id": "opener_en/kaf/hotel/english00038_2a905390ffe1f23af8075a24535f6fa6-1"
+}

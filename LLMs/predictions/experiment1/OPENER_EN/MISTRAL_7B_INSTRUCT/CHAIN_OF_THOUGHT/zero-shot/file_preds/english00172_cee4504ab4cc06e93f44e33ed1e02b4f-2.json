@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Location"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "service"
+                ],
+                [
+                    "21:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not good"
+                ],
+                [
+                    "32:40"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Location is fine but service is not good .",
+    "sent_id": "opener_en/kaf/hotel/english00172_cee4504ab4cc06e93f44e33ed1e02b4f-2"
+}

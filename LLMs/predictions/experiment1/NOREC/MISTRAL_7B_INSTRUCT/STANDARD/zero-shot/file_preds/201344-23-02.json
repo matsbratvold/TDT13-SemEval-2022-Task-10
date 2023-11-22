@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "faktorer"
+                ],
+                [
+                    "26:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "faktorer"
+                ],
+                [
+                    "26:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "brukervennlighet"
+                ],
+                [
+                    "39:55"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "faktorer"
+                ],
+                [
+                    "26:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "faktorer"
+                ],
+                [
+                    "26:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fysiske dimensjoner"
+                ],
+                [
+                    "58:77"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "faktorer"
+                ],
+                [
+                    "26:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "faktorer"
+                ],
+                [
+                    "26:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "design"
+                ],
+                [
+                    "80:86"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "faktorer"
+                ],
+                [
+                    "26:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "faktorer"
+                ],
+                [
+                    "26:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "batteritid"
+                ],
+                [
+                    "95:105"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Ofte er dette knyttet til faktorer som brukervennlighet , fysiske dimensjoner , design , eller batteritid .",
+    "sent_id": "201344-23-02"
+}

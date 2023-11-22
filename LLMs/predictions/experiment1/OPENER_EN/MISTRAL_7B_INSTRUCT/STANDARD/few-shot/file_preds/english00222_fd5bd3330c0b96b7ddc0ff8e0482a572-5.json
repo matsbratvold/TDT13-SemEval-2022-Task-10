@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "You"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "need a car to get there"
+                ],
+                [
+                    "4:27"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "You need a car to get there .",
+    "sent_id": "opener_en/kaf/hotel/english00222_fd5bd3330c0b96b7ddc0ff8e0482a572-5"
+}

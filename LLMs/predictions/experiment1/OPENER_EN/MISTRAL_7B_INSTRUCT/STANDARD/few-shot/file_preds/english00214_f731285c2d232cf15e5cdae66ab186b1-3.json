@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Room"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "was cleaned daily"
+                ],
+                [
+                    "9:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "to a high standard"
+                ],
+                [
+                    "27:45"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Cold drinks"
+                ],
+                [
+                    "48:59"
+                ]
+            ],
+            "Target": [
+                [
+                    "were replinished daily"
+                ],
+                [
+                    "60:82"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The Room was cleaned daily to a high standard , Cold drinks were replinished daily .",
+    "sent_id": "opener_en/kaf/hotel/english00214_f731285c2d232cf15e5cdae66ab186b1-3"
+}

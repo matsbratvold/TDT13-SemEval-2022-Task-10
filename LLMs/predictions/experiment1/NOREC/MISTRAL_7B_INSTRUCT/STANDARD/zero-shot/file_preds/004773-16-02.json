@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Mennesket"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "systemet"
+                ],
+                [
+                    "14:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er"
+                ],
+                [
+                    "23:25"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Ken Loach"
+                ],
+                [
+                    "52:61"
+                ]
+            ],
+            "Target": [
+                [
+                    "Paul Lavertys manus"
+                ],
+                [
+                    "73:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "regisserer"
+                ],
+                [
+                    "62:72"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Mennesket mot systemet er alts\u00e5 filmens agenda , og Ken Loach regisserer Paul Lavertys manus som bitende sosialrealisme .",
+    "sent_id": "004773-16-02"
+}

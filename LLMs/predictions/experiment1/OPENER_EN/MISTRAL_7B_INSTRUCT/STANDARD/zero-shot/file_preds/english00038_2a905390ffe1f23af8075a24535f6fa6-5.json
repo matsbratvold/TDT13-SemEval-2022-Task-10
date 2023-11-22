@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The dinner"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "excellent"
+                ],
+                [
+                    "15:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "excellent"
+                ],
+                [
+                    "15:24"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "made sure we had a table all to ourselves"
+                ],
+                [
+                    "51:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "made sure"
+                ],
+                [
+                    "51:60"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "The dinner was excellent and the dining room staff made sure we had a table all to ourselves .",
+    "sent_id": "opener_en/kaf/hotel/english00038_2a905390ffe1f23af8075a24535f6fa6-5"
+}

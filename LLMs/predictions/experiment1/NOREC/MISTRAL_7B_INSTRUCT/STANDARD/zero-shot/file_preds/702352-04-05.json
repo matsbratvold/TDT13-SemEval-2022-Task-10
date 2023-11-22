@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Nasjonalitet"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Nasjonalitet"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Nasjonalitet"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Nasjonalitet :",
+    "sent_id": "702352-04-05"
+}

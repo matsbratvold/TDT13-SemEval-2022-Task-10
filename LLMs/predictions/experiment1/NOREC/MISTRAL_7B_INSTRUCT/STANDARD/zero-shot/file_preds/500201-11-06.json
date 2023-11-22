@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Guatemala"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "menneskehandel"
+                ],
+                [
+                    "43:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lang"
+                ],
+                [
+                    "17:21"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Guatemala"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "bortf\u00f8ring"
+                ],
+                [
+                    "61:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stygg"
+                ],
+                [
+                    "24:29"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Guatemala"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "utenlandsadopsjon"
+                ],
+                [
+                    "96:113"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tanke"
+                ],
+                [
+                    "87:92"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Guatemala har en lang , stygg historie med menneskehandel og bortf\u00f8ring av sm\u00e5barn med tanke p\u00e5 utenlandsadopsjon .",
+    "sent_id": "500201-11-06"
+}

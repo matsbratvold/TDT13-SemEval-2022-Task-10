@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "breakfast"
+                ],
+                [
+                    "45:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "a little bit expensive"
+                ],
+                [
+                    "81:103"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "The only thing we could eat at the hotel was breakfast , which in my opinion was a little bit expensive .",
+    "sent_id": "opener_en/kaf/hotel/english00009_10f983ef52497c1afcc050bedcbda0d4-5"
+}

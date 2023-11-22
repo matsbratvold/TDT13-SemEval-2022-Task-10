@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "S\u00e5"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "det l\u00f8s"
+                ],
+                [
+                    "10:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "braker"
+                ],
+                [
+                    "3:9"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "S\u00e5 braker det l\u00f8s .",
+    "sent_id": "700863-06-02"
+}

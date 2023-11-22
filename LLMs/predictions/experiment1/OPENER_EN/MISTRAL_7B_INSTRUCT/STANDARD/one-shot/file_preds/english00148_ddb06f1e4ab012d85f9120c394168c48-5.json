@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "people"
+                ],
+                [
+                    "20:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "go to work smiling and leave work still smiling and happy"
+                ],
+                [
+                    "27:84"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "So wonderful to see people go to work smiling and leave work still smiling and happy .",
+    "sent_id": "opener_en/kaf/hotel/english00148_ddb06f1e4ab012d85f9120c394168c48-5"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "alle konkurranserytterne"
+                ],
+                [
+                    "3:27"
+                ]
+            ],
+            "Target": [
+                [
+                    "nybegynnere"
+                ],
+                [
+                    "31:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gir heller ikke de mest spektakul\u00e6re ridescenene"
+                ],
+                [
+                    "45:93"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "At alle konkurranserytterne er nybegynnere , gir heller ikke de mest spektakul\u00e6re ridescenene .",
+    "sent_id": "300186-11-03"
+}

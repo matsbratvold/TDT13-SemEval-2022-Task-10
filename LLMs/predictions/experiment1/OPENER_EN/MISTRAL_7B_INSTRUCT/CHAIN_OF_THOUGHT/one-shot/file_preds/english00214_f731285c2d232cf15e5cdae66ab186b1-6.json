@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The first floor 24 hr bar"
+                ],
+                [
+                    "0:25"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "well run"
+                ],
+                [
+                    "30:38"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The first floor 24 hr bar"
+                ],
+                [
+                    "0:25"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "no matter what time of day"
+                ],
+                [
+                    "43:69"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The first floor 24 hr bar"
+                ],
+                [
+                    "0:25"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "always a waiter on hand to serve"
+                ],
+                [
+                    "80:112"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The first floor 24 hr bar was well run and no matter what time of day there was always a waiter on hand to serve .",
+    "sent_id": "opener_en/kaf/hotel/english00214_f731285c2d232cf15e5cdae66ab186b1-6"
+}

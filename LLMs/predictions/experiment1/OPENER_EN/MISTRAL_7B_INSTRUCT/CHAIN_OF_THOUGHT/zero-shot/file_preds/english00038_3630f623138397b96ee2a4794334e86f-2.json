@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "This year"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "4 time"
+                ],
+                [
+                    "18:24"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "This year for the 4 time",
+    "sent_id": "opener_en/kaf/hotel/english00038_3630f623138397b96ee2a4794334e86f-2"
+}

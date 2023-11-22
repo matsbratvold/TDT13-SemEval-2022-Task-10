@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "My room"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "very small"
+                ],
+                [
+                    "12:22"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "My room"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "claustrophobic"
+                ],
+                [
+                    "46:60"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "My room was very small , I would even call it claustrophobic .",
+    "sent_id": "opener_en/kaf/hotel/english00138_9f942cd30f42d0abad59c036950aef81-6"
+}

@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "You"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "You"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "get"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "what"
+                ],
+                [
+                    "8:12"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "pay"
+                ],
+                [
+                    "17:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "You get what you pay for ...",
+    "sent_id": "opener_en/kaf/hotel/english00203_eb3bae183b573012e1d929eaa6f6c99d-1"
+}

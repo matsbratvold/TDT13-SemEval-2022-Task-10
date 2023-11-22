@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "st\u00e5lutgaven"
+                ],
+                [
+                    "18:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Vektmessig ligger"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Vektmessig ligger st\u00e5lutgaven p\u00e5 94 gram med l\u00e6rrem , og 186 gram med lenke \u2013 sammenlignbart med f.eks . litt st\u00f8rre klokker som Panerai og Breitling .",
+    "sent_id": "201344-24-03"
+}

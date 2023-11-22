@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Lokalet til Munken bistro"
+                ],
+                [
+                    "0:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "skarve 32 kvadratmeter"
+                ],
+                [
+                    "32:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "p\u00e5"
+                ],
+                [
+                    "29:31"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Lokalet til Munken bistro"
+                ],
+                [
+                    "0:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "f\u00e5 bord"
+                ],
+                [
+                    "65:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rommer"
+                ],
+                [
+                    "58:64"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Lokalet til Munken bistro er p\u00e5 skarve 32 kvadratmeter og rommer f\u00e5 bord .",
+    "sent_id": "501595-03-01"
+}

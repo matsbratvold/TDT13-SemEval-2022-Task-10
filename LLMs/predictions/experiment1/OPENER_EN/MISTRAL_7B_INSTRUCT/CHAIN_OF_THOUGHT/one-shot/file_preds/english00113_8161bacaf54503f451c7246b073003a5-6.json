@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Bathroom"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "Bathroom"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nice and well equipped"
+                ],
+                [
+                    "13:35"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Bathroom"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rubber duck"
+                ],
+                [
+                    "50:61"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Bathroom was nice and well equipped ( including a rubber duck !",
+    "sent_id": "opener_en/kaf/hotel/english00113_8161bacaf54503f451c7246b073003a5-6"
+}

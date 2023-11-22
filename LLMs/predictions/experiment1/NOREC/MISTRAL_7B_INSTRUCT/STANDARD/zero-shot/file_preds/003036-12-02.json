@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "vi"
+                ],
+                [
+                    "4:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "har"
+                ],
+                [
+                    "7:10"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "4:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "har"
+                ],
+                [
+                    "7:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "savnet"
+                ],
+                [
+                    "11:17"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "med"
+                ],
+                [
+                    "20:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "andre"
+                ],
+                [
+                    "24:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ord"
+                ],
+                [
+                    "30:33"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det vi har savnet , med andre ord .",
+    "sent_id": "003036-12-02"
+}

@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Absolutely breathtaking"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Absolutely breathtaking",
+    "sent_id": "opener_en/kaf/hotel/english00023_1aa3c5b4f003f6646e3d6f72045d4750-1"
+}

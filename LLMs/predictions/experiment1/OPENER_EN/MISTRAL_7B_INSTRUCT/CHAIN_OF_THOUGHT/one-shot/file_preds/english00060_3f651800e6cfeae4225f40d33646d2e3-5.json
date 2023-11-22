@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Numerous shopping and dining areas"
+                ],
+                [
+                    "0:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "within walking distance"
+                ],
+                [
+                    "35:58"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Numerous shopping and dining areas within walking distance .",
+    "sent_id": "opener_en/kaf/hotel/english00060_3f651800e6cfeae4225f40d33646d2e3-5"
+}

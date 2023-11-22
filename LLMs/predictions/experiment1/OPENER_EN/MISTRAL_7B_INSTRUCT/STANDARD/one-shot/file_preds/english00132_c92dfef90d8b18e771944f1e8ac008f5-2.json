@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "No words"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for this country and its people"
+                ],
+                [
+                    "9:40"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "No words for this country and its people .",
+    "sent_id": "opener_en/kaf/hotel/english00132_c92dfef90d8b18e771944f1e8ac008f5-2"
+}

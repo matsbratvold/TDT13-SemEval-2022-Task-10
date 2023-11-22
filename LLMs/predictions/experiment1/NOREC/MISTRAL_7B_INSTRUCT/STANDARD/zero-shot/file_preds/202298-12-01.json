@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "\u00f8vrige biler med hybridteknologi"
+                ],
+                [
+                    "60:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "erfaringer"
+                ],
+                [
+                    "25:35"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Dette bekrefter egentlig erfaringer vi har opplevd b\u00e5de med \u00f8vrige biler med hybridteknologi uten lademuligheter .",
+    "sent_id": "202298-12-01"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "norsk"
+                ],
+                [
+                    "18:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sunget"
+                ],
+                [
+                    "8:14"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "norsk"
+                ],
+                [
+                    "18:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tekstene"
+                ],
+                [
+                    "70:78"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Han har sunget p\u00e5 norsk med stort hell p\u00e5 to tidligere soloalbum , og tekstene blir unektelig n\u00e6rere .",
+    "sent_id": "303032-09-01"
+}

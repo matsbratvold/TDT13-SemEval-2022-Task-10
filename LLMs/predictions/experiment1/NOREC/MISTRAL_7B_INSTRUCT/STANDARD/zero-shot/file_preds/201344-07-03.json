@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "8:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 ha lansert"
+                ],
+                [
+                    "38:50"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "31:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "8:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 ha lansert"
+                ],
+                [
+                    "38:50"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "31:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 ha lansert"
+                ],
+                [
+                    "38:50"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Men med Fenix Chronos , hevder Garmin \u00e5 ha lansert deres f\u00f8rste klokke i \u00ab tradisjonell urmakerkvalitet \u00bb .",
+    "sent_id": "201344-07-03"
+}

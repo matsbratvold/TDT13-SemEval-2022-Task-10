@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dette er"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "l\u00e5ter som kan f\u00e5 deg til \u00e5 danse som besatt"
+                ],
+                [
+                    "9:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "besatt"
+                ],
+                [
+                    "46:52"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "p\u00e5 dansegulvet s\u00e5 vel som p\u00e5 soverommet"
+                ],
+                [
+                    "55:94"
+                ]
+            ],
+            "Target": [
+                [
+                    "l\u00e5ter som kan f\u00e5 deg til \u00e5 danse som besatt"
+                ],
+                [
+                    "9:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "besatt"
+                ],
+                [
+                    "46:52"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Dette er l\u00e5ter som kan f\u00e5 deg til \u00e5 danse som besatt , p\u00e5 dansegulvet s\u00e5 vel som p\u00e5 soverommet .",
+    "sent_id": "501385-06-03"
+}

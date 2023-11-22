@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Du"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "7:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ser"
+                ],
+                [
+                    "3:6"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Du"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "7:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vet"
+                ],
+                [
+                    "24:27"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Du ser det for deg , og vet hva det g\u00e5r i .",
+    "sent_id": "702352-05-03"
+}

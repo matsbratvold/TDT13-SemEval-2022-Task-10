@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "There"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "seats"
+                ],
+                [
+                    "21:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not enough"
+                ],
+                [
+                    "10:20"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "so"
+                ],
+                [
+                    "62:64"
+                ]
+            ],
+            "Target": [
+                [
+                    "dinner"
+                ],
+                [
+                    "69:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "you have to wait in a queue"
+                ],
+                [
+                    "76:103"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "There are not enough seats for the guests in the restaurant , so for dinner you have to wait in a queue",
+    "sent_id": "opener_en/kaf/hotel/english00114_a4f827045ccca4c837ce365bd870850a-3"
+}

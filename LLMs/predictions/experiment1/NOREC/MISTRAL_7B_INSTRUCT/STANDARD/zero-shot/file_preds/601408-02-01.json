@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "ukjente landssvikerne"
+                ],
+                [
+                    "8:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "regimet"
+                ],
+                [
+                    "66:73"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "profiterte"
+                ],
+                [
+                    "36:46"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "ukjente landssvikerne"
+                ],
+                [
+                    "8:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "regimet"
+                ],
+                [
+                    "66:73"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjorde det lettere"
+                ],
+                [
+                    "74:92"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "ukjente landssvikerne"
+                ],
+                [
+                    "8:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "regimet"
+                ],
+                [
+                    "66:73"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "styre det norske n\u00e6ringslivet"
+                ],
+                [
+                    "108:137"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "De 14 \" ukjente landssvikerne \" som profiterte p\u00e5 samarbeidet med regimet gjorde det lettere for tyskerne \u00e5 styre det norske n\u00e6ringslivet .",
+    "sent_id": "601408-02-01"
+}

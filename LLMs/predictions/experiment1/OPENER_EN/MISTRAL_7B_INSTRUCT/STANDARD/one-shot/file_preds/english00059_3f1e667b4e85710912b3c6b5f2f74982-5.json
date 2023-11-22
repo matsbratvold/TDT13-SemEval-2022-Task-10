@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "This"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "surely not a hotel to stay when you want to visit Paris"
+                ],
+                [
+                    "8:63"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "is a choice to consider when you just want to spend a night and get fast to the airport first thing in the morning"
+                ],
+                [
+                    "70:184"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is a choice to consider"
+                ],
+                [
+                    "70:93"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "This is surely not a hotel to stay when you want to visit Paris , but is a choice to consider when you just want to spend a night and get fast to the airport first thing in the morning .",
+    "sent_id": "opener_en/kaf/hotel/english00059_3f1e667b4e85710912b3c6b5f2f74982-5"
+}

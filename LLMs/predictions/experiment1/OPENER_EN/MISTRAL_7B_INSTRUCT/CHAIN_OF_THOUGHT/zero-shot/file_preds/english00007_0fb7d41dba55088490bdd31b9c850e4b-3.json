@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Nothing"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "trouble"
+                ],
+                [
+                    "21:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Nothing"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Nothing was too much trouble .",
+    "sent_id": "opener_en/kaf/hotel/english00007_0fb7d41dba55088490bdd31b9c850e4b-3"
+}

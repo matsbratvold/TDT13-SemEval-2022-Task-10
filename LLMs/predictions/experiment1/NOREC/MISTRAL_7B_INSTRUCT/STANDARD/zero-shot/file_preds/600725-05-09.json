@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "\u00c9n"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "time"
+                ],
+                [
+                    "3:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "og 17 minutter"
+                ],
+                [
+                    "8:22"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "\u00c9n time og 17 minutter blir effektivt gjort unna .",
+    "sent_id": "600725-05-09"
+}

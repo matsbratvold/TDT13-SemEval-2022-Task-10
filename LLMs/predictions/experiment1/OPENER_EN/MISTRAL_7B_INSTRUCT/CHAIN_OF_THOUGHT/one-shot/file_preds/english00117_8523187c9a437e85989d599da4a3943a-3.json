@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Everything"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "absolutely perfect"
+                ],
+                [
+                    "15:33"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Everything was absolutely perfect .",
+    "sent_id": "opener_en/kaf/hotel/english00117_8523187c9a437e85989d599da4a3943a-3"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Flat"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "was in a state"
+                ],
+                [
+                    "5:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not worth the money paid"
+                ],
+                [
+                    "22:46"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Flat was in a state , not worth the money paid",
+    "sent_id": "opener_en/kaf/hotel/english00223_fe94638c44f4dd789e8a42550e1e6beb-1"
+}

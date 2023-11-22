@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Mer"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Jonathan Wilson"
+                ],
+                [
+                    "71:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "overraskende"
+                ],
+                [
+                    "4:16"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Mer overraskende er det kanskje at han har med seg \u00ab hippiemusikeren \u00bb Jonathan Wilson , en av fire / fem som trakterer gitar og keyboards .",
+    "sent_id": "304196-19-01"
+}

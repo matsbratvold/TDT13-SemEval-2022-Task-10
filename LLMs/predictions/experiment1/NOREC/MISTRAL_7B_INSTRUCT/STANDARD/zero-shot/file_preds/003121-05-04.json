@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Don't Kill My Vibe"
+                ],
+                [
+                    "2:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "l\u00e5t"
+                ],
+                [
+                    "64:67"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Plot Twist"
+                ],
+                [
+                    "76:86"
+                ]
+            ],
+            "Target": [
+                [
+                    "allsang-faktoren"
+                ],
+                [
+                    "145:161"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Fake Friends"
+                ],
+                [
+                    "94:106"
+                ]
+            ],
+            "Target": [
+                [
+                    "allsang-faktoren"
+                ],
+                [
+                    "145:161"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "\u00ab Don't Kill My Vibe \u00bb st\u00e5r fortsatt igjen som platas sterkeste l\u00e5t , men \u00ab Plot Twist \u00bb og \u00ab Fake Friends \u00bb backer overbevisende den uung\u00e5elige allsang-faktoren .",
+    "sent_id": "003121-05-04"
+}

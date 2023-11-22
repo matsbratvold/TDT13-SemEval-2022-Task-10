@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "all inclusive"
+                ],
+                [
+                    "8:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "all inclusive"
+                ],
+                [
+                    "8:21"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "my son"
+                ],
+                [
+                    "35:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "extremely fussy eater"
+                ],
+                [
+                    "45:66"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "all times of the day"
+                ],
+                [
+                    "115:135"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "had no problems finding something to eat"
+                ],
+                [
+                    "70:110"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "We were all inclusive and although my son is extremely fussy eater he had no problems finding something to eat for all times of the day .",
+    "sent_id": "opener_en/kaf/hotel/english00214_f731285c2d232cf15e5cdae66ab186b1-5"
+}

@@ -1,0 +1,38 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "P\u00e5 andre kj\u00f8resyklus tenkte vi ikke forbruk i det hele tatt , men fors\u00f8kte \u00e5 \u00f8ke andelen elektrisk kj\u00f8ring med litt ufine metoder .",
+    "sent_id": "202298-11-01"
+}

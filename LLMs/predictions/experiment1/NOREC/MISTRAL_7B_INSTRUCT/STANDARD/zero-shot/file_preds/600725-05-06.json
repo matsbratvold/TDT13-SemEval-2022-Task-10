@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Krypter"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Krypter"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blir utforsket"
+                ],
+                [
+                    "8:22"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Krypter blir utforsket .",
+    "sent_id": "600725-05-06"
+}

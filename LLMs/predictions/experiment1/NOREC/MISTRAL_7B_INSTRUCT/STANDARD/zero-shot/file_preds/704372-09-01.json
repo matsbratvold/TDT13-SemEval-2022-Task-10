@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Din tid kommer"
+                ],
+                [
+                    "14:28"
+                ]
+            ],
+            "Target": [
+                [
+                    "h\u00e5p"
+                ],
+                [
+                    "65:68"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en sang som egentlig handler om h\u00e5p"
+                ],
+                [
+                    "33:68"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "heter det i \" Din tid kommer \" , en sang som egentlig handler om h\u00e5p .",
+    "sent_id": "704372-09-01"
+}

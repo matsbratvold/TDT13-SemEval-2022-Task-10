@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "bad things"
+                ],
+                [
+                    "4:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "were"
+                ],
+                [
+                    "22:26"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "shopping center in the hotel"
+                ],
+                [
+                    "36:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "were"
+                ],
+                [
+                    "22:26"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The bad things though were that the shopping center in the hotel were really bad .",
+    "sent_id": "opener_en/kaf/hotel/english00140_a052f3702cce7297bc2aff92662d1db3-8"
+}

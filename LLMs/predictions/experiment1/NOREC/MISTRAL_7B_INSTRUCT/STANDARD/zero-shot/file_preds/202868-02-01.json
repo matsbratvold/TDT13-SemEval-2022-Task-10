@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Her"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "kanaler"
+                ],
+                [
+                    "40:47"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Her"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "posisjon"
+                ],
+                [
+                    "73:81"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Her har du hele 20 forh\u00e5ndsprogrammerte kanaler p\u00e5 knapper , men ut over posisjon fem er det litt kl\u00f8nete ( 5+1 for 6 , 5+2 for 7 osv. ) .",
+    "sent_id": "202868-02-01"
+}

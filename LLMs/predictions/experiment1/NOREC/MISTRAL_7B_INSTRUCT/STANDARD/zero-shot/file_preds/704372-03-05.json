@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Her"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "svenskene"
+                ],
+                [
+                    "11:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "u\u00f8nsket"
+                ],
+                [
+                    "28:35"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "38:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "land"
+                ],
+                [
+                    "43:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "styrt"
+                ],
+                [
+                    "48:53"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "det"
+                ],
+                [
+                    "7:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "dyr"
+                ],
+                [
+                    "57:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "u\u00f8nsket"
+                ],
+                [
+                    "28:35"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Her er det svenskene som er u\u00f8nsket , i et land styrt av dyr .",
+    "sent_id": "704372-03-05"
+}

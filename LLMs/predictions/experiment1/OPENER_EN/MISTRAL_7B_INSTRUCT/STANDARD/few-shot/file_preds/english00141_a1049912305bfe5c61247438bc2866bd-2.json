@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "Very dangerous area"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Very dangerous area .",
+    "sent_id": "opener_en/kaf/hotel/english00141_a1049912305bfe5c61247438bc2866bd-2"
+}

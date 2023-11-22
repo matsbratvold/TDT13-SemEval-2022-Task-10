@@ -1,0 +1,110 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The all inclusive"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "nightclub"
+                ],
+                [
+                    "37:46"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "people"
+                ],
+                [
+                    "135:141"
+                ]
+            ],
+            "Target": [
+                [
+                    "nightclub"
+                ],
+                [
+                    "37:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "begrudge paying for drinks"
+                ],
+                [
+                    "150:176"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "people"
+                ],
+                [
+                    "135:141"
+                ]
+            ],
+            "Target": [
+                [
+                    "nightclub"
+                ],
+                [
+                    "37:46"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The all inclusive"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "nightclub"
+                ],
+                [
+                    "37:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "finishes"
+                ],
+                [
+                    "126:134"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The all inclusive is 24 hours so the nightclub actually gets used for what it 's there for as normally once the all inclusive finishes people tend to begrudge paying for drinks so go back to there room so this is good that you don 't have to and people stay in there .",
+    "sent_id": "opener_en/kaf/hotel/english00099_6bd92afbc1db2e16e92cc8cf0105c93e-5"
+}

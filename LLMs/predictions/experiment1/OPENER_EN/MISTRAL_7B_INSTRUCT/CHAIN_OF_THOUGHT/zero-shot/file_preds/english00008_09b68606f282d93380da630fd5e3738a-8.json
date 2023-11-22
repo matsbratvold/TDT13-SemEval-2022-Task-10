@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "As we were"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "this"
+                ],
+                [
+                    "39:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "did not go down very well"
+                ],
+                [
+                    "44:69"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "As we were a party of 6 British adults this did not go down very well .",
+    "sent_id": "opener_en/kaf/hotel/english00008_09b68606f282d93380da630fd5e3738a-8"
+}

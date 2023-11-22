@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "siste krig"
+                ],
+                [
+                    "21:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "var p\u00e5 ingen m\u00e5te rettferdig"
+                ],
+                [
+                    "32:60"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Rettsoppgj\u00f8ret etter siste krig var p\u00e5 ingen m\u00e5te rettferdig .",
+    "sent_id": "601408-03-01"
+}

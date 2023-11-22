@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Staff"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "can be friendly"
+                ],
+                [
+                    "6:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "or not"
+                ],
+                [
+                    "22:28"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Staff can be friendly or not .",
+    "sent_id": "opener_en/kaf/hotel/english00059_3f1e667b4e85710912b3c6b5f2f74982-8"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "My wife and I"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Waterfront Hotel"
+                ],
+                [
+                    "28:44"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "My wife and I stayed at the Waterfront Hotel , in Gzira , Sliema , Malta but we will not go back .",
+    "sent_id": "opener_en/kaf/hotel/english00220_fa8115ab7f09678324fbeee56a7b1f34-2"
+}

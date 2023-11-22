@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "banet veien"
+                ],
+                [
+                    "4:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "internasjonale retningen"
+                ],
+                [
+                    "24:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "lille restauranten"
+                ],
+                [
+                    "57:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "som en gang var kjent"
+                ],
+                [
+                    "78:99"
+                ]
+            ],
+            "Target": [
+                [
+                    "sine franske menyer"
+                ],
+                [
+                    "104:123"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som en gang var kjent"
+                ],
+                [
+                    "78:99"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "som en gang var kjent"
+                ],
+                [
+                    "78:99"
+                ]
+            ],
+            "Target": [
+                [
+                    "sin edle vinkjeller"
+                ],
+                [
+                    "127:146"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som en gang var kjent"
+                ],
+                [
+                    "78:99"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det banet veien for den internasjonale retningen til den lille restauranten , som en gang var kjent for sine franske menyer og sin edle vinkjeller .",
+    "sent_id": "501595-05-02"
+}

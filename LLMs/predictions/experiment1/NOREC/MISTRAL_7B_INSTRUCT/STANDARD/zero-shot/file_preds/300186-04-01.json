@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "En"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "gullrekkesatsning"
+                ],
+                [
+                    "16:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "overraskende"
+                ],
+                [
+                    "3:15"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "men"
+                ],
+                [
+                    "36:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "40:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det er lett \u00e5 forst\u00e5 hva de har tenkt"
+                ],
+                [
+                    "40:77"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "En overraskende gullrekkesatsning , men det er lett \u00e5 forst\u00e5 hva de har tenkt .",
+    "sent_id": "300186-04-01"
+}

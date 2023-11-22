@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dette spillet"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "spillet"
+                ],
+                [
+                    "6:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er et sikkert kj\u00f8p"
+                ],
+                [
+                    "14:32"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Dette spillet"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "spillet"
+                ],
+                [
+                    "6:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for b\u00e5de barn og gamle Donkey Kong-fans"
+                ],
+                [
+                    "33:72"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Dette spillet er et sikkert kj\u00f8p for b\u00e5de barn og gamle Donkey Kong-fans .",
+    "sent_id": "704794-05-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "we"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "going back to dana beach"
+                ],
+                [
+                    "18:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "a great chill out"
+                ],
+                [
+                    "64:81"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "we would consider going back to dana beach as we found it to be a great chill out",
+    "sent_id": "opener_en/kaf/hotel/english00014_17224596ebb4a03e814c12ea1c18e41e-9"
+}

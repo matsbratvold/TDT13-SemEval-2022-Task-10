@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "It"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "great"
+                ],
+                [
+                    "113:118"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "It is minutes from numerous restaurants , bars , etc. and centrally located between the Prado and the Palace \u00b7 \u00b7 great for walking .",
+    "sent_id": "opener_en/kaf/hotel/english00091_64b95794b1aa41efbaabced339b2deff-4"
+}

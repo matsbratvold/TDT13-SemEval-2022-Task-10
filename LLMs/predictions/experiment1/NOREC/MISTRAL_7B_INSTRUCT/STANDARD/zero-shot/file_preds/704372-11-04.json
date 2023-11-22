@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det kler sangen"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "sangen"
+                ],
+                [
+                    "9:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kler"
+                ],
+                [
+                    "4:8"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det kler sangen .",
+    "sent_id": "704372-11-04"
+}

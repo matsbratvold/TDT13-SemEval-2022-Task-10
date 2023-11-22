@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Splendid"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "9:14"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "near"
+                ],
+                [
+                    "15:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "shopping center"
+                ],
+                [
+                    "20:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "near"
+                ],
+                [
+                    "15:19"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Splendid hotel near shopping center \" Diagonal Mar \" .",
+    "sent_id": "opener_en/kaf/hotel/english00032_274ec81481c2a582f1ad265d7c4b6f22-2"
+}

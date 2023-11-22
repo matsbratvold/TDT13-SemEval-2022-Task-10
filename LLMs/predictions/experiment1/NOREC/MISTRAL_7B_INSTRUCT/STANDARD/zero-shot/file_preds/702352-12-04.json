@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Og scenen der de to Julieta-ene bytter plass er fantastisk"
+                ],
+                [
+                    "0:58"
+                ]
+            ],
+            "Target": [
+                [
+                    "scenen der de to Julieta-ene bytter plass"
+                ],
+                [
+                    "3:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fantastisk"
+                ],
+                [
+                    "48:58"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Og scenen der de to Julieta-ene bytter plass er fantastisk .",
+    "sent_id": "702352-12-04"
+}

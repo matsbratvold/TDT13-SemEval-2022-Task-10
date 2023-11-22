@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "desk clerk"
+                ],
+                [
+                    "174:184"
+                ]
+            ],
+            "Target": [
+                [
+                    "breakfast"
+                ],
+                [
+                    "8:17"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Advised breakfast was included when I reseved the room from the airport Welcome Center , however since I reserved the room \" from the airport \" it was not , according to the desk clerk the next morning .",
+    "sent_id": "opener_en/kaf/hotel/english00042_3a43c28555e55bbf555b1c021553cb68-3"
+}

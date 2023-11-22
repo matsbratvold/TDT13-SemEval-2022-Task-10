@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "breakfast"
+                ],
+                [
+                    "26:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "treated"
+                ],
+                [
+                    "8:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "staff"
+                ],
+                [
+                    "50:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "friendly"
+                ],
+                [
+                    "60:68"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "staff"
+                ],
+                [
+                    "50:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "patient"
+                ],
+                [
+                    "78:85"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "We were treated to a full breakfast daily and the staff was friendly and very patient .",
+    "sent_id": "opener_en/kaf/hotel/english00057_3c3ad20e93ca57ff88759a290c8aaa88-4"
+}

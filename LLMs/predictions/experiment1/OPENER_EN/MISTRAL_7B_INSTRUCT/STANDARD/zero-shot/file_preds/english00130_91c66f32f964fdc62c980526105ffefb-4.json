@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "waiters in pirates ( 276 ) bar"
+                ],
+                [
+                    "4:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "waiters"
+                ],
+                [
+                    "4:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "funny"
+                ],
+                [
+                    "39:44"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "waiters in pirates ( 276 ) bar"
+                ],
+                [
+                    "4:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "waiters"
+                ],
+                [
+                    "4:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "could speak good English"
+                ],
+                [
+                    "49:73"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "the waiters in pirates ( 276 ) bar was funny and could speak good English .",
+    "sent_id": "opener_en/kaf/hotel/english00130_91c66f32f964fdc62c980526105ffefb-4"
+}

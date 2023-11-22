@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Many people"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "garden"
+                ],
+                [
+                    "36:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "working"
+                ],
+                [
+                    "21:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Many people"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "water in the lagune and pond"
+                ],
+                [
+                    "51:79"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "get cleaned"
+                ],
+                [
+                    "80:91"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Many people are also working in the garden and the water in the lagune and pond get cleaned the whole day .",
+    "sent_id": "opener_en/kaf/hotel/english00083_7b3d49a3481f9f590bab53cb14befd11-5"
+}

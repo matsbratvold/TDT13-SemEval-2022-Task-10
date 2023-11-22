@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Genuine country and people"
+                ],
+                [
+                    "0:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "country and people"
+                ],
+                [
+                    "8:26"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Genuine country and people",
+    "sent_id": "opener_en/kaf/hotel/english00132_c92dfef90d8b18e771944f1e8ac008f5-1"
+}

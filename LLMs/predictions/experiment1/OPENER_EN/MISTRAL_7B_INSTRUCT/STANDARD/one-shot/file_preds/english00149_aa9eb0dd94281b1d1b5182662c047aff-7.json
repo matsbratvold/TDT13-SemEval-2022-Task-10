@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "30 min of underground"
+                ],
+                [
+                    "0:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "at Saint Michael"
+                ],
+                [
+                    "34:50"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "30 min of underground and you are at Saint Michael .",
+    "sent_id": "opener_en/kaf/hotel/english00149_aa9eb0dd94281b1d1b5182662c047aff-7"
+}

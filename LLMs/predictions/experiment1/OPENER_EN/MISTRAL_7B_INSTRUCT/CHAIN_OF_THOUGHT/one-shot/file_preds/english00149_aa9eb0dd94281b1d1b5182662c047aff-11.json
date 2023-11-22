@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Impossible"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "to hang trousers"
+                ],
+                [
+                    "11:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Impossible to hang trousers .",
+    "sent_id": "opener_en/kaf/hotel/english00149_aa9eb0dd94281b1d1b5182662c047aff-11"
+}

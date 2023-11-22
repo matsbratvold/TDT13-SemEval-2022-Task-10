@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The room"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "did not look very clean"
+                ],
+                [
+                    "9:32"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "the lighting"
+                ],
+                [
+                    "37:49"
+                ]
+            ],
+            "Target": [
+                [
+                    "standard"
+                ],
+                [
+                    "60:68"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "was below standard"
+                ],
+                [
+                    "50:68"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "The room did not look very clean and the lighting was below standard .",
+    "sent_id": "opener_en/kaf/hotel/english00012_13287f4f9c645ff79357fe506a813696-5"
+}

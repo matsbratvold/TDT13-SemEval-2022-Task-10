@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Astrid Sverresdotter Dypvik"
+                ],
+                [
+                    "0:27"
+                ]
+            ],
+            "Target": [
+                [
+                    "talent"
+                ],
+                [
+                    "32:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "talent"
+                ],
+                [
+                    "32:38"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Astrid Sverresdotter Dypvik"
+                ],
+                [
+                    "0:27"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Astrid Sverresdotter Dypvik"
+                ],
+                [
+                    "0:27"
+                ]
+            ],
+            "Target": [
+                [
+                    "tell"
+                ],
+                [
+                    "57:61"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tell"
+                ],
+                [
+                    "57:61"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Astrid Sverresdotter Dypvik har talent og vilje til \u00e5 fortelle .",
+    "sent_id": "301242-02-01"
+}

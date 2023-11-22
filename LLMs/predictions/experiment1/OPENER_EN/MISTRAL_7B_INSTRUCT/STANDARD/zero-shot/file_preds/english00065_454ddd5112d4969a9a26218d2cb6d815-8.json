@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "avoided"
+                ],
+                [
+                    "6:13"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "To be avoided at all costs .",
+    "sent_id": "opener_en/kaf/hotel/english00065_454ddd5112d4969a9a26218d2cb6d815-8"
+}

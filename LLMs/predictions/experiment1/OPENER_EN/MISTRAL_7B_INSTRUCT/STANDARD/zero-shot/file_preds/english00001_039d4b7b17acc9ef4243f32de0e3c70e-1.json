@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Club Hotel Dolphin"
+                ],
+                [
+                    "23:41"
+                ]
+            ],
+            "Target": [
+                [
+                    "stay"
+                ],
+                [
+                    "15:19"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Comments on my stay at Club Hotel Dolphin",
+    "sent_id": "opener_en/kaf/hotel/english00001_039d4b7b17acc9ef4243f32de0e3c70e-1"
+}

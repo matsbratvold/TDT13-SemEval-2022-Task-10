@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "hylende morsomt"
+                ],
+                [
+                    "7:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hylende"
+                ],
+                [
+                    "7:14"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det er hylende morsomt .",
+    "sent_id": "703256-02-01"
+}

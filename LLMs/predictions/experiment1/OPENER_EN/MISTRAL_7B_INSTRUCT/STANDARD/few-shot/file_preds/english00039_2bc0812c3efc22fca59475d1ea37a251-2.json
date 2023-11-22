@@ -1,0 +1,44 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "The hotel"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nice and clean"
+                ],
+                [
+                    "13:27"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "The hotel"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The hotel is nice and clean , but is very far from any nice sorrundings .",
+    "sent_id": "opener_en/kaf/hotel/english00039_2bc0812c3efc22fca59475d1ea37a251-2"
+}

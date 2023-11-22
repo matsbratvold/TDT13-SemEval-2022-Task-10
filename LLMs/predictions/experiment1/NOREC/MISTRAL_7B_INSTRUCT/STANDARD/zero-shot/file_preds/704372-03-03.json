@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "plateomslaget"
+                ],
+                [
+                    "16:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hvert"
+                ],
+                [
+                    "2:7"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "I hvert fall p\u00e5 plateomslaget .",
+    "sent_id": "704372-03-03"
+}

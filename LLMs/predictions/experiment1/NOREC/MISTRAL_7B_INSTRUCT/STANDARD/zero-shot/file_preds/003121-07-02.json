@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "P3 Spanderer"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Sigrid"
+                ],
+                [
+                    "17:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Known You Forever"
+                ],
+                [
+                    "28:45"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "P3 Spanderer med Sigrid - \" Known You Forever \" :",
+    "sent_id": "003121-07-02"
+}

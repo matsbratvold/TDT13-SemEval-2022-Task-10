@@ -1,0 +1,130 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "apartments"
+                ],
+                [
+                    "7:17"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "attrackts"
+                ],
+                [
+                    "45:54"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "apartments"
+                ],
+                [
+                    "7:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "party focused youngsters"
+                ],
+                [
+                    "70:94"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "overcrowd"
+                ],
+                [
+                    "107:116"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "apartments"
+                ],
+                [
+                    "7:17"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "smoke"
+                ],
+                [
+                    "196:201"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "apartments"
+                ],
+                [
+                    "7:17"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "coming"
+                ],
+                [
+                    "259:265"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "apartments"
+                ],
+                [
+                    "7:17"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "coming"
+                ],
+                [
+                    "259:265"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "As the apartments can be rented per night it attrackts back packing , party focused youngsters who tend to overcrowd the apartments ( with more than the allowed amount of guests per apartment ) , smoke in the building , taking prostitutes into the premises , coming home between 4 and 6am drunk and under heavy influence of drugs .",
+    "sent_id": "opener_en/kaf/hotel/english00213_f578dc1efdd03b8b4bbd8c7958a7121a-4"
+}

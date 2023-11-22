@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "TEST"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "TEST"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "TEST"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "TEST :",
+    "sent_id": "200006-01-01"
+}

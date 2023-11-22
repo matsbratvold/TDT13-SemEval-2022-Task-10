@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Welcome Center"
+                ],
+                [
+                    "72:86"
+                ]
+            ],
+            "Target": [
+                [
+                    "breakfast"
+                ],
+                [
+                    "8:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "included"
+                ],
+                [
+                    "22:30"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "breakfast"
+                ],
+                [
+                    "8:17"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Advised breakfast was included when I reseved the room from the airport Welcome Center , however since I reserved the room \" from the airport \" it was not , according to the desk clerk the next morning .",
+    "sent_id": "opener_en/kaf/hotel/english00042_3a43c28555e55bbf555b1c021553cb68-3"
+}

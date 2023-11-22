@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Good"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "accommodation"
+                ],
+                [
+                    "13:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Good"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "clean"
+                ],
+                [
+                    "7:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "accommodation"
+                ],
+                [
+                    "13:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "clean"
+                ],
+                [
+                    "7:12"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "friendly"
+                ],
+                [
+                    "32:40"
+                ]
+            ],
+            "Target": [
+                [
+                    "staff"
+                ],
+                [
+                    "41:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "friendly"
+                ],
+                [
+                    "32:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Good , clean accommodation with friendly staff",
+    "sent_id": "opener_en/kaf/hotel/english00030_2e4f193ed7a254c92854201a12034580-1"
+}

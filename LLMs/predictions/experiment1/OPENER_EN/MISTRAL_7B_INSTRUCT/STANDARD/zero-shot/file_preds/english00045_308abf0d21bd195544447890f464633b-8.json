@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "But"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "stay"
+                ],
+                [
+                    "22:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "relaxing"
+                ],
+                [
+                    "13:21"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "a"
+                ],
+                [
+                    "6:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "very relaxing stay"
+                ],
+                [
+                    "8:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "relaxing"
+                ],
+                [
+                    "13:21"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "very"
+                ],
+                [
+                    "8:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "relaxing stay"
+                ],
+                [
+                    "13:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "relaxing"
+                ],
+                [
+                    "13:21"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "with"
+                ],
+                [
+                    "27:31"
+                ]
+            ],
+            "Target": [
+                [
+                    "nice people and service in top"
+                ],
+                [
+                    "32:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nice"
+                ],
+                [
+                    "32:36"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "in"
+                ],
+                [
+                    "18:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "top"
+                ],
+                [
+                    "59:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "service"
+                ],
+                [
+                    "48:55"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "But \u00b7 a very relaxing stay with nice people and service in top .",
+    "sent_id": "opener_en/kaf/hotel/english00045_308abf0d21bd195544447890f464633b-8"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sp\u00f8rsm\u00e5let"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "forelskelsen"
+                ],
+                [
+                    "22:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "har gjort Philip blind"
+                ],
+                [
+                    "35:57"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Sp\u00f8rsm\u00e5let"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "Rachel"
+                ],
+                [
+                    "67:73"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kan v\u00e6re s\u00e5 uskyldig som hun virker"
+                ],
+                [
+                    "82:117"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Sp\u00f8rsm\u00e5let er bare om forelskelsen har gjort Philip blind eller om Rachel faktisk kan v\u00e6re s\u00e5 uskyldig som hun virker .",
+    "sent_id": "600639-03-04"
+}

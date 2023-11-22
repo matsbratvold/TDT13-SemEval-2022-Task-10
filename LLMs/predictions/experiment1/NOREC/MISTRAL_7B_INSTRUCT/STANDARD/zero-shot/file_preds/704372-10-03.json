@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "\u00f8vrig turen"
+                ],
+                [
+                    "15:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "legger"
+                ],
+                [
+                    "4:10"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Norge"
+                ],
+                [
+                    "41:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "innom"
+                ],
+                [
+                    "35:40"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Oslo Spektrum 3"
+                ],
+                [
+                    "59:74"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "3"
+                ],
+                [
+                    "73:74"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Han"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "desember"
+                ],
+                [
+                    "76:84"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "3"
+                ],
+                [
+                    "73:74"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Han legger for \u00f8vrig turen s\u00e5 vidt innom Norge f\u00f8r jul , i Oslo Spektrum 3. desember .",
+    "sent_id": "704372-10-03"
+}

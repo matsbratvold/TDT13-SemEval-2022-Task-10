@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "everything"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "was quite good"
+                ],
+                [
+                    "11:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "was quite good"
+                ],
+                [
+                    "11:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "had a great time"
+                ],
+                [
+                    "28:44"
+                ]
+            ],
+            "Target": [
+                [
+                    "!"
+                ],
+                [
+                    "45:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "had a great time"
+                ],
+                [
+                    "28:44"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "everything was quite good , had a great time !",
+    "sent_id": "opener_en/kaf/hotel/english00120_afc3a95e54291de7a4e3f3d692cec8ee-2"
+}

@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "A wonderful place to go"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "wonderful place to go"
+                ],
+                [
+                    "2:23"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "we are planning to return as soon as we can"
+                ],
+                [
+                    "28:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "we are planning to return as soon as we can"
+                ],
+                [
+                    "28:71"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A wonderful place to go and we are planning to return as soon as we can .",
+    "sent_id": "opener_en/kaf/hotel/english00148_ddb06f1e4ab012d85f9120c394168c48-7"
+}

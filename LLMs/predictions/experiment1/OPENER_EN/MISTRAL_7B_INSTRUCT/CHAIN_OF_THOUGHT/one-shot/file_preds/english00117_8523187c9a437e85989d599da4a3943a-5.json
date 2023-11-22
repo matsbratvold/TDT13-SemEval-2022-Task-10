@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "They"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "helpful"
+                ],
+                [
+                    "10:17"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "They"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "friendly"
+                ],
+                [
+                    "24:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "They were helpful , and friendly .",
+    "sent_id": "opener_en/kaf/hotel/english00117_8523187c9a437e85989d599da4a3943a-5"
+}

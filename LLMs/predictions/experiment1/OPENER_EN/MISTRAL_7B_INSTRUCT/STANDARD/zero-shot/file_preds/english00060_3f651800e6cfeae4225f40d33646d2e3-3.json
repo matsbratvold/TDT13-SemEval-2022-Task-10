@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "It"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "20:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "really nice"
+                ],
+                [
+                    "8:19"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "It"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "20:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "in great condition"
+                ],
+                [
+                    "26:44"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "It"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "20:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very easy to travel to anywhere in the city"
+                ],
+                [
+                    "49:92"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "It is a really nice hotel in great condition and very easy to travel to anywhere in the city .",
+    "sent_id": "opener_en/kaf/hotel/english00060_3f651800e6cfeae4225f40d33646d2e3-3"
+}

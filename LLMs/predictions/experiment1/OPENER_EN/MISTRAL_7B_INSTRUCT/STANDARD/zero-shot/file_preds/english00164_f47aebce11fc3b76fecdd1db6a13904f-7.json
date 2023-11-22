@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "we"
+                ],
+                [
+                    "13:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "the al a carte restaurant"
+                ],
+                [
+                    "35:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "went"
+                ],
+                [
+                    "16:20"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "That evening we went for a meal at the al a carte restaurant .",
+    "sent_id": "opener_en/kaf/hotel/english00164_f47aebce11fc3b76fecdd1db6a13904f-7"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "TOR MARTIN B\u00d8E"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "TOR MARTIN B\u00d8E"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "TOR MARTIN B\u00d8E",
+    "sent_id": "104870-13-01"
+}

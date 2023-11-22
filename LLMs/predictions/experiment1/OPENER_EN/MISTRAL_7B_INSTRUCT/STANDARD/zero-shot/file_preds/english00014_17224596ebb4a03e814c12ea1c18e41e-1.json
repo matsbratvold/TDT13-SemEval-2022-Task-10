@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "A"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "holiday"
+                ],
+                [
+                    "19:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enjoyable"
+                ],
+                [
+                    "9:18"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "A really enjoyable holiday",
+    "sent_id": "opener_en/kaf/hotel/english00014_17224596ebb4a03e814c12ea1c18e41e-1"
+}

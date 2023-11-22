@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Active starter p\u00e5 216.900 kroner"
+                ],
+                [
+                    "0:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "Active starter"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ryker"
+                ],
+                [
+                    "73:78"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "om du vil ha en totonet farge , s\u00e5 ryker du p\u00e5 242.300 kroner"
+                ],
+                [
+                    "38:99"
+                ]
+            ],
+            "Target": [
+                [
+                    "om du vil ha en totonet farge"
+                ],
+                [
+                    "38:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ryker"
+                ],
+                [
+                    "73:78"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Active starter p\u00e5 216.900 kroner , og om du vil ha en totonet farge , s\u00e5 ryker du p\u00e5 242.300 kroner .",
+    "sent_id": "202298-30-03"
+}

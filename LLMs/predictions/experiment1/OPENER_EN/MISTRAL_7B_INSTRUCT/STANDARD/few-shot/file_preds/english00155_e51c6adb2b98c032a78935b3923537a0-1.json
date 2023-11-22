@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Nice hotel"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "with a wonderful park"
+                ],
+                [
+                    "11:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Nice hotel with a wonderful park",
+    "sent_id": "opener_en/kaf/hotel/english00155_e51c6adb2b98c032a78935b3923537a0-1"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "But the whole experience was nice and worth it"
+                ],
+                [
+                    "0:46"
+                ]
+            ],
+            "Target": [
+                [
+                    "the whole experience"
+                ],
+                [
+                    "4:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nice and worth it"
+                ],
+                [
+                    "29:46"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "But the whole experience was nice and worth it .",
+    "sent_id": "opener_en/kaf/hotel/english00140_a052f3702cce7297bc2aff92662d1db3-12"
+}

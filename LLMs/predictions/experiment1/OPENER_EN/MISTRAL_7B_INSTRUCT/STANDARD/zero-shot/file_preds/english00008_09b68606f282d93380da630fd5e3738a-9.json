@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "General Manager"
+                ],
+                [
+                    "11:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mortified"
+                ],
+                [
+                    "81:90"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "We met the General Manager and pointed out all the faults to him \u00b7 to say he was mortified is an understatement .",
+    "sent_id": "opener_en/kaf/hotel/english00008_09b68606f282d93380da630fd5e3738a-9"
+}

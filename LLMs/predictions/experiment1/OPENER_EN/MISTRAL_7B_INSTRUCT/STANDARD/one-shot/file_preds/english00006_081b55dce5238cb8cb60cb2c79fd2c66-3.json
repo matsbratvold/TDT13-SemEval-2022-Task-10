@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "It"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "walking distance from the airport and the rooms"
+                ],
+                [
+                    "6:53"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "the rooms"
+                ],
+                [
+                    "44:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very practical for a one night layover"
+                ],
+                [
+                    "82:120"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "It \u2019s walking distance from the airport and the rooms , despite being small , are very practical for a one night layover .",
+    "sent_id": "opener_en/kaf/hotel/english00006_081b55dce5238cb8cb60cb2c79fd2c66-3"
+}

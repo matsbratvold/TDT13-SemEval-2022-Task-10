@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "101:106"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "loveliest hotels"
+                ],
+                [
+                    "91:107"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "staff"
+                ],
+                [
+                    "157:162"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "make the guests enjoy their visit"
+                ],
+                [
+                    "192:225"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I have travelled a lot in my life , all around the world , staying at some of the world 's loveliest hotels , but never have I encountered a hotel with such staff , who go out of their way to make the guests enjoy their visit .",
+    "sent_id": "opener_en/kaf/hotel/english00117_8523187c9a437e85989d599da4a3943a-8"
+}

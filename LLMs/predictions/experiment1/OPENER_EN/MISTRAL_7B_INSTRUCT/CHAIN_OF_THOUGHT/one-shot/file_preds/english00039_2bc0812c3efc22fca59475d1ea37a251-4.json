@@ -1,0 +1,65 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Madrid"
+                ],
+                [
+                    "14:20"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bus"
+                ],
+                [
+                    "52:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nearby bus"
+                ],
+                [
+                    "45:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hour or so"
+                ],
+                [
+                    "81:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "take an hour or so down to the city center"
+                ],
+                [
+                    "73:115"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "You can reach Madrid quite easily by using a nearby bus , but this would take an hour or so down to the city center .",
+    "sent_id": "opener_en/kaf/hotel/english00039_2bc0812c3efc22fca59475d1ea37a251-4"
+}

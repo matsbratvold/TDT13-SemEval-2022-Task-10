@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "stay"
+                ],
+                [
+                    "8:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Perfect"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Perfect stay !",
+    "sent_id": "opener_en/kaf/hotel/english00005_0de4e57838f243c67953cb70e70e693b-6"
+}

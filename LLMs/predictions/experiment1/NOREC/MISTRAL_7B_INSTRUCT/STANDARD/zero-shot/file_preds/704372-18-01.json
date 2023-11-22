@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Elefanten & sparven"
+                ],
+                [
+                    "5:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "stemmen"
+                ],
+                [
+                    "38:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00f8rkere m\u00e5te"
+                ],
+                [
+                    "58:70"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "P\u00e5 \" Elefanten & sparven \" bruker han stemmen p\u00e5 en ny og m\u00f8rkere m\u00e5te .",
+    "sent_id": "704372-18-01"
+}

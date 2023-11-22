@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "A"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "12:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "beautiful"
+                ],
+                [
+                    "2:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "A"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "take"
+                ],
+                [
+                    "20:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "time"
+                ],
+                [
+                    "25:29"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "A"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "explore"
+                ],
+                [
+                    "33:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "!"
+                ],
+                [
+                    "41:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A beautiful hotel , take time to explore !",
+    "sent_id": "opener_en/kaf/hotel/english00214_f731285c2d232cf15e5cdae66ab186b1-2"
+}

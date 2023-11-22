@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "filmen"
+                ],
+                [
+                    "27:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gj\u00f8r"
+                ],
+                [
+                    "22:26"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det er dette som ogs\u00e5 gj\u00f8r filmen s\u00e5 interessant .",
+    "sent_id": "702352-13-02"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The rooms"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "very"
+                ],
+                [
+                    "14:18"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "The rooms are very clean .",
+    "sent_id": "opener_en/kaf/hotel/english00083_7b3d49a3481f9f590bab53cb14befd11-4"
+}

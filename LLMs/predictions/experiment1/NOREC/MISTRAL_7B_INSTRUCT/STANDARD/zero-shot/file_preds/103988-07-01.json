@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Steke og sikle"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "Steke og sikle"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Steke og sikle"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Steke og sikle",
+    "sent_id": "103988-07-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "18:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "funksjoner"
+                ],
+                [
+                    "7:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00f8ler vi oss rett og slett litt snytt"
+                ],
+                [
+                    "101:138"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Det er funksjoner vi har blitt avhengige av , og n\u00e5r Alta i tillegg koster et par hundrelapper mer , f\u00f8ler vi oss rett og slett litt snytt .",
+    "sent_id": "200006-26-01"
+}

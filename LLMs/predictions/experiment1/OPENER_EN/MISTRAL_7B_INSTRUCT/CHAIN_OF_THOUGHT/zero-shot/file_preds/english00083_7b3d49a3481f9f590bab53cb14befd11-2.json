@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "A big hotel"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "700 rooms"
+                ],
+                [
+                    "20:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "big"
+                ],
+                [
+                    "2:5"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "slendid garden"
+                ],
+                [
+                    "40:54"
+                ]
+            ],
+            "Target": [
+                [
+                    "swimmingpool warm water"
+                ],
+                [
+                    "67:90"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "slendid"
+                ],
+                [
+                    "40:47"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "A big hotel ( about 700 rooms ? ) and a slendid garden and in some swimmingpool warm water .",
+    "sent_id": "opener_en/kaf/hotel/english00083_7b3d49a3481f9f590bab53cb14befd11-2"
+}

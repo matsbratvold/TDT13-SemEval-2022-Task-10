@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "staff"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "rooms"
+                ],
+                [
+                    "39:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "really nice"
+                ],
+                [
+                    "14:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "staff"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "rooms"
+                ],
+                [
+                    "39:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "clean"
+                ],
+                [
+                    "50:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The staff was really nice and also the rooms were clean .",
+    "sent_id": "opener_en/kaf/hotel/english00004_077eb74146f2afec4488e171a134f655-5"
+}

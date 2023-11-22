@@ -1,0 +1,111 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Pension"
+                ],
+                [
+                    "20:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "PERFECT .. BEST LOCATION EVER"
+                ],
+                [
+                    "31:60"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Pension"
+                ],
+                [
+                    "20:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not clean"
+                ],
+                [
+                    "107:116"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Pension"
+                ],
+                [
+                    "20:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "staff are not friendly at all"
+                ],
+                [
+                    "119:148"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Pension"
+                ],
+                [
+                    "20:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "it is not safe"
+                ],
+                [
+                    "151:165"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Pension"
+                ],
+                [
+                    "20:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "I am not recommending it to anyone"
+                ],
+                [
+                    "171:205"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The location of the Pension is PERFECT .. BEST LOCATION EVER .... but everything else is negative .. It is not clean , staff are not friendly at all , it is not safe .... I am not recommending it to anyone ...",
+    "sent_id": "opener_en/kaf/hotel/english00121_892f5a094070c44e45e64e331624bd21-5"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "l\u00e5tene"
+                ],
+                [
+                    "9:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bobler"
+                ],
+                [
+                    "23:29"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "De beste l\u00e5tene hennes bobler av dette .",
+    "sent_id": "104659-10-01"
+}

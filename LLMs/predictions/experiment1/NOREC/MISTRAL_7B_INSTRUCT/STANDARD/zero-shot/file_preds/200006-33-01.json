@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "skrittelling og s\u00f8vnregistrering"
+                ],
+                [
+                    "27:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "virker ogs\u00e5 \u00e5 fungere som de skal"
+                ],
+                [
+                    "60:93"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Fitbit"
+                ],
+                [
+                    "123:129"
+                ]
+            ],
+            "Target": [
+                [
+                    "skrittellerne"
+                ],
+                [
+                    "159:172"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "synes Fitbit er blant de mer optimistiske"
+                ],
+                [
+                    "117:158"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "De andre funksjonene , som skrittelling og s\u00f8vnregistrering virker ogs\u00e5 \u00e5 fungere som de skal , selv om vi fremdeles synes Fitbit er blant de mer optimistiske skrittellerne .",
+    "sent_id": "200006-33-01"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "A beautiful hotel"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "take time to explore"
+                ],
+                [
+                    "20:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A beautiful hotel , take time to explore !",
+    "sent_id": "opener_en/kaf/hotel/english00214_f731285c2d232cf15e5cdae66ab186b1-2"
+}

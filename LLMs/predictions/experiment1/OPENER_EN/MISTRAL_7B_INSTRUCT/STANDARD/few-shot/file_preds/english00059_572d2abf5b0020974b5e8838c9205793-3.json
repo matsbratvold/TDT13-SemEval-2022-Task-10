@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Big pluss"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "huge park in connection to the hotel"
+                ],
+                [
+                    "17:53"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Big pluss is the huge park in connection to the hotel .",
+    "sent_id": "opener_en/kaf/hotel/english00059_572d2abf5b0020974b5e8838c9205793-3"
+}

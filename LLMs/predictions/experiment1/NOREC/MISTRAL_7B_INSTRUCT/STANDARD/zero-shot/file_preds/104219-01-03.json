@@ -1,0 +1,22 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "\u00ab Farvel til alt d\u00e9t \u00bb",
+    "sent_id": "104219-01-03"
+}

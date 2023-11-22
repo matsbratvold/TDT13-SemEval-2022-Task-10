@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Restaurant downstairs"
+                ],
+                [
+                    "0:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "quite nice"
+                ],
+                [
+                    "26:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "quite nice"
+                ],
+                [
+                    "26:36"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Restaurant downstairs"
+                ],
+                [
+                    "0:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "though"
+                ],
+                [
+                    "39:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "though"
+                ],
+                [
+                    "39:45"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Restaurant downstairs was quite nice , though .",
+    "sent_id": "opener_en/kaf/hotel/english00139_d1d16f606db4a5ea9d19e6af2c969115-4"
+}

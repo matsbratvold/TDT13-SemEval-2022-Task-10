@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Nice"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "accomodation"
+                ],
+                [
+                    "5:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "really great"
+                ],
+                [
+                    "25:37"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Nice accomodation with a really great breakfast .",
+    "sent_id": "opener_en/kaf/hotel/english00170_fe19919b11b7ac3480d3fe451afd15a7-2"
+}

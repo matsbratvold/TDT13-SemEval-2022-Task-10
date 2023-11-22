@@ -1,0 +1,93 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "we"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "got engaged"
+                ],
+                [
+                    "3:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "while we there"
+                ],
+                [
+                    "15:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "the hotel"
+                ],
+                [
+                    "34:43"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Flowers"
+                ],
+                [
+                    "70:77"
+                ]
+            ],
+            "Target": [
+                [
+                    "Champagne"
+                ],
+                [
+                    "78:87"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "they"
+                ],
+                [
+                    "90:94"
+                ]
+            ],
+            "Target": [
+                [
+                    "even set up a special room for us"
+                ],
+                [
+                    "95:128"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "we got engaged while we there and the hotel talk care of everything , Flowers Champagne , they even set up a special room for us .",
+    "sent_id": "opener_en/kaf/hotel/english00164_f47aebce11fc3b76fecdd1db6a13904f-6"
+}

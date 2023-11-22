@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "room cleanliness"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "cleanliness"
+                ],
+                [
+                    "5:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "high standard"
+                ],
+                [
+                    "26:39"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "hotel grounds"
+                ],
+                [
+                    "48:61"
+                ]
+            ],
+            "Target": [
+                [
+                    "grounds"
+                ],
+                [
+                    "54:61"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "well kept and always being tended to"
+                ],
+                [
+                    "67:103"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "room cleanliness was of a high standard and the hotel grounds were well kept and always being tended to .",
+    "sent_id": "opener_en/kaf/hotel/english00014_17224596ebb4a03e814c12ea1c18e41e-4"
+}

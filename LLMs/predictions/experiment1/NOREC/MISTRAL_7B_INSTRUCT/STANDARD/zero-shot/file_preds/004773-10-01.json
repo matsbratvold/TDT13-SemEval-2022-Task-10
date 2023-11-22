@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "filmen"
+                ],
+                [
+                    "33:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjentar"
+                ],
+                [
+                    "6:13"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "han"
+                ],
+                [
+                    "46:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00f8ter"
+                ],
+                [
+                    "50:55"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "ulike ansatte"
+                ],
+                [
+                    "56:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fremst\u00e5r som roboter"
+                ],
+                [
+                    "89:109"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "uten medmenneskelighet"
+                ],
+                [
+                    "110:132"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "uten medmenneskelighet"
+                ],
+                [
+                    "110:132"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Dette gjentar seg flere ganger i filmen , der han m\u00f8ter ulike ansatte i trygdeetaten som fremst\u00e5r som roboter uten medmenneskelighet .",
+    "sent_id": "004773-10-01"
+}

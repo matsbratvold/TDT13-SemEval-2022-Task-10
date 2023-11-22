@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fire versjoner"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fire versjoner"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "versjoner"
+                ],
+                [
+                    "5:14"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Fire versjoner",
+    "sent_id": "202298-22-01"
+}

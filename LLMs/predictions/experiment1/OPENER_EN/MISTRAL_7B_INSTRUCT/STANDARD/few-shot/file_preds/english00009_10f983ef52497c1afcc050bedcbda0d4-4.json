@@ -1,0 +1,44 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Service"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "good and friendly"
+                ],
+                [
+                    "12:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "cleaned every day"
+                ],
+                [
+                    "45:62"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Service was good and friendly , the room was cleaned every day !",
+    "sent_id": "opener_en/kaf/hotel/english00009_10f983ef52497c1afcc050bedcbda0d4-4"
+}

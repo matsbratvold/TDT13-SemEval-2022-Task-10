@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hotel"
+                ],
+                [
+                    "7:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "beach"
+                ],
+                [
+                    "37:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "clean"
+                ],
+                [
+                    "46:51"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Hotel"
+                ],
+                [
+                    "7:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "staff"
+                ],
+                [
+                    "27:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "friendly"
+                ],
+                [
+                    "18:26"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Hotel"
+                ],
+                [
+                    "7:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "steps"
+                ],
+                [
+                    "83:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reachable"
+                ],
+                [
+                    "63:72"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "a nice Hotel with friendly staff.The beach is clean , but just reachable after 166 steps downstairs ( or upstairs ) .",
+    "sent_id": "opener_en/kaf/hotel/english00004_077eb74146f2afec4488e171a134f655-2"
+}

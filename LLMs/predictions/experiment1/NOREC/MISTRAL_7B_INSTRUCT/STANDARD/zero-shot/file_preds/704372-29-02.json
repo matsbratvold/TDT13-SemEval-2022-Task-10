@@ -1,0 +1,102 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "\u00d6ppen"
+                ],
+                [
+                    "2:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "natten"
+                ],
+                [
+                    "19:25"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Du"
+                ],
+                [
+                    "32:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "gamla"
+                ],
+                [
+                    "35:40"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "P\u00e4rlor"
+                ],
+                [
+                    "55:61"
+                ]
+            ],
+            "Target": [
+                [
+                    " "
+                ],
+                [
+                    "1:2"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Din"
+                ],
+                [
+                    "68:71"
+                ]
+            ],
+            "Target": [
+                [
+                    "tid"
+                ],
+                [
+                    "72:75"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "\" \u00d6ppen genom hela natten \" , \" Du gamla du frie \" , \" P\u00e4rlor \" , \" Din tid kommer \" .",
+    "sent_id": "704372-29-02"
+}

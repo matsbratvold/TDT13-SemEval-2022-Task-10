@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Vitosha street"
+                ],
+                [
+                    "22:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Right at the start of Vitosha street"
+                ],
+                [
+                    "0:36"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "within walking distance of all attractions in the center and subway station"
+                ],
+                [
+                    "43:118"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "within walking distance of all attractions in the center and subway station"
+                ],
+                [
+                    "43:118"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Right at the start of Vitosha street , and within walking distance of all attractions in the center and subway station .",
+    "sent_id": "opener_en/kaf/hotel/english00195_e73656ac387fb1d16eee3f0baafa97d3-3"
+}

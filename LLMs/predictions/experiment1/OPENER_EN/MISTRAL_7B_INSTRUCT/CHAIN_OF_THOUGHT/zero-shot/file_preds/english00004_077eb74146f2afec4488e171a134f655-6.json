@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "food"
+                ],
+                [
+                    "4:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "food"
+                ],
+                [
+                    "4:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ok"
+                ],
+                [
+                    "13:15"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "good"
+                ],
+                [
+                    "17:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "offer"
+                ],
+                [
+                    "22:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "good"
+                ],
+                [
+                    "17:21"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "giant"
+                ],
+                [
+                    "30:35"
+                ]
+            ],
+            "Target": [
+                [
+                    "buffet"
+                ],
+                [
+                    "36:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "giant"
+                ],
+                [
+                    "30:35"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "especially"
+                ],
+                [
+                    "83:93"
+                ]
+            ],
+            "Target": [
+                [
+                    "deserts"
+                ],
+                [
+                    "98:105"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very good"
+                ],
+                [
+                    "111:120"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The food was ok. good offer , giant buffet ( in the morning AND in the evening ) , especially the deserts were very good .",
+    "sent_id": "opener_en/kaf/hotel/english00004_077eb74146f2afec4488e171a134f655-6"
+}

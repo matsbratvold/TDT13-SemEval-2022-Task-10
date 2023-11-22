@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "food"
+                ],
+                [
+                    "4:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "well presented and interesting"
+                ],
+                [
+                    "13:43"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Greek dishes"
+                ],
+                [
+                    "46:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Greek dishes with a general European twist"
+                ],
+                [
+                    "46:88"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The food was well presented and interesting \u00b7 Greek dishes with a general European twist .",
+    "sent_id": "opener_en/kaf/hotel/english00206_f1df933d1e1de3be91e1d732fcdc9077-6"
+}

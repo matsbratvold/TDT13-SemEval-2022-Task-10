@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "United Brothers Photography"
+                ],
+                [
+                    "30:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "highly recommend"
+                ],
+                [
+                    "13:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Valentino"
+                ],
+                [
+                    "82:91"
+                ]
+            ],
+            "Target": [
+                [
+                    "United Brothers Photography"
+                ],
+                [
+                    "30:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "outstanding professional photographs"
+                ],
+                [
+                    "109:145"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Valentino"
+                ],
+                [
+                    "82:91"
+                ]
+            ],
+            "Target": [
+                [
+                    "United Brothers Photography"
+                ],
+                [
+                    "30:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bargain price"
+                ],
+                [
+                    "151:164"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I would also highly recommend United Brothers Photography who work at the hotel ; Valentino provided us with outstanding professional photographs at a bargain price .",
+    "sent_id": "opener_en/kaf/hotel/english00165_c7ecb4fa1c55fb7a9d4cbe384a48efb4-6"
+}

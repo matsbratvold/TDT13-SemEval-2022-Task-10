@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "wife and son"
+                ],
+                [
+                    "3:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "attack"
+                ],
+                [
+                    "37:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "were attacked"
+                ],
+                [
+                    "32:45"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "wife and son"
+                ],
+                [
+                    "3:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "robbed"
+                ],
+                [
+                    "140:146"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "wife and son"
+                ],
+                [
+                    "3:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "187:192"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "in the elevator of the hotel"
+                ],
+                [
+                    "164:192"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "My wife and son of four years , were attacked by three men of foreign origin on the 4th day of their stay in the morning , with a knife and robbed of bag and money in the elevator of the hotel !",
+    "sent_id": "opener_en/kaf/hotel/english00141_a1049912305bfe5c61247438bc2866bd-4"
+}

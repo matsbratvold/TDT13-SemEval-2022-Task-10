@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "jeg"
+                ],
+                [
+                    "126:129"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "gidder \u00e5 engasjere meg"
+                ],
+                [
+                    "130:152"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Slagene er dataanimert etter alle kunstens regler , men det viktige er at noen f\u00e5 skikkelser st\u00e5r ut i mengden slik at , jo , jeg gidder \u00e5 engasjere meg en smule i hvem som vinner og taper .",
+    "sent_id": "700863-06-04"
+}

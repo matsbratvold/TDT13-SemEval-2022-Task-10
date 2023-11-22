@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Skal den ligge"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "ligge"
+                ],
+                [
+                    "9:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "?"
+                ],
+                [
+                    "15:16"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Skal den ligge ?",
+    "sent_id": "202868-03-03"
+}

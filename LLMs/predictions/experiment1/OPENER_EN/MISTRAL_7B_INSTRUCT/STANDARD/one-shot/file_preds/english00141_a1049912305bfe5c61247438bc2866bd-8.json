@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hotel itself"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Hotel"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reasonable in terms of a place to sleep"
+                ],
+                [
+                    "17:56"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Hotel itself"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Hotel"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not safe here"
+                ],
+                [
+                    "101:114"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hotel itself was reasonable in terms of a place to sleep , but we never come back here because it 's not safe here !",
+    "sent_id": "opener_en/kaf/hotel/english00141_a1049912305bfe5c61247438bc2866bd-8"
+}

@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I \u00e5r"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "den vokst"
+                ],
+                [
+                    "19:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "seg st\u00f8rre"
+                ],
+                [
+                    "29:39"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "str\u00e5lende skivesnurrere"
+                ],
+                [
+                    "46:69"
+                ]
+            ],
+            "Target": [
+                [
+                    "seg"
+                ],
+                [
+                    "29:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skivesnurrere"
+                ],
+                [
+                    "56:69"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "DJ Koze"
+                ],
+                [
+                    "74:81"
+                ]
+            ],
+            "Target": [
+                [
+                    "preger"
+                ],
+                [
+                    "145:151"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "programmet"
+                ],
+                [
+                    "157:167"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Black Madonna"
+                ],
+                [
+                    "114:127"
+                ]
+            ],
+            "Target": [
+                [
+                    "preger"
+                ],
+                [
+                    "145:151"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "programmet"
+                ],
+                [
+                    "157:167"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Matt Karmil"
+                ],
+                [
+                    "131:142"
+                ]
+            ],
+            "Target": [
+                [
+                    "preger"
+                ],
+                [
+                    "145:151"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "programmet"
+                ],
+                [
+                    "157:167"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "I \u00e5r har ikke bare den vokst seg st\u00f8rre , men str\u00e5lende skivesnurrere som DJ Koze \u2013 i tillegg til , blant andre , Black Madonna og Matt Karmil \u2013 preger ogs\u00e5 programmet i st\u00f8rre grad enn noen sinne .",
+    "sent_id": "302108-04-02"
+}

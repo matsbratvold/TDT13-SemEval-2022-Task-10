@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "TV signal"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not good"
+                ],
+                [
+                    "14:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "flat screen"
+                ],
+                [
+                    "50:61"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "missed a up to date"
+                ],
+                [
+                    "30:49"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "TV signal was not good and we missed a up to date flat screen .",
+    "sent_id": "opener_en/kaf/hotel/english00045_308abf0d21bd195544447890f464633b-6"
+}

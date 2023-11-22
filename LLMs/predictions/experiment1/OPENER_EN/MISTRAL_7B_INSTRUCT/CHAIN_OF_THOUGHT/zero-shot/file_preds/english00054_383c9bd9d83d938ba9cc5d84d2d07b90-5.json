@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "size"
+                ],
+                [
+                    "4:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "room"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reasonable"
+                ],
+                [
+                    "20:30"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "floor"
+                ],
+                [
+                    "37:42"
+                ]
+            ],
+            "Target": [
+                [
+                    "room"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "poor"
+                ],
+                [
+                    "75:79"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "walls"
+                ],
+                [
+                    "45:50"
+                ]
+            ],
+            "Target": [
+                [
+                    "room"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "poor"
+                ],
+                [
+                    "75:79"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "ceiling"
+                ],
+                [
+                    "55:62"
+                ]
+            ],
+            "Target": [
+                [
+                    "room"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "poor"
+                ],
+                [
+                    "75:79"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The size of room is reasonable , but floor , walls and ceiling are in very poor conditions .",
+    "sent_id": "opener_en/kaf/hotel/english00054_383c9bd9d83d938ba9cc5d84d2d07b90-5"
+}

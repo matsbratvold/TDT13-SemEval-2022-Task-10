@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den gamle komikeren"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "rolle"
+                ],
+                [
+                    "46:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "solid og helst\u00f8pt"
+                ],
+                [
+                    "28:45"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Den gamle komikeren"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "rolle"
+                ],
+                [
+                    "46:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rettferdighet"
+                ],
+                [
+                    "104:117"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Den gamle komikeren gj\u00f8r en solid og helst\u00f8pt rolle som en mann som ikke er ute etter medlidenhet , men rettferdighet .",
+    "sent_id": "004773-13-02"
+}

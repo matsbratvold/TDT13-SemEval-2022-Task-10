@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Location"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "restaurants"
+                ],
+                [
+                    "65:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "plenty of very good restaurants at affordable prices"
+                ],
+                [
+                    "45:97"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Location : just crossing the roads there are plenty of very good restaurants at affordable prices .",
+    "sent_id": "opener_en/kaf/hotel/english00149_aa9eb0dd94281b1d1b5182662c047aff-5"
+}

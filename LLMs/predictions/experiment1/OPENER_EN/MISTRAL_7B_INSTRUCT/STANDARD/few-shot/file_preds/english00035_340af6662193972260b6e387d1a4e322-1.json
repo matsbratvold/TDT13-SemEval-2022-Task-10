@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "room"
+                ],
+                [
+                    "21:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Very clean and fresh"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Very clean and fresh room !",
+    "sent_id": "opener_en/kaf/hotel/english00035_340af6662193972260b6e387d1a4e322-1"
+}

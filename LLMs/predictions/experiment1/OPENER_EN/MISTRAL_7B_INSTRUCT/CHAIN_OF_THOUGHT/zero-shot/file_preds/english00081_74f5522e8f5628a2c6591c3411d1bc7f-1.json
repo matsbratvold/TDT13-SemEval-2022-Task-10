@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "brilliant"
+                ],
+                [
+                    "2:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "oasis"
+                ],
+                [
+                    "12:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "brilliant"
+                ],
+                [
+                    "2:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "oasis"
+                ],
+                [
+                    "12:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "desert"
+                ],
+                [
+                    "23:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "desert"
+                ],
+                [
+                    "23:29"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A brilliant oasis in a desert wilderness",
+    "sent_id": "opener_en/kaf/hotel/english00081_74f5522e8f5628a2c6591c3411d1bc7f-1"
+}

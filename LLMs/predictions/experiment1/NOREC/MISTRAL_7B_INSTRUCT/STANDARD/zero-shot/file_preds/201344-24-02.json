@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Komfortmessig sitter"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "den overraskende godt p\u00e5 anmelders middels store h\u00e5ndledd"
+                ],
+                [
+                    "21:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "b\u00e5de p\u00e5 lenke og rem"
+                ],
+                [
+                    "81:101"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Komfortmessig sitter den overraskende godt p\u00e5 anmelders middels store h\u00e5ndledd , b\u00e5de p\u00e5 lenke og rem .",
+    "sent_id": "201344-24-02"
+}

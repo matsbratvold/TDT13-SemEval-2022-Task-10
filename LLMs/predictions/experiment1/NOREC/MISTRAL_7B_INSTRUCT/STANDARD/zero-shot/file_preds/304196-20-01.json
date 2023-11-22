@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dark Side of The Moon"
+                ],
+                [
+                    "2:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "The Moon"
+                ],
+                [
+                    "15:23"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "\u00ab Dark Side of The Moon \u00bb",
+    "sent_id": "304196-20-01"
+}

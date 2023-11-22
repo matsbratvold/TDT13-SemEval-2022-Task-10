@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "German"
+                ],
+                [
+                    "28:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "Swiss"
+                ],
+                [
+                    "39:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "no problems"
+                ],
+                [
+                    "72:83"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Brits"
+                ],
+                [
+                    "60:65"
+                ]
+            ],
+            "Target": [
+                [
+                    "German"
+                ],
+                [
+                    "28:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "no problems"
+                ],
+                [
+                    "72:83"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Brits"
+                ],
+                [
+                    "60:65"
+                ]
+            ],
+            "Target": [
+                [
+                    "Swiss"
+                ],
+                [
+                    "39:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "no problems"
+                ],
+                [
+                    "72:83"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The main nationalities were German and Swiss and afew of us Brits , but no problems there everyone got on really well .",
+    "sent_id": "opener_en/kaf/hotel/english00081_74f5522e8f5628a2c6591c3411d1bc7f-4"
+}

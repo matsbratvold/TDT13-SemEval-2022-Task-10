@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Everything"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "unexpected in the good way as possible"
+                ],
+                [
+                    "15:53"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Everything was unexpected in the good way as possible !",
+    "sent_id": "opener_en/kaf/hotel/english00078_726dab247b93f8e93eeeabc72f74d655-3"
+}

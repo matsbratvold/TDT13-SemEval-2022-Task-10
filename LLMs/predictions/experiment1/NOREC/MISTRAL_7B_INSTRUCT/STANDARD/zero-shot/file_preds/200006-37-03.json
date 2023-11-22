@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "tips"
+                ],
+                [
+                    "42:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00f8nske"
+                ],
+                [
+                    "24:29"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "sove"
+                ],
+                [
+                    "76:80"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00f8nske"
+                ],
+                [
+                    "24:29"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "kvalitet"
+                ],
+                [
+                    "98:106"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00f8nske"
+                ],
+                [
+                    "24:29"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Jawbone"
+                ],
+                [
+                    "131:138"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gj\u00f8r"
+                ],
+                [
+                    "122:126"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Vi skulle fortsatt ogs\u00e5 \u00f8nske vi kunne f\u00e5 tips tips til hvordan vi kan b\u00e5de sove lengre med bedre kvalitet - slik du ogs\u00e5 gj\u00f8r med Jawbone .",
+    "sent_id": "200006-37-03"
+}

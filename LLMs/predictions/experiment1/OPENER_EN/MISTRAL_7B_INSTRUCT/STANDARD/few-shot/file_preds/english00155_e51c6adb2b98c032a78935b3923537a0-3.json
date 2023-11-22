@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Streetside"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rather noisy in the morning"
+                ],
+                [
+                    "14:41"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Streetside is rather noisy in the morning .",
+    "sent_id": "opener_en/kaf/hotel/english00155_e51c6adb2b98c032a78935b3923537a0-3"
+}

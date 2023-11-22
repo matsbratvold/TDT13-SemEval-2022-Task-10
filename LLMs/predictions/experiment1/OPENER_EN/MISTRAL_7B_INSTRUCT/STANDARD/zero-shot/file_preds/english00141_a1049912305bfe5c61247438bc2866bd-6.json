@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "wife"
+                ],
+                [
+                    "3:7"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "had to"
+                ],
+                [
+                    "8:14"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "wife"
+                ],
+                [
+                    "3:7"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "had to"
+                ],
+                [
+                    "8:14"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "wife"
+                ],
+                [
+                    "3:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "taxi"
+                ],
+                [
+                    "67:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "had to"
+                ],
+                [
+                    "8:14"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "My wife had to borrow money from others to travel to the police by taxi .",
+    "sent_id": "opener_en/kaf/hotel/english00141_a1049912305bfe5c61247438bc2866bd-6"
+}

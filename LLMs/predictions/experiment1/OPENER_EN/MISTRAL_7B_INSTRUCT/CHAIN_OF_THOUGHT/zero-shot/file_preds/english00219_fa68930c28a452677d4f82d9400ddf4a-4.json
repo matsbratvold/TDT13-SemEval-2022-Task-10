@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dirty"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "room"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Dirty"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "lock"
+                ],
+                [
+                    "15:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "brocken"
+                ],
+                [
+                    "24:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "brocken"
+                ],
+                [
+                    "24:31"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "came"
+                ],
+                [
+                    "64:68"
+                ]
+            ],
+            "Target": [
+                [
+                    "in"
+                ],
+                [
+                    "69:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "in"
+                ],
+                [
+                    "69:71"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Dirty.our room lock was brocken and we were not sure if someone came in .",
+    "sent_id": "opener_en/kaf/hotel/english00219_fa68930c28a452677d4f82d9400ddf4a-4"
+}

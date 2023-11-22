@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "filmens dataanimerte partier"
+                ],
+                [
+                    "32:60"
+                ]
+            ],
+            "Target": [
+                [
+                    "de mest vellykkede"
+                ],
+                [
+                    "68:86"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "de to fortellingene"
+                ],
+                [
+                    "151:170"
+                ]
+            ],
+            "Target": [
+                [
+                    "smelter i hverandre"
+                ],
+                [
+                    "171:190"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Til syvende og sist er det ogs\u00e5 filmens dataanimerte partier som er de mest vellykkede , og det er ogs\u00e5 dette uttrykket som blir st\u00e5ende som fasit n\u00e5r de to fortellingene smelter i hverandre .",
+    "sent_id": "304926-07-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sammen med POPmusic"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "dette"
+                ],
+                [
+                    "23:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er den eneste"
+                ],
+                [
+                    "29:42"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Sammen med POPmusic er dette er den eneste radioen som ikke spiller etter 15 timer p\u00e5 batteri .",
+    "sent_id": "202868-05-01"
+}

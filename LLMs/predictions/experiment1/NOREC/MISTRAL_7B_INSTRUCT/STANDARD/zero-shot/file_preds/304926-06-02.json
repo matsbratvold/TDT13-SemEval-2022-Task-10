@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "stop motion-animasjonen"
+                ],
+                [
+                    "26:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "denne sammenhengen blir stop motion-animasjonen et uttrykk for nonkonformitet og antikapitalisme"
+                ],
+                [
+                    "2:98"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "stop motion-animasjonen"
+                ],
+                [
+                    "26:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ettersom protesten finner sted innenfor de mest kommersielle rammene som tenkes kan , klinger den mer enn en smule hult"
+                ],
+                [
+                    "105:224"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "I denne sammenhengen blir stop motion-animasjonen et uttrykk for nonkonformitet og antikapitalisme , men ettersom protesten finner sted innenfor de mest kommersielle rammene som tenkes kan , klinger den mer enn en smule hult .",
+    "sent_id": "304926-06-02"
+}

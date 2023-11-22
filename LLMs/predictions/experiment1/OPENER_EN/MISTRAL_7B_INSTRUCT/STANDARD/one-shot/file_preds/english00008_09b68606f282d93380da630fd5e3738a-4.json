@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Piped music"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "so loud it made your ears sting"
+                ],
+                [
+                    "16:47"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Piped music was so loud it made your ears sting !",
+    "sent_id": "opener_en/kaf/hotel/english00008_09b68606f282d93380da630fd5e3738a-4"
+}

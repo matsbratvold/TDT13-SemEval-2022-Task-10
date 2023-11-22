@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hotel"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "lovely"
+                ],
+                [
+                    "9:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very clean & tidy"
+                ],
+                [
+                    "18:35"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Hotel is lovely , very clean & tidy .",
+    "sent_id": "opener_en/kaf/hotel/english00074_5043dc58494745b461da0773b8d0a648-3"
+}

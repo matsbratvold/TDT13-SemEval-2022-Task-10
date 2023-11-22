@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Konklusjonen"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "begynnelsen"
+                ],
+                [
+                    "20:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som"
+                ],
+                [
+                    "16:19"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Konklusjonen er som begynnelsen :",
+    "sent_id": "703256-18-01"
+}

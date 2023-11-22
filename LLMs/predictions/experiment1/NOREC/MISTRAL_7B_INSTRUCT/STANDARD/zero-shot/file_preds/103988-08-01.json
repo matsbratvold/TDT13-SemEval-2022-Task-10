@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "boble"
+                ],
+                [
+                    "21:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "saks skyld"
+                ],
+                [
+                    "84:94"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Bare smak p\u00e5 ordet \u00ab boble \u00bb , eller dens angliske slektning , \u00ab bubble \u00bb , for den saks skyld .",
+    "sent_id": "103988-08-01"
+}

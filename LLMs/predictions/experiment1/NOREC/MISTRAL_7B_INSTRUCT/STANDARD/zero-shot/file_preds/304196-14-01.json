@@ -1,0 +1,46 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Politisk"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Politisk"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Politisk",
+    "sent_id": "304196-14-01"
+}

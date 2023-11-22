@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "hotel"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "service"
+                ],
+                [
+                    "44:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ruined"
+                ],
+                [
+                    "52:58"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "hotel"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "condition"
+                ],
+                [
+                    "28:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "great"
+                ],
+                [
+                    "22:27"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "While the hotel is in great condition , the service ruined my experience .",
+    "sent_id": "opener_en/kaf/hotel/english00106_74e62e551e5b441356b001c5f7ca2070-3"
+}

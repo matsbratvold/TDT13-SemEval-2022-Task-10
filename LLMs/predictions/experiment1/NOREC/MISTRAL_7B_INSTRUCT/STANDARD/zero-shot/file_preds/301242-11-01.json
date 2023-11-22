@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Utvilsomt"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "bokas beste kapitler"
+                ],
+                [
+                    "16:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "et av"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "men"
+                ],
+                [
+                    "39:42"
+                ]
+            ],
+            "Target": [
+                [
+                    "det er med"
+                ],
+                [
+                    "46:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "viser at"
+                ],
+                [
+                    "59:67"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Berlin-innrammingen Dypvik"
+                ],
+                [
+                    "68:94"
+                ]
+            ],
+            "Target": [
+                [
+                    "har gitt boka"
+                ],
+                [
+                    "95:108"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er for trang"
+                ],
+                [
+                    "111:123"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Utvilsomt et av bokas beste kapitler , men at det er med , viser at Berlin-innrammingen Dypvik har gitt boka , er for trang .",
+    "sent_id": "301242-11-01"
+}

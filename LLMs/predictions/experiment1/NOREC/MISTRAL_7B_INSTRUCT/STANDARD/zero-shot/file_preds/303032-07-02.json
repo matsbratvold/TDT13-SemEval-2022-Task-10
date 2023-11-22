@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Med"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Summer In My Hometown"
+                ],
+                [
+                    "13:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "flotte"
+                ],
+                [
+                    "4:10"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Med"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Summer In My Hometown"
+                ],
+                [
+                    "13:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00e5r han meg til \u00e5 \u00f8nske meg vestover"
+                ],
+                [
+                    "37:73"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Med flotte \u00ab Summer In My Hometown \u00bb f\u00e5r han meg til \u00e5 \u00f8nske meg vestover .",
+    "sent_id": "303032-07-02"
+}

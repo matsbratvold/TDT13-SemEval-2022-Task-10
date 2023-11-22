@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Funksjonsmessig"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "19:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "n\u00e6rmest identisk med Fenix 3 HR"
+                ],
+                [
+                    "33:64"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Funksjonsmessig"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "19:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "n\u00e6rmest identisk med Fenix 3 HR"
+                ],
+                [
+                    "33:64"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Funksjonsmessig"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "19:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "n\u00e6rmest identisk med Fenix 3 HR"
+                ],
+                [
+                    "33:64"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Funksjonsmessig er Fenix Chronos n\u00e6rmest identisk med Fenix 3 HR , som allerede har rukket \u00e5 bli en favoritt blant mange aktive nordmenn .",
+    "sent_id": "201344-16-01"
+}

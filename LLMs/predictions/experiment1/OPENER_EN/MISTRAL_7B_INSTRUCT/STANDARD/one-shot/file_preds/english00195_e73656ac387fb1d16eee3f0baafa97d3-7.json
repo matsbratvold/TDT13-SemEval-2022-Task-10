@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Food prices"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "Sofia reality"
+                ],
+                [
+                    "52:65"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "completely out of touch with Sofia reality"
+                ],
+                [
+                    "23:65"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Food prices though are completely out of touch with Sofia reality , even in comparison with other similar hotels in the city .",
+    "sent_id": "opener_en/kaf/hotel/english00195_e73656ac387fb1d16eee3f0baafa97d3-7"
+}

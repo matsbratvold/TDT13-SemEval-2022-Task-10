@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "familiedrama"
+                ],
+                [
+                    "40:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "glir over"
+                ],
+                [
+                    "61:70"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "burleske komediescener"
+                ],
+                [
+                    "80:102"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "n\u00e5r Hana og Wang f\u00e5r dominere"
+                ],
+                [
+                    "103:132"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Den \u00e5pner , som nevnt , som et klassisk familiedrama f\u00f8r den glir over i nesten burleske komediescener n\u00e5r Hana og Wang f\u00e5r dominere .",
+    "sent_id": "703256-16-03"
+}

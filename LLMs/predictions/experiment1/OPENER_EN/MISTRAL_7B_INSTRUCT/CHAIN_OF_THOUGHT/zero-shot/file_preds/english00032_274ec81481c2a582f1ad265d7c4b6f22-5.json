@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Now"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "price of the Hilton"
+                ],
+                [
+                    "24:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "almost equal"
+                ],
+                [
+                    "4:16"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Now almost equal to the price of the Hilton , which is located nearby .",
+    "sent_id": "opener_en/kaf/hotel/english00032_274ec81481c2a582f1ad265d7c4b6f22-5"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Og"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "rammefortellingen"
+                ],
+                [
+                    "8:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Pixar-inspirert estetikk"
+                ],
+                [
+                    "39:63"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Og"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "rammefortellingen"
+                ],
+                [
+                    "8:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stop motion-uttrykk"
+                ],
+                [
+                    "120:139"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Og"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "naboens historie"
+                ],
+                [
+                    "75:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tydelige spor av menneskehender"
+                ],
+                [
+                    "144:175"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Og mens rammefortellingen preges av en Pixar-inspirert estetikk , skildres naboens historie ved hjelp av et gammelmodig stop motion-uttrykk med tydelige spor av menneskehender .",
+    "sent_id": "304926-05-02"
+}

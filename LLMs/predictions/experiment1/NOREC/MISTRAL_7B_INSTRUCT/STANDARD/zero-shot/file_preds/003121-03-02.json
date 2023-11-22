@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "F\u00f8r kjente vi"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Sigrid Raabe"
+                ],
+                [
+                    "73:85"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "long gone"
+                ],
+                [
+                    "92:101"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "F\u00f8r kjente vi kanskje bare Sigrid som lilles\u00f8stra til Tellef Raabe , men Sigrid Raabe er n\u00e5 long gone med null spor fra tidligere utgivelser .",
+    "sent_id": "003121-03-02"
+}

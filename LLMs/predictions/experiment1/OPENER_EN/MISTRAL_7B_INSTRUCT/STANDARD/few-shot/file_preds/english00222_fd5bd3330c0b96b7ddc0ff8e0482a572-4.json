@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "distance from firenze itself"
+                ],
+                [
+                    "61:89"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "only minus ( for some people it might be a plus )"
+                ],
+                [
+                    "4:53"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "The only minus ( for some people it might be a plus ) is the distance from firenze itself .",
+    "sent_id": "opener_en/kaf/hotel/english00222_fd5bd3330c0b96b7ddc0ff8e0482a572-4"
+}

@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "This hotel"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "65:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fantasic"
+                ],
+                [
+                    "14:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "we"
+                ],
+                [
+                    "25:27"
+                ]
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "65:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "amazing"
+                ],
+                [
+                    "72:79"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "the staff"
+                ],
+                [
+                    "82:91"
+                ]
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "65:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cannot do enough for you"
+                ],
+                [
+                    "92:116"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "it"
+                ],
+                [
+                    "65:67"
+                ]
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "65:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ideally situated on the beach"
+                ],
+                [
+                    "123:152"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "it"
+                ],
+                [
+                    "65:67"
+                ]
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "65:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has it 's own waterpark which is great fun"
+                ],
+                [
+                    "160:202"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "This hotel is fantasic , we went for a chilled out week away and it was amazing , the staff cannot do enough for you it 's ideally situated on the beach and it has it 's own waterpark which is great fun .",
+    "sent_id": "opener_en/kaf/hotel/english00099_6bd92afbc1db2e16e92cc8cf0105c93e-3"
+}

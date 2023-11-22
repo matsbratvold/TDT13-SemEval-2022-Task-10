@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Etterp\u00e5"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "kunnskapen"
+                ],
+                [
+                    "32:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vil du ikke v\u00e6re"
+                ],
+                [
+                    "8:24"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Etterp\u00e5"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "filmen"
+                ],
+                [
+                    "49:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "foruten"
+                ],
+                [
+                    "56:63"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Etterp\u00e5 vil du ikke v\u00e6re verken kunnskapen eller filmen foruten .",
+    "sent_id": "500201-02-02"
+}

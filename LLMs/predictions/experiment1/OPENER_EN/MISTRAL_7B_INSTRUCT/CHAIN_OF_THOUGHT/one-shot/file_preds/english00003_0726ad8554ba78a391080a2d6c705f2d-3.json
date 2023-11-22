@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hotel"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "staff"
+                ],
+                [
+                    "27:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "excellent"
+                ],
+                [
+                    "10:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Hotel"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "staff"
+                ],
+                [
+                    "27:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very friendly"
+                ],
+                [
+                    "37:50"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hotel was excellent en the staff was very friendly .",
+    "sent_id": "opener_en/kaf/hotel/english00003_0726ad8554ba78a391080a2d6c705f2d-3"
+}

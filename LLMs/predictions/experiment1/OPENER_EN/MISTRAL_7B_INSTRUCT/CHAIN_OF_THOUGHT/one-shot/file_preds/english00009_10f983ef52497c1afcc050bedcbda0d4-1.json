@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Hotel"
+                ],
+                [
+                    "11:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "good"
+                ],
+                [
+                    "6:10"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "rooms"
+                ],
+                [
+                    "27:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nice"
+                ],
+                [
+                    "22:26"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Its a good Hotel with nice rooms .",
+    "sent_id": "opener_en/kaf/hotel/english00009_10f983ef52497c1afcc050bedcbda0d4-1"
+}

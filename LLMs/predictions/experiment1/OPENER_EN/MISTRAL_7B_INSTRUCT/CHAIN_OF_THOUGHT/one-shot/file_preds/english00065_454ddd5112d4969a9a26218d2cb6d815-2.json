@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Tiny room"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "no place to put luggage"
+                ],
+                [
+                    "12:35"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Tiny room , no place to put luggage .",
+    "sent_id": "opener_en/kaf/hotel/english00065_454ddd5112d4969a9a26218d2cb6d815-2"
+}

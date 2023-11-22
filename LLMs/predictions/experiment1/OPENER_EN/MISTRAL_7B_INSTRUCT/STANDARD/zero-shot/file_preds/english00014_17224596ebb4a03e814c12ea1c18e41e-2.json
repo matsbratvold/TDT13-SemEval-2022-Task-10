@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "dana beach"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "large complex"
+                ],
+                [
+                    "16:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is"
+                ],
+                [
+                    "11:13"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "dana beach is a large complex with a lake running the entire length of the complex .",
+    "sent_id": "opener_en/kaf/hotel/english00014_17224596ebb4a03e814c12ea1c18e41e-2"
+}

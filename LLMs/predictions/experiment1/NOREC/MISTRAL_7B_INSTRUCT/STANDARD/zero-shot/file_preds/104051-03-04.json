@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Rap"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "en midtveis"
+                ],
+                [
+                    "6:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en showstopper de luxe"
+                ],
+                [
+                    "31:53"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Rap \u2019 en midtveis er dessverre en showstopper de luxe .",
+    "sent_id": "104051-03-04"
+}

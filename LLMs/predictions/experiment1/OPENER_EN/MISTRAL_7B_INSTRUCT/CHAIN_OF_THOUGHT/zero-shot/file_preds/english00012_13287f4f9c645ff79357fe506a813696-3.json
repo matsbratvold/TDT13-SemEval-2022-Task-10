@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "However"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "room quality and the service"
+                ],
+                [
+                    "14:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bad and disappointing"
+                ],
+                [
+                    "53:74"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "However , the room quality and the service was quite bad and disappointing .",
+    "sent_id": "opener_en/kaf/hotel/english00012_13287f4f9c645ff79357fe506a813696-3"
+}

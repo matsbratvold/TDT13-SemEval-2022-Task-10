@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "They"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "repair"
+                ],
+                [
+                    "13:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very well"
+                ],
+                [
+                    "20:29"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "They"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "painting"
+                ],
+                [
+                    "42:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "now the balcony"
+                ],
+                [
+                    "51:66"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "They"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "in the passed yaer they had made new"
+                ],
+                [
+                    "71:107"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "They keep in repair very well ; they were painting now the balcony and in the passed yaer they had made new foot \u00b7 paths .",
+    "sent_id": "opener_en/kaf/hotel/english00083_7b3d49a3481f9f590bab53cb14befd11-3"
+}

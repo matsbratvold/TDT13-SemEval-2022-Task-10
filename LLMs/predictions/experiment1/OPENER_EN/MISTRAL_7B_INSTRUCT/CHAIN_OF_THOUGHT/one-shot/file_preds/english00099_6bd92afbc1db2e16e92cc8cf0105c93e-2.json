@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Will definitely be returning"
+                ],
+                [
+                    "0:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Will definitely be returning"
+                ],
+                [
+                    "0:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Will definitely be returning",
+    "sent_id": "opener_en/kaf/hotel/english00099_6bd92afbc1db2e16e92cc8cf0105c93e-2"
+}

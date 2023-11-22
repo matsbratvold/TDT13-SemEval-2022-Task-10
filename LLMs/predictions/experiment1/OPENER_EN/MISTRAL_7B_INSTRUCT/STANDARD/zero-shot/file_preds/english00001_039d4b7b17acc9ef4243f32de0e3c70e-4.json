@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Attending"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "issues"
+                ],
+                [
+                    "14:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "are ok"
+                ],
+                [
+                    "21:27"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Attending for issues are ok .",
+    "sent_id": "opener_en/kaf/hotel/english00001_039d4b7b17acc9ef4243f32de0e3c70e-4"
+}

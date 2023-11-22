@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Pistolen og det som skjer med Poussey Washington i sesong 4"
+                ],
+                [
+                    "0:59"
+                ]
+            ],
+            "Target": [
+                [
+                    "Poussey Washington"
+                ],
+                [
+                    "30:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sentralt i dette"
+                ],
+                [
+                    "63:79"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Pistolen og det som skjer med Poussey Washington i sesong 4 er sentralt i dette .",
+    "sent_id": "103992-09-01"
+}

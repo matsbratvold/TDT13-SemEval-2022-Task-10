@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Vinen"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "syrligheten"
+                ],
+                [
+                    "75:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dempe"
+                ],
+                [
+                    "69:74"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Vinen , en salt og mineralsk chablis fra William F\u00e8vre , er med p\u00e5 \u00e5 dempe syrligheten .",
+    "sent_id": "501595-09-05"
+}

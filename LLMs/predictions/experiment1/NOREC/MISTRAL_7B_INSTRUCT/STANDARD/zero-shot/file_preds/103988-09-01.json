@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Riktig nok"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "Bobler"
+                ],
+                [
+                    "50:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "innr\u00f8mme"
+                ],
+                [
+                    "36:44"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Riktig nok skal jeg ikke n\u00f8le med \u00e5 innr\u00f8mme at \u00ab Bobler \u00bb er stokk stupid .",
+    "sent_id": "103988-09-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Melia Grand Hermitage"
+                ],
+                [
+                    "0:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "awesome"
+                ],
+                [
+                    "30:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "awesome"
+                ],
+                [
+                    "30:37"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Melia Grand Hermitage is just awesome",
+    "sent_id": "opener_en/kaf/hotel/english00125_bce630ab47dd16dfe5a755703c2b9aa8-1"
+}

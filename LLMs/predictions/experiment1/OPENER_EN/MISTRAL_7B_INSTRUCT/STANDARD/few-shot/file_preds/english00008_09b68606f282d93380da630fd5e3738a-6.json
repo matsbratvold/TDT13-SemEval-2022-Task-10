@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The visitors"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Russian"
+                ],
+                [
+                    "25:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "were treated with respect"
+                ],
+                [
+                    "37:62"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The visitors"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Russian"
+                ],
+                [
+                    "25:32"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The visitors"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Russian"
+                ],
+                [
+                    "25:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "generally took over everything"
+                ],
+                [
+                    "90:120"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The visitors were mainly Russian who were treated with respect , served straight away and generally took over everything .",
+    "sent_id": "opener_en/kaf/hotel/english00008_09b68606f282d93380da630fd5e3738a-6"
+}

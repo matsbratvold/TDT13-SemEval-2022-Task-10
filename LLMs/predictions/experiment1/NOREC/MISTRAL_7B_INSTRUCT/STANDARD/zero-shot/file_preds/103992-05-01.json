@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Med"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "bl. a"
+                ],
+                [
+                    "6:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Taylor Schilling , Laura Prepon , Danielle Brooks og Natasha Lonne"
+                ],
+                [
+                    "14:80"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Med : bl. a . Taylor Schilling , Laura Prepon , Danielle Brooks og Natasha Lonne",
+    "sent_id": "103992-05-01"
+}

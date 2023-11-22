@@ -1,0 +1,46 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Forviklinger"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Forviklinger"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Forviklinger :",
+    "sent_id": "703572-02-01"
+}

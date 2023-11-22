@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "rooms"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "huge"
+                ],
+                [
+                    "14:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "huge"
+                ],
+                [
+                    "14:18"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The rooms are huge .",
+    "sent_id": "opener_en/kaf/hotel/english00164_f47aebce11fc3b76fecdd1db6a13904f-3"
+}

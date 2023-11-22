@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "accommodation"
+                ],
+                [
+                    "20:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "horrible"
+                ],
+                [
+                    "11:19"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Absolutely horrible accommodation for the money",
+    "sent_id": "opener_en/kaf/hotel/english00065_454ddd5112d4969a9a26218d2cb6d815-1"
+}

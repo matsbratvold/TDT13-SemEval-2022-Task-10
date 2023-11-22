@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "enjoyed my 3 \u00b7 night stay in the hotel"
+                ],
+                [
+                    "2:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enjoyed my 3 \u00b7 night stay in the hotel"
+                ],
+                [
+                    "2:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "the room was very clean"
+                ],
+                [
+                    "43:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "the room was very clean"
+                ],
+                [
+                    "43:66"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "well equipped but too huge for me"
+                ],
+                [
+                    "69:102"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "well equipped but too huge for me"
+                ],
+                [
+                    "69:102"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "I don 't think that many people need 50 sq.m hotel room"
+                ],
+                [
+                    "105:160"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "I don 't think that many people need 50 sq.m hotel room"
+                ],
+                [
+                    "105:160"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I enjoyed my 3 \u00b7 night stay in the hotel , the room was very clean , well equipped but too huge for me ( I don 't think that many people need 50 sq.m hotel room ) .",
+    "sent_id": "opener_en/kaf/hotel/english00139_a027bbcb73be1f46b42077b535cf955c-2"
+}

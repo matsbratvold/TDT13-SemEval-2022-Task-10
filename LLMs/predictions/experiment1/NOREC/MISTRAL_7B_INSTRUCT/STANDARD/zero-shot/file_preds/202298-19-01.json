@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Foruten hybriden"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "Yaris"
+                ],
+                [
+                    "21:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ogs\u00e5 komme med"
+                ],
+                [
+                    "27:41"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Foruten hybriden vil Yaris ogs\u00e5 komme med en 3-sylindret 1-liter , som tas til Norge .",
+    "sent_id": "202298-19-01"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Plus"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "orange juice"
+                ],
+                [
+                    "20:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "really fresh"
+                ],
+                [
+                    "7:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Plus : really fresh orange juice at breakfast ( squeezed on demand )",
+    "sent_id": "opener_en/kaf/hotel/english00149_aa9eb0dd94281b1d1b5182662c047aff-4"
+}

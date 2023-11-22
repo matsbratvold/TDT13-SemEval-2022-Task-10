@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Desto"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "mer"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "interessant er det \u00e5 h\u00f8re ham"
+                ],
+                [
+                    "10:39"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Desto mer interessant er det \u00e5 h\u00f8re ham i s\u00e5 bra form etter s\u00e5 mange \u00e5r !",
+    "sent_id": "304196-04-02"
+}

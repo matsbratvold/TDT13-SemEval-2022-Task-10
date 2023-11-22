@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "presenterer"
+                ],
+                [
+                    "7:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "fortellingen"
+                ],
+                [
+                    "37:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stoppet"
+                ],
+                [
+                    "56:63"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "presenterer"
+                ],
+                [
+                    "7:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "fortellingen"
+                ],
+                [
+                    "37:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "trist"
+                ],
+                [
+                    "67:72"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "presenterer"
+                ],
+                [
+                    "7:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "Samir"
+                ],
+                [
+                    "76:81"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ble sendt tilbake til Afghanistan"
+                ],
+                [
+                    "100:133"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "presenterer"
+                ],
+                [
+                    "7:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "mora og s\u00f8stera"
+                ],
+                [
+                    "84:99"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ble sendt tilbake til Afghanistan"
+                ],
+                [
+                    "100:133"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Derfor presenterer de en ny slutt p\u00e5 fortellingen , som stoppet s\u00e5 trist da Samir , mora og s\u00f8stera ble sendt tilbake til Afghanistan .",
+    "sent_id": "302975-08-02"
+}

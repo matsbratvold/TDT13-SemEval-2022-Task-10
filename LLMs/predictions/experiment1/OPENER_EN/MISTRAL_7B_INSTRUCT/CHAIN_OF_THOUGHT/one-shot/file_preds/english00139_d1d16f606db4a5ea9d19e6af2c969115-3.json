@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "One bed with twin mattresses"
+                ],
+                [
+                    "0:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nothing modern in the room"
+                ],
+                [
+                    "31:57"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "just everything very average"
+                ],
+                [
+                    "60:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "just everything very average"
+                ],
+                [
+                    "60:88"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "One bed with twin mattresses , nothing modern in the room , just everything very average .",
+    "sent_id": "opener_en/kaf/hotel/english00139_d1d16f606db4a5ea9d19e6af2c969115-3"
+}

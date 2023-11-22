@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "stay"
+                ],
+                [
+                    "22:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very relaxing"
+                ],
+                [
+                    "8:21"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "people"
+                ],
+                [
+                    "37:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nice"
+                ],
+                [
+                    "32:36"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "service"
+                ],
+                [
+                    "48:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "in top"
+                ],
+                [
+                    "56:62"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "But \u00b7 a very relaxing stay with nice people and service in top .",
+    "sent_id": "opener_en/kaf/hotel/english00045_308abf0d21bd195544447890f464633b-8"
+}

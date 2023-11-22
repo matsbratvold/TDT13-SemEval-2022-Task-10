@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Our room"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "Nevskii"
+                ],
+                [
+                    "50:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "view was great"
+                ],
+                [
+                    "60:74"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Our room"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "Nevskii"
+                ],
+                [
+                    "50:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "noise a bit annoying"
+                ],
+                [
+                    "79:99"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Our room was on the second floor , with a view on Nevskii \u00b7 view was great but noise a bit annoying .",
+    "sent_id": "opener_en/kaf/hotel/english00113_8161bacaf54503f451c7246b073003a5-2"
+}

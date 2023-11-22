@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "awful experience"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "experience"
+                ],
+                [
+                    "6:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "awful"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "awful experience",
+    "sent_id": "opener_en/kaf/hotel/english00216_f7c75ca42432376cd15a2aff7694125b-3"
+}

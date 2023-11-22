@@ -1,0 +1,139 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "This"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "21:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "surely not"
+                ],
+                [
+                    "8:18"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "but"
+                ],
+                [
+                    "66:69"
+                ]
+            ],
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "21:26"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "is"
+                ],
+                [
+                    "2:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "choice"
+                ],
+                [
+                    "75:81"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "to consider"
+                ],
+                [
+                    "82:93"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "when"
+                ],
+                [
+                    "35:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "you"
+                ],
+                [
+                    "40:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "just want to spend a night"
+                ],
+                [
+                    "103:129"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "and"
+                ],
+                [
+                    "130:133"
+                ]
+            ],
+            "Target": [
+                [
+                    "get"
+                ],
+                [
+                    "134:137"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fast to the airport first thing in the morning"
+                ],
+                [
+                    "138:184"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "This is surely not a hotel to stay when you want to visit Paris , but is a choice to consider when you just want to spend a night and get fast to the airport first thing in the morning .",
+    "sent_id": "opener_en/kaf/hotel/english00059_3f1e667b4e85710912b3c6b5f2f74982-5"
+}

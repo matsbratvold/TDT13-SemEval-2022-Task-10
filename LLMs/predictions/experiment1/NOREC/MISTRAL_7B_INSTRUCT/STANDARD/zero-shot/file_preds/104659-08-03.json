@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Denne b\u00e5sen er vanskelig \u00e5 sette"
+                ],
+                [
+                    "0:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "b\u00e5sen"
+                ],
+                [
+                    "6:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vanskelig \u00e5 sette"
+                ],
+                [
+                    "15:32"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "b\u00e5sen"
+                ],
+                [
+                    "6:11"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "inkludert henne selv"
+                ],
+                [
+                    "87:107"
+                ]
+            ],
+            "Target": [
+                [
+                    "b\u00e5sen"
+                ],
+                [
+                    "6:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "inkludert henne selv"
+                ],
+                [
+                    "87:107"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Denne b\u00e5sen er vanskelig \u00e5 sette , men i Holters versjon best\u00e5r den av fire musikere , inkludert henne selv .",
+    "sent_id": "104659-08-03"
+}

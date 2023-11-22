@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "started each day with a buffet breakfast"
+                ],
+                [
+                    "3:43"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "relaxed at the huge pools or beautiful beach"
+                ],
+                [
+                    "46:90"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "finished the evening with cocktails accompanied by a live singer"
+                ],
+                [
+                    "95:159"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "We started each day with a buffet breakfast , relaxed at the huge pools or beautiful beach and finished the evening with cocktails accompanied by a live singer .",
+    "sent_id": "opener_en/kaf/hotel/english00165_c7ecb4fa1c55fb7a9d4cbe384a48efb4-4"
+}

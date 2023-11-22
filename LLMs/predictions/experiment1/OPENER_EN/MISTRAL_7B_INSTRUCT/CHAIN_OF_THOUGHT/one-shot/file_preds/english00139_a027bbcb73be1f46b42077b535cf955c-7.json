@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Free wifi"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "decent speed"
+                ],
+                [
+                    "19:31"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Free wifi was of a decent speed .",
+    "sent_id": "opener_en/kaf/hotel/english00139_a027bbcb73be1f46b42077b535cf955c-7"
+}

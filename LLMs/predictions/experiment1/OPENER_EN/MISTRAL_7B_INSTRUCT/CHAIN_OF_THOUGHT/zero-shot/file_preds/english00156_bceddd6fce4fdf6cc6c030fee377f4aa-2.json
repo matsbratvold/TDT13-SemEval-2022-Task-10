@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "This"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "16:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "great"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "for"
+                ],
+                [
+                    "22:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "location"
+                ],
+                [
+                    "26:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very"
+                ],
+                [
+                    "37:41"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "and"
+                ],
+                [
+                    "76:79"
+                ]
+            ],
+            "Target": [
+                [
+                    "walking"
+                ],
+                [
+                    "80:87"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "distance"
+                ],
+                [
+                    "88:96"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "to"
+                ],
+                [
+                    "48:50"
+                ]
+            ],
+            "Target": [
+                [
+                    "the"
+                ],
+                [
+                    "51:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "centre"
+                ],
+                [
+                    "104:110"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "This is a great hotel for location , very close to the main railway station and walking distance to the centre of town .",
+    "sent_id": "opener_en/kaf/hotel/english00156_bceddd6fce4fdf6cc6c030fee377f4aa-2"
+}

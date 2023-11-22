@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "musikk"
+                ],
+                [
+                    "44:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "veldig tydelig"
+                ],
+                [
+                    "11:25"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Dette blir veldig tydelig siden det ikke er musikk i lokalet .",
+    "sent_id": "501595-03-03"
+}

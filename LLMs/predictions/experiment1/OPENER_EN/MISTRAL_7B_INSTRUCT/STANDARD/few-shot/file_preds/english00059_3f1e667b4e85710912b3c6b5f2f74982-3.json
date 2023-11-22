@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Ibis Hotel Paris Charles de Gaulle Paris Nord 2"
+                ],
+                [
+                    "51:98"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reasonable one"
+                ],
+                [
+                    "101:115"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "I looked for accomodation at the ariport and found Ibis Hotel Paris Charles de Gaulle Paris Nord 2 a reasonable one .",
+    "sent_id": "opener_en/kaf/hotel/english00059_3f1e667b4e85710912b3c6b5f2f74982-3"
+}

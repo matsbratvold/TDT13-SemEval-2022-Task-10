@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Felt"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "a little embarrassed"
+                ],
+                [
+                    "5:25"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Felt a little embarrassed to present this to my bf for his birthday weekend away .",
+    "sent_id": "opener_en/kaf/hotel/english00223_fe94638c44f4dd789e8a42550e1e6beb-5"
+}

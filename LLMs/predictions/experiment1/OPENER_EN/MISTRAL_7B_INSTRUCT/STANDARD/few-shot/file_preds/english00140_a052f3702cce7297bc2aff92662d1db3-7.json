@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Amir"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "there"
+                ],
+                [
+                    "5:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cool and nice"
+                ],
+                [
+                    "14:27"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Amir"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "perfumes"
+                ],
+                [
+                    "36:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "really worth it"
+                ],
+                [
+                    "48:63"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Amir there is cool and nice and the perfumes is really worth it .",
+    "sent_id": "opener_en/kaf/hotel/english00140_a052f3702cce7297bc2aff92662d1db3-7"
+}

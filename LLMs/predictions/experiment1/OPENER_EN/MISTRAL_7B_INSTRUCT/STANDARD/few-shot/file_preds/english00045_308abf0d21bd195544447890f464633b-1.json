@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Danish"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "vote"
+                ],
+                [
+                    "7:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Danish vote"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Danish vote",
+    "sent_id": "opener_en/kaf/hotel/english00045_308abf0d21bd195544447890f464633b-1"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "hullene"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "festeanordningen"
+                ],
+                [
+                    "38:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for trange"
+                ],
+                [
+                    "23:33"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "hullene"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "festeanordningen"
+                ],
+                [
+                    "38:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skal sitte godt nok p\u00e5"
+                ],
+                [
+                    "77:99"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "hullene"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "festeanordningen"
+                ],
+                [
+                    "38:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det er ikke bare-bare \u00e5 trykke p\u00e5 plass"
+                ],
+                [
+                    "106:145"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Mulig fordi hullene er for trange for festeanordningen , antagelig fordi det skal sitte godt nok p\u00e5 , men det er ikke bare-bare \u00e5 trykke p\u00e5 plass .",
+    "sent_id": "200006-12-02"
+}

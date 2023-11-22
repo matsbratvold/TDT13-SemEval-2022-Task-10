@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "hva du sier"
+                ],
+                [
+                    "17:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forst\u00e5r ikke"
+                ],
+                [
+                    "4:16"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "hva de innf\u00f8dte svarte n\u00e5r europeerne kom til Australia og spurte hva det var for slags skapning"
+                ],
+                [
+                    "37:133"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er hva de innf\u00f8dte svarte n\u00e5r europeerne kom til Australia og spurte hva det var for slags skapning"
+                ],
+                [
+                    "34:133"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Jeg forst\u00e5r ikke hva du sier , og er hva de innf\u00f8dte svarte n\u00e5r europeerne kom til Australia og spurte hva det var for slags skapning .",
+    "sent_id": "601365-04-02"
+}

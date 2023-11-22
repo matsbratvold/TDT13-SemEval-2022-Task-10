@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "23:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "highly recommend"
+                ],
+                [
+                    "6:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Would highly recommend it !",
+    "sent_id": "opener_en/kaf/hotel/english00125_bce630ab47dd16dfe5a755703c2b9aa8-4"
+}

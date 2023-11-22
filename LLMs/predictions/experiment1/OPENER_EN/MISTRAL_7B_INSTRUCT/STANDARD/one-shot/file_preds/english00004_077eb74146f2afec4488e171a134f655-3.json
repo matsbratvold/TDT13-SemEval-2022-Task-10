@@ -1,0 +1,44 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "There is also a lift"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "annoying to wait for it"
+                ],
+                [
+                    "31:54"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "body practice every day"
+                ],
+                [
+                    "130:153"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "There is also a lift but it is annoying to wait for it , because everyone want to use it and you have to queue for it , so we did body practice every day .",
+    "sent_id": "opener_en/kaf/hotel/english00004_077eb74146f2afec4488e171a134f655-3"
+}

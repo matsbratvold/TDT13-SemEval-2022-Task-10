@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "\u00c5rets nye Garmin Fenix Chronos"
+                ],
+                [
+                    "0:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "Garmin Fenix Chronos"
+                ],
+                [
+                    "10:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tar det hele til et nytt niv\u00e5"
+                ],
+                [
+                    "31:60"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "\u00c5rets nye Garmin Fenix Chronos tar det hele til et nytt niv\u00e5 .",
+    "sent_id": "201344-04-03"
+}

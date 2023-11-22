@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Se Christine"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Don't Kill My Vibe"
+                ],
+                [
+                    "33:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Don't Kill My Vibe"
+                ],
+                [
+                    "33:51"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Se Christine live med Sigrid - \" Don't Kill My Vibe \" :",
+    "sent_id": "003121-08-01"
+}

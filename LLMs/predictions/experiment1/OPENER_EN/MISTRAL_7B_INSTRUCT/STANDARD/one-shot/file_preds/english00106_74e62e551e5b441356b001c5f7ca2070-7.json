@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "The safe in the hotel room and the air conditioning"
+                ],
+                [
+                    "0:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "broke down"
+                ],
+                [
+                    "57:67"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "I had to ask for someone to repair it"
+                ],
+                [
+                    "72:109"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "had to ask for someone to repair it"
+                ],
+                [
+                    "74:109"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The safe in the hotel room and the air conditioning also broke down and I had to ask for someone to repair it .",
+    "sent_id": "opener_en/kaf/hotel/english00106_74e62e551e5b441356b001c5f7ca2070-7"
+}

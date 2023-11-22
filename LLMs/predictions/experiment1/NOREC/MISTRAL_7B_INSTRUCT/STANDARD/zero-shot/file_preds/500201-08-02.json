@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dvelende"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "landskap"
+                ],
+                [
+                    "150:158"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "panorere"
+                ],
+                [
+                    "138:146"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "men"
+                ],
+                [
+                    "11:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "landskap"
+                ],
+                [
+                    "150:158"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "uten \u00e5 eksotisere"
+                ],
+                [
+                    "15:32"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "g\u00e5r"
+                ],
+                [
+                    "35:38"
+                ]
+            ],
+            "Target": [
+                [
+                    "landskap"
+                ],
+                [
+                    "150:158"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tett p\u00e5 levesett og gj\u00f8rem\u00e5l det ene \u00f8yeblikket"
+                ],
+                [
+                    "43:90"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "s\u00e6rlig"
+                ],
+                [
+                    "93:99"
+                ]
+            ],
+            "Target": [
+                [
+                    "landskap"
+                ],
+                [
+                    "150:158"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hvilende ved Marias ansikt"
+                ],
+                [
+                    "100:126"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Dvelende , men uten \u00e5 eksotisere , g\u00e5r den tett p\u00e5 levesett og gj\u00f8rem\u00e5l det ene \u00f8yeblikket \u2014 s\u00e6rlig hvilende ved Marias ansikt - for s\u00e5 \u00e5 panorere et landskap som b\u00e5de er brutalt og goldt og mektig i sin skj\u00f8nnhet .",
+    "sent_id": "500201-08-02"
+}

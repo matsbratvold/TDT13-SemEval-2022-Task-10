@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Er"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "den blitt til"
+                ],
+                [
+                    "3:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til som et fors\u00f8k p\u00e5 \u00e5 gjenta den vellykkede formelen fra forrige bok"
+                ],
+                [
+                    "13:82"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Er den blitt til som et fors\u00f8k p\u00e5 \u00e5 gjenta den vellykkede formelen fra forrige bok , uten at stoffet har v\u00e6rt lydig mot intensjonen ?",
+    "sent_id": "301242-11-03"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "En forfatter"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "hans overfl\u00f8dighetshorn"
+                ],
+                [
+                    "16:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "En forfatter og hans overfl\u00f8dighetshorn"
+                ],
+                [
+                    "0:39"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "En forfatter og hans overfl\u00f8dighetshorn",
+    "sent_id": "601365-01-01"
+}

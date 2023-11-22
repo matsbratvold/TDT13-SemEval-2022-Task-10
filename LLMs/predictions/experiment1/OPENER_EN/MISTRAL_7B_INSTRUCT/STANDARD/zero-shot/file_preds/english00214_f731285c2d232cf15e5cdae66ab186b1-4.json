@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "my son"
+                ],
+                [
+                    "3:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "the room"
+                ],
+                [
+                    "21:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "made his day"
+                ],
+                [
+                    "114:126"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "On my son 's bithday the room was decorated by our cleaner with a cake and animal charaters made from towels this made his day !",
+    "sent_id": "opener_en/kaf/hotel/english00214_f731285c2d232cf15e5cdae66ab186b1-4"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den poppregete sangen"
+                ],
+                [
+                    "0:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "Hellstr\u00f6m"
+                ],
+                [
+                    "42:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vel det n\u00e6rmeste"
+                ],
+                [
+                    "25:41"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Den poppregete sangen er vel det n\u00e6rmeste Hellstr\u00f6m noen gang kommer Gyllene Tider .",
+    "sent_id": "704372-13-02"
+}

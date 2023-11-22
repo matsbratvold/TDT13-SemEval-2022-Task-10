@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Toyota"
+                ],
+                [
+                    "30:36"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00e6rlig"
+                ],
+                [
+                    "11:17"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det er dog s\u00e6rlig to ting som Toyota aldri ser ut til \u00e5 l\u00e6re .",
+    "sent_id": "202298-26-01"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "finally we had to pay 20 Euro for internet for a week"
+                ],
+                [
+                    "0:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "that should be included"
+                ],
+                [
+                    "56:79"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "finally we had to pay 20 Euro for internet for a week \u00b7 that should be included .",
+    "sent_id": "opener_en/kaf/hotel/english00045_308abf0d21bd195544447890f464633b-7"
+}

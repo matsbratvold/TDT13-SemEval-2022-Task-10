@@ -1,0 +1,44 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "a nice Hotel with friendly staff"
+                ],
+                [
+                    "0:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nice Hotel with friendly staff"
+                ],
+                [
+                    "2:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "clean , but just reachable after 166 steps downstairs ( or upstairs )"
+                ],
+                [
+                    "46:115"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "a nice Hotel with friendly staff.The beach is clean , but just reachable after 166 steps downstairs ( or upstairs ) .",
+    "sent_id": "opener_en/kaf/hotel/english00004_077eb74146f2afec4488e171a134f655-2"
+}

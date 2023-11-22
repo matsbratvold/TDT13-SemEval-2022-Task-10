@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Here"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "good shoppingday or visit one or another museum and ofcourse the Dom"
+                ],
+                [
+                    "20:88"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Here you can have a good shoppingday or visit one or another museum and ofcourse the Dom .",
+    "sent_id": "opener_en/kaf/hotel/english00105_94806e4b92092b3243eeee8623cbd2d5-4"
+}

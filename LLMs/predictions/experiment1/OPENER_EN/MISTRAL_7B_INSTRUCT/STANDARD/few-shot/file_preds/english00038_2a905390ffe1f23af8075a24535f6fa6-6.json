@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "All of the staff"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "that we met"
+                ],
+                [
+                    "17:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "both efficient and friendly"
+                ],
+                [
+                    "34:61"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "All of the staff that we met were both efficient and friendly .",
+    "sent_id": "opener_en/kaf/hotel/english00038_2a905390ffe1f23af8075a24535f6fa6-6"
+}

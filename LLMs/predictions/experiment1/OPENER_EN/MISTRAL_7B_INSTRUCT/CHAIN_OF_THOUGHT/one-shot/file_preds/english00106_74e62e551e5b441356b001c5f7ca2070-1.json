@@ -1,0 +1,44 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Service"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bad"
+                ],
+                [
+                    "11:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "stylish and clean"
+                ],
+                [
+                    "19:36"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Service is bad but stylish and clean property",
+    "sent_id": "opener_en/kaf/hotel/english00106_74e62e551e5b441356b001c5f7ca2070-1"
+}

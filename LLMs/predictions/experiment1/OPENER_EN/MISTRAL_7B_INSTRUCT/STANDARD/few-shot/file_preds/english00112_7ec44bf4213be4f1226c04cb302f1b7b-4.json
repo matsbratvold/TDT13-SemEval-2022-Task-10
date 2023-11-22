@@ -1,0 +1,40 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "wine"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "liquires"
+                ],
+                [
+                    "102:110"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "There is no wine included in the All inclusive , not even with meals , this has to be paid extra , no liquires .",
+    "sent_id": "opener_en/kaf/hotel/english00112_7ec44bf4213be4f1226c04cb302f1b7b-4"
+}

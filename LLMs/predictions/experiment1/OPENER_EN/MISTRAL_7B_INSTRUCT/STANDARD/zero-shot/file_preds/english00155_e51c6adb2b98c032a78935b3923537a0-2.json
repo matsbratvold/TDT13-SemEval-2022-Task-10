@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Next time"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "we"
+                ],
+                [
+                    "10:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "book a room on the parkside"
+                ],
+                [
+                    "17:44"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Next time we 'll book a room on the parkside .",
+    "sent_id": "opener_en/kaf/hotel/english00155_e51c6adb2b98c032a78935b3923537a0-2"
+}

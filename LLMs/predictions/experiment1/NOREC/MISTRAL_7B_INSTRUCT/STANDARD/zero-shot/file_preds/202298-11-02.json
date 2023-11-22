@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "bilen"
+                ],
+                [
+                    "73:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "akselerere"
+                ],
+                [
+                    "12:22"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "bilen"
+                ],
+                [
+                    "73:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "slakke av"
+                ],
+                [
+                    "57:66"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "bilen"
+                ],
+                [
+                    "73:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gi bilen mulighet til \u00e5 flyte p\u00e5 elektrisk drift"
+                ],
+                [
+                    "70:118"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Dette ved \u00e5 akselerere s\u00e5 raskt som mulig , for deretter slakke av og gi bilen mulighet til \u00e5 flyte p\u00e5 elektrisk drift .",
+    "sent_id": "202298-11-02"
+}

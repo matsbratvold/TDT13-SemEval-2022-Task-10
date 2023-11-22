@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Unforgettable"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Unforgettable",
+    "sent_id": "opener_en/kaf/hotel/english00135_977b29727cbd452452362a22780ee24a-1"
+}

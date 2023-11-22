@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Irriterende nok"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fitbit"
+                ],
+                [
+                    "20:26"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Irriterende nok har Fitbit laget ENDA en spesiell ladel\u00f8sning til Fitbit Alta , slik at de n\u00e5 har en egen for s\u00e5 godt som hvert eneste aktivitetsarmb\u00e5nd de har i sortimentet .",
+    "sent_id": "200006-27-01"
+}

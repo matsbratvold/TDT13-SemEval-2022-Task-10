@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "That"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "I"
+                ],
+                [
+                    "19:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "I 'LL BE BACK ! ! ! ! !"
+                ],
+                [
+                    "19:42"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "That 's for sure : I 'LL BE BACK ! ! ! ! !",
+    "sent_id": "opener_en/kaf/hotel/english00078_726dab247b93f8e93eeeabc72f74d655-2"
+}

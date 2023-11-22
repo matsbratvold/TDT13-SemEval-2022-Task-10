@@ -1,0 +1,98 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "funk"
+                ],
+                [
+                    "15:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "litt"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "bl\u00e5s"
+                ],
+                [
+                    "22:26"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "miksen"
+                ],
+                [
+                    "58:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "litt"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "\u00e5 boltre deg i"
+                ],
+                [
+                    "80:94"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "du"
+                ],
+                [
+                    "68:70"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Sleng inn litt funk , bl\u00e5s og trance-aktige synthlinjer i miksen og du har litt \u00e5 boltre deg i .",
+    "sent_id": "301662-04-03"
+}

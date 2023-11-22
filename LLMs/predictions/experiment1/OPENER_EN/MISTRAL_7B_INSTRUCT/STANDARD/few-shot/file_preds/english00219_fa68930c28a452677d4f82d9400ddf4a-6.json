@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "we paied 1300 euro per night and for 3 night in advance"
+                ],
+                [
+                    "0:55"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "we didn 't get our meny back"
+                ],
+                [
+                    "60:88"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "It was so worse then we moved out"
+                ],
+                [
+                    "97:130"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "we paied 1300 euro per night and for 3 night in advance ... we didn 't get our meny back ... but It was so worse then we moved out .",
+    "sent_id": "opener_en/kaf/hotel/english00219_fa68930c28a452677d4f82d9400ddf4a-6"
+}

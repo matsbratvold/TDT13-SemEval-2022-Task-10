@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "DJ Koze"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "\u00d8yafestivalen"
+                ],
+                [
+                    "11:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "p\u00e5"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "DJ Koze p\u00e5 \u00d8yafestivalen",
+    "sent_id": "302108-01-02"
+}

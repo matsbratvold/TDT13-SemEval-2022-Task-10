@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "utradisjonelle fusjonssmaker og storsinnede porsjoner"
+                ],
+                [
+                    "41:94"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "likevel"
+                ],
+                [
+                    "11:18"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Men vi f\u00e5r likevel en god opplevelse med utradisjonelle fusjonssmaker og storsinnede porsjoner .",
+    "sent_id": "501595-13-03"
+}

@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Grunnlaget for en slags \u00e5pen leirskole"
+                ],
+                [
+                    "0:38"
+                ]
+            ],
+            "Target": [
+                [
+                    "\u00e5pen leirskole"
+                ],
+                [
+                    "24:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mistet kontrollen"
+                ],
+                [
+                    "57:74"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "modne elevene tar ansvar"
+                ],
+                [
+                    "91:115"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Grunnlaget for en slags \u00e5pen leirskole , der l\u00e6reren har mistet kontrollen mens noen av de modne elevene tar ansvar er lagt .",
+    "sent_id": "103992-11-03"
+}

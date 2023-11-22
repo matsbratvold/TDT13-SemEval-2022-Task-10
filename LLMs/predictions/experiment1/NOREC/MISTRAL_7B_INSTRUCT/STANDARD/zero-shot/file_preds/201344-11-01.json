@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Testeksemplaret"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "urkasse"
+                ],
+                [
+                    "23:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rustfritt st\u00e5l"
+                ],
+                [
+                    "38:52"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Testeksemplaret har en urkasse i 316L rustfritt st\u00e5l , som i lang tid har v\u00e6rt en standard innen urverdenen .",
+    "sent_id": "201344-11-01"
+}

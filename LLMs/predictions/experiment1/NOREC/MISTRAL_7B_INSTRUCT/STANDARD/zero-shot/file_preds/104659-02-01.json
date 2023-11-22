@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Popkunst"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "publikumsutfordringer"
+                ],
+                [
+                    "13:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med"
+                ],
+                [
+                    "9:12"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Popkunst med publikumsutfordringer .",
+    "sent_id": "104659-02-01"
+}

@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "They"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "refund"
+                ],
+                [
+                    "12:18"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "They"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "police"
+                ],
+                [
+                    "37:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "call"
+                ],
+                [
+                    "28:32"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "They"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "not"
+                ],
+                [
+                    "76:79"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "They don 't refund and just call the police all the time , so that they are not liable .",
+    "sent_id": "opener_en/kaf/hotel/english00213_f578dc1efdd03b8b4bbd8c7958a7121a-7"
+}

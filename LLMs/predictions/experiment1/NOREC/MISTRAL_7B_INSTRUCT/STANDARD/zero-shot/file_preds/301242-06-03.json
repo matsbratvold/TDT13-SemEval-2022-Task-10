@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Peter Brandt"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Rudi Dutschke"
+                ],
+                [
+                    "107:120"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "attentatet"
+                ],
+                [
+                    "92:102"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Peter Brandt var s\u00f8nn av Berlin-helten Willy Brandt og ble involvert i p\u00e5skeoppt\u00f8yene etter attentatet mot Rudi Dutschke .",
+    "sent_id": "301242-06-03"
+}

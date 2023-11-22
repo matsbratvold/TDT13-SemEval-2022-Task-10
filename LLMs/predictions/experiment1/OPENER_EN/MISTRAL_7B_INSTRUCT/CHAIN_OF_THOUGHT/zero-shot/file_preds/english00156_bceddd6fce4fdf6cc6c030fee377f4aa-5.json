@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "staff"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "profession"
+                ],
+                [
+                    "14:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "if"
+                ],
+                [
+                    "25:27"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The staff are profession if by the book .",
+    "sent_id": "opener_en/kaf/hotel/english00156_bceddd6fce4fdf6cc6c030fee377f4aa-5"
+}

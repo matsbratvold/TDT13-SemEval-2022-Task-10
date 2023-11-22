@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Trommesettet og John McVie-bassen"
+                ],
+                [
+                    "0:33"
+                ]
+            ],
+            "Target": [
+                [
+                    "ABBA"
+                ],
+                [
+                    "83:87"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Trommesettet og John McVie-bassen er kylt ut , og l\u00e5tene klinger mer americana enn ABBA .",
+    "sent_id": "104870-05-01"
+}

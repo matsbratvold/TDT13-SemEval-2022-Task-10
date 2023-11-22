@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "We Stayed at the Grand Hermitage"
+                ],
+                [
+                    "0:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "a week at the end of July start of August"
+                ],
+                [
+                    "37:78"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "We Stayed at the Grand Hermitage for a week at the end of July start of August .",
+    "sent_id": "opener_en/kaf/hotel/english00164_f47aebce11fc3b76fecdd1db6a13904f-2"
+}

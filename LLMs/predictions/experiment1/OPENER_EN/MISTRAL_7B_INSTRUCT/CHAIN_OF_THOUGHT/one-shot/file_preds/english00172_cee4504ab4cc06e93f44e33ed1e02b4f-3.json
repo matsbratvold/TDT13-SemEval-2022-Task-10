@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Took me hours to check in"
+                ],
+                [
+                    "0:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hours to check in"
+                ],
+                [
+                    "8:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "I had a reservation and also paid in advance"
+                ],
+                [
+                    "37:81"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "I had a reservation and also paid in advance"
+                ],
+                [
+                    "37:81"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Took me hours to check in , although I had a reservation and also paid in advance .",
+    "sent_id": "opener_en/kaf/hotel/english00172_cee4504ab4cc06e93f44e33ed1e02b4f-3"
+}

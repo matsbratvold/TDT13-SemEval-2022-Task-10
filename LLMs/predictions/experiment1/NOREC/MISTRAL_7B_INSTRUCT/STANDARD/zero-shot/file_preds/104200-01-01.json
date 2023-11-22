@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Melodi 1"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "Ulrikke Brandstorp"
+                ],
+                [
+                    "11:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Places"
+                ],
+                [
+                    "36:42"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Melodi 1 : Ulrikke Brandstorp med \u00ab Places \u00bb",
+    "sent_id": "104200-01-01"
+}

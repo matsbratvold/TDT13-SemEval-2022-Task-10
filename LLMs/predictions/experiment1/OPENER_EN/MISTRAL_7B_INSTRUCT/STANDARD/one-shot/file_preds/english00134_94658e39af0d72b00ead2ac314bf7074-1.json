@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Good"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "all rounder"
+                ],
+                [
+                    "5:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Good"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Good all rounder",
+    "sent_id": "opener_en/kaf/hotel/english00134_94658e39af0d72b00ead2ac314bf7074-1"
+}

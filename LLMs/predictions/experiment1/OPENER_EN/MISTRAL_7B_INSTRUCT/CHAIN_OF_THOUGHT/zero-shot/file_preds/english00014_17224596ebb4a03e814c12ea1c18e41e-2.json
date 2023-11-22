@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "dana beach"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "large complex"
+                ],
+                [
+                    "16:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is"
+                ],
+                [
+                    "11:13"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "dana beach"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "lake"
+                ],
+                [
+                    "37:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "running"
+                ],
+                [
+                    "42:49"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "dana beach is a large complex with a lake running the entire length of the complex .",
+    "sent_id": "opener_en/kaf/hotel/english00014_17224596ebb4a03e814c12ea1c18e41e-2"
+}

@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pink Floyd-album"
+                ],
+                [
+                    "41:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "langt p\u00e5 vei"
+                ],
+                [
+                    "20:32"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pink Floyd-album"
+                ],
+                [
+                    "41:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ikke hadde v\u00e6rt"
+                ],
+                [
+                    "77:92"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pink Floyd-album"
+                ],
+                [
+                    "41:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "aldri kommer til \u00e5 bli noe Pink Floyd igjen"
+                ],
+                [
+                    "104:147"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pink Floyd-album"
+                ],
+                [
+                    "41:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med Roger Waters p\u00e5 laget"
+                ],
+                [
+                    "150:175"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det kunne fors\u00e5vidt langt p\u00e5 vei v\u00e6rt et Pink Floyd-album , dette , hvis det ikke hadde v\u00e6rt for at det aldri kommer til \u00e5 bli noe Pink Floyd igjen - med Roger Waters p\u00e5 laget .",
+    "sent_id": "304196-06-01"
+}

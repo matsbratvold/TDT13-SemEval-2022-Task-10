@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "this hotel"
+                ],
+                [
+                    "15:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "best about this hotel"
+                ],
+                [
+                    "4:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The best about this hotel is its location .",
+    "sent_id": "opener_en/kaf/hotel/english00195_e73656ac387fb1d16eee3f0baafa97d3-2"
+}

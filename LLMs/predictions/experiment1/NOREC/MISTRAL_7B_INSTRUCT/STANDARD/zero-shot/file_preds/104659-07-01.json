@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "9:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "komme tilbake til"
+                ],
+                [
+                    "12:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Det skal"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det skal vi komme tilbake til .",
+    "sent_id": "104659-07-01"
+}

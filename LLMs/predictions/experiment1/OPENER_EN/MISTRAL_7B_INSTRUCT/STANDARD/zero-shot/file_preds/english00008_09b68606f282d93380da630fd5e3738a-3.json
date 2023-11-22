@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the food"
+                ],
+                [
+                    "8:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "cold"
+                ],
+                [
+                    "21:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "was"
+                ],
+                [
+                    "17:20"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "not enough crockery / cutlery etc"
+                ],
+                [
+                    "28:61"
+                ]
+            ],
+            "Target": [
+                [
+                    "in restaurants"
+                ],
+                [
+                    "62:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "in"
+                ],
+                [
+                    "62:64"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "However the food was cold , not enough crockery / cutlery etc in restaurants .",
+    "sent_id": "opener_en/kaf/hotel/english00008_09b68606f282d93380da630fd5e3738a-3"
+}

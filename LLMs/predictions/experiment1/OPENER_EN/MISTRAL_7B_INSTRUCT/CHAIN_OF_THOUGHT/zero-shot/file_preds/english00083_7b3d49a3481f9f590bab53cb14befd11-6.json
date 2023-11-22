@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "a few couple"
+                ],
+                [
+                    "10:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "most people"
+                ],
+                [
+                    "46:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "from"
+                ],
+                [
+                    "23:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "most people"
+                ],
+                [
+                    "46:57"
+                ]
+            ],
+            "Target": [
+                [
+                    "Germany"
+                ],
+                [
+                    "68:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "came from"
+                ],
+                [
+                    "58:67"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "There are a few couple from the Netherlands ; most people came from Germany .",
+    "sent_id": "opener_en/kaf/hotel/english00083_7b3d49a3481f9f590bab53cb14befd11-6"
+}

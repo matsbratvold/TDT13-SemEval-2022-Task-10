@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "mennesker"
+                ],
+                [
+                    "3:12"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "mennesker"
+                ],
+                [
+                    "3:12"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Og mennesker .",
+    "sent_id": "500201-11-05"
+}

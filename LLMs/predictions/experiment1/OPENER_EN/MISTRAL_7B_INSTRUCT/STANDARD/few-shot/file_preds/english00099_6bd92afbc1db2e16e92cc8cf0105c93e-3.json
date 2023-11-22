@@ -1,0 +1,97 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "This hotel"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "is"
+                ],
+                [
+                    "2:4"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fantasic"
+                ],
+                [
+                    "14:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "we went for a chilled out week away"
+                ],
+                [
+                    "25:60"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "amazing"
+                ],
+                [
+                    "72:79"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "the staff cannot do enough for you"
+                ],
+                [
+                    "82:116"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "it 's ideally situated on the beach"
+                ],
+                [
+                    "117:152"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "it has it 's own waterpark which is great fun"
+                ],
+                [
+                    "157:202"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "This hotel is fantasic , we went for a chilled out week away and it was amazing , the staff cannot do enough for you it 's ideally situated on the beach and it has it 's own waterpark which is great fun .",
+    "sent_id": "opener_en/kaf/hotel/english00099_6bd92afbc1db2e16e92cc8cf0105c93e-3"
+}

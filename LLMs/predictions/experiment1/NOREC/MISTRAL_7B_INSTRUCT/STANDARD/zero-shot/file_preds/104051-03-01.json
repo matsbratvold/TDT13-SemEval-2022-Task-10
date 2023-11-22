@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "En stolt sig\u00f8yner fra Ungarn i \u00e5r"
+                ],
+                [
+                    "0:33"
+                ]
+            ],
+            "Target": [
+                [
+                    "Papai"
+                ],
+                [
+                    "75:80"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det h\u00f8res godt"
+                ],
+                [
+                    "39:53"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "det h\u00f8res godt at det betyr mye for Papai \u00e5 st\u00e5 p\u00e5 scenen i Kiev"
+                ],
+                [
+                    "39:103"
+                ]
+            ],
+            "Target": [
+                [
+                    "Papai"
+                ],
+                [
+                    "75:80"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det h\u00f8res godt"
+                ],
+                [
+                    "39:53"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "En stolt sig\u00f8yner fra Ungarn i \u00e5r , og det h\u00f8res godt at det betyr mye for Papai \u00e5 st\u00e5 p\u00e5 scenen i Kiev .",
+    "sent_id": "104051-03-01"
+}

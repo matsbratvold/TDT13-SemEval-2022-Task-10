@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "very old"
+                ],
+                [
+                    "14:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Carpets where very old .",
+    "sent_id": "opener_en/kaf/hotel/english00028_2a1e03a3e5d6afe2c5024926cb7ff9ab-3"
+}

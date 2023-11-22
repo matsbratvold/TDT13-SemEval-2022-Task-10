@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Great Atmosphere"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "& varieties of foods"
+                ],
+                [
+                    "17:37"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Great Atmosphere & varieties of foods !",
+    "sent_id": "opener_en/kaf/hotel/english00117_add4bfee14df94e5646b1c7018b6c690-1"
+}

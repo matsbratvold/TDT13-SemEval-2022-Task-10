@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Its"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "extremely clean"
+                ],
+                [
+                    "4:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "the staff"
+                ],
+                [
+                    "22:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "are friendly"
+                ],
+                [
+                    "32:44"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Its extremely clean , the staff are friendly .",
+    "sent_id": "opener_en/kaf/hotel/english00164_f47aebce11fc3b76fecdd1db6a13904f-4"
+}

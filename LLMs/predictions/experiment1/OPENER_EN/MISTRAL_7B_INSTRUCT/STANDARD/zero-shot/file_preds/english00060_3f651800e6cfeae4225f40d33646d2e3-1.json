@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Very Upsale Hotel"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "In the Center of the City"
+                ],
+                [
+                    "20:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Upsale"
+                ],
+                [
+                    "5:11"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Very Upsale Hotel , In the Center of the City",
+    "sent_id": "opener_en/kaf/hotel/english00060_3f651800e6cfeae4225f40d33646d2e3-1"
+}

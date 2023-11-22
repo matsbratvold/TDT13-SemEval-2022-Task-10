@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "You"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "boulevar du Periferique"
+                ],
+                [
+                    "19:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cross"
+                ],
+                [
+                    "9:14"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "You"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "zone 1"
+                ],
+                [
+                    "58:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "or public transportation"
+                ],
+                [
+                    "65:89"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "You just cross the boulevar du Periferique and you are in zone 1 or public transportation .",
+    "sent_id": "opener_en/kaf/hotel/english00149_aa9eb0dd94281b1d1b5182662c047aff-6"
+}

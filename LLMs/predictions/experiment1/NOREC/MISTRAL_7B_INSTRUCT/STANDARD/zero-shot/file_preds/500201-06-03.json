@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "alkoholen"
+                ],
+                [
+                    "13:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "sprit"
+                ],
+                [
+                    "39:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "form av sprit solgt fra en plankebu av en bar"
+                ],
+                [
+                    "31:76"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "alkoholen"
+                ],
+                [
+                    "13:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "sprit"
+                ],
+                [
+                    "39:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "i regi av plantasjen og med trekk i en l\u00f8nn som dermed fort vekk kan vises seg \u00e5 v\u00e6re drukket opp"
+                ],
+                [
+                    "79:176"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "For eksempel alkoholen , her i form av sprit solgt fra en plankebu av en bar , i regi av plantasjen og med trekk i en l\u00f8nn som dermed fort vekk kan vises seg \u00e5 v\u00e6re drukket opp .",
+    "sent_id": "500201-06-03"
+}

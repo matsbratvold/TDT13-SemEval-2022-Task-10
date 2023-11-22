@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "48:50"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Om det har rukket \u00e5 bli altav\u00e6ringenes nye favoritt-aktivitetsarmb\u00e5nd , aner vi ikke , men det har ikke blitt v\u00e5rt .",
+    "sent_id": "200006-04-01"
+}

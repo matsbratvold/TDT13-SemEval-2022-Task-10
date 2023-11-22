@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Splendid hotel"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "Diagonal Mar"
+                ],
+                [
+                    "38:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "near shopping center"
+                ],
+                [
+                    "15:35"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Splendid hotel near shopping center \" Diagonal Mar \" .",
+    "sent_id": "opener_en/kaf/hotel/english00032_274ec81481c2a582f1ad265d7c4b6f22-2"
+}

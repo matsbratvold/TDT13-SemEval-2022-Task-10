@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "De"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "hjulpet"
+                ],
+                [
+                    "14:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "godt p\u00e5 vei"
+                ],
+                [
+                    "22:33"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Sofia"
+                ],
+                [
+                    "62:67"
+                ]
+            ],
+            "Target": [
+                [
+                    "Ingrid Bauer"
+                ],
+                [
+                    "43:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forelsker seg i"
+                ],
+                [
+                    "68:83"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "et-par menn"
+                ],
+                [
+                    "91:102"
+                ]
+            ],
+            "Target": [
+                [
+                    "opphav"
+                ],
+                [
+                    "118:124"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "begge de unge kvinnene ogs\u00e5 forholder seg til"
+                ],
+                [
+                    "129:174"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "De blir begge hjulpet godt p\u00e5 vei av tyske Ingrid Bauer , som Sofia forelsker seg i , samt et-par menn av forskjellig opphav som begge de unge kvinnene ogs\u00e5 forholder seg til mens de utforsker omgangsformer , kj\u00f8nn og identitet .",
+    "sent_id": "703572-07-01"
+}

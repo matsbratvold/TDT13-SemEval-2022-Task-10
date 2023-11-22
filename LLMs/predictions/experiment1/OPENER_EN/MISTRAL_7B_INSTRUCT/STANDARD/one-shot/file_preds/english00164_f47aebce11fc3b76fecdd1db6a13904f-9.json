@@ -1,0 +1,41 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "We had two course and a bottle of champagne"
+                ],
+                [
+                    "0:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "WOW"
+                ],
+                [
+                    "64:67"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "it cost us \u00a3 31"
+                ],
+                [
+                    "48:63"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "We had two course and a bottle of champagne and it cost us \u00a3 31 WOW .",
+    "sent_id": "opener_en/kaf/hotel/english00164_f47aebce11fc3b76fecdd1db6a13904f-9"
+}

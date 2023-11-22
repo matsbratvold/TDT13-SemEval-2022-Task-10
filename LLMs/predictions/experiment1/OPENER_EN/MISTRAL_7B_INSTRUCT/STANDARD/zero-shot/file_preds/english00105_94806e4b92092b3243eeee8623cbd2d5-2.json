@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dorint an der Messe"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "30:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fine"
+                ],
+                [
+                    "25:29"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Dorint an der Messe is a fine hotel for businesstrips and a city break .",
+    "sent_id": "opener_en/kaf/hotel/english00105_94806e4b92092b3243eeee8623cbd2d5-2"
+}

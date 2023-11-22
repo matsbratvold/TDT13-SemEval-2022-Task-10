@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Min points"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "tiny dinner portions"
+                ],
+                [
+                    "13:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Min points"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Min points \u00b7 tiny dinner portions : \u00b7 (",
+    "sent_id": "opener_en/kaf/hotel/english00097_6ace8a44dd0caa70cdaa62a2cc5cfd54-4"
+}

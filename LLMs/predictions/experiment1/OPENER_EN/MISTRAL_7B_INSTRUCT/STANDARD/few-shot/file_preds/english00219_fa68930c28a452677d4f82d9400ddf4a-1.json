@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hotel The Fountains"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "Hotel The Fountains"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hotel The Fountains",
+    "sent_id": "opener_en/kaf/hotel/english00219_fa68930c28a452677d4f82d9400ddf4a-1"
+}

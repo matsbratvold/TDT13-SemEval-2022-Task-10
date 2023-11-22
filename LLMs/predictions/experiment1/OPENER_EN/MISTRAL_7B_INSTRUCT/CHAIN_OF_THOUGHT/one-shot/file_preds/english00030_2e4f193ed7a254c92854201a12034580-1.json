@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Good"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Good"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "clean accommodation"
+                ],
+                [
+                    "7:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "clean accommodation"
+                ],
+                [
+                    "7:26"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "friendly staff"
+                ],
+                [
+                    "32:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "friendly staff"
+                ],
+                [
+                    "32:46"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Good , clean accommodation with friendly staff",
+    "sent_id": "opener_en/kaf/hotel/english00030_2e4f193ed7a254c92854201a12034580-1"
+}

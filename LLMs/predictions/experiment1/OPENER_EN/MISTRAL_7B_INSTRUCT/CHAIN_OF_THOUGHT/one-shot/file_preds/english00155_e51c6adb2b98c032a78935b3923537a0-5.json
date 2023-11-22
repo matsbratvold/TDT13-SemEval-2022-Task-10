@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Diner"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "breakfast"
+                ],
+                [
+                    "38:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "excellent"
+                ],
+                [
+                    "10:19"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Diner"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "choice"
+                ],
+                [
+                    "28:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "good too"
+                ],
+                [
+                    "52:60"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Diner was excellent and the choice at breakfast was good too .",
+    "sent_id": "opener_en/kaf/hotel/english00155_e51c6adb2b98c032a78935b3923537a0-5"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Nice hotel"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "5:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Nice"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "friendly staff"
+                ],
+                [
+                    "16:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "staff"
+                ],
+                [
+                    "25:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "friendly"
+                ],
+                [
+                    "16:24"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "a lot of food"
+                ],
+                [
+                    "35:48"
+                ]
+            ],
+            "Target": [
+                [
+                    "food"
+                ],
+                [
+                    "44:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "a lot of"
+                ],
+                [
+                    "35:43"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Nice hotel with friendly staff and a lot of food !",
+    "sent_id": "opener_en/kaf/hotel/english00004_077eb74146f2afec4488e171a134f655-1"
+}

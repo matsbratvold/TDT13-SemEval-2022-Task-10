@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Entrance to rooms"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "only by passing through bar area"
+                ],
+                [
+                    "18:50"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Entrance to rooms only by passing through bar area .",
+    "sent_id": "opener_en/kaf/hotel/english00065_454ddd5112d4969a9a26218d2cb6d815-6"
+}

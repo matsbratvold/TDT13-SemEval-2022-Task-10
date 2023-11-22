@@ -1,0 +1,40 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "ordered an iron to my room"
+                ],
+                [
+                    "16:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "had to call twice and then go down to the reception to reconfirm my request"
+                ],
+                [
+                    "49:124"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "For example , I ordered an iron to my room , but had to call twice and then go down to the reception to reconfirm my request .",
+    "sent_id": "opener_en/kaf/hotel/english00106_74e62e551e5b441356b001c5f7ca2070-5"
+}

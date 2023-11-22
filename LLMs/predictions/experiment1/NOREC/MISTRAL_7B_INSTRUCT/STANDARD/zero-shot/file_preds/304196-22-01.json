@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "lov"
+                ],
+                [
+                    "11:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det er"
+                ],
+                [
+                    "4:10"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Men det er lov \u00e5 dr\u00f8mme .",
+    "sent_id": "304196-22-01"
+}

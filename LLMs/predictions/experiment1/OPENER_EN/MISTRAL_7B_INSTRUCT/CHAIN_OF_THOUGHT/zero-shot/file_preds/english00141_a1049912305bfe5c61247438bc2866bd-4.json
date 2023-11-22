@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "wife and son"
+                ],
+                [
+                    "3:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "three men of foreign origin"
+                ],
+                [
+                    "49:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "attacked"
+                ],
+                [
+                    "37:45"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "wife and son"
+                ],
+                [
+                    "3:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "three men of foreign origin"
+                ],
+                [
+                    "49:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "robbed"
+                ],
+                [
+                    "140:146"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "My wife and son of four years , were attacked by three men of foreign origin on the 4th day of their stay in the morning , with a knife and robbed of bag and money in the elevator of the hotel !",
+    "sent_id": "opener_en/kaf/hotel/english00141_a1049912305bfe5c61247438bc2866bd-4"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "the only one visitor"
+                ],
+                [
+                    "23:43"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "It happened that I was the only one visitor each time I came .",
+    "sent_id": "opener_en/kaf/hotel/english00139_a027bbcb73be1f46b42077b535cf955c-6"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Samtidig er det"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "verden"
+                ],
+                [
+                    "37:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00f8rk skildring"
+                ],
+                [
+                    "19:33"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "men med varsel om"
+                ],
+                [
+                    "46:63"
+                ]
+            ],
+            "Target": [
+                [
+                    "daggry"
+                ],
+                [
+                    "64:70"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "varsel"
+                ],
+                [
+                    "54:60"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Samtidig er det en m\u00f8rk skildring av verden , men med varsel om daggry .",
+    "sent_id": "704372-13-03"
+}

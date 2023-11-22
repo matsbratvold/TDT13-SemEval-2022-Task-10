@@ -1,0 +1,65 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "breakfast"
+                ],
+                [
+                    "18:27"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "terrace"
+                ],
+                [
+                    "50:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "frigid outdoor"
+                ],
+                [
+                    "35:49"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "indoor option"
+                ],
+                [
+                    "84:97"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "no indoor option whatsoever"
+                ],
+                [
+                    "81:108"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Meager , horrible breakfast , on a frigid outdoor terrace ( in February ) , with no indoor option whatsoever .",
+    "sent_id": "opener_en/kaf/hotel/english00065_454ddd5112d4969a9a26218d2cb6d815-5"
+}

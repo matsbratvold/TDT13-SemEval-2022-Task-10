@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Restaurants"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "ok"
+                ],
+                [
+                    "16:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ok"
+                ],
+                [
+                    "16:18"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "Restaurants"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "not outstanding"
+                ],
+                [
+                    "25:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not outstanding"
+                ],
+                [
+                    "25:40"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Restaurants are ok , but not outstanding .",
+    "sent_id": "opener_en/kaf/hotel/english00059_3f1e667b4e85710912b3c6b5f2f74982-9"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Robbed"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "in elevator of hotel"
+                ],
+                [
+                    "7:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Robbed in elevator of hotel !",
+    "sent_id": "opener_en/kaf/hotel/english00141_a1049912305bfe5c61247438bc2866bd-1"
+}

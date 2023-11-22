@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Great location"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "location"
+                ],
+                [
+                    "6:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Great"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "small rooms"
+                ],
+                [
+                    "17:28"
+                ]
+            ],
+            "Target": [
+                [
+                    "rooms"
+                ],
+                [
+                    "23:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "small"
+                ],
+                [
+                    "17:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Great location , small rooms",
+    "sent_id": "opener_en/kaf/hotel/english00091_64b95794b1aa41efbaabced339b2deff-1"
+}

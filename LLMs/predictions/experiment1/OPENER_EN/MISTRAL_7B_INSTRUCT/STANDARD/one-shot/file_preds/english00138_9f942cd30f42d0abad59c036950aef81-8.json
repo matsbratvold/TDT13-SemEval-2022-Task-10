@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "myself"
+                ],
+                [
+                    "11:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "an average size person"
+                ],
+                [
+                    "18:40"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "still"
+                ],
+                [
+                    "47:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "had to squeeze in order to fit between the shower and wall to get to the toilet"
+                ],
+                [
+                    "55:134"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I consider myself an average size person , but still I had to squeeze in order to fit between the shower and wall to get to the toilet .",
+    "sent_id": "opener_en/kaf/hotel/english00138_9f942cd30f42d0abad59c036950aef81-8"
+}

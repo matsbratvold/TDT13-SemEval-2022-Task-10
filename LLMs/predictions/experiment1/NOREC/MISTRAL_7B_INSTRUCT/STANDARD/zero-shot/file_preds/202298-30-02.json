@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Life-modellen"
+                ],
+                [
+                    "22:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "riktig nok"
+                ],
+                [
+                    "7:17"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "en"
+                ],
+                [
+                    "33:35"
+                ]
+            ],
+            "Target": [
+                [
+                    "Life-modellen"
+                ],
+                [
+                    "22:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mindre utstyrt"
+                ],
+                [
+                    "41:55"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "modell"
+                ],
+                [
+                    "27:33"
+                ]
+            ],
+            "Target": [
+                [
+                    "Life-modellen"
+                ],
+                [
+                    "22:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "til for \u00e5 gi en gunstig lokkepris"
+                ],
+                [
+                    "74:107"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det er riktig nok for Life-modellen , en mindre utstyrt modell som mer er til for \u00e5 gi en gunstig lokkepris .",
+    "sent_id": "202298-30-02"
+}

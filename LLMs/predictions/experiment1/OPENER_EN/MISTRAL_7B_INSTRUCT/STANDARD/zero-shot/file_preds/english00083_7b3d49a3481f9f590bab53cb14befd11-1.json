@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "stay"
+                ],
+                [
+                    "33:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "fantastically"
+                ],
+                [
+                    "19:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stay"
+                ],
+                [
+                    "33:37"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "For the 2nd time a fantastically stay",
+    "sent_id": "opener_en/kaf/hotel/english00083_7b3d49a3481f9f590bab53cb14befd11-1"
+}

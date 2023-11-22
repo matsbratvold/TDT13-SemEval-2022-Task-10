@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "There"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "mice"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "are"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "There are mice in the hotel room .",
+    "sent_id": "opener_en/kaf/hotel/english00054_383c9bd9d83d938ba9cc5d84d2d07b90-2"
+}

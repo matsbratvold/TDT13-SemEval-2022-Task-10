@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "den milit\u00e6re ledelsen"
+                ],
+                [
+                    "33:54"
+                ]
+            ],
+            "Target": [
+                [
+                    "strategien"
+                ],
+                [
+                    "18:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 utnytte de tyske soldatene til siste blodsdr\u00e5pe"
+                ],
+                [
+                    "58:107"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Rasmussen"
+                ],
+                [
+                    "113:122"
+                ]
+            ],
+            "Target": [
+                [
+                    "posisjon"
+                ],
+                [
+                    "143:151"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00e5 fors\u00f8ke \u00e5 verne om guttenes liv"
+                ],
+                [
+                    "160:194"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Det kan synes som strategien fra den milit\u00e6re ledelsen er \u00e5 utnytte de tyske soldatene til siste blodsdr\u00e5pe , og Rasmussen havner uventet i en posisjon der han m\u00e5 fors\u00f8ke \u00e5 verne om guttenes liv .",
+    "sent_id": "400175-09-02"
+}

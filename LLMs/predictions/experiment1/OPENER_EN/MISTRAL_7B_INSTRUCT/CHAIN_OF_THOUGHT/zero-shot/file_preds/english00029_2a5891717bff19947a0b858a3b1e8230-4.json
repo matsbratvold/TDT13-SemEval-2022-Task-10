@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Food"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "tastes"
+                ],
+                [
+                    "26:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "delicious"
+                ],
+                [
+                    "8:17"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Food is delicious and all tastes .",
+    "sent_id": "opener_en/kaf/hotel/english00029_2a5891717bff19947a0b858a3b1e8230-4"
+}

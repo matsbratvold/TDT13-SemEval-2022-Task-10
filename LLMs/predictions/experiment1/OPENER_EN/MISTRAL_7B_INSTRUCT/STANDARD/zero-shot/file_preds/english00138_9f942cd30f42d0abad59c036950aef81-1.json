@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Not coming back"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "coming back"
+                ],
+                [
+                    "4:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Not"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Not coming back",
+    "sent_id": "opener_en/kaf/hotel/english00138_9f942cd30f42d0abad59c036950aef81-1"
+}

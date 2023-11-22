@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "holiday"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very nice"
+                ],
+                [
+                    "2:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "holiday"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "small faults"
+                ],
+                [
+                    "25:37"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "A very nice holiday with small faults",
+    "sent_id": "opener_en/kaf/hotel/english00136_cf8140e17a3855f7a4a38936d6193415-1"
+}

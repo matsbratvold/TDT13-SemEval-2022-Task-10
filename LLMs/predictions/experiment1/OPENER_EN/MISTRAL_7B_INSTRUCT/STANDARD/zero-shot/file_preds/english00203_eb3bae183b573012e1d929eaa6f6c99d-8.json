@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "All in all"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "very cheap"
+                ],
+                [
+                    "28:38"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "All in all"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "can be considered"
+                ],
+                [
+                    "57:74"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "All in all"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "if you can cope with the noise"
+                ],
+                [
+                    "75:105"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "All in all , that 's it , a very cheap accomodation that can be considered if you can cope with the noise .",
+    "sent_id": "opener_en/kaf/hotel/english00203_eb3bae183b573012e1d929eaa6f6c99d-8"
+}

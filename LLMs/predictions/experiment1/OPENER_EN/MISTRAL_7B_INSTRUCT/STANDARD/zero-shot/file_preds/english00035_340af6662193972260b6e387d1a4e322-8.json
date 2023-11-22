@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Alphons"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "helpful"
+                ],
+                [
+                    "17:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Alphons"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "directions"
+                ],
+                [
+                    "44:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "helpful"
+                ],
+                [
+                    "17:24"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Alphons"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "places to visit"
+                ],
+                [
+                    "78:93"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "helpful"
+                ],
+                [
+                    "17:24"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Alphons was very helpful in helping us with directions in the area as well as places to visit .",
+    "sent_id": "opener_en/kaf/hotel/english00035_340af6662193972260b6e387d1a4e322-8"
+}

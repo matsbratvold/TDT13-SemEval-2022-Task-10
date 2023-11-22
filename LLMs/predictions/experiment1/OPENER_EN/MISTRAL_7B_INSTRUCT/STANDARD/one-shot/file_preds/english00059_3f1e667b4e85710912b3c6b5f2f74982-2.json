@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "36:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "business meeting in Paris"
+                ],
+                [
+                    "8:33"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "After a business meeting in Paris , I lost my flight back due to the proverbial after \u00b7 work traffic .",
+    "sent_id": "opener_en/kaf/hotel/english00059_3f1e667b4e85710912b3c6b5f2f74982-2"
+}

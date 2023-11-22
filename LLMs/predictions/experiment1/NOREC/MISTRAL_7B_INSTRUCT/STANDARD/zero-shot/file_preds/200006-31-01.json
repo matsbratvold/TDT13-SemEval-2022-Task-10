@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "du"
+                ],
+                [
+                    "7:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vil du f\u00e5 et varsel"
+                ],
+                [
+                    "61:80"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Dersom du har sittet stille 50 minutter i l\u00f8pet av en time , vil du f\u00e5 et varsel med beskjed om \u00e5 r\u00f8re p\u00e5 deg , eller ta 250 skritt .",
+    "sent_id": "200006-31-01"
+}

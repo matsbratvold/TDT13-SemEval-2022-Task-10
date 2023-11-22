@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "this hotel"
+                ],
+                [
+                    "18:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "staying in this hotel for a few years now"
+                ],
+                [
+                    "7:48"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "we are staying in this hotel for a few years now .",
+    "sent_id": "opener_en/kaf/hotel/english00038_3630f623138397b96ee2a4794334e86f-3"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Med"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "gravr\u00f8st"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gravr\u00f8st"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Med"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "steinmimikk"
+                ],
+                [
+                    "16:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "steinmimikk"
+                ],
+                [
+                    "16:27"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Med gravr\u00f8st og steinmimikk .",
+    "sent_id": "104659-12-02"
+}

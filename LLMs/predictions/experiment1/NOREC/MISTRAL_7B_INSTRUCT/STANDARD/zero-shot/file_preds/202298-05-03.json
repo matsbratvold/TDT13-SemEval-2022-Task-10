@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Allerede"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "dengang sa vi klart fra"
+                ],
+                [
+                    "9:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dette ikke var en veldig effektiv l\u00f8sning"
+                ],
+                [
+                    "36:77"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Allerede dengang sa vi klart fra at dette ikke var en veldig effektiv l\u00f8sning .",
+    "sent_id": "202298-05-03"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "all inclusive"
+                ],
+                [
+                    "8:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "good selection"
+                ],
+                [
+                    "37:51"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "We went all inclusive and there is a good selection for the buffet .",
+    "sent_id": "opener_en/kaf/hotel/english00164_f47aebce11fc3b76fecdd1db6a13904f-5"
+}

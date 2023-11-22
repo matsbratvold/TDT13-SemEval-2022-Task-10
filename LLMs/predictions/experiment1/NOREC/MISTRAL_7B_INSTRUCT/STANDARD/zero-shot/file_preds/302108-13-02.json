@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "siles"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "ut"
+                ],
+                [
+                    "20:22"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Dessverre siles den ut f\u00f8r den f\u00e5r utspilt sin rolle .",
+    "sent_id": "302108-13-02"
+}

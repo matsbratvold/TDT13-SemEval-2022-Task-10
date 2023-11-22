@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Busdriver"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "Peter Langhout"
+                ],
+                [
+                    "10:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "understanding"
+                ],
+                [
+                    "41:54"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Busdriver"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "Peter Langhout"
+                ],
+                [
+                    "10:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "helpful"
+                ],
+                [
+                    "59:66"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Busdriver Peter Langhout was fortunately understanding and helpful .",
+    "sent_id": "opener_en/kaf/hotel/english00141_a1049912305bfe5c61247438bc2866bd-7"
+}

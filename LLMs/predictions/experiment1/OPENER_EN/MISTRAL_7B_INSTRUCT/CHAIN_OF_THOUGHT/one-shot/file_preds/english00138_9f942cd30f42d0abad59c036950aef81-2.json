@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "28:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cheap and located in the center"
+                ],
+                [
+                    "34:65"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Advantages of this hostal \u00b7 it is cheap and located in the center .",
+    "sent_id": "opener_en/kaf/hotel/english00138_9f942cd30f42d0abad59c036950aef81-2"
+}

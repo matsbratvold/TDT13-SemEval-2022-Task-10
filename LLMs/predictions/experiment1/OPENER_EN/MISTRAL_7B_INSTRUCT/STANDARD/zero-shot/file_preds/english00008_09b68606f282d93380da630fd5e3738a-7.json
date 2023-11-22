@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "They"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "smoked everywhere"
+                ],
+                [
+                    "5:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not pleasant"
+                ],
+                [
+                    "33:45"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "They smoked everywhere which was not pleasant .",
+    "sent_id": "opener_en/kaf/hotel/english00008_09b68606f282d93380da630fd5e3738a-7"
+}

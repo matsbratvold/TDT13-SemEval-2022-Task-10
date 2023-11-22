@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "bilen"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "Toyota Safety Sense systemet"
+                ],
+                [
+                    "113:141"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kommer"
+                ],
+                [
+                    "3:9"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "filskiftholder"
+                ],
+                [
+                    "40:54"
+                ]
+            ],
+            "Target": [
+                [
+                    "Toyota Safety Sense systemet"
+                ],
+                [
+                    "113:141"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "inng\u00e5r"
+                ],
+                [
+                    "104:110"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "automatisk blending av lys"
+                ],
+                [
+                    "57:83"
+                ]
+            ],
+            "Target": [
+                [
+                    "Toyota Safety Sense systemet"
+                ],
+                [
+                    "113:141"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "inng\u00e5r"
+                ],
+                [
+                    "104:110"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "N\u00e5 kommer bilen med skiltgjenkjenning , filskiftholder , automatisk blending av lys , og andre ting som inng\u00e5r i Toyota Safety Sense systemet .",
+    "sent_id": "202298-18-02"
+}

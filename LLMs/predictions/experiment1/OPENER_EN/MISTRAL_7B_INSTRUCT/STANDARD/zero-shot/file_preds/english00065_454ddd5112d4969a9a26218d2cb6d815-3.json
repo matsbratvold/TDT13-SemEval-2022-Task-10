@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dark"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "bathroom"
+                ],
+                [
+                    "24:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Dark"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "crazily designed"
+                ],
+                [
+                    "7:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "bathroom"
+                ],
+                [
+                    "24:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "crazily designed"
+                ],
+                [
+                    "7:23"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "no electrical outlet"
+                ],
+                [
+                    "38:58"
+                ]
+            ],
+            "Target": [
+                [
+                    "bathroom"
+                ],
+                [
+                    "24:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "no electrical outlet"
+                ],
+                [
+                    "38:58"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "no soap dish in shower"
+                ],
+                [
+                    "61:83"
+                ]
+            ],
+            "Target": [
+                [
+                    "bathroom"
+                ],
+                [
+                    "24:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "no soap dish in shower"
+                ],
+                [
+                    "61:83"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "minuscule shelf for personal amenities"
+                ],
+                [
+                    "101:139"
+                ]
+            ],
+            "Target": [
+                [
+                    "bathroom"
+                ],
+                [
+                    "24:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "minuscule shelf for personal amenities"
+                ],
+                [
+                    "101:139"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Dark , crazily designed bathroom with no electrical outlet , no soap dish in shower ( no bathtub ) , minuscule shelf for personal amenities .",
+    "sent_id": "opener_en/kaf/hotel/english00065_454ddd5112d4969a9a26218d2cb6d815-3"
+}

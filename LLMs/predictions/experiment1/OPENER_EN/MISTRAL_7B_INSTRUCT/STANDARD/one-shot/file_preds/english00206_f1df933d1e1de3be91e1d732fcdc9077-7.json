@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "A"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "beautiful setting"
+                ],
+                [
+                    "2:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "by the sea"
+                ],
+                [
+                    "20:30"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "33:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "very good facilities"
+                ],
+                [
+                    "78:98"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "on offer"
+                ],
+                [
+                    "99:107"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "33:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "had had time"
+                ],
+                [
+                    "45:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "to make more"
+                ],
+                [
+                    "58:70"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A beautiful setting by the sea \u00b7 Ijust wish Ihad had time to make more of the very good facilities on offer .",
+    "sent_id": "opener_en/kaf/hotel/english00206_f1df933d1e1de3be91e1d732fcdc9077-7"
+}

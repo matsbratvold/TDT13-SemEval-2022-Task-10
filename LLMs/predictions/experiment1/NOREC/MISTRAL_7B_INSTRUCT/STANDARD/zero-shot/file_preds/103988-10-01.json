@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ordet brukes"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "rumpe og twerking"
+                ],
+                [
+                    "43:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stort sett som en metafor"
+                ],
+                [
+                    "13:38"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "selvf\u00f8lgelig ogs\u00e5"
+                ],
+                [
+                    "67:84"
+                ]
+            ],
+            "Target": [
+                [
+                    "sjampis og goood stemning"
+                ],
+                [
+                    "85:110"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ogs\u00e5"
+                ],
+                [
+                    "80:84"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Ordet brukes stort sett som en metafor for rumpe og twerking , men selvf\u00f8lgelig ogs\u00e5 sjampis og goood stemning .",
+    "sent_id": "103988-10-01"
+}

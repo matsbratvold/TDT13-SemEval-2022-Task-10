@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The staff"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "this"
+                ],
+                [
+                    "38:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "takes no responsibility for this"
+                ],
+                [
+                    "10:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The staff"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "this"
+                ],
+                [
+                    "38:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "telling this is not a hotel"
+                ],
+                [
+                    "45:72"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The staff takes no responsibility for this , telling this is not a hotel .",
+    "sent_id": "opener_en/kaf/hotel/english00213_f578dc1efdd03b8b4bbd8c7958a7121a-6"
+}

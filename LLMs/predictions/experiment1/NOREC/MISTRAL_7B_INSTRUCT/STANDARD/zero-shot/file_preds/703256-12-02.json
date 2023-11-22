@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ja"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Renberg"
+                ],
+                [
+                    "9:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "klarer p\u00e5 forfriskende vis \u00e5 drive historien framover"
+                ],
+                [
+                    "17:70"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Ja , men Renberg klarer p\u00e5 forfriskende vis \u00e5 drive historien framover .",
+    "sent_id": "703256-12-02"
+}

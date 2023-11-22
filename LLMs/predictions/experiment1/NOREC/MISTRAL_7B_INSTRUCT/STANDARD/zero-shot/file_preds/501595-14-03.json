@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "En s\u00e6rdeles negativ opplevelse"
+                ],
+                [
+                    "0:30"
+                ]
+            ],
+            "Target": [
+                [
+                    "ett hjerte"
+                ],
+                [
+                    "48:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "indikeres"
+                ],
+                [
+                    "35:44"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "En s\u00e6rdeles negativ opplevelse vil indikeres av ett hjerte .",
+    "sent_id": "501595-14-03"
+}

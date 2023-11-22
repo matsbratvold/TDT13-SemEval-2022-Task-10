@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Berlinhistorier"
+                ],
+                [
+                    "2:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "jernteppet"
+                ],
+                [
+                    "43:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "viser konsekvensene"
+                ],
+                [
+                    "20:39"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "\u00ab Berlinhistorier \u00bb viser konsekvensene av jernteppet",
+    "sent_id": "301242-01-01"
+}

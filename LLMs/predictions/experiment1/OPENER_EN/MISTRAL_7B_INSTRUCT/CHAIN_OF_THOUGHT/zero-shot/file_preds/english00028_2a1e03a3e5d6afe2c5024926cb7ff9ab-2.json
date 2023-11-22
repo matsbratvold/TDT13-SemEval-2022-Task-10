@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hotel"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "under construction"
+                ],
+                [
+                    "10:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "under construction"
+                ],
+                [
+                    "10:28"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Hotel was under construction .",
+    "sent_id": "opener_en/kaf/hotel/english00028_2a1e03a3e5d6afe2c5024926cb7ff9ab-2"
+}

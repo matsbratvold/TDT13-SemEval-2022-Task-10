@@ -1,0 +1,94 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Paaid"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "All inclusive"
+                ],
+                [
+                    "10:23"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Paaid"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Paaid"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Paaid"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "RS375 off the ala carte menu"
+                ],
+                [
+                    "313:341"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Paaid for All inclusive but this was not exactly what I received , for this I had to pay ' extra ' , All inclusive to this hotel is meals in the main self sevice restaurant , does not include any other restaurant on the site , the local fish market evening was extra as well as the ala carte , they do give you a RS375 off the ala carte menu which is an insult due to the price charged for self service .",
+    "sent_id": "opener_en/kaf/hotel/english00112_7ec44bf4213be4f1226c04cb302f1b7b-3"
+}

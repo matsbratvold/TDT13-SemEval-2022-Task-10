@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "A"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "12:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "beautiful"
+                ],
+                [
+                    "2:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "A"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "take time to explore"
+                ],
+                [
+                    "20:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "take time to explore"
+                ],
+                [
+                    "20:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A beautiful hotel , take time to explore !",
+    "sent_id": "opener_en/kaf/hotel/english00214_f731285c2d232cf15e5cdae66ab186b1-2"
+}

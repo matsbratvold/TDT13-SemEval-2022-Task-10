@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "you"
+                ],
+                [
+                    "3:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "current lifestyle"
+                ],
+                [
+                    "37:54"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "break"
+                ],
+                [
+                    "21:26"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "you"
+                ],
+                [
+                    "3:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "destination"
+                ],
+                [
+                    "86:97"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "genuine and peaceful"
+                ],
+                [
+                    "65:85"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "If you really want a break from your current lifestyle , it 's a genuine and peaceful destination .",
+    "sent_id": "opener_en/kaf/hotel/english00132_c92dfef90d8b18e771944f1e8ac008f5-3"
+}

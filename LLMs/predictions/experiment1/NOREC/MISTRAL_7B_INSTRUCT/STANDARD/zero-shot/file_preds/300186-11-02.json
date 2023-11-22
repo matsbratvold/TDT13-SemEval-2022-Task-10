@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "12:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "dem"
+                ],
+                [
+                    "40:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Det gj\u00f8r"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det gj\u00f8r at vi m\u00e5 bruke mye tid p\u00e5 \u00e5 f\u00e5 dem presentert og bli kjent med dem .",
+    "sent_id": "300186-11-02"
+}

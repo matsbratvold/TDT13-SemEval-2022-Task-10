@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "no problems there"
+                ],
+                [
+                    "72:89"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": "",
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "everyone got on really well"
+                ],
+                [
+                    "90:117"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The main nationalities were German and Swiss and afew of us Brits , but no problems there everyone got on really well .",
+    "sent_id": "opener_en/kaf/hotel/english00081_74f5522e8f5628a2c6591c3411d1bc7f-4"
+}

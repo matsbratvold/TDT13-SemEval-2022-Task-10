@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "I would not recommend this hotel"
+                ],
+                [
+                    "11:43"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In overall I would not recommend this hotel .",
+    "sent_id": "opener_en/kaf/hotel/english00054_383c9bd9d83d938ba9cc5d84d2d07b90-7"
+}

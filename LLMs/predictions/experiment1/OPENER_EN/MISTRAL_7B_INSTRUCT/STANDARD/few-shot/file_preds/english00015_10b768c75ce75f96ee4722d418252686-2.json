@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "the hotel"
+                ],
+                [
+                    "33:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "might be a good option in this category"
+                ],
+                [
+                    "116:155"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "we"
+                ],
+                [
+                    "162:164"
+                ]
+            ],
+            "Target": [
+                [
+                    "the hotel"
+                ],
+                [
+                    "33:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "did not like it"
+                ],
+                [
+                    "165:180"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I understand that in the Ukraine the hotel standards are not the same as in other areas in the world and this hotel might be a good option in this category , but we did not like it .",
+    "sent_id": "opener_en/kaf/hotel/english00015_10b768c75ce75f96ee4722d418252686-2"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Nice play"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "but"
+                ],
+                [
+                    "10:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not for holidays"
+                ],
+                [
+                    "14:30"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Nice play but not for holidays",
+    "sent_id": "opener_en/kaf/hotel/english00039_2bc0812c3efc22fca59475d1ea37a251-1"
+}

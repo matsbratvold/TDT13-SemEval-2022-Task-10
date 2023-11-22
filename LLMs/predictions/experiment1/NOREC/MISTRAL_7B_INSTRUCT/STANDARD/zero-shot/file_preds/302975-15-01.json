@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "skjebnesvangre \u00f8yeblikket"
+                ],
+                [
+                    "8:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dette"
+                ],
+                [
+                    "2:7"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "I dette skjebnesvangre \u00f8yeblikket er bildet viktig .",
+    "sent_id": "302975-15-01"
+}

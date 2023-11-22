@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Condition of the room"
+                ],
+                [
+                    "0:21"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Condition of the room is very poor and also it was not cleaned properly .",
+    "sent_id": "opener_en/kaf/hotel/english00001_039d4b7b17acc9ef4243f32de0e3c70e-3"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Perhaps one should choose"
+                ],
+                [
+                    "0:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "the audience"
+                ],
+                [
+                    "26:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "something more international"
+                ],
+                [
+                    "39:67"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Perhaps one should choose the audience something more international , mainly because there are very many Russians .",
+    "sent_id": "opener_en/kaf/hotel/english00136_cf8140e17a3855f7a4a38936d6193415-7"
+}

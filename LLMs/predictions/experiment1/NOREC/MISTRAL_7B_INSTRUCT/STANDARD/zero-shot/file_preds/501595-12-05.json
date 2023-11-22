@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "desserter"
+                ],
+                [
+                    "88:97"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Men jeg sitter likevel igjen og lurer p\u00e5 om det ikke finnes noen mer kreative peruanske desserter , som ville bidratt til et mer helhetlig og nyskapende konsept .",
+    "sent_id": "501595-12-05"
+}

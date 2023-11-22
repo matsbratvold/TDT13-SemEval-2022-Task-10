@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Noe"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "hennes personlighet"
+                ],
+                [
+                    "7:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "drukner litt i produksjonen"
+                ],
+                [
+                    "27:54"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "Silja Sols"
+                ],
+                [
+                    "60:70"
+                ]
+            ],
+            "Target": [
+                [
+                    "stemme"
+                ],
+                [
+                    "71:77"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kommer ikke gjennom like godt som p\u00e5 hennes to f\u00f8rste plater"
+                ],
+                [
+                    "78:138"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Noe av hennes personlighet drukner litt i produksjonen , og Silja Sols stemme kommer ikke gjennom like godt som p\u00e5 hennes to f\u00f8rste plater .",
+    "sent_id": "501385-05-04"
+}

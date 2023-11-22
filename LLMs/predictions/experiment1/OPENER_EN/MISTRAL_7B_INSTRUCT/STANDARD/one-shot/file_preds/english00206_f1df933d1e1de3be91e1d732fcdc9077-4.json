@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The meeting room"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "was very well serviced"
+                ],
+                [
+                    "17:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "the coffee machine was fabulous"
+                ],
+                [
+                    "42:73"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The meeting room was very well serviced ( the coffee machine was fabulous ) and we were able to focus on our Agenda without having to worry about the operational elements of the visit .",
+    "sent_id": "opener_en/kaf/hotel/english00206_f1df933d1e1de3be91e1d732fcdc9077-4"
+}

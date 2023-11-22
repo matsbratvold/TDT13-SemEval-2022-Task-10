@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Great Hotel"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "Hotel"
+                ],
+                [
+                    "6:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Great"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Great Hotel !",
+    "sent_id": "opener_en/kaf/hotel/english00059_572d2abf5b0020974b5e8838c9205793-1"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hele tiden"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "det gode riff eller melodi"
+                ],
+                [
+                    "15:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med det gode riff eller melodi i front"
+                ],
+                [
+                    "11:49"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Hele tiden med det gode riff eller melodi i front .",
+    "sent_id": "301662-05-04"
+}

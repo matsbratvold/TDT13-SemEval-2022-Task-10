@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "You"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "located among the vineyards and olive trees"
+                ],
+                [
+                    "8:51"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "You are located among the vineyards and olive trees .",
+    "sent_id": "opener_en/kaf/hotel/english00023_1aa3c5b4f003f6646e3d6f72045d4750-3"
+}

@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bed"
+                ],
+                [
+                    "41:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "large and comfortable"
+                ],
+                [
+                    "19:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "furniture"
+                ],
+                [
+                    "47:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "included a desk and 2 seats"
+                ],
+                [
+                    "57:84"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In addition to the large and comfortable bed , furniture included a desk and 2 seats .",
+    "sent_id": "opener_en/kaf/hotel/english00113_8161bacaf54503f451c7246b073003a5-5"
+}

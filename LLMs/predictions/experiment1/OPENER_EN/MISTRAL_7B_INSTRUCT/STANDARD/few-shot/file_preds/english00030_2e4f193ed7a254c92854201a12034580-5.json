@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "quiet place to stay"
+                ],
+                [
+                    "52:71"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Although some rennovation was taking place it was a quiet place to stay .",
+    "sent_id": "opener_en/kaf/hotel/english00030_2e4f193ed7a254c92854201a12034580-5"
+}

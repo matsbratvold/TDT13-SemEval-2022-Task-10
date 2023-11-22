@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "perfume store"
+                ],
+                [
+                    "9:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "in the hotel"
+                ],
+                [
+                    "23:35"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Also the perfume store in the hotel .",
+    "sent_id": "opener_en/kaf/hotel/english00140_a052f3702cce7297bc2aff92662d1db3-6"
+}

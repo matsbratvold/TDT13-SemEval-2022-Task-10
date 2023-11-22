@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Tele and air condition"
+                ],
+                [
+                    "0:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "out of order"
+                ],
+                [
+                    "23:35"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Tele and air condition out of order .",
+    "sent_id": "opener_en/kaf/hotel/english00172_cee4504ab4cc06e93f44e33ed1e02b4f-5"
+}

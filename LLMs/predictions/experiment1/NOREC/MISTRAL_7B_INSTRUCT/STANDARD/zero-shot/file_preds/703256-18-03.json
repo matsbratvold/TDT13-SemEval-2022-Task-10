@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "t\u00e5rev\u00e5tt"
+                ],
+                [
+                    "7:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gripende"
+                ],
+                [
+                    "19:27"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Det er t\u00e5rev\u00e5tt og gripende .",
+    "sent_id": "703256-18-03"
+}

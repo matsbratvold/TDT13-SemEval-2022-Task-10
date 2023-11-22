@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "leaking toilet"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "floor"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "floods"
+                ],
+                [
+                    "21:27"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "odd stains"
+                ],
+                [
+                    "40:50"
+                ]
+            ],
+            "Target": [
+                [
+                    "sofa"
+                ],
+                [
+                    "54:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stains"
+                ],
+                [
+                    "44:50"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "fist hole"
+                ],
+                [
+                    "88:97"
+                ]
+            ],
+            "Target": [
+                [
+                    "bedroom door"
+                ],
+                [
+                    "101:113"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hole"
+                ],
+                [
+                    "93:97"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "bed that collapses"
+                ],
+                [
+                    "121:139"
+                ]
+            ],
+            "Target": [
+                [
+                    "bed"
+                ],
+                [
+                    "101:104"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "collapses"
+                ],
+                [
+                    "130:139"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "leaking toilet which floods floor ..... odd stains on sofa , had to sit on towels ..... fist hole in bedroom door ...... bed that collapses .",
+    "sent_id": "opener_en/kaf/hotel/english00223_fe94638c44f4dd789e8a42550e1e6beb-2"
+}

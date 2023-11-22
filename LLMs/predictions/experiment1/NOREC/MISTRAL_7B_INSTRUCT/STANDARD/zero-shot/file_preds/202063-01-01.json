@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dyr"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "kraftkar"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forkj\u00e6rlighet"
+                ],
+                [
+                    "17:30"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Dyr kraftkar med forkj\u00e6rlighet for film",
+    "sent_id": "202063-01-01"
+}

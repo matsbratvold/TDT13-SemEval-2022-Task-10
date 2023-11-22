@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "Keep up"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Keep up di good work .",
+    "sent_id": "opener_en/kaf/hotel/english00117_add4bfee14df94e5646b1c7018b6c690-5"
+}

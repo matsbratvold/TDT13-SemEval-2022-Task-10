@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Also"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "combined shampoo showergel wall units"
+                ],
+                [
+                    "22:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is displeasing"
+                ],
+                [
+                    "66:80"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Also had one of those combined shampoo showergel wall units which is displeasing .",
+    "sent_id": "opener_en/kaf/hotel/english00156_bceddd6fce4fdf6cc6c030fee377f4aa-8"
+}

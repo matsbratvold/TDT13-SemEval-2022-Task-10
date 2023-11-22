@@ -1,0 +1,138 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "me and my friend"
+                ],
+                [
+                    "4:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "the perfekt Hotel"
+                ],
+                [
+                    "28:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "perfekt"
+                ],
+                [
+                    "32:39"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "me and my friend"
+                ],
+                [
+                    "4:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "the beach"
+                ],
+                [
+                    "81:90"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enjoy"
+                ],
+                [
+                    "65:70"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "me and my friend"
+                ],
+                [
+                    "4:20"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "trips"
+                ],
+                [
+                    "103:108"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "me and my friend"
+                ],
+                [
+                    "4:20"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "market"
+                ],
+                [
+                    "167:173"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "me and my friend"
+                ],
+                [
+                    "4:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "the perfekt Hotel"
+                ],
+                [
+                    "28:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "satisfied"
+                ],
+                [
+                    "243:252"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "For me and my friend it was the perfekt Hotel for our purpose to enjoy a week at the beach and do some trips to Kallithea or to Kassandria ( every Thursday there is a market and this is great fun and a nice alternation ; ) ) All in all we are satisfied .",
+    "sent_id": "opener_en/kaf/hotel/english00004_077eb74146f2afec4488e171a134f655-7"
+}

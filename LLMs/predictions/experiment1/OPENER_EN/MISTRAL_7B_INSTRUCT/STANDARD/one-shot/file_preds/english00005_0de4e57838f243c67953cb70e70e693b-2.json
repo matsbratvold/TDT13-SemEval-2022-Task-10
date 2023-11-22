@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "My room"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "seemed to be taken"
+                ],
+                [
+                    "8:26"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "My room seemed to be taken .",
+    "sent_id": "opener_en/kaf/hotel/english00005_0de4e57838f243c67953cb70e70e693b-2"
+}

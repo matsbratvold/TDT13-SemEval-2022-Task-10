@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Selv"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "unge Pepe"
+                ],
+                [
+                    "41:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mer enn lange blikk"
+                ],
+                [
+                    "18:37"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Selv kaster Maria mer enn lange blikk p\u00e5 unge Pepe , som planlegger \u00e5 emigrere til USA .",
+    "sent_id": "500201-05-02"
+}

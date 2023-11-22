@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "relaxed"
+                ],
+                [
+                    "46:53"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "the huge pools or beautiful beach"
+                ],
+                [
+                    "57:90"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "relaxed"
+                ],
+                [
+                    "46:53"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "cocktails accompanied by a live singer"
+                ],
+                [
+                    "121:159"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "finished"
+                ],
+                [
+                    "95:103"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "We started each day with a buffet breakfast , relaxed at the huge pools or beautiful beach and finished the evening with cocktails accompanied by a live singer .",
+    "sent_id": "opener_en/kaf/hotel/english00165_c7ecb4fa1c55fb7a9d4cbe384a48efb4-4"
+}

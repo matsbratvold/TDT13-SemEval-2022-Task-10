@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fitbits aktivitetsarmb\u00e5nd"
+                ],
+                [
+                    "22:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vurdert"
+                ],
+                [
+                    "14:21"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fitbits aktivitetsarmb\u00e5nd"
+                ],
+                [
+                    "22:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "syntes"
+                ],
+                [
+                    "90:96"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fitbits aktivitetsarmb\u00e5nd"
+                ],
+                [
+                    "22:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "v\u00e6re"
+                ],
+                [
+                    "54:58"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fitbits aktivitetsarmb\u00e5nd"
+                ],
+                [
+                    "22:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blant de aller beste"
+                ],
+                [
+                    "59:79"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Vi har alltid vurdert Fitbits aktivitetsarmb\u00e5nd til \u00e5 v\u00e6re blant de aller beste , men har syntes at designen har v\u00e6rt i kjedeligste laget .",
+    "sent_id": "200006-06-01"
+}

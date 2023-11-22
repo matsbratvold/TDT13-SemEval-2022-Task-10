@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The bad things"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "shopping center in the hotel"
+                ],
+                [
+                    "36:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "were really bad"
+                ],
+                [
+                    "65:80"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "The bad things though were that the shopping center in the hotel were really bad .",
+    "sent_id": "opener_en/kaf/hotel/english00140_a052f3702cce7297bc2aff92662d1db3-8"
+}

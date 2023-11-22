@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "clean"
+                ],
+                [
+                    "11:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "clean"
+                ],
+                [
+                    "11:16"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "rooms"
+                ],
+                [
+                    "24:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nice rooms"
+                ],
+                [
+                    "19:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "location"
+                ],
+                [
+                    "37:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nice location"
+                ],
+                [
+                    "32:45"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Lovely and clean , nice rooms , nice location .",
+    "sent_id": "opener_en/kaf/hotel/english00112_7ec44bf4213be4f1226c04cb302f1b7b-2"
+}

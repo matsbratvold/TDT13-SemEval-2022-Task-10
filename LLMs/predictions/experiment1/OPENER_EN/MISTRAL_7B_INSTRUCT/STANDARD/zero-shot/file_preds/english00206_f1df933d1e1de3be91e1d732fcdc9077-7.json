@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "A"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "setting"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "beautiful"
+                ],
+                [
+                    "2:11"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "33:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "facilities"
+                ],
+                [
+                    "88:98"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very good"
+                ],
+                [
+                    "78:87"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "A beautiful setting by the sea \u00b7 Ijust wish Ihad had time to make more of the very good facilities on offer .",
+    "sent_id": "opener_en/kaf/hotel/english00206_f1df933d1e1de3be91e1d732fcdc9077-7"
+}

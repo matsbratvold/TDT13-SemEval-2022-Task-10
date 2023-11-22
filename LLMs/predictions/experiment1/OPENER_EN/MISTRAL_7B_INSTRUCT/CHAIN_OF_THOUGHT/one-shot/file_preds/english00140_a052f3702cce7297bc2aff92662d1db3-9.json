@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The salesmen"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "The salesmen"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rude"
+                ],
+                [
+                    "49:53"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The salesmen could take a no and they were kinda rude .",
+    "sent_id": "opener_en/kaf/hotel/english00140_a052f3702cce7297bc2aff92662d1db3-9"
+}

@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "staff"
+                ],
+                [
+                    "13:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "attentive and helpful"
+                ],
+                [
+                    "22:43"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "stay"
+                ],
+                [
+                    "54:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "pleasant"
+                ],
+                [
+                    "63:71"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "In general , staff is attentive and helpful , and the stay was pleasant .",
+    "sent_id": "opener_en/kaf/hotel/english00195_e73656ac387fb1d16eee3f0baafa97d3-6"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Selv"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "arven fra s\u00e6rlig klassisk amerikansk film"
+                ],
+                [
+                    "8:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "st\u00e5r denne filmen likevel st\u00f8tt"
+                ],
+                [
+                    "63:94"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Selv"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "klassisk dansk film"
+                ],
+                [
+                    "99:118"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "st\u00e5r denne filmen likevel st\u00f8tt"
+                ],
+                [
+                    "63:94"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Selv om arven fra s\u00e6rlig klassisk amerikansk film er merkbar , st\u00e5r denne filmen likevel st\u00f8tt som klassisk dansk film slik vi kjenner den p\u00e5 sitt aller beste .",
+    "sent_id": "400175-17-01"
+}

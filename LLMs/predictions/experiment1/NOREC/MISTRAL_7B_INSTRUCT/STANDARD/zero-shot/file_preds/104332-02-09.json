@@ -1,0 +1,22 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "unknown",
+            "Intensity": "unknown"
+        }
+    ],
+    "text": "S\u00e5 , hvem er det som er g\u00e6\u00e6rn n\u00e5 ?",
+    "sent_id": "104332-02-09"
+}

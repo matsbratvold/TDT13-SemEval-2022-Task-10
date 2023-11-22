@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "we"
+                ],
+                [
+                    "6:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "pension"
+                ],
+                [
+                    "28:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stayed"
+                ],
+                [
+                    "9:15"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "we"
+                ],
+                [
+                    "6:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "kitchenware"
+                ],
+                [
+                    "44:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "were"
+                ],
+                [
+                    "56:60"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "And \u00b7 we stayed without any pension and the kitchenware were very deficient .",
+    "sent_id": "opener_en/kaf/hotel/english00045_308abf0d21bd195544447890f464633b-4"
+}

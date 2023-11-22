@@ -1,0 +1,74 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fitbit Alta"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Fitbit Alta"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "Sony SmartBand 2"
+                ],
+                [
+                    "107:123"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Fitbit Alta"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "Jawbone UP3"
+                ],
+                [
+                    "130:141"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Fitbit Alta er ikke et direkte d\u00e5rlig aktivitetsarmb\u00e5nd , og vi foretrekker den lett over alternativer som Sony SmartBand 2 eller Jawbone UP3 , fordi den i motsetning til de to sistnevnte har skjerm .",
+    "sent_id": "200006-42-01"
+}

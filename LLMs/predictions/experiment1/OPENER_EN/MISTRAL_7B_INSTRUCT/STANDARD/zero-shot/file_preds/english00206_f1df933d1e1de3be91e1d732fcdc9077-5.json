@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "skype"
+                ],
+                [
+                    "38:43"
+                ]
+            ],
+            "Target": [
+                [
+                    "technology provided"
+                ],
+                [
+                    "4:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "worked fine"
+                ],
+                [
+                    "24:35"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "The technology provided worked fine ( skype ) for our needs .",
+    "sent_id": "opener_en/kaf/hotel/english00206_f1df933d1e1de3be91e1d732fcdc9077-5"
+}

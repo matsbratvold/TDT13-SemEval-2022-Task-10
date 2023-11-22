@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Otherwise"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "they"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very , very , very friendly"
+                ],
+                [
+                    "32:59"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Otherwise , they are all trying very , very , very friendly .",
+    "sent_id": "opener_en/kaf/hotel/english00136_cf8140e17a3855f7a4a38936d6193415-5"
+}

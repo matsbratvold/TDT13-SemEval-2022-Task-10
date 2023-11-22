@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "caffees beside hostal"
+                ],
+                [
+                    "39:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "welcomed"
+                ],
+                [
+                    "99:107"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "We were having breakfast in one of the caffees beside hostal and already on the second day we were welcomed like good friends .",
+    "sent_id": "opener_en/kaf/hotel/english00138_9f942cd30f42d0abad59c036950aef81-4"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "mine"
+                ],
+                [
+                    "7:11"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "framf\u00f8ring"
+                ],
+                [
+                    "50:60"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Ett av mine absolutte konserth\u00f8ydepunkter er hans framf\u00f8ring av \u00ab Dark Side Of The Moon \u00bb - og h\u00f8ydepunkter fra Pink Floyd-katalogen - i Bergen for ganske n\u00f8yaktig ti \u00e5r siden .",
+    "sent_id": "304196-22-02"
+}

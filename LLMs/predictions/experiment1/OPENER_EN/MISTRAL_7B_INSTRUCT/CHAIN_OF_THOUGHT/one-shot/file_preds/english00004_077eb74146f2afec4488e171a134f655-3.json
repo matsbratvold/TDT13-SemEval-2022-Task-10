@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "There is also a lift"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "25:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "annoying to wait for it"
+                ],
+                [
+                    "31:54"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "because everyone want to use it"
+                ],
+                [
+                    "57:88"
+                ]
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "25:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "annoying to wait for it"
+                ],
+                [
+                    "31:54"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "so we did body practice every day"
+                ],
+                [
+                    "120:153"
+                ]
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "25:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "annoying to wait for it"
+                ],
+                [
+                    "31:54"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "There is also a lift but it is annoying to wait for it , because everyone want to use it and you have to queue for it , so we did body practice every day .",
+    "sent_id": "opener_en/kaf/hotel/english00004_077eb74146f2afec4488e171a134f655-3"
+}

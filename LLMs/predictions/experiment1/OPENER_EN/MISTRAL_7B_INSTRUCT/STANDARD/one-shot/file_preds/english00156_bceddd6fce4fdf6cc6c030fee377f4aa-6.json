@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "As a gold member"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "I enjoyed an upgrade"
+                ],
+                [
+                    "17:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very large room with lots of floor space"
+                ],
+                [
+                    "43:83"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "As a gold member I enjoyed an upgrade to a very large room with lots of floor space .",
+    "sent_id": "opener_en/kaf/hotel/english00156_bceddd6fce4fdf6cc6c030fee377f4aa-6"
+}

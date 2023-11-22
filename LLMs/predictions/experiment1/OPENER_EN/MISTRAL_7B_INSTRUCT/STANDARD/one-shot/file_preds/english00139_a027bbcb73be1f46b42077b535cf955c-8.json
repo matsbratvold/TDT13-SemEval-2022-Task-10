@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Location"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "little far from city center"
+                ],
+                [
+                    "12:39"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Location is little far from city center .",
+    "sent_id": "opener_en/kaf/hotel/english00139_a027bbcb73be1f46b42077b535cf955c-8"
+}

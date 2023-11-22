@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "Just average"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Just average",
+    "sent_id": "opener_en/kaf/hotel/english00139_d1d16f606db4a5ea9d19e6af2c969115-1"
+}

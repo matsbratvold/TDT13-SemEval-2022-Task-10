@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Porsjonene"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "maten"
+                ],
+                [
+                    "80:85"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enorme"
+                ],
+                [
+                    "14:20"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "vi"
+                ],
+                [
+                    "26:28"
+                ]
+            ],
+            "Target": [
+                [
+                    "meny"
+                ],
+                [
+                    "68:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "godt kunne ha delt"
+                ],
+                [
+                    "46:64"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Porsjonene er enorme , og vi sp\u00f8ker med at to godt kunne ha delt en meny ut fra maten som ligger igjen .",
+    "sent_id": "501595-11-02"
+}

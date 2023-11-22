@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "In the bar areas"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "plenty of tables but not enough tables so nowhere to sit"
+                ],
+                [
+                    "28:84"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In the bar areas there were plenty of tables but not enough tables so nowhere to sit .",
+    "sent_id": "opener_en/kaf/hotel/english00008_09b68606f282d93380da630fd5e3738a-5"
+}

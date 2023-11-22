@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Som"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "trapp"
+                ],
+                [
+                    "12:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blir"
+                ],
+                [
+                    "4:8"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Som blir en trapp til slutt .",
+    "sent_id": "003036-06-05"
+}

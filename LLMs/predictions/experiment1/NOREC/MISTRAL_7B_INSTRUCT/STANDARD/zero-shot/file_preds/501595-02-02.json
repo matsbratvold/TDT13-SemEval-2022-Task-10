@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hos Munken bistro"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Target": [
+                [
+                    "porsjoner rustikk hverdagsmat"
+                ],
+                [
+                    "31:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "helt uten j\u00e5leri"
+                ],
+                [
+                    "63:79"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Hos Munken bistro f\u00e5r du store porsjoner rustikk hverdagsmat , helt uten j\u00e5leri .",
+    "sent_id": "501595-02-02"
+}

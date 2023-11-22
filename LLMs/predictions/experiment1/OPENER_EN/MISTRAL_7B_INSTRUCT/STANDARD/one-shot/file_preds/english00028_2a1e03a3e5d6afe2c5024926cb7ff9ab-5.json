@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "The room"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "OK"
+                ],
+                [
+                    "13:15"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The room was OK .",
+    "sent_id": "opener_en/kaf/hotel/english00028_2a1e03a3e5d6afe2c5024926cb7ff9ab-5"
+}

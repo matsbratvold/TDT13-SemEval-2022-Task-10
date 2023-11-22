@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "location"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "flat"
+                ],
+                [
+                    "58:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "great spot"
+                ],
+                [
+                    "22:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "location"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "flat"
+                ],
+                [
+                    "58:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sadly the state of the flat"
+                ],
+                [
+                    "35:62"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The location was in a great spot , sadly the state of the flat let it down .",
+    "sent_id": "opener_en/kaf/hotel/english00223_fe94638c44f4dd789e8a42550e1e6beb-4"
+}

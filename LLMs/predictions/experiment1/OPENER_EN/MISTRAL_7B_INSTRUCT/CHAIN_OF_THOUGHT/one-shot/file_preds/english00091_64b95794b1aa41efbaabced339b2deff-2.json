@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Stayed here before and after an educational conference in Barcelona"
+                ],
+                [
+                    "0:67"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "Stayed here"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "our plane flew into Madrid"
+                ],
+                [
+                    "70:96"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "flew into Madrid"
+                ],
+                [
+                    "80:96"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Stayed here before and after an educational conference in Barcelona ( our plane flew into Madrid ) .",
+    "sent_id": "opener_en/kaf/hotel/english00091_64b95794b1aa41efbaabced339b2deff-2"
+}

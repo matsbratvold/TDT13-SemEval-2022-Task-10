@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "My wife"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "had to borrow money"
+                ],
+                [
+                    "8:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "had to borrow money"
+                ],
+                [
+                    "8:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "My wife had to borrow money from others to travel to the police by taxi .",
+    "sent_id": "opener_en/kaf/hotel/english00141_a1049912305bfe5c61247438bc2866bd-6"
+}

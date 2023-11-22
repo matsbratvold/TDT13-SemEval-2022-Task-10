@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "room breakfast"
+                ],
+                [
+                    "5:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tasty and quite large , awesome"
+                ],
+                [
+                    "24:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In \u00b7 room breakfast was tasty and quite large , awesome .",
+    "sent_id": "opener_en/kaf/hotel/english00113_8161bacaf54503f451c7246b073003a5-9"
+}

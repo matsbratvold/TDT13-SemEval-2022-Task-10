@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Og"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "elektronikkbutikk"
+                ],
+                [
+                    "69:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er det ikke bare \u00e5 ta en tur"
+                ],
+                [
+                    "29:57"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Og med en spesiell ladekabel er det ikke bare \u00e5 ta en tur i n\u00e6rmeste elektronikkbutikk for \u00e5 kj\u00f8pe ny .",
+    "sent_id": "200006-28-01"
+}

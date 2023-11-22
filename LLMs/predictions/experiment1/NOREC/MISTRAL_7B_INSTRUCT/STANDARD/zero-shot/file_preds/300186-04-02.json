@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hestesporten"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "program"
+                ],
+                [
+                    "92:99"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stor og dedikert tilhengerskare"
+                ],
+                [
+                    "20:51"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Hestesporten har en stor og dedikert tilhengerskare , som aldri f\u00f8r har blitt be\u00e6ret med et program i primetime .",
+    "sent_id": "300186-04-02"
+}

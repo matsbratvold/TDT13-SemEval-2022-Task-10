@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Blant annet"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "med kaffe"
+                ],
+                [
+                    "12:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Blant annet med kaffe"
+                ],
+                [
+                    "0:21"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Blant annet med kaffe .",
+    "sent_id": "500201-11-04"
+}

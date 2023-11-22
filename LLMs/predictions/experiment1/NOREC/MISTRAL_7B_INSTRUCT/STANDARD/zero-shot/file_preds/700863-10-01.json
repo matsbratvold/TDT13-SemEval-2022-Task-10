@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Der falt"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "jeg av"
+                ],
+                [
+                    "9:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gitt"
+                ],
+                [
+                    "18:22"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Der falt jeg av , gitt .",
+    "sent_id": "700863-10-01"
+}

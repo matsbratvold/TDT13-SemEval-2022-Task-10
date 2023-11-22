@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Tulip Inn"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "basic hotel"
+                ],
+                [
+                    "21:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "good"
+                ],
+                [
+                    "16:20"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Tulip Inn was a good basic hotel .",
+    "sent_id": "opener_en/kaf/hotel/english00030_2e4f193ed7a254c92854201a12034580-2"
+}

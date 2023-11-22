@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Du"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "utvide"
+                ],
+                [
+                    "12:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ogs\u00e5"
+                ],
+                [
+                    "7:11"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Du"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "utvide"
+                ],
+                [
+                    "12:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med et eget hjertebelte"
+                ],
+                [
+                    "19:42"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Du"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "utvide"
+                ],
+                [
+                    "12:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for enda mer presis pulsm\u00e5ling"
+                ],
+                [
+                    "45:75"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Du kan ogs\u00e5 utvide med et eget hjertebelte , for enda mer presis pulsm\u00e5ling .",
+    "sent_id": "201344-20-01"
+}

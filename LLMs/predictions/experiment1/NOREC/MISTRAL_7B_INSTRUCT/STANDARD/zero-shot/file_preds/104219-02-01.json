@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sondre Midthuns"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "nye roman"
+                ],
+                [
+                    "16:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ambisi\u00f8s og tankevekkende"
+                ],
+                [
+                    "32:57"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Sondre Midthuns nye roman er en ambisi\u00f8s og tankevekkende fortelling om l\u00f8gn og forstillelse .",
+    "sent_id": "104219-02-01"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Some"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "26:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "would have to change it"
+                ],
+                [
+                    "5:28"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "especially"
+                ],
+                [
+                    "31:41"
+                ]
+            ],
+            "Target": [
+                [
+                    "the rude staff"
+                ],
+                [
+                    "42:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "that we noticed"
+                ],
+                [
+                    "57:72"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Some would have to change it , especially the rude staff that we noticed .",
+    "sent_id": "opener_en/kaf/hotel/english00136_cf8140e17a3855f7a4a38936d6193415-4"
+}

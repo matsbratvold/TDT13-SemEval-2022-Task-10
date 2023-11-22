@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "finish"
+                ],
+                [
+                    "41:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "utelukkende b\u00f8rstet"
+                ],
+                [
+                    "21:40"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "finish"
+                ],
+                [
+                    "41:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "innslag av enkelte plastkomponenter"
+                ],
+                [
+                    "54:89"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Fenix Chronos har en utelukkende b\u00f8rstet finish , med innslag av enkelte plastkomponenter .",
+    "sent_id": "201344-14-02"
+}

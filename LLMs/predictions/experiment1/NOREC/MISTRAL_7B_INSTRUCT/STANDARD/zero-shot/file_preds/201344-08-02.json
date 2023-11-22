@@ -1,0 +1,78 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "33:46"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "ja"
+                ],
+                [
+                    "118:120"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "123:129"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "ja"
+                ],
+                [
+                    "118:120"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "IWC"
+                ],
+                [
+                    "207:210"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "ja"
+                ],
+                [
+                    "118:120"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Samtidig er det ingen tvil om at Fenix Chronos representerer en helt ny retning for det Schaffhausen-baserte merket ( ja , Garmin sitt hovedkvarter er faktisk et stenkast unna Schaffhausens klokkestolthet , IWC ) .",
+    "sent_id": "201344-08-02"
+}

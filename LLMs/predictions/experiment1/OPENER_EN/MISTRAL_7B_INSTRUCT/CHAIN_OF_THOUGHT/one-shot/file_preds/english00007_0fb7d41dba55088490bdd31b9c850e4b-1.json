@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "resort"
+                ],
+                [
+                    "14:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lovely"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Really lovely resort",
+    "sent_id": "opener_en/kaf/hotel/english00007_0fb7d41dba55088490bdd31b9c850e4b-1"
+}

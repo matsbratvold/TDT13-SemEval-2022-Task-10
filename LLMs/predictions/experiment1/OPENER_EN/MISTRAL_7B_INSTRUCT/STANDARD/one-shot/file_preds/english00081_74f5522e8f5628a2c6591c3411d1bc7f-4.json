@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "nationalities"
+                ],
+                [
+                    "9:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "German and Swiss and afew of us Brits"
+                ],
+                [
+                    "28:65"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "problems"
+                ],
+                [
+                    "75:83"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "there everyone got on really well"
+                ],
+                [
+                    "84:117"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The main nationalities were German and Swiss and afew of us Brits , but no problems there everyone got on really well .",
+    "sent_id": "opener_en/kaf/hotel/english00081_74f5522e8f5628a2c6591c3411d1bc7f-4"
+}

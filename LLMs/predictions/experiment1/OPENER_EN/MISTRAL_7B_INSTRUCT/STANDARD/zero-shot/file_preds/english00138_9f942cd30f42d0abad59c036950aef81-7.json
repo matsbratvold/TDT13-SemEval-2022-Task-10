@@ -1,0 +1,126 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "It"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "was shaped like letter L"
+                ],
+                [
+                    "3:27"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "one part"
+                ],
+                [
+                    "31:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "there was bed"
+                ],
+                [
+                    "40:53"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "old tv"
+                ],
+                [
+                    "56:62"
+                ]
+            ],
+            "Target": [
+                [
+                    "in other part"
+                ],
+                [
+                    "63:76"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "wash basin"
+                ],
+                [
+                    "77:87"
+                ]
+            ],
+            "Target": [
+                [
+                    " , shower , toilet and window"
+                ],
+                [
+                    "87:116"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "without the view"
+                ],
+                [
+                    "117:133"
+                ]
+            ],
+            "Target": [
+                [
+                    "window"
+                ],
+                [
+                    "110:116"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "It was shaped like letter L in one part there was bed , old tv in other part wash basin , shower , toilet and window without the view .",
+    "sent_id": "opener_en/kaf/hotel/english00138_9f942cd30f42d0abad59c036950aef81-7"
+}

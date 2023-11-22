@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Should I return to Dubai again"
+                ],
+                [
+                    "0:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "I will certainly stay there again"
+                ],
+                [
+                    "33:66"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Should I return to Dubai again , I will certainly stay there again .",
+    "sent_id": "opener_en/kaf/hotel/english00117_8523187c9a437e85989d599da4a3943a-7"
+}

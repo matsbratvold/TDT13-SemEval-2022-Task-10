@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Kanskje"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Berlinhistorier"
+                ],
+                [
+                    "10:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mellomrom"
+                ],
+                [
+                    "34:43"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Kanskje \u00ab Berlinhistorier \u00bb er et mellomrom i forfatterskapet .",
+    "sent_id": "301242-13-01"
+}

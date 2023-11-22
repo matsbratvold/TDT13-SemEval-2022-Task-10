@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hun"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "alle de ellers noks\u00e5 stillferdige deltakerne"
+                ],
+                [
+                    "46:90"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "st\u00e5r ordentlig ut"
+                ],
+                [
+                    "22:39"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Hun er den eneste som st\u00e5r ordentlig ut blant alle de ellers noks\u00e5 stillferdige deltakerne .",
+    "sent_id": "300186-07-05"
+}

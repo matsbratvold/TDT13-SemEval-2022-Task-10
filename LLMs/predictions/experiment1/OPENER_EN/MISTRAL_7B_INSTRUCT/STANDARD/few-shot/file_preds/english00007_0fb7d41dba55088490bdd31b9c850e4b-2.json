@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "The atmosphere and staff"
+                ],
+                [
+                    "0:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "wonderful"
+                ],
+                [
+                    "30:39"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The atmosphere and staff were wonderful .",
+    "sent_id": "opener_en/kaf/hotel/english00007_0fb7d41dba55088490bdd31b9c850e4b-2"
+}

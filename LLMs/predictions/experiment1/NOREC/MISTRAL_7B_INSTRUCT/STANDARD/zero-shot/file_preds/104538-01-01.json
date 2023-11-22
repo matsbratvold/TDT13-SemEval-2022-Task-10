@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "Life"
+                ],
+                [
+                    "2:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Worth Living"
+                ],
+                [
+                    "10:22"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "\u00ab Life Is Worth Living \u00bb",
+    "sent_id": "104538-01-01"
+}

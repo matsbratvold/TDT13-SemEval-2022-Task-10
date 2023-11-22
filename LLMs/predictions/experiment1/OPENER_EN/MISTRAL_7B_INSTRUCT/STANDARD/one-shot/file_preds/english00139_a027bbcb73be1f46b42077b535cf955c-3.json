@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Generally the hotel"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not cozy"
+                ],
+                [
+                    "23:31"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Generally the hotel"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "looks like a huge palace not very well utilized"
+                ],
+                [
+                    "34:81"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Generally the hotel is not cozy , looks like a huge palace not very well utilized .",
+    "sent_id": "opener_en/kaf/hotel/english00139_a027bbcb73be1f46b42077b535cf955c-3"
+}

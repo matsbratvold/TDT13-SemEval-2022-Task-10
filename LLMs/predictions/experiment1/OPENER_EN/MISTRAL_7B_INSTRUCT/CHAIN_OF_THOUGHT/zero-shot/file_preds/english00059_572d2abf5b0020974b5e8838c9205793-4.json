@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Our one year old son"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "the park"
+                ],
+                [
+                    "81:89"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "loved to run around"
+                ],
+                [
+                    "21:40"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Our one year old son loved to run around there and there was a big playground in the park only a couple of hundred meters from the hotel .",
+    "sent_id": "opener_en/kaf/hotel/english00059_572d2abf5b0020974b5e8838c9205793-4"
+}

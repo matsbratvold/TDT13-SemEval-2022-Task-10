@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "den klassiske Bond-skolen"
+                ],
+                [
+                    "34:59"
+                ]
+            ],
+            "Target": [
+                [
+                    "Motstanderen"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skurk"
+                ],
+                [
+                    "25:30"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Motstanderen deres er en skurk av den klassiske Bond-skolen .",
+    "sent_id": "600725-05-02"
+}

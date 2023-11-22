@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Og man"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "\u00e5penbar umenneskelig behandling"
+                ],
+                [
+                    "34:65"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skal ikke ta til takke"
+                ],
+                [
+                    "7:29"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Og man"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "\u00e5penbar umenneskelig behandling"
+                ],
+                [
+                    "34:65"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sitter med de desidert d\u00e5rligste forhandlingskortene"
+                ],
+                [
+                    "80:132"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Og man skal ikke ta til takke med \u00e5penbar umenneskelig behandling , selv om man sitter med de desidert d\u00e5rligste forhandlingskortene .",
+    "sent_id": "103992-13-04"
+}

@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "cleanliness"
+                ],
+                [
+                    "4:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very good"
+                ],
+                [
+                    "19:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "breakfast"
+                ],
+                [
+                    "31:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "great and abundant"
+                ],
+                [
+                    "44:62"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "staff"
+                ],
+                [
+                    "65:70"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "helpful and trying to do things as fast as possible"
+                ],
+                [
+                    "74:125"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The cleanliness is very good , breakfast is great and abundant , staff is helpful and trying to do things as fast as possible .",
+    "sent_id": "opener_en/kaf/hotel/english00162_ef371f2cdf69b4ac91bf97d372159ed5-6"
+}

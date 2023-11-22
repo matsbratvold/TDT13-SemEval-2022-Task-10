@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "OnklP & Eben Jr."
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "Bobler"
+                ],
+                [
+                    "21:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00ab Bobler \u00bb"
+                ],
+                [
+                    "19:29"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "OnklP & Eben Jr. \u2013 \u00ab Bobler \u00bb",
+    "sent_id": "103988-01-03"
+}

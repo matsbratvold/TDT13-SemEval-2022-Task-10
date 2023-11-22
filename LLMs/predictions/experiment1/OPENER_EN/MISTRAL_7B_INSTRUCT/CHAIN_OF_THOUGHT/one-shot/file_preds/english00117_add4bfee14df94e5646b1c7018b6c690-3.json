@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "room service"
+                ],
+                [
+                    "32:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "changed"
+                ],
+                [
+                    "54:61"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Thereafter , i have call up the room service & got it changed .",
+    "sent_id": "opener_en/kaf/hotel/english00117_add4bfee14df94e5646b1c7018b6c690-3"
+}

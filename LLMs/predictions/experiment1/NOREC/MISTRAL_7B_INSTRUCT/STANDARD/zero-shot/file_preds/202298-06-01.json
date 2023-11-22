@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "den oppgraderte versjonen som kommer n\u00e5"
+                ],
+                [
+                    "30:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "st\u00e5r i sterk kontrast til"
+                ],
+                [
+                    "4:29"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Det st\u00e5r i sterk kontrast til den oppgraderte versjonen som kommer n\u00e5 , som knapt er mulig \u00e5 f\u00e5 til \u00e5 bruke den samme halvliteren .",
+    "sent_id": "202298-06-01"
+}

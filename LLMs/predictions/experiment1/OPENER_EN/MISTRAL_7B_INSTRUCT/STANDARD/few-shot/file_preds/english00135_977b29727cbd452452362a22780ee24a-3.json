@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "reserved ultra"
+                ],
+                [
+                    "3:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "all but drink was not variuos"
+                ],
+                [
+                    "18:47"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "reserved ultra"
+                ],
+                [
+                    "3:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "If we wanted different drink we had to pay for it"
+                ],
+                [
+                    "52:101"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "We reserved ultra all but drink was not variuos and If we wanted different drink we had to pay for it .",
+    "sent_id": "opener_en/kaf/hotel/english00135_977b29727cbd452452362a22780ee24a-3"
+}

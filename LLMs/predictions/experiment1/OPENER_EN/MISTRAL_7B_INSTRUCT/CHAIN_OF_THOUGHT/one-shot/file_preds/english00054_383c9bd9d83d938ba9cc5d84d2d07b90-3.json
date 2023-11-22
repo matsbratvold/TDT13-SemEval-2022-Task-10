@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "furniture"
+                ],
+                [
+                    "4:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "in very poor conditions"
+                ],
+                [
+                    "17:40"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "All furniture is in very poor conditions .",
+    "sent_id": "opener_en/kaf/hotel/english00054_383c9bd9d83d938ba9cc5d84d2d07b90-3"
+}

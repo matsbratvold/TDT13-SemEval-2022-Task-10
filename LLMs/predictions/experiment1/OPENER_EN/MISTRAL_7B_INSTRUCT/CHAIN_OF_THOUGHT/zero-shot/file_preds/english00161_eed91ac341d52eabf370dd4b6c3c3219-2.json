@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "This"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "B & amp ; B"
+                ],
+                [
+                    "5:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very clean and fresh"
+                ],
+                [
+                    "21:41"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "This B & amp ; B was very clean and fresh .",
+    "sent_id": "opener_en/kaf/hotel/english00161_eed91ac341d52eabf370dd4b6c3c3219-2"
+}

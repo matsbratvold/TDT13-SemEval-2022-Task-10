@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "staff"
+                ],
+                [
+                    "45:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very Good"
+                ],
+                [
+                    "51:60"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "( restaurants , bars , spa , Pool , fitnes , staff very Good ) very Good GUEST RELATIONS staff .",
+    "sent_id": "opener_en/kaf/hotel/english00198_e8893ad293f6ca6d1000776fba1d4af5-3"
+}

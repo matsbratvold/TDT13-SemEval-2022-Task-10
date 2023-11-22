@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dorint an der Messe"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fine hotel"
+                ],
+                [
+                    "25:35"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "businesstrips"
+                ],
+                [
+                    "40:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for"
+                ],
+                [
+                    "36:39"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "city break"
+                ],
+                [
+                    "60:70"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "and"
+                ],
+                [
+                    "54:57"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Dorint an der Messe is a fine hotel for businesstrips and a city break .",
+    "sent_id": "opener_en/kaf/hotel/english00105_94806e4b92092b3243eeee8623cbd2d5-2"
+}

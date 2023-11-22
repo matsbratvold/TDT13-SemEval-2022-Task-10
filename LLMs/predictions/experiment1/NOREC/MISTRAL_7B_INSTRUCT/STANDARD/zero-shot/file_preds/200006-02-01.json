@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "penere aktivitetsarmb\u00e5nd"
+                ],
+                [
+                    "22:46"
+                ]
+            ],
+            "Target": [
+                [
+                    "dyrere"
+                ],
+                [
+                    "56:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ble"
+                ],
+                [
+                    "49:52"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "penere aktivitetsarmb\u00e5nd"
+                ],
+                [
+                    "22:46"
+                ]
+            ],
+            "Target": [
+                [
+                    "f\u00e6rre funksjoner"
+                ],
+                [
+                    "69:85"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ble"
+                ],
+                [
+                    "49:52"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Det som skulle bli et penere aktivitetsarmb\u00e5nd , ble et dyrere , med f\u00e6rre funksjoner .",
+    "sent_id": "200006-02-01"
+}

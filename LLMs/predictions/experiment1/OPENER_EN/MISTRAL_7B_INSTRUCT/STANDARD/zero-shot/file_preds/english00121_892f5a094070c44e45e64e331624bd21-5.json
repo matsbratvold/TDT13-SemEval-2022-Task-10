@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The location of the Pension"
+                ],
+                [
+                    "0:27"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pension"
+                ],
+                [
+                    "20:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "PERFECT .. BEST LOCATION EVER"
+                ],
+                [
+                    "31:60"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "everything else"
+                ],
+                [
+                    "70:85"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pension"
+                ],
+                [
+                    "20:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not clean , staff are not friendly at all , it is not safe"
+                ],
+                [
+                    "107:165"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "I am not recommending it to anyone"
+                ],
+                [
+                    "171:205"
+                ]
+            ],
+            "Target": [
+                [
+                    "Pension"
+                ],
+                [
+                    "20:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not recommending"
+                ],
+                [
+                    "176:192"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "The location of the Pension is PERFECT .. BEST LOCATION EVER .... but everything else is negative .. It is not clean , staff are not friendly at all , it is not safe .... I am not recommending it to anyone ...",
+    "sent_id": "opener_en/kaf/hotel/english00121_892f5a094070c44e45e64e331624bd21-5"
+}

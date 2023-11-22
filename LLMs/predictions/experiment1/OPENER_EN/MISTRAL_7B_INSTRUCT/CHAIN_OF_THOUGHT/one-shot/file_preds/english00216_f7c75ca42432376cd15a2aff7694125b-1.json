@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "service"
+                ],
+                [
+                    "9:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Terrible"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "rooms"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very bad"
+                ],
+                [
+                    "19:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "manager"
+                ],
+                [
+                    "45:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very bad"
+                ],
+                [
+                    "19:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Terrible service , very bad rooms , very bad manager",
+    "sent_id": "opener_en/kaf/hotel/english00216_f7c75ca42432376cd15a2aff7694125b-1"
+}

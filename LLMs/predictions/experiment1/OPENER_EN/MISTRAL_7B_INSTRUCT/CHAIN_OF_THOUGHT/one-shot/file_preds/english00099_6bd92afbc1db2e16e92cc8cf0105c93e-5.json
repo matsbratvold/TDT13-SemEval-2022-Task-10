@@ -1,0 +1,95 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "The all inclusive"
+                ],
+                [
+                    "0:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "24 hours"
+                ],
+                [
+                    "21:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "actually gets used for what it 's there for"
+                ],
+                [
+                    "47:90"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "tend to begrudge paying for drinks"
+                ],
+                [
+                    "142:176"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "go back to there room"
+                ],
+                [
+                    "180:201"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "is good that you don 't have to"
+                ],
+                [
+                    "210:241"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The all inclusive is 24 hours so the nightclub actually gets used for what it 's there for as normally once the all inclusive finishes people tend to begrudge paying for drinks so go back to there room so this is good that you don 't have to and people stay in there .",
+    "sent_id": "opener_en/kaf/hotel/english00099_6bd92afbc1db2e16e92cc8cf0105c93e-5"
+}

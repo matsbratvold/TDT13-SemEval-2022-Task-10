@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Et riktig og viktig merkevarebytte"
+                ],
+                [
+                    "0:34"
+                ]
+            ],
+            "Target": [
+                [
+                    "stor anerkjennelse"
+                ],
+                [
+                    "49:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "etterfulgt"
+                ],
+                [
+                    "35:45"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Et riktig og viktig merkevarebytte etterfulgt av stor anerkjennelse fra h\u00f8yt hold .",
+    "sent_id": "003121-03-04"
+}

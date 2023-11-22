@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Although"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "9:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "has more than 700 rooms"
+                ],
+                [
+                    "12:35"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "you can feel"
+                ],
+                [
+                    "38:50"
+                ]
+            ],
+            "Target": [
+                [
+                    "the good management"
+                ],
+                [
+                    "51:70"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "watching the co \u00b7 ordination between the working personnel in fulfilling the needs of the guests"
+                ],
+                [
+                    "71:167"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Although it has more than 700 rooms , you can feel the good management watching the co \u00b7 ordination between the working personnel in fulfilling the needs of the guests .",
+    "sent_id": "opener_en/kaf/hotel/english00162_ef371f2cdf69b4ac91bf97d372159ed5-5"
+}

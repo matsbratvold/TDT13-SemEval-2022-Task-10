@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "syrlighet"
+                ],
+                [
+                    "5:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "retten"
+                ],
+                [
+                    "17:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "balansert"
+                ],
+                [
+                    "33:42"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "kj\u00f8ttet"
+                ],
+                [
+                    "69:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "balansert"
+                ],
+                [
+                    "33:42"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "quinotto"
+                ],
+                [
+                    "83:91"
+                ]
+            ],
+            "Target": [
+                [
+                    "risotto og quinoa laget med parmesan"
+                ],
+                [
+                    "109:145"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "balansert"
+                ],
+                [
+                    "33:42"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Litt syrlighet i retten ville ha balansert det spisskummen-dominerte kj\u00f8ttet og en quinotto , en blanding av risotto og quinoa laget med parmesan .",
+    "sent_id": "501595-11-07"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dette er jo det magiske ved litteraturen"
+                ],
+                [
+                    "0:40"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "magiske"
+                ],
+                [
+                    "16:23"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Dette er jo det magiske ved litteraturen :",
+    "sent_id": "302975-10-01"
+}

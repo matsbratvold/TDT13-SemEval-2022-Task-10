@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sjakktrekket"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "nettopp"
+                ],
+                [
+                    "16:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "det siste"
+                ],
+                [
+                    "24:33"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Sjakktrekket er nettopp det siste .",
+    "sent_id": "300186-07-01"
+}

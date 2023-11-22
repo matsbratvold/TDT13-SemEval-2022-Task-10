@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The owners"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "place"
+                ],
+                [
+                    "26:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "maintained the place very well"
+                ],
+                [
+                    "11:41"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The owners maintained the place very well .",
+    "sent_id": "opener_en/kaf/hotel/english00161_eed91ac341d52eabf370dd4b6c3c3219-3"
+}

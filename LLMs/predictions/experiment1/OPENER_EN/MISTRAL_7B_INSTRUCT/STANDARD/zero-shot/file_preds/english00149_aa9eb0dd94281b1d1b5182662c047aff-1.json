@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "It"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "place"
+                ],
+                [
+                    "17:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "can be a nice place"
+                ],
+                [
+                    "3:22"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "It can be a nice place",
+    "sent_id": "opener_en/kaf/hotel/english00149_aa9eb0dd94281b1d1b5182662c047aff-1"
+}

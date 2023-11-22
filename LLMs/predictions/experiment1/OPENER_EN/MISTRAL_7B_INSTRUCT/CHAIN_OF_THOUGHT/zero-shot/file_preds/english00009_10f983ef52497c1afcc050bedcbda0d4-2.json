@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "room"
+                ],
+                [
+                    "17:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hade"
+                ],
+                [
+                    "3:7"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "place to relax and sit down"
+                ],
+                [
+                    "29:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hade"
+                ],
+                [
+                    "3:7"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "We hade a bigger room with a place to relax and sit down .",
+    "sent_id": "opener_en/kaf/hotel/english00009_10f983ef52497c1afcc050bedcbda0d4-2"
+}

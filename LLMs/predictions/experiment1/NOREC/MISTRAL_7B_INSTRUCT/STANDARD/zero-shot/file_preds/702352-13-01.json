@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Julieta"
+                ],
+                [
+                    "2:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "mellommenneskelig situasjon"
+                ],
+                [
+                    "24:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gjenkjennelig"
+                ],
+                [
+                    "76:89"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Julieta"
+                ],
+                [
+                    "2:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "mellommenneskelig situasjon"
+                ],
+                [
+                    "24:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ubegripelig"
+                ],
+                [
+                    "108:119"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "\u00ab Julieta \u00bb skildrer et mellommenneskelig situasjon som til en viss grad er gjenkjennelig , men som ogs\u00e5 er ubegripelig .",
+    "sent_id": "702352-13-01"
+}

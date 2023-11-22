@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "cleaning staff"
+                ],
+                [
+                    "46:60"
+                ]
+            ],
+            "Target": [
+                [
+                    "Room"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "left curtains open daily"
+                ],
+                [
+                    "61:85"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Room was fully visible from the outside , and cleaning staff left curtains open daily , allowing anyone to see your belongings .",
+    "sent_id": "opener_en/kaf/hotel/english00065_454ddd5112d4969a9a26218d2cb6d815-4"
+}

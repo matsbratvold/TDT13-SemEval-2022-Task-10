@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "all other respects"
+                ],
+                [
+                    "3:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "great"
+                ],
+                [
+                    "24:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "!"
+                ],
+                [
+                    "30:31"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "In all other respects \u00b7 great !",
+    "sent_id": "opener_en/kaf/hotel/english00032_274ec81481c2a582f1ad265d7c4b6f22-6"
+}

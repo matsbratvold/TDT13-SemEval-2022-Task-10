@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Stayed one more last month"
+                ],
+                [
+                    "0:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "happy customer"
+                ],
+                [
+                    "44:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "keep being"
+                ],
+                [
+                    "31:41"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Stayed one more last month and keep being a happy customer .",
+    "sent_id": "opener_en/kaf/hotel/english00006_081b55dce5238cb8cb60cb2c79fd2c66-4"
+}

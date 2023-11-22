@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Arne Hugo St\u00f8lan"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Arne Hugo St\u00f8lan",
+    "sent_id": "104219-12-02"
+}

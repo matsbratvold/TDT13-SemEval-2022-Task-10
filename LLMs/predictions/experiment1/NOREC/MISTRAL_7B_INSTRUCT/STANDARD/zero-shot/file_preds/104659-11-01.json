@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Innimellom"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "rolige"
+                ],
+                [
+                    "29:35"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Innimellom alt dette blir de rolige sangene hennes mer og mer mediative ettermiddagst\u00e5ker .",
+    "sent_id": "104659-11-01"
+}

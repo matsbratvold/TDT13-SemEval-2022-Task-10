@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Her"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "det store f\u00f8lelser"
+                ],
+                [
+                    "7:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sving"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Her er det store f\u00f8lelser i sving .",
+    "sent_id": "104051-03-03"
+}

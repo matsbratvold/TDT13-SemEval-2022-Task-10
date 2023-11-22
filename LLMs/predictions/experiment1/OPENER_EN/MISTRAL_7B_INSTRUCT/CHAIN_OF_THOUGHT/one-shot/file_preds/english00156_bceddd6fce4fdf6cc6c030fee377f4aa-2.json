@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "This"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "great hotel"
+                ],
+                [
+                    "10:21"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "location"
+                ],
+                [
+                    "26:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for"
+                ],
+                [
+                    "22:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "very close to the main railway station"
+                ],
+                [
+                    "37:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "and walking distance to the centre of town"
+                ],
+                [
+                    "76:118"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "This is a great hotel for location , very close to the main railway station and walking distance to the centre of town .",
+    "sent_id": "opener_en/kaf/hotel/english00156_bceddd6fce4fdf6cc6c030fee377f4aa-2"
+}

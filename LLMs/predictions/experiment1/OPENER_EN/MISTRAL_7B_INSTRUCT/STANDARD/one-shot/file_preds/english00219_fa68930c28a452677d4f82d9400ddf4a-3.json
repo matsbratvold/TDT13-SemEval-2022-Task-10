@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "We paid for 3 nights"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "We paid for 3 nights after the first night we tried to find another place"
+                ],
+                [
+                    "0:73"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "We paid for 3 nights after the first night we tried to find another place .",
+    "sent_id": "opener_en/kaf/hotel/english00219_fa68930c28a452677d4f82d9400ddf4a-3"
+}

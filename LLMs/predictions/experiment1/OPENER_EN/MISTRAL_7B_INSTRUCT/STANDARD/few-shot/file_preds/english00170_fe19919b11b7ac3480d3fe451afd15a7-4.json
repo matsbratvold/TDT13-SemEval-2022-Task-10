@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "rooms"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "a lot smaller than expected"
+                ],
+                [
+                    "15:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bathroom"
+                ],
+                [
+                    "51:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "had mold between some tiles"
+                ],
+                [
+                    "60:87"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The rooms were a lot smaller than expected and the bathroom had mold between some tiles , so that 's why we rated that part lower .",
+    "sent_id": "opener_en/kaf/hotel/english00170_fe19919b11b7ac3480d3fe451afd15a7-4"
+}

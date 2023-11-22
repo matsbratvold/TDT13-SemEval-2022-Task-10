@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "splash proof"
+                ],
+                [
+                    "16:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00e5kalt"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "splash proof"
+                ],
+                [
+                    "16:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "splash proof"
+                ],
+                [
+                    "16:28"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "splash proof"
+                ],
+                [
+                    "16:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "t\u00e5ler"
+                ],
+                [
+                    "40:45"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "splash proof"
+                ],
+                [
+                    "16:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tilsynelatende"
+                ],
+                [
+                    "46:60"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "splash proof"
+                ],
+                [
+                    "16:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "regn og svette"
+                ],
+                [
+                    "61:75"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Den er s\u00e5kalt \u00ab splash proof \u00bb , s\u00e5 den t\u00e5ler tilsynelatende regn og svette .",
+    "sent_id": "200006-14-01"
+}

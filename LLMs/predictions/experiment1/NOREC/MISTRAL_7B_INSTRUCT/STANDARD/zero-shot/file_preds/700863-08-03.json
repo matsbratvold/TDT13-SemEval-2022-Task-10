@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Vaklingen"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "Medivh"
+                ],
+                [
+                    "22:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "glir"
+                ],
+                [
+                    "95:99"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Vaklingen preger ogs\u00e5 Medivh , en fyr som med sine magiske evner skal beskytte Alliansen , men glir mer og mer mot fienden .",
+    "sent_id": "700863-08-03"
+}

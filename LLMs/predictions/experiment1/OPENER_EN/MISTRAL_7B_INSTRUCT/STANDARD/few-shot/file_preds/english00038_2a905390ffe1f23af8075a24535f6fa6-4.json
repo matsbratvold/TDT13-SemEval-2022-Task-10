@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "rooms"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "clean , big and comfortable"
+                ],
+                [
+                    "15:42"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The rooms were clean , big and comfortable .",
+    "sent_id": "opener_en/kaf/hotel/english00038_2a905390ffe1f23af8075a24535f6fa6-4"
+}

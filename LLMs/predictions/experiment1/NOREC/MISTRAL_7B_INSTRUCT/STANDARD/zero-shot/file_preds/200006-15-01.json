@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dermed"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "man"
+                ],
+                [
+                    "36:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blir det"
+                ],
+                [
+                    "7:15"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Dermed blir det i hvert fall til at man tar den av og p\u00e5 \u00e9n gang om dagen , om ikke mer .",
+    "sent_id": "200006-15-01"
+}

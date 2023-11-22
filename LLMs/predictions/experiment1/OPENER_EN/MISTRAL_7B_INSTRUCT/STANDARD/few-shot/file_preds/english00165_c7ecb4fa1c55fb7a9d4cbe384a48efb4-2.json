@@ -1,0 +1,110 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The hotel"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "clean"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "exceptionally clean"
+                ],
+                [
+                    "14:33"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The hotel"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "choice"
+                ],
+                [
+                    "57:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "spoilt for choice"
+                ],
+                [
+                    "46:63"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The hotel"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "food"
+                ],
+                [
+                    "79:83"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The hotel"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "restaurants"
+                ],
+                [
+                    "180:191"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The hotel was exceptionally clean and you are spoilt for choice with regard to food ; there was an italian , oriental , mexican and asian restaurant as well as the two main buffet restaurants across both hotels .",
+    "sent_id": "opener_en/kaf/hotel/english00165_c7ecb4fa1c55fb7a9d4cbe384a48efb4-2"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Samira"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Iran"
+                ],
+                [
+                    "9:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Iran"
+                ],
+                [
+                    "9:13"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Samira , Iran",
+    "sent_id": "opener_en/kaf/hotel/english00135_977b29727cbd452452362a22780ee24a-4"
+}

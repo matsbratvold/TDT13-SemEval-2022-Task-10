@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The only little problem"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "was to us"
+                ],
+                [
+                    "24:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "since we don 't travel light and the room is 2 floors up"
+                ],
+                [
+                    "34:90"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "The only little problem was to us since we don 't travel light and the room is 2 floors up ...",
+    "sent_id": "opener_en/kaf/hotel/english00035_340af6662193972260b6e387d1a4e322-9"
+}

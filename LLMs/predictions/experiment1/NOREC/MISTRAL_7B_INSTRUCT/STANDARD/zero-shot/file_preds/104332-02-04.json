@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Spesielt p\u00e5"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "slenge rundt med k\u00f8ll\u00e5"
+                ],
+                [
+                    "14:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Spesielt p\u00e5"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Spesielt p\u00e5 \u00ab slenge rundt med k\u00f8ll\u00e5 \u00bb delen av refrenget .",
+    "sent_id": "104332-02-04"
+}

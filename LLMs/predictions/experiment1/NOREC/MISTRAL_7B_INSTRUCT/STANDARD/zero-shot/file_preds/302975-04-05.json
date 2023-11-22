@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "De"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "engasjere"
+                ],
+                [
+                    "14:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "oppildne"
+                ],
+                [
+                    "26:34"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "De kan gjerne engasjere , oppildne , provosere .",
+    "sent_id": "302975-04-05"
+}

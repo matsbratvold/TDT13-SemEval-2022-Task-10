@@ -1,0 +1,46 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Chronos Fenix"
+                ],
+                [
+                    "41:54"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Chronos Fenix"
+                ],
+                [
+                    "41:54"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Diameteren p\u00e5 49 millimeter inneb\u00e6rer at Chronos Fenix ikke direkte er noen sm\u00e5gutt , men den er heller ikke blant de st\u00f8rste i kategorien .",
+    "sent_id": "201344-24-01"
+}

@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "tittelen"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "tre unge"
+                ],
+                [
+                    "33:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "antyd"
+                ],
+                [
+                    "13:18"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "tittelen"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "tre unge"
+                ],
+                [
+                    "33:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rettskafne"
+                ],
+                [
+                    "44:54"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "tittelen"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "tre unge"
+                ],
+                [
+                    "33:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "handlekraftige"
+                ],
+                [
+                    "58:72"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "tittelen"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "kappl\u00f8p"
+                ],
+                [
+                    "95:102"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "om \u00e5 finne det mystiske skrinet til Olav den hellige"
+                ],
+                [
+                    "103:155"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Som tittelen antyder , blir v\u00e5re tre unge , rettskafne og handlekraftige helter blandet inn et kappl\u00f8p om \u00e5 finne det mystiske skrinet til Olav den hellige .",
+    "sent_id": "600725-05-01"
+}

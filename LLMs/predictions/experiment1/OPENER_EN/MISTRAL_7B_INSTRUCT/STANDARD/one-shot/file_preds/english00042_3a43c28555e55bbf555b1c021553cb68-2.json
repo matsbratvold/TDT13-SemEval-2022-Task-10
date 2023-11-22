@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Steigenburger hotels"
+                ],
+                [
+                    "15:35"
+                ]
+            ],
+            "Target": [
+                [
+                    "the hotel"
+                ],
+                [
+                    "56:65"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "clean and the staff professional"
+                ],
+                [
+                    "70:102"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Similar to all Steigenburger hotels of which I stayed , the hotel was clean and the staff professional .",
+    "sent_id": "opener_en/kaf/hotel/english00042_3a43c28555e55bbf555b1c021553cb68-2"
+}

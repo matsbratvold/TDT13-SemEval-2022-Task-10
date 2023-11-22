@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Lavm\u00e6lte Wilco"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "late h\u00f8stdager"
+                ],
+                [
+                    "25:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for"
+                ],
+                [
+                    "21:24"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Lavm\u00e6lte Wilco-l\u00e5ter for late h\u00f8stdager",
+    "sent_id": "303721-01-01"
+}

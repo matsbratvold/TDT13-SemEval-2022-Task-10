@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fitbit"
+                ],
+                [
+                    "49:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bedre design"
+                ],
+                [
+                    "15:27"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "I jakten p\u00e5 en bedre design kan det virke som om Fitbit har glemt brukervennligheten .",
+    "sent_id": "200006-11-02"
+}

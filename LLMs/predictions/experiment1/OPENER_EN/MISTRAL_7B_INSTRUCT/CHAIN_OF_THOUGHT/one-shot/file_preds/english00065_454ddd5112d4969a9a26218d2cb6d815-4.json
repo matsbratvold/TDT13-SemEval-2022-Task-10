@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Room"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "cleaning staff"
+                ],
+                [
+                    "46:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fully visible"
+                ],
+                [
+                    "9:22"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "cleaning staff"
+                ],
+                [
+                    "46:60"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Room was fully visible from the outside , and cleaning staff left curtains open daily , allowing anyone to see your belongings .",
+    "sent_id": "opener_en/kaf/hotel/english00065_454ddd5112d4969a9a26218d2cb6d815-4"
+}

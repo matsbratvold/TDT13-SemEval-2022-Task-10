@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "tidsriktig og smygende godbit"
+                ],
+                [
+                    "22:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bygger seg naturlig opp mot et sv\u00e6rt refreng"
+                ],
+                [
+                    "56:100"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "snytt ut av Rihannas nese"
+                ],
+                [
+                    "135:160"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er som snytt ut av Rihannas nese"
+                ],
+                [
+                    "128:160"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Dette er fremdeles en tidsriktig og smygende godbit som bygger seg naturlig opp mot et sv\u00e6rt refreng , blandingen av R&B og EDM er som snytt ut av Rihannas nese .",
+    "sent_id": "104200-02-01"
+}

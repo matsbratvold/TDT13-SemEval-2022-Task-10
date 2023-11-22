@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Staff"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "were"
+                ],
+                [
+                    "6:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lovely"
+                ],
+                [
+                    "11:17"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Staff"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "willing"
+                ],
+                [
+                    "22:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "to assist"
+                ],
+                [
+                    "30:39"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Staff were lovely and willing to assist with anything they could help with .",
+    "sent_id": "opener_en/kaf/hotel/english00074_5043dc58494745b461da0773b8d0a648-4"
+}

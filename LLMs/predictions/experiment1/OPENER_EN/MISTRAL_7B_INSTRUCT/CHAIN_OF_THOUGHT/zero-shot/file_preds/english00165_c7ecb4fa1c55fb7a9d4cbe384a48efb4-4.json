@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "the huge pools"
+                ],
+                [
+                    "57:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "relaxed"
+                ],
+                [
+                    "46:53"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "relaxed"
+                ],
+                [
+                    "46:53"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "cocktails"
+                ],
+                [
+                    "121:130"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "accompanied"
+                ],
+                [
+                    "131:142"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "a live singer"
+                ],
+                [
+                    "146:159"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "accompanied"
+                ],
+                [
+                    "131:142"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "We started each day with a buffet breakfast , relaxed at the huge pools or beautiful beach and finished the evening with cocktails accompanied by a live singer .",
+    "sent_id": "opener_en/kaf/hotel/english00165_c7ecb4fa1c55fb7a9d4cbe384a48efb4-4"
+}

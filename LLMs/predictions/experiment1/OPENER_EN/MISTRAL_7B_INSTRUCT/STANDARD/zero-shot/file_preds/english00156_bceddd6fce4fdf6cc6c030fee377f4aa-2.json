@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "This"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "16:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "great"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "for"
+                ],
+                [
+                    "22:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "location"
+                ],
+                [
+                    "26:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very close to the main railway station"
+                ],
+                [
+                    "37:75"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "walking distance to the centre of town"
+                ],
+                [
+                    "80:118"
+                ]
+            ],
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "16:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very close to the main railway station"
+                ],
+                [
+                    "37:75"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "This is a great hotel for location , very close to the main railway station and walking distance to the centre of town .",
+    "sent_id": "opener_en/kaf/hotel/english00156_bceddd6fce4fdf6cc6c030fee377f4aa-2"
+}

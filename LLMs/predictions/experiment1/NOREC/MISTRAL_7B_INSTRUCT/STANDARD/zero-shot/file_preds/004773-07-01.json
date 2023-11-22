@@ -1,0 +1,46 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00e5r jobbforbud"
+                ],
+                [
+                    "51:65"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "opplever \u00e5 bli kasteball"
+                ],
+                [
+                    "104:128"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Den middelaldrende snekkeren Daniel ( Dave Johns ) f\u00e5r jobbforbud fra legen etter et hjerteinfarkt , og opplever \u00e5 bli kasteball i et forvirrende velferdssystem som gir ham motstridende meldinger om hva han skal og ikke skal gj\u00f8re .",
+    "sent_id": "004773-07-01"
+}

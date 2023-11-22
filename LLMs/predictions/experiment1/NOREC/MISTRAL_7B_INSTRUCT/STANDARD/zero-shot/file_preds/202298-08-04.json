@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Toyota"
+                ],
+                [
+                    "27:33"
+                ]
+            ],
+            "Target": [
+                [
+                    "12 prosent"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mindre"
+                ],
+                [
+                    "11:17"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "12 prosent mindre , if\u00f8lge Toyota selv .",
+    "sent_id": "202298-08-04"
+}

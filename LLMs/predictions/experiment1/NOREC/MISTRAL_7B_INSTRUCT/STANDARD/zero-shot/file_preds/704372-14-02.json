@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "klassisk Hellstr\u00f6m"
+                ],
+                [
+                    "14:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "stemmen"
+                ],
+                [
+                    "48:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vrir"
+                ],
+                [
+                    "43:47"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Det smaker av klassisk Hellstr\u00f6m , men han vrir stemmen i et nytt leie .",
+    "sent_id": "704372-14-02"
+}

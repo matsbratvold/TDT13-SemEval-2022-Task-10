@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Room service"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Linen"
+                ],
+                [
+                    "70:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "needs to be improved"
+                ],
+                [
+                    "13:33"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Room service"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Linen"
+                ],
+                [
+                    "70:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "damaged"
+                ],
+                [
+                    "89:96"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Room service needs to be improved and we experienced that some of the Linen provided are damaged .",
+    "sent_id": "opener_en/kaf/hotel/english00001_039d4b7b17acc9ef4243f32de0e3c70e-2"
+}

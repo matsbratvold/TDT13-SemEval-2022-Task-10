@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Uten"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "film"
+                ],
+                [
+                    "107:111"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Uten \u00e5 by p\u00e5 noe nytt , verken visuelt eller dramaturgisk , fjetrer han med en intenst sanselig og poetisk film om sorg , skyld og forsoning .",
+    "sent_id": "702352-07-03"
+}

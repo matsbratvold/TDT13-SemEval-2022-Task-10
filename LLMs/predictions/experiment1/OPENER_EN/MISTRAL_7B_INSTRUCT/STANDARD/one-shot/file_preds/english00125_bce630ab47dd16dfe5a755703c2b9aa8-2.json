@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fantastic hotel"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "everything"
+                ],
+                [
+                    "18:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "done to make your holiday perfect"
+                ],
+                [
+                    "29:62"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Fantastic hotel \u00b7 everything done to make your holiday perfect .",
+    "sent_id": "opener_en/kaf/hotel/english00125_bce630ab47dd16dfe5a755703c2b9aa8-2"
+}

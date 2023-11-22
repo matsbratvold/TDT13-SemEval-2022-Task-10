@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Melia Grand Hermitage"
+                ],
+                [
+                    "0:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hard to leave it"
+                ],
+                [
+                    "26:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Melia Grand Hermitage ... hard to leave it !",
+    "sent_id": "opener_en/kaf/hotel/english00078_726dab247b93f8e93eeeabc72f74d655-1"
+}

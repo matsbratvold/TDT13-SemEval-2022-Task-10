@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Great hotel"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "34:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Great hotel"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "I would recommend it to anyone"
+                ],
+                [
+                    "16:46"
+                ]
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "34:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "I would recommend it to anyone"
+                ],
+                [
+                    "16:46"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Great hotel and I would recommend it to anyone .",
+    "sent_id": "opener_en/kaf/hotel/english00164_f47aebce11fc3b76fecdd1db6a13904f-10"
+}

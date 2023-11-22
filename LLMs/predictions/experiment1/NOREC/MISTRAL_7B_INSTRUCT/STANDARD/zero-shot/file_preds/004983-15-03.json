@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men L\u00f8vetannbarn"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "filmen"
+                ],
+                [
+                    "108:114"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "f\u00f8les tam"
+                ],
+                [
+                    "121:130"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Men L\u00f8vetannbarn h\u00f8ster s\u00e5 mye fra sine karakterer , sine stemninger og sine velkomponerte situasjoner , at filmen aldri f\u00f8les tam .",
+    "sent_id": "004983-15-03"
+}

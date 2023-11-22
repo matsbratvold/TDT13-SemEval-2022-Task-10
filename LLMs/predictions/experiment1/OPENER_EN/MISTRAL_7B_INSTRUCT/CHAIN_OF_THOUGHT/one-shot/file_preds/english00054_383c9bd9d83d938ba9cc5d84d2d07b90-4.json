@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "However"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "the location"
+                ],
+                [
+                    "8:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very good"
+                ],
+                [
+                    "24:33"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "However the location is very good. it is close to all attractions and amenities .",
+    "sent_id": "opener_en/kaf/hotel/english00054_383c9bd9d83d938ba9cc5d84d2d07b90-4"
+}

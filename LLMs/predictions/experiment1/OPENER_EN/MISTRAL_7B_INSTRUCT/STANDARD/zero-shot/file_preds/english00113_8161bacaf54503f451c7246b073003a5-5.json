@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "furniture"
+                ],
+                [
+                    "47:56"
+                ]
+            ],
+            "Target": [
+                [
+                    "bed"
+                ],
+                [
+                    "41:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "large and comfortable"
+                ],
+                [
+                    "19:40"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "furniture"
+                ],
+                [
+                    "47:56"
+                ]
+            ],
+            "Target": [
+                [
+                    "desk"
+                ],
+                [
+                    "68:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "included"
+                ],
+                [
+                    "57:65"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "furniture"
+                ],
+                [
+                    "47:56"
+                ]
+            ],
+            "Target": [
+                [
+                    "seats"
+                ],
+                [
+                    "79:84"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "included"
+                ],
+                [
+                    "57:65"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "In addition to the large and comfortable bed , furniture included a desk and 2 seats .",
+    "sent_id": "opener_en/kaf/hotel/english00113_8161bacaf54503f451c7246b073003a5-5"
+}

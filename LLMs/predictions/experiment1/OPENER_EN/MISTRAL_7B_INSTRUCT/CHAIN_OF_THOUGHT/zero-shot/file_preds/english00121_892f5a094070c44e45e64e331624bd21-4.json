@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The Pension"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "room"
+                ],
+                [
+                    "25:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "big enough to fit us"
+                ],
+                [
+                    "40:60"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The Pension offered this room which was big enough to fit us .",
+    "sent_id": "opener_en/kaf/hotel/english00121_892f5a094070c44e45e64e331624bd21-4"
+}

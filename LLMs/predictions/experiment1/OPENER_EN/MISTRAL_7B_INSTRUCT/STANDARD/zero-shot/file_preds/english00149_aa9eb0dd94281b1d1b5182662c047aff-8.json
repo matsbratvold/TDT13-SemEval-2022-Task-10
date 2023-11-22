@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ibis"
+                ],
+                [
+                    "3:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Style"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "you get Accor points even during workdays"
+                ],
+                [
+                    "18:59"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "As Ibis \" Style \" you get Accor points even during workdays",
+    "sent_id": "opener_en/kaf/hotel/english00149_aa9eb0dd94281b1d1b5182662c047aff-8"
+}

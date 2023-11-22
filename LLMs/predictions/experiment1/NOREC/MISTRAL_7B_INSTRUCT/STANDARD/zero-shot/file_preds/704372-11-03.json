@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Strykere dukker"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "opp"
+                ],
+                [
+                    "16:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "dukker"
+                ],
+                [
+                    "9:15"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Strykere dukker opp .",
+    "sent_id": "704372-11-03"
+}

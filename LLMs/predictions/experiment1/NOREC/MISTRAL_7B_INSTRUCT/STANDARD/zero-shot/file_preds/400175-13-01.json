@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "M\u00f8ller"
+                ],
+                [
+                    "12:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Vi har sett M\u00f8ller utmerke seg"
+                ],
+                [
+                    "0:30"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "dansk skuespillerkunst"
+                ],
+                [
+                    "105:127"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Vi har sett M\u00f8ller utmerke seg i urbane \u201d nyrealistiske \u201d danske filmer som Nord\u00f8st , men her l\u00f8fter han dansk skuespillerkunst til h\u00f8yder som ganske sikkert vil gi ham et internasjonalt gjennombrudd .",
+    "sent_id": "400175-13-01"
+}

@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "could not fault"
+                ],
+                [
+                    "45:60"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "food or drink"
+                ],
+                [
+                    "65:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "in any of the hotels restaurants or bars"
+                ],
+                [
+                    "79:119"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "waiter service"
+                ],
+                [
+                    "128:142"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "totally five star"
+                ],
+                [
+                    "147:164"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "We stayed on an all inclysive service and we could not fault the food or drink in any of the hotels restaurants or bars and the waiter service was totally five star .",
+    "sent_id": "opener_en/kaf/hotel/english00081_74f5522e8f5628a2c6591c3411d1bc7f-3"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Some"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "rude staff"
+                ],
+                [
+                    "46:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "have to change it"
+                ],
+                [
+                    "11:28"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Some would have to change it , especially the rude staff that we noticed .",
+    "sent_id": "opener_en/kaf/hotel/english00136_cf8140e17a3855f7a4a38936d6193415-4"
+}

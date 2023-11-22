@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "What a terrific hotel resort"
+                ],
+                [
+                    "0:28"
+                ]
+            ],
+            "Target": [
+                [
+                    "terrific hotel resort"
+                ],
+                [
+                    "7:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fantastically clean when one thinks of 700 rooms but always lots of space"
+                ],
+                [
+                    "31:104"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "the pools and the beach were constantly cleaned and manicured"
+                ],
+                [
+                    "107:168"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "sun beds were more than enough for everyone"
+                ],
+                [
+                    "173:216"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "with pool and beach towels always available"
+                ],
+                [
+                    "219:262"
+                ]
+            ],
+            "Target": [
+                [
+                    "pool and beach towels"
+                ],
+                [
+                    "224:245"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sun beds were more than enough for everyone"
+                ],
+                [
+                    "173:216"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "What a terrific hotel resort , fantastically clean when one thinks of 700 rooms but always lots of space , the pools and the beach were constantly cleaned and manicured and sun beds were more than enough for everyone , with pool and beach towels always available .",
+    "sent_id": "opener_en/kaf/hotel/english00081_74f5522e8f5628a2c6591c3411d1bc7f-2"
+}

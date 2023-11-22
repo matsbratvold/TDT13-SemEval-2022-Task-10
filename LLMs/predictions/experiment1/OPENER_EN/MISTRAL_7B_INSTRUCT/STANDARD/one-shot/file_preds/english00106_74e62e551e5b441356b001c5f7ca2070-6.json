@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "room cleaning"
+                ],
+                [
+                    "4:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "took the iron away without asking me"
+                ],
+                [
+                    "23:59"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The room cleaning then took the iron away without asking me ( I still needed it ) .",
+    "sent_id": "opener_en/kaf/hotel/english00106_74e62e551e5b441356b001c5f7ca2070-6"
+}

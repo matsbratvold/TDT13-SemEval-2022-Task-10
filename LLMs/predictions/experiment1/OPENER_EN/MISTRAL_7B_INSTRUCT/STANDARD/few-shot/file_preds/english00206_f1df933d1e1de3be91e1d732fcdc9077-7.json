@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "A beautiful setting by the sea"
+                ],
+                [
+                    "0:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Ijust wish Ihad had time to make more of the very good facilities on offer"
+                ],
+                [
+                    "33:107"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "A beautiful setting by the sea \u00b7 Ijust wish Ihad had time to make more of the very good facilities on offer .",
+    "sent_id": "opener_en/kaf/hotel/english00206_f1df933d1e1de3be91e1d732fcdc9077-7"
+}

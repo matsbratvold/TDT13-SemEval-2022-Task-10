@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "Thank you for such a wonderful experience"
+                ],
+                [
+                    "0:41"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Thank you for such a wonderful experience .",
+    "sent_id": "opener_en/kaf/hotel/english00148_ddb06f1e4ab012d85f9120c394168c48-8"
+}

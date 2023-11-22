@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "food"
+                ],
+                [
+                    "4:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "they"
+                ],
+                [
+                    "25:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "really nice"
+                ],
+                [
+                    "13:24"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "food"
+                ],
+                [
+                    "4:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "they"
+                ],
+                [
+                    "25:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "good range"
+                ],
+                [
+                    "36:46"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "food"
+                ],
+                [
+                    "4:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "they"
+                ],
+                [
+                    "25:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "catered for all tastes"
+                ],
+                [
+                    "52:74"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The food was really nice they had a good range that catered for all tastes .",
+    "sent_id": "opener_en/kaf/hotel/english00007_0fb7d41dba55088490bdd31b9c850e4b-4"
+}

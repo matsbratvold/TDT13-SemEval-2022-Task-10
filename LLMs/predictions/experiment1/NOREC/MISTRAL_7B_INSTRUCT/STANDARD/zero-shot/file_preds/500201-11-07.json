@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "film"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "geskjeft"
+                ],
+                [
+                    "3:11"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "En geskjeft filmen tar for seg , direkte og brutalt .",
+    "sent_id": "500201-11-07"
+}

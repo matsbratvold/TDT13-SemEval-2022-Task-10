@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "This is surely not a hotel to stay"
+                ],
+                [
+                    "0:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not a hotel to stay"
+                ],
+                [
+                    "15:34"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "when you want to visit Paris"
+                ],
+                [
+                    "35:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "when you want to visit Paris"
+                ],
+                [
+                    "35:63"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "but is a choice to consider"
+                ],
+                [
+                    "66:93"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is a choice to consider"
+                ],
+                [
+                    "70:93"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "when you just want to spend a night and get fast to the airport first thing in the morning"
+                ],
+                [
+                    "94:184"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "when you just want to spend a night and get fast to the airport first thing in the morning"
+                ],
+                [
+                    "94:184"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "This is surely not a hotel to stay when you want to visit Paris , but is a choice to consider when you just want to spend a night and get fast to the airport first thing in the morning .",
+    "sent_id": "opener_en/kaf/hotel/english00059_3f1e667b4e85710912b3c6b5f2f74982-5"
+}

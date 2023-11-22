@@ -1,0 +1,134 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "\u00d6ppen"
+                ],
+                [
+                    "2:7"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5pner"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "med"
+                ],
+                [
+                    "34:37"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5pner"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "f\u00f8r"
+                ],
+                [
+                    "58:61"
+                ]
+            ],
+            "Target": [
+                [
+                    "en gitar sager"
+                ],
+                [
+                    "62:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hakk"
+                ],
+                [
+                    "77:81"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "51:52"
+                ]
+            ],
+            "Target": [
+                [
+                    "melodien"
+                ],
+                [
+                    "84:92"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hakk"
+                ],
+                [
+                    "77:81"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "den dylanske teksten"
+                ],
+                [
+                    "96:116"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5pner"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "\" \u00d6ppen genom hela natten \" \u00e5pner med strykere og piano , f\u00f8r en gitar sager hakk i melodien og den dylanske teksten .",
+    "sent_id": "704372-14-01"
+}

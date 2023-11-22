@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "size of the room"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "really small small"
+                ],
+                [
+                    "19:37"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "no place to hang something more than two shirts"
+                ],
+                [
+                    "40:87"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "no place to hang something more than two shirts"
+                ],
+                [
+                    "40:87"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "size of the room , really small small , no place to hang something more than two shirts .",
+    "sent_id": "opener_en/kaf/hotel/english00149_aa9eb0dd94281b1d1b5182662c047aff-10"
+}

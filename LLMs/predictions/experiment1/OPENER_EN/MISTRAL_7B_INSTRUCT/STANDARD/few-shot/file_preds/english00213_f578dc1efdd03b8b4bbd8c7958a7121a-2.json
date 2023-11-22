@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "Although these apartments may look great on the internet"
+                ],
+                [
+                    "0:56"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "don 't go"
+                ],
+                [
+                    "59:68"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Although these apartments may look great on the internet , don 't go .",
+    "sent_id": "opener_en/kaf/hotel/english00213_f578dc1efdd03b8b4bbd8c7958a7121a-2"
+}

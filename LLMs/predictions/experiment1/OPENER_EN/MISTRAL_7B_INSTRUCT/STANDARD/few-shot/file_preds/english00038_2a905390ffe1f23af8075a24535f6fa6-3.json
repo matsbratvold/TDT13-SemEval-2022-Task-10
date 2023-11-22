@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "We had eight rooms"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "all eight couples were made to feel very welcome on arrival"
+                ],
+                [
+                    "23:82"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "We had eight rooms and all eight couples were made to feel very welcome on arrival .",
+    "sent_id": "opener_en/kaf/hotel/english00038_2a905390ffe1f23af8075a24535f6fa6-3"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Entertainment program"
+                ],
+                [
+                    "0:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "Good"
+                ],
+                [
+                    "31:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very"
+                ],
+                [
+                    "26:30"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Entertainment program was very Good .",
+    "sent_id": "opener_en/kaf/hotel/english00198_e8893ad293f6ca6d1000776fba1d4af5-4"
+}

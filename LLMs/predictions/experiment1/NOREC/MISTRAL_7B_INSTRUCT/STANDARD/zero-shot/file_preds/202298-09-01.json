@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "bilen"
+                ],
+                [
+                    "6:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sat"
+                ],
+                [
+                    "12:15"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "loggboks"
+                ],
+                [
+                    "21:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "forteller"
+                ],
+                [
+                    "53:62"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "elektrisk"
+                ],
+                [
+                    "100:109"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kj\u00f8returen"
+                ],
+                [
+                    "75:85"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "I testbilen satt det loggboks fra finske Driveco som forteller hvor mye av kj\u00f8returen som er utf\u00f8rt elektrisk , b\u00e5de i tid og distanse .",
+    "sent_id": "202298-09-01"
+}

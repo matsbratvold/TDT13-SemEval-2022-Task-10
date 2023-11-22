@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fort"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "inn"
+                ],
+                [
+                    "5:8"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "like"
+                ],
+                [
+                    "19:23"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Fort"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "like"
+                ],
+                [
+                    "19:23"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Fort inn i hodet , like fort ut .",
+    "sent_id": "104097-03-02"
+}

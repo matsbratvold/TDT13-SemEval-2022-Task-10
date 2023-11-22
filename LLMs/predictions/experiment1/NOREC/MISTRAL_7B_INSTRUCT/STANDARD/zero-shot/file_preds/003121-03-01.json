@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Utskiftning av navn"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "navn"
+                ],
+                [
+                    "15:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ser ut til \u00e5 v\u00e6re effektivt"
+                ],
+                [
+                    "20:47"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Utskiftning av navn ser ut til \u00e5 v\u00e6re effektivt .",
+    "sent_id": "003121-03-01"
+}

@@ -1,0 +1,83 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "leaking toilet"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "floods floor"
+                ],
+                [
+                    "21:33"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "odd stains on sofa"
+                ],
+                [
+                    "40:58"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "had to sit on towels"
+                ],
+                [
+                    "61:81"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "fist hole in bedroom door"
+                ],
+                [
+                    "88:113"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bed that collapses"
+                ],
+                [
+                    "121:139"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "leaking toilet which floods floor ..... odd stains on sofa , had to sit on towels ..... fist hole in bedroom door ...... bed that collapses .",
+    "sent_id": "opener_en/kaf/hotel/english00223_fe94638c44f4dd789e8a42550e1e6beb-2"
+}

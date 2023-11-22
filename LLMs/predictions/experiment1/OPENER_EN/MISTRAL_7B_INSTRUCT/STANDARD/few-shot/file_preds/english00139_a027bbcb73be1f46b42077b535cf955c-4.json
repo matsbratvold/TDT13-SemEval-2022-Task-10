@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "view of the mountains"
+                ],
+                [
+                    "9:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very nice"
+                ],
+                [
+                    "51:60"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Although view of the mountains from my balcony was very nice .",
+    "sent_id": "opener_en/kaf/hotel/english00139_a027bbcb73be1f46b42077b535cf955c-4"
+}

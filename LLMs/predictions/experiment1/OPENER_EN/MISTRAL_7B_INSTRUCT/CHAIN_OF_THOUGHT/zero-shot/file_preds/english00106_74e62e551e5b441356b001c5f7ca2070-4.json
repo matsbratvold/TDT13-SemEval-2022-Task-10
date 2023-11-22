@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Namely"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "requests"
+                ],
+                [
+                    "9:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not handled"
+                ],
+                [
+                    "23:34"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Namely , requests were not handled or not handled in a timely manner .",
+    "sent_id": "opener_en/kaf/hotel/english00106_74e62e551e5b441356b001c5f7ca2070-4"
+}

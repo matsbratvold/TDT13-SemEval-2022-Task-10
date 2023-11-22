@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "we"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "stay"
+                ],
+                [
+                    "22:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enjoyed"
+                ],
+                [
+                    "10:17"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "we really enjoyed our stay this time as we did when staying in 2010 .",
+    "sent_id": "opener_en/kaf/hotel/english00014_17224596ebb4a03e814c12ea1c18e41e-8"
+}

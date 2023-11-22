@@ -1,0 +1,41 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Although the room was small"
+                ],
+                [
+                    "0:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "it was clean and quite servicable"
+                ],
+                [
+                    "28:61"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "we spent most days sight \u00b7 seeing in Paris"
+                ],
+                [
+                    "64:106"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Although the room was small it was clean and quite servicable ( we spent most days sight \u00b7 seeing in Paris .",
+    "sent_id": "opener_en/kaf/hotel/english00057_3c3ad20e93ca57ff88759a290c8aaa88-3"
+}

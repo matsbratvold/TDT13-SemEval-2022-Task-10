@@ -1,0 +1,55 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Personal"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "very friendly"
+                ],
+                [
+                    "12:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en"
+                ],
+                [
+                    "20:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Personal"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "work very hard to please the people"
+                ],
+                [
+                    "29:64"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Personal is very friendly en work very hard to please the people",
+    "sent_id": "opener_en/kaf/hotel/english00038_3630f623138397b96ee2a4794334e86f-6"
+}

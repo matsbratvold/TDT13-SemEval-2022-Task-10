@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Derfor"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "trenger"
+                ],
+                [
+                    "14:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "verken"
+                ],
+                [
+                    "7:13"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Derfor verken trenger eller b\u00f8r en vite stort mer om den konkrete handlingen enn det .",
+    "sent_id": "702352-10-02"
+}

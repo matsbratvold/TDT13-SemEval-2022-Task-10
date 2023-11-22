@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "citizen"
+                ],
+                [
+                    "20:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "usually chose"
+                ],
+                [
+                    "2:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I usually chose the citizen for my overnight layovers in AMS .",
+    "sent_id": "opener_en/kaf/hotel/english00006_081b55dce5238cb8cb60cb2c79fd2c66-2"
+}

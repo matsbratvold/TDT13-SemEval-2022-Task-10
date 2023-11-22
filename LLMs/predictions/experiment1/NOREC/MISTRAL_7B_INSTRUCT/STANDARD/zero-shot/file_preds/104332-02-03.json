@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Og"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "lurerock"
+                ],
+                [
+                    "20:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mer enn"
+                ],
+                [
+                    "33:40"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "Og"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "snev"
+                ],
+                [
+                    "44:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "av"
+                ],
+                [
+                    "17:19"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "Og"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kaizers Orchestra"
+                ],
+                [
+                    "52:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "av"
+                ],
+                [
+                    "17:19"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Og d\u00e9t i et grep av lurerock med mer enn et snev av Kaizers Orchestra .",
+    "sent_id": "104332-02-03"
+}

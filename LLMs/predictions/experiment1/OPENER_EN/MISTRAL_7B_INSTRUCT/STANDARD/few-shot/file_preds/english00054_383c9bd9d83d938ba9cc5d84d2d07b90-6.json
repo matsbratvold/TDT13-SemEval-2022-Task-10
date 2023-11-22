@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "breakfast"
+                ],
+                [
+                    "4:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very modest and the choice is very poor"
+                ],
+                [
+                    "17:56"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The breakfast is very modest and the choice is very poor .",
+    "sent_id": "opener_en/kaf/hotel/english00054_383c9bd9d83d938ba9cc5d84d2d07b90-6"
+}

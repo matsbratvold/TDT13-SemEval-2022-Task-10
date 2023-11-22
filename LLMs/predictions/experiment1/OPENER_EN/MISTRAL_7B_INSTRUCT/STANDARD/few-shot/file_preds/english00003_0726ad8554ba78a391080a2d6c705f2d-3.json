@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hotel"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "was excellent"
+                ],
+                [
+                    "6:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en the staff was very friendly"
+                ],
+                [
+                    "20:50"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Hotel was excellent en the staff was very friendly .",
+    "sent_id": "opener_en/kaf/hotel/english00003_0726ad8554ba78a391080a2d6c705f2d-3"
+}

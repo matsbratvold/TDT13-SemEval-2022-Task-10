@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "staff"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "helpful"
+                ],
+                [
+                    "15:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "were"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "The staff were helpful .",
+    "sent_id": "opener_en/kaf/hotel/english00091_64b95794b1aa41efbaabced339b2deff-6"
+}

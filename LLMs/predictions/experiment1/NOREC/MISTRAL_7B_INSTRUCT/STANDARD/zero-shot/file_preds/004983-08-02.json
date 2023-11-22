@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Et nytt hierarki"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "gutten"
+                ],
+                [
+                    "23:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "m\u00f8ter"
+                ],
+                [
+                    "17:22"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Et nytt hierarki m\u00f8ter gutten .",
+    "sent_id": "004983-08-02"
+}

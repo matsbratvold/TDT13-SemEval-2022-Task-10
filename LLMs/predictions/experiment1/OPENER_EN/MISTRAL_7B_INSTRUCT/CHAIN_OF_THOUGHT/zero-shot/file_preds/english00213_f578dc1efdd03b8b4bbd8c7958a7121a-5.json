@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "guests"
+                ],
+                [
+                    "33:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "police"
+                ],
+                [
+                    "87:93"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "had to be removed"
+                ],
+                [
+                    "40:57"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "guests"
+                ],
+                [
+                    "33:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "police"
+                ],
+                [
+                    "87:93"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "use of noisy fake alarms"
+                ],
+                [
+                    "145:169"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "guests"
+                ],
+                [
+                    "33:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "police"
+                ],
+                [
+                    "87:93"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "drunk misbehaviour"
+                ],
+                [
+                    "174:192"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Consequently , during our stay , guests had to be removed from their apartments by the police twice , as a result of heavy verbal fighting , the use of noisy fake alarms and drunk misbehaviour .",
+    "sent_id": "opener_en/kaf/hotel/english00213_f578dc1efdd03b8b4bbd8c7958a7121a-5"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "restaurant"
+                ],
+                [
+                    "11:21"
+                ]
+            ],
+            "Target": [
+                [
+                    "steak House"
+                ],
+                [
+                    "22:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very nice"
+                ],
+                [
+                    "43:52"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "A la carte restaurant steak House was in a very nice location on the golf field .",
+    "sent_id": "opener_en/kaf/hotel/english00198_e8893ad293f6ca6d1000776fba1d4af5-5"
+}

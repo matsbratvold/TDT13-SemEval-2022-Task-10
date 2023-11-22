@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dypvik"
+                ],
+                [
+                    "34:40"
+                ]
+            ],
+            "Target": [
+                [
+                    "terroristene"
+                ],
+                [
+                    "55:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sv\u00e6rt interessante"
+                ],
+                [
+                    "4:22"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Dellwo"
+                ],
+                [
+                    "81:87"
+                ]
+            ],
+            "Target": [
+                [
+                    "hendelser i Hamburg og Stockholm"
+                ],
+                [
+                    "108:140"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "konsentrert"
+                ],
+                [
+                    "93:104"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Dellwo"
+                ],
+                [
+                    "81:87"
+                ]
+            ],
+            "Target": [
+                [
+                    "modne erkjennelser fra fengselet"
+                ],
+                [
+                    "149:181"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "om"
+                ],
+                [
+                    "105:107"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det sv\u00e6rt interessante intervjuet Dypvik har med en av terroristene , Karl-Heinz Dellwo , er konsentrert om hendelser i Hamburg og Stockholm , og om modne erkjennelser fra fengselet .",
+    "sent_id": "301242-10-03"
+}

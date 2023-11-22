@@ -1,0 +1,110 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "we"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "got"
+                ],
+                [
+                    "3:6"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "we"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "38:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "talk"
+                ],
+                [
+                    "44:48"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "hotel"
+                ],
+                [
+                    "38:43"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "Champagne"
+                ],
+                [
+                    "78:87"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "hotel"
+                ],
+                [
+                    "38:43"
+                ]
+            ],
+            "Target": [
+                [
+                    "room"
+                ],
+                [
+                    "117:121"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "set up"
+                ],
+                [
+                    "100:106"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "we got engaged while we there and the hotel talk care of everything , Flowers Champagne , they even set up a special room for us .",
+    "sent_id": "opener_en/kaf/hotel/english00164_f47aebce11fc3b76fecdd1db6a13904f-6"
+}

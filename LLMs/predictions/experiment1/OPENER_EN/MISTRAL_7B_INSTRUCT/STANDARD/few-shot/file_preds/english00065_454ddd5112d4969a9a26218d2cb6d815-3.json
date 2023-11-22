@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Dark"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "crazily designed bathroom with no electrical outlet"
+                ],
+                [
+                    "7:58"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "crazily designed bathroom with no electrical outlet"
+                ],
+                [
+                    "7:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "no soap dish in shower"
+                ],
+                [
+                    "61:83"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "crazily designed bathroom with no electrical outlet"
+                ],
+                [
+                    "7:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "minuscule shelf for personal amenities"
+                ],
+                [
+                    "101:139"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Dark , crazily designed bathroom with no electrical outlet , no soap dish in shower ( no bathtub ) , minuscule shelf for personal amenities .",
+    "sent_id": "opener_en/kaf/hotel/english00065_454ddd5112d4969a9a26218d2cb6d815-3"
+}

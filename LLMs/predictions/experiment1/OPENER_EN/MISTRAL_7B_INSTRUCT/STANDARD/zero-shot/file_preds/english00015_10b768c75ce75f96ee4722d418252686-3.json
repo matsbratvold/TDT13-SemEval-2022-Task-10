@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "6:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "stay in a better one"
+                ],
+                [
+                    "44:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Next time"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Next time i would spend the extra money and stay in a better one .",
+    "sent_id": "opener_en/kaf/hotel/english00015_10b768c75ce75f96ee4722d418252686-3"
+}

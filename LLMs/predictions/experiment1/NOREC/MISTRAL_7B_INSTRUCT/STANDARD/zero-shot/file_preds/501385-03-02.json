@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hennes"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "indiepop og -rock"
+                ],
+                [
+                    "29:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "p\u00f8nkete"
+                ],
+                [
+                    "21:28"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Hennes"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "indiepop og -rock"
+                ],
+                [
+                    "29:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skakk og skeiv"
+                ],
+                [
+                    "61:75"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Hennes"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "indiepop og -rock"
+                ],
+                [
+                    "29:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "balansert"
+                ],
+                [
+                    "101:110"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Hennes tidvis nesten p\u00f8nkete indiepop og -rock kan v\u00e6re b\u00e5de skakk og skeiv , men dette har hun ofte balansert med tilgjengelige melodier og direkte tekster .",
+    "sent_id": "501385-03-02"
+}

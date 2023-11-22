@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Varm"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "melk"
+                ],
+                [
+                    "5:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Varm"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Varm melk .",
+    "sent_id": "703572-03-02"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "The holiday"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "everything we 've hoped for"
+                ],
+                [
+                    "16:43"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The holiday was everything we 've hoped for",
+    "sent_id": "opener_en/kaf/hotel/english00003_0726ad8554ba78a391080a2d6c705f2d-1"
+}

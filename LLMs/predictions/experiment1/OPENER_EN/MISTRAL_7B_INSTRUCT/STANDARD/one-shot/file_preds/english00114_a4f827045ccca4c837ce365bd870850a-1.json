@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "the only nice thing is the beach"
+                ],
+                [
+                    "18:50"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Don 't go there , the only nice thing is the beach",
+    "sent_id": "opener_en/kaf/hotel/english00114_a4f827045ccca4c837ce365bd870850a-1"
+}

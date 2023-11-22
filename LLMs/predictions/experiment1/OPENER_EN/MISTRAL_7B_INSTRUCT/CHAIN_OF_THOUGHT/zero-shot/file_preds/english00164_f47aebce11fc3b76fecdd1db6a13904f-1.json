@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Wonderful Hotel"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "Clean Friendly very spacious"
+                ],
+                [
+                    "18:46"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very spacious"
+                ],
+                [
+                    "33:46"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Wonderful Hotel , Clean Friendly very spacious",
+    "sent_id": "opener_en/kaf/hotel/english00164_f47aebce11fc3b76fecdd1db6a13904f-1"
+}

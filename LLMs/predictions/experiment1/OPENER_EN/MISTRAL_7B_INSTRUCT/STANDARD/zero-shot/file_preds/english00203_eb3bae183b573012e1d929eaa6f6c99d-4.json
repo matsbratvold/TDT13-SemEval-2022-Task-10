@@ -1,0 +1,50 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the hotel"
+                ],
+                [
+                    "54:63"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "is located verz close to the city center"
+                ],
+                [
+                    "64:104"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "the hotel"
+                ],
+                [
+                    "54:63"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "In addition to the price , the big advantadge is that the hotel is located verz close to the city center , and hence provides a prefect \" base camp \" .",
+    "sent_id": "opener_en/kaf/hotel/english00203_eb3bae183b573012e1d929eaa6f6c99d-4"
+}

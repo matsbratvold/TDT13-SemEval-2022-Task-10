@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hjerned\u00f8dt"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "gjort riktig"
+                ],
+                [
+                    "13:25"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Hjerned\u00f8dt , gjort riktig .",
+    "sent_id": "103988-02-01"
+}

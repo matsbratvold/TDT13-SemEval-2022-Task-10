@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "rogalandsdialekt"
+                ],
+                [
+                    "3:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "rogalandsdialekt"
+                ],
+                [
+                    "3:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "P\u00e5"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "P\u00e5 rogalandsdialekt .",
+    "sent_id": "104332-02-02"
+}

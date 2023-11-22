@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Terrible"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "service"
+                ],
+                [
+                    "9:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Terrible"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "very"
+                ],
+                [
+                    "19:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "bad"
+                ],
+                [
+                    "24:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very bad"
+                ],
+                [
+                    "19:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "very"
+                ],
+                [
+                    "19:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "bad"
+                ],
+                [
+                    "24:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very bad"
+                ],
+                [
+                    "19:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "very"
+                ],
+                [
+                    "19:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "bad"
+                ],
+                [
+                    "24:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very bad"
+                ],
+                [
+                    "19:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "very"
+                ],
+                [
+                    "19:23"
+                ]
+            ],
+            "Target": [
+                [
+                    "bad"
+                ],
+                [
+                    "24:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very bad"
+                ],
+                [
+                    "19:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Terrible service , very bad rooms , very bad manager",
+    "sent_id": "opener_en/kaf/hotel/english00216_f7c75ca42432376cd15a2aff7694125b-1"
+}

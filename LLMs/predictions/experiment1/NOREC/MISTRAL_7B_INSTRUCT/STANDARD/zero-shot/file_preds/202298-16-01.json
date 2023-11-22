@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "lykter"
+                ],
+                [
+                    "50:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vises"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "lamper"
+                ],
+                [
+                    "69:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "vises"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "bakluke"
+                ],
+                [
+                    "118:125"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sm\u00e5 endringer"
+                ],
+                [
+                    "96:109"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "st\u00f8tfanger"
+                ],
+                [
+                    "129:139"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sm\u00e5 endringer"
+                ],
+                [
+                    "96:109"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det vises f\u00f8rst og fremst ved at den har f\u00e5tt nye lykter foran , nye lamper bak , i tillegg til sm\u00e5 endringer p\u00e5 b\u00e5de bakluke og st\u00f8tfanger bak .",
+    "sent_id": "202298-16-01"
+}

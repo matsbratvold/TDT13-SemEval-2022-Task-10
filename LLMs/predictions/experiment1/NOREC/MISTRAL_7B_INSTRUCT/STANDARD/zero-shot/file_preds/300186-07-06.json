@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "han"
+                ],
+                [
+                    "36:39"
+                ]
+            ],
+            "Target": [
+                [
+                    "Det blir"
+                ],
+                [
+                    "96:104"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "litt som \u00e5 putte t\u00e5spissko p\u00e5 en flodhest"
+                ],
+                [
+                    "105:146"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "\u00ab Du er verre enn mor di \u00bb , mumler han n\u00e5r hun , etter en utfordrende \u00f8kt , forteller ham at \u00ab Det blir litt som \u00e5 putte t\u00e5spissko p\u00e5 en flodhest \u00bb .",
+    "sent_id": "300186-07-06"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Adeles"
+                ],
+                [
+                    "11:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snudd p\u00e5 hodet"
+                ],
+                [
+                    "28:42"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Den er som Adeles \u00ab Hello \u00bb snudd p\u00e5 hodet :",
+    "sent_id": "302108-10-01"
+}

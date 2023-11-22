@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Etter"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fitbit-produkter"
+                ],
+                [
+                    "41:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "litt skuffet"
+                ],
+                [
+                    "107:119"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Etter \u00e5 ha latt oss begeistre over flere Fitbit-produkter de siste \u00e5rene , som Charge og Charge HR , er vi litt skuffet denne gangen .",
+    "sent_id": "200006-04-02"
+}

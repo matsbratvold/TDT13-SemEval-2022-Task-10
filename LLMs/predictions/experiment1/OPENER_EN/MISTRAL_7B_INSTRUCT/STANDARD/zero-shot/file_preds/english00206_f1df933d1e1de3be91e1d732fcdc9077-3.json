@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "all the staff of the hotel"
+                ],
+                [
+                    "27:53"
+                ]
+            ],
+            "Target": [
+                [
+                    "the hotel"
+                ],
+                [
+                    "44:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "warmly welcomed"
+                ],
+                [
+                    "8:23"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "We were warmly welcomed by all the staff of the hotel who supported our needs throughout the visit .",
+    "sent_id": "opener_en/kaf/hotel/english00206_f1df933d1e1de3be91e1d732fcdc9077-3"
+}

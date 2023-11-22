@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "En"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "god blanding"
+                ],
+                [
+                    "3:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Fluenes herre"
+                ],
+                [
+                    "21:34"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "En"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "sosialpsykologiske fors\u00f8k"
+                ],
+                [
+                    "42:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Zimbardos fengselseksperiment"
+                ],
+                [
+                    "72:101"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "En god blanding av \u00ab Fluenes herre \u00bb , og sosialpsykologiske fors\u00f8k som Zimbardos fengselseksperiment .",
+    "sent_id": "103992-11-04"
+}

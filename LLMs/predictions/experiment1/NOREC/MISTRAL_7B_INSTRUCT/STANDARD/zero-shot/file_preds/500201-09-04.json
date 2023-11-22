@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Likevel"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "er"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "bare"
+                ],
+                [
+                    "46:50"
+                ]
+            ],
+            "Target": [
+                [
+                    "en f\u00f8lelse"
+                ],
+                [
+                    "51:61"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "av autentisitet og voldsomt n\u00e6rv\u00e6r"
+                ],
+                [
+                    "62:96"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "s\u00e6rlig"
+                ],
+                [
+                    "99:105"
+                ]
+            ],
+            "Target": [
+                [
+                    "fra hovedrolleinnehaver Mar\u00eda Mercedes Coroy"
+                ],
+                [
+                    "106:150"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "voldsomt n\u00e6rv\u00e6r"
+                ],
+                [
+                    "81:96"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Likevel er her ikke en eneste unote \u00e5 spore ; bare en f\u00f8lelse av autentisitet og voldsomt n\u00e6rv\u00e6r , s\u00e6rlig fra hovedrolleinnehaver Mar\u00eda Mercedes Coroy .",
+    "sent_id": "500201-09-04"
+}

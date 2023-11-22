@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Filmen"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Renkesmed"
+                ],
+                [
+                    "33:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er adaptert"
+                ],
+                [
+                    "7:18"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Filmen"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "handlingen"
+                ],
+                [
+                    "66:76"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er flyttet"
+                ],
+                [
+                    "77:87"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Filmen"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "landet"
+                ],
+                [
+                    "153:159"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "var under japansk styre"
+                ],
+                [
+                    "160:183"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Filmen er adaptert fra romanen \u00ab Renkesmed \u00bb av Sarah Waters , og handlingen er flyttet fra England i viktoriatiden til Korea tidlig p\u00e5 1930-tallet , da landet var under japansk styre .",
+    "sent_id": "600682-04-01"
+}

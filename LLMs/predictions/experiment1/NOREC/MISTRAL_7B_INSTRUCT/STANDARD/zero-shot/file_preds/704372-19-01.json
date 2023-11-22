@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Om jag var liten som du \u00e4r"
+                ],
+                [
+                    "0:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "du"
+                ],
+                [
+                    "21:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "liten som du \u00e4r"
+                ],
+                [
+                    "11:26"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Om jag var liten som du \u00e4r...",
+    "sent_id": "704372-19-01"
+}

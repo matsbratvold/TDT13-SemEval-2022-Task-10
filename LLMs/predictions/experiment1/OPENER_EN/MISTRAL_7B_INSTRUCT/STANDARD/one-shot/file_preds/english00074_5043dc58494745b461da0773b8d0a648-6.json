@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "English people"
+                ],
+                [
+                    "53:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hardly any English people at all staying in the hotel"
+                ],
+                [
+                    "42:95"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "English people"
+                ],
+                [
+                    "53:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "quite a few english families"
+                ],
+                [
+                    "160:188"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "On 1st visit in June there appeared to be hardly any English people at all staying in the hotel , mainly German & Russian , yet on our second stay , there were quite a few english families .",
+    "sent_id": "opener_en/kaf/hotel/english00074_5043dc58494745b461da0773b8d0a648-6"
+}

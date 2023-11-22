@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The TV"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "the internet connection"
+                ],
+                [
+                    "44:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stopped"
+                ],
+                [
+                    "7:14"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The TV stopped foor several moments because the internet connection wasn 't sufficient .",
+    "sent_id": "opener_en/kaf/hotel/english00028_2a1e03a3e5d6afe2c5024926cb7ff9ab-6"
+}

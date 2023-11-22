@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Roger Michell"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Notting Hill"
+                ],
+                [
+                    "29:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "akkurat som"
+                ],
+                [
+                    "61:72"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Roger Michell"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Daphne Du Maurier"
+                ],
+                [
+                    "231:248"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tatt for seg en av fortellingene til"
+                ],
+                [
+                    "169:205"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Roger Michell , mannen bak \" Notting Hill \" ( 1999 ) , har \u2013 akkurat som Alfred Hitchcock gjorde da han laget klassikerne \" Rebecca \" ( 1940 ) og \" Fuglene \" ( 1963 ) \u2013 tatt for seg en av fortellingene til den britiske forfatteren Daphne Du Maurier .",
+    "sent_id": "600639-03-05"
+}

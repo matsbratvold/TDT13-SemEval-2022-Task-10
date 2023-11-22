@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "OK"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "it"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "We got bumped to a next \u00b7 day flight"
+                ],
+                [
+                    "54:90"
+                ]
+            ],
+            "Target": [
+                [
+                    "the room"
+                ],
+                [
+                    "182:190"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rather underwhelming"
+                ],
+                [
+                    "195:215"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "OK , so it 's an airport hotel , just functional etc. We got bumped to a next \u00b7 day flight ( no frustration , though , so shouldn 't affect my hotel assessment ) , stayed here , but the room was rather underwhelming .",
+    "sent_id": "opener_en/kaf/hotel/english00139_d1d16f606db4a5ea9d19e6af2c969115-2"
+}

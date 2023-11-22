@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Is This The Life We Really Want ?"
+                ],
+                [
+                    "2:35"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "\u00ab Is This The Life We Really Want ? \u00bb er spilt inn over en periode p\u00e5 sju \u00e5r og er akkurat s\u00e5 konseptpreget , teatralsk og dramatisk som forventet , med samplinger i form av stemmer , m\u00e5keskrik , folkemengder og andre lydbilder .",
+    "sent_id": "304196-10-01"
+}

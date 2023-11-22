@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "salesmen"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "salesmen"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "could take a no"
+                ],
+                [
+                    "13:28"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "salesmen"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "salesmen"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "were kinda rude"
+                ],
+                [
+                    "38:53"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The salesmen could take a no and they were kinda rude .",
+    "sent_id": "opener_en/kaf/hotel/english00140_a052f3702cce7297bc2aff92662d1db3-9"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "receptionist"
+                ],
+                [
+                    "8:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "room"
+                ],
+                [
+                    "56:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "improved room with riverside view"
+                ],
+                [
+                    "47:80"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "But the receptionist immediately offered me an improved room with riverside view .",
+    "sent_id": "opener_en/kaf/hotel/english00005_0de4e57838f243c67953cb70e70e693b-4"
+}

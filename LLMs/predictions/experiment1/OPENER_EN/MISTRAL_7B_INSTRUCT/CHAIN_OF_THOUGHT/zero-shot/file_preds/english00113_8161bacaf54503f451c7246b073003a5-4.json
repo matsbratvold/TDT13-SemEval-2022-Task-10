@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "room"
+                ],
+                [
+                    "4:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "size"
+                ],
+                [
+                    "23:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "decent"
+                ],
+                [
+                    "16:22"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "room"
+                ],
+                [
+                    "4:8"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The room was of decent size , but all in length , which isn 't the most convenient .",
+    "sent_id": "opener_en/kaf/hotel/english00113_8161bacaf54503f451c7246b073003a5-4"
+}

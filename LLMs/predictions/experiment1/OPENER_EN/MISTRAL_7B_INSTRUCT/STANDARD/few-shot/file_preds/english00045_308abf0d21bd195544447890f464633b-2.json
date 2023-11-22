@@ -1,0 +1,41 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "A super holiday"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "but"
+                ],
+                [
+                    "18:21"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "the staff did not understand much english"
+                ],
+                [
+                    "24:65"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "A super holiday \u00b7 but : the staff did not understand much english .",
+    "sent_id": "opener_en/kaf/hotel/english00045_308abf0d21bd195544447890f464633b-2"
+}

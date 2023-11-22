@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "This hotel"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "4 *"
+                ],
+                [
+                    "28:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "does not deserve"
+                ],
+                [
+                    "11:27"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "This hotel"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "most of the staff"
+                ],
+                [
+                    "68:85"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "were very pleasant"
+                ],
+                [
+                    "86:104"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "This hotel"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "upper management"
+                ],
+                [
+                    "111:127"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "were like british politicians"
+                ],
+                [
+                    "128:157"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "This hotel"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "complained"
+                ],
+                [
+                    "169:179"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "when you complained"
+                ],
+                [
+                    "160:179"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "This hotel"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "did not give you an answer"
+                ],
+                [
+                    "185:211"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "but changed the subject"
+                ],
+                [
+                    "212:235"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "This hotel does not deserve 4 * in my opinion , although in general most of the staff were very pleasant , the upper management were like british politicians , when you complained they did not give you an answer but changed the subject .",
+    "sent_id": "opener_en/kaf/hotel/english00143_a1ec3eba7f3fa0420d4d2fed1bca5701-2"
+}

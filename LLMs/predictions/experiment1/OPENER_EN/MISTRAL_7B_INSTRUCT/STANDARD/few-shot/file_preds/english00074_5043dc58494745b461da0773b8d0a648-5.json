@@ -1,0 +1,104 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Both times"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "all inclusive"
+                ],
+                [
+                    "11:24"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "food"
+                ],
+                [
+                    "27:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "okay"
+                ],
+                [
+                    "36:40"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "got abit repetitive at times"
+                ],
+                [
+                    "43:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "so opted to visit the sister hotel next door on a few occasions"
+                ],
+                [
+                    "72:135"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "there appeared to be more of a variety there"
+                ],
+                [
+                    "139:183"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "also a few visits where payed to mcdonalds"
+                ],
+                [
+                    "184:226"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "wich is situated only a 5 minute walk away"
+                ],
+                [
+                    "227:269"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        }
+    ],
+    "text": "Both times all inclusive , food was okay , got abit repetitive at times so opted to visit the sister hotel next door on a few occasions as there appeared to be more of a variety there also a few visits where payed to mcdonalds wich is situated only a 5 minute walk away .",
+    "sent_id": "opener_en/kaf/hotel/english00074_5043dc58494745b461da0773b8d0a648-5"
+}

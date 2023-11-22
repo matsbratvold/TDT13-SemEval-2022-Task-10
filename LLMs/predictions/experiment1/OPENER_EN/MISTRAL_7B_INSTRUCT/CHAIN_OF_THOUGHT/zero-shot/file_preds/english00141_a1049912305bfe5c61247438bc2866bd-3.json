@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Stay"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "5 \u00b7 day bus trip"
+                ],
+                [
+                    "27:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "in combination with"
+                ],
+                [
+                    "5:24"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Peter Langhout Travel ( Holland )"
+                ],
+                [
+                    "57:90"
+                ]
+            ],
+            "Target": [
+                [
+                    "5 \u00b7 day bus trip"
+                ],
+                [
+                    "27:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "organized by"
+                ],
+                [
+                    "44:56"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Stay in combination with a 5 \u00b7 day bus trip organized by Peter Langhout Travel ( Holland )",
+    "sent_id": "opener_en/kaf/hotel/english00141_a1049912305bfe5c61247438bc2866bd-3"
+}

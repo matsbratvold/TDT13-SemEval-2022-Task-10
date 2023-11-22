@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Eller"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "bonusspor"
+                ],
+                [
+                    "24:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "den en samling"
+                ],
+                [
+                    "9:23"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Eller er den en samling bonusspor , ting som ikke rakk \u00e5 bli med i 2012 ?",
+    "sent_id": "301242-11-04"
+}

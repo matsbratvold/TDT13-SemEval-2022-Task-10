@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "two boats"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "available to ferry guest to the beach if needed"
+                ],
+                [
+                    "14:61"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "walking"
+                ],
+                [
+                    "71:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not a problem"
+                ],
+                [
+                    "82:95"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "two boats are available to ferry guest to the beach if needed.although walking is not a problem .",
+    "sent_id": "opener_en/kaf/hotel/english00014_17224596ebb4a03e814c12ea1c18e41e-3"
+}

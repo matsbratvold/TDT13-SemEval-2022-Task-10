@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "stay"
+                ],
+                [
+                    "2:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "we"
+                ],
+                [
+                    "7:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "joy and happiness"
+                ],
+                [
+                    "36:53"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "A stay we always will remember with joy and happiness",
+    "sent_id": "opener_en/kaf/hotel/english00045_308abf0d21bd195544447890f464633b-9"
+}

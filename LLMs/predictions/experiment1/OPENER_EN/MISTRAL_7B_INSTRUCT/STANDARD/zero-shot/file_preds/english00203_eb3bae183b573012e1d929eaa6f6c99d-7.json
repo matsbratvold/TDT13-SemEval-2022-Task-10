@@ -1,0 +1,42 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Every door that gets closed"
+                ],
+                [
+                    "0:27"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Every door that gets closed , every toilet that gets flushed , every single single conversation from everyone passing by your room .",
+    "sent_id": "opener_en/kaf/hotel/english00203_eb3bae183b573012e1d929eaa6f6c99d-7"
+}

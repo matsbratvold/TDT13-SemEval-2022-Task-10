@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "caffees"
+                ],
+                [
+                    "18:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "many"
+                ],
+                [
+                    "13:17"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "restaurants"
+                ],
+                [
+                    "28:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "many"
+                ],
+                [
+                    "13:17"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "shops"
+                ],
+                [
+                    "44:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "many"
+                ],
+                [
+                    "13:17"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "So there are many caffees , restaurants and shops nearby .",
+    "sent_id": "opener_en/kaf/hotel/english00138_9f942cd30f42d0abad59c036950aef81-3"
+}

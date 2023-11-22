@@ -1,0 +1,102 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The atmosphere"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "relaxing"
+                ],
+                [
+                    "22:30"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The atmosphere"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "relaxing"
+                ],
+                [
+                    "22:30"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The atmosphere"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "relaxing"
+                ],
+                [
+                    "22:30"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "The atmosphere"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "relaxing"
+                ],
+                [
+                    "22:30"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The atmosphere was so relaxing with the gardens , walkways , old buildings and even the staff .",
+    "sent_id": "opener_en/kaf/hotel/english00023_1aa3c5b4f003f6646e3d6f72045d4750-4"
+}

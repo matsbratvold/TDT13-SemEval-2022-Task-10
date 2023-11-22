@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Her"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "flyktningene"
+                ],
+                [
+                    "40:52"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Her"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "flyktningene"
+                ],
+                [
+                    "40:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "over"
+                ],
+                [
+                    "35:39"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Her"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "du"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "selv kan gj\u00f8re"
+                ],
+                [
+                    "65:79"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Her f\u00e5r du vite hvem som bestemmer over flyktningene , og hva du selv kan gj\u00f8re .",
+    "sent_id": "302975-03-05"
+}

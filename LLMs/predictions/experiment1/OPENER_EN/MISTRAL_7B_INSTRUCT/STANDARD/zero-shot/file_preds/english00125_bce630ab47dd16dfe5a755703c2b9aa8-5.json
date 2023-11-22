@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Food"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "delicious"
+                ],
+                [
+                    "9:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "was"
+                ],
+                [
+                    "5:8"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "down the beach"
+                ],
+                [
+                    "72:86"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "from the exceptionally large private terrace assoiated with our suite"
+                ],
+                [
+                    "87:156"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Food was delicious , as well .. It is hard not to enjoy the great views down the beach from the exceptionally large private terrace assoiated with our suite .",
+    "sent_id": "opener_en/kaf/hotel/english00125_bce630ab47dd16dfe5a755703c2b9aa8-5"
+}

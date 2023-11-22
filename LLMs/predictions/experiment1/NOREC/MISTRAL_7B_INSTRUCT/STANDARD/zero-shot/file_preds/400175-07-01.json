@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Hatet"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "hans mot okkupasjonsmakten"
+                ],
+                [
+                    "6:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Hatet"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Hatet"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "de stakkarslige ungdommene"
+                ],
+                [
+                    "77:103"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gj\u00f8r livet deres til et helvete"
+                ],
+                [
+                    "158:189"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Hatet hans mot okkupasjonsmakten er fortsatt s\u00e5 sterkt at han ikke kan se p\u00e5 de stakkarslige ungdommene som annet enn representanter for naziregimet , og han gj\u00f8r livet deres til et helvete .",
+    "sent_id": "400175-07-01"
+}

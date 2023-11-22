@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dana"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "Beach"
+                ],
+                [
+                    "5:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is a top hotel"
+                ],
+                [
+                    "11:25"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Dana Beach is a top hotel !",
+    "sent_id": "opener_en/kaf/hotel/english00146_dc6ed17346231f40aed08dcb4c1e24ae-1"
+}

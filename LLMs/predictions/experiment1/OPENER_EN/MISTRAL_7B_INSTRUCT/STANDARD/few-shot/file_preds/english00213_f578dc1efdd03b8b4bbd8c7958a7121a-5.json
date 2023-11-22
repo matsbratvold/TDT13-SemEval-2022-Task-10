@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "Consequently , during our stay , guests had to be removed from their apartments by the police twice , as a result of heavy verbal fighting , the use of noisy fake alarms and drunk misbehaviour"
+                ],
+                [
+                    "0:192"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Consequently , during our stay , guests had to be removed from their apartments by the police twice , as a result of heavy verbal fighting , the use of noisy fake alarms and drunk misbehaviour .",
+    "sent_id": "opener_en/kaf/hotel/english00213_f578dc1efdd03b8b4bbd8c7958a7121a-5"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "the spacious pool area"
+                ],
+                [
+                    "8:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "liked"
+                ],
+                [
+                    "2:7"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "sauna and hamam"
+                ],
+                [
+                    "33:48"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "liked"
+                ],
+                [
+                    "2:7"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I liked the spacious pool area , sauna and hamam .",
+    "sent_id": "opener_en/kaf/hotel/english00139_a027bbcb73be1f46b42077b535cf955c-5"
+}

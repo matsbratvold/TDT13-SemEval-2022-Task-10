@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Perhaps one should choose"
+                ],
+                [
+                    "0:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "the audience"
+                ],
+                [
+                    "26:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "something more international"
+                ],
+                [
+                    "39:67"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "mainly because"
+                ],
+                [
+                    "70:84"
+                ]
+            ],
+            "Target": [
+                [
+                    "there are very many Russians"
+                ],
+                [
+                    "85:113"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "something more international"
+                ],
+                [
+                    "39:67"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Perhaps one should choose the audience something more international , mainly because there are very many Russians .",
+    "sent_id": "opener_en/kaf/hotel/english00136_cf8140e17a3855f7a4a38936d6193415-7"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Very cool hotel"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "cool hotel"
+                ],
+                [
+                    "5:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Very cool hotel",
+    "sent_id": "opener_en/kaf/hotel/english00029_2a5891717bff19947a0b858a3b1e8230-1"
+}

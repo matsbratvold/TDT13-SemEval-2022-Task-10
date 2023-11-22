@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Good"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "location"
+                ],
+                [
+                    "5:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "on Nevskii"
+                ],
+                [
+                    "14:24"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Good location on Nevskii",
+    "sent_id": "opener_en/kaf/hotel/english00113_8161bacaf54503f451c7246b073003a5-1"
+}

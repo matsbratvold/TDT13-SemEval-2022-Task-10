@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Og det i et noks\u00e5 tilgjort barnespr\u00e5k"
+                ],
+                [
+                    "0:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "m\u00e5ten voksne snakker n\u00e5r de skal forklare barn noe vanskelig"
+                ],
+                [
+                    "54:114"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "minner om"
+                ],
+                [
+                    "44:53"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Og det i et noks\u00e5 tilgjort barnespr\u00e5k , som minner om m\u00e5ten voksne snakker n\u00e5r de skal forklare barn noe vanskelig :",
+    "sent_id": "302975-13-03"
+}

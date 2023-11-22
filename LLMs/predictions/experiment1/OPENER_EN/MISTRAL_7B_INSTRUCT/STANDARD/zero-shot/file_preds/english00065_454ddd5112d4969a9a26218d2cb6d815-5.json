@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Meager"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "breakfast"
+                ],
+                [
+                    "18:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "horrible"
+                ],
+                [
+                    "9:17"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Meager"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "terrace"
+                ],
+                [
+                    "50:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "frigid"
+                ],
+                [
+                    "35:41"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Meager"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "terrace"
+                ],
+                [
+                    "50:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "outdoor"
+                ],
+                [
+                    "42:49"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Meager"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "February"
+                ],
+                [
+                    "63:71"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "in"
+                ],
+                [
+                    "60:62"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Meager"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "terrace"
+                ],
+                [
+                    "50:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "no indoor option"
+                ],
+                [
+                    "81:97"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Meager , horrible breakfast , on a frigid outdoor terrace ( in February ) , with no indoor option whatsoever .",
+    "sent_id": "opener_en/kaf/hotel/english00065_454ddd5112d4969a9a26218d2cb6d815-5"
+}

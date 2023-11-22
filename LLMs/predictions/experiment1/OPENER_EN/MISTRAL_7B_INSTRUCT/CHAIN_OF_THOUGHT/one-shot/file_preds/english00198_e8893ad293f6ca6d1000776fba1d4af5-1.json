@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "services"
+                ],
+                [
+                    "10:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Very Good"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Very Good services",
+    "sent_id": "opener_en/kaf/hotel/english00198_e8893ad293f6ca6d1000776fba1d4af5-1"
+}

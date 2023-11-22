@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Just good place for business"
+                ],
+                [
+                    "0:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Just good place for business"
+                ],
+                [
+                    "0:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Just good place for business",
+    "sent_id": "opener_en/kaf/hotel/english00050_495e277eea2f9aa0e88d6122299c3894-1"
+}

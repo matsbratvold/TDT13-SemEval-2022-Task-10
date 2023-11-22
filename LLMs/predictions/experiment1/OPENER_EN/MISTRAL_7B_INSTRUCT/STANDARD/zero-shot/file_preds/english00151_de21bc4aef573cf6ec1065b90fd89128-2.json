@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "we"
+                ],
+                [
+                    "20:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "all inclusive"
+                ],
+                [
+                    "28:41"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "clean and tidy"
+                ],
+                [
+                    "5:19"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "guests"
+                ],
+                [
+                    "50:56"
+                ]
+            ],
+            "Target": [
+                [
+                    "Russian"
+                ],
+                [
+                    "62:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ignorant"
+                ],
+                [
+                    "186:194"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "guests"
+                ],
+                [
+                    "50:56"
+                ]
+            ],
+            "Target": [
+                [
+                    "German"
+                ],
+                [
+                    "156:162"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ignorant"
+                ],
+                [
+                    "186:194"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Very clean and tidy we went all inclusive all the guests were Russian apart from me been English and my partner Polish that was the 1st week and then a few German 's arrived quite a few ignorant guests but most ok",
+    "sent_id": "opener_en/kaf/hotel/english00151_de21bc4aef573cf6ec1065b90fd89128-2"
+}

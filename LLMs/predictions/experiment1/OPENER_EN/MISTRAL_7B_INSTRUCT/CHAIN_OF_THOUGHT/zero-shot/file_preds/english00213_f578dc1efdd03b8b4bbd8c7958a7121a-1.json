@@ -1,0 +1,57 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Don"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "this place"
+                ],
+                [
+                    "18:28"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "this place"
+                ],
+                [
+                    "18:28"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": "",
+            "Polar_expression": "",
+            "Polarity": "",
+            "Intensity": ""
+        }
+    ],
+    "text": "Don 't go \u00b7 avoid this place !",
+    "sent_id": "opener_en/kaf/hotel/english00213_f578dc1efdd03b8b4bbd8c7958a7121a-1"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Room amenities"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "standard"
+                ],
+                [
+                    "26:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "below"
+                ],
+                [
+                    "20:25"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Room amenities"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "water heater"
+                ],
+                [
+                    "43:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "no"
+                ],
+                [
+                    "40:42"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Room amenities"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "television"
+                ],
+                [
+                    "72:82"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "old"
+                ],
+                [
+                    "68:71"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Room amenities were below standard with no water heater and an very old television possibly from the stone age .",
+    "sent_id": "opener_en/kaf/hotel/english00012_13287f4f9c645ff79357fe506a813696-6"
+}

@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "The size of room"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "reasonable"
+                ],
+                [
+                    "20:30"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "floor , walls and ceiling"
+                ],
+                [
+                    "37:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "in very poor conditions"
+                ],
+                [
+                    "67:90"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The size of room is reasonable , but floor , walls and ceiling are in very poor conditions .",
+    "sent_id": "opener_en/kaf/hotel/english00054_383c9bd9d83d938ba9cc5d84d2d07b90-5"
+}

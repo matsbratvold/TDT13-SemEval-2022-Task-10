@@ -1,0 +1,41 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The hotel itself"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "looks a bit dated"
+                ],
+                [
+                    "17:34"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Standard"
+        },
+        {
+            "Source": [
+                [
+                    "reminding of the grand style of famous hotels in other world cities"
+                ],
+                [
+                    "37:104"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The hotel itself looks a bit dated , reminding of the grand style of famous hotels in other world cities .",
+    "sent_id": "opener_en/kaf/hotel/english00195_e73656ac387fb1d16eee3f0baafa97d3-4"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "It"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "hotel in Hurghada"
+                ],
+                [
+                    "15:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "best"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "It 's the best hotel in Hurghada for us ! ! !",
+    "sent_id": "opener_en/kaf/hotel/english00146_dc6ed17346231f40aed08dcb4c1e24ae-4"
+}

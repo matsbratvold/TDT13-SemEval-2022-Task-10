@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "At the hotel"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "staff members"
+                ],
+                [
+                    "15:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "always smiling and helpful"
+                ],
+                [
+                    "34:60"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "At the hotel , staff members were always smiling and helpful .",
+    "sent_id": "opener_en/kaf/hotel/english00132_c92dfef90d8b18e771944f1e8ac008f5-4"
+}

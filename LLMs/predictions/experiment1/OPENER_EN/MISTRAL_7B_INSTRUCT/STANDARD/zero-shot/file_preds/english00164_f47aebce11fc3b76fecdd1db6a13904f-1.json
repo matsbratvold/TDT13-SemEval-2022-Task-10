@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Wonderful Hotel"
+                ],
+                [
+                    "0:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "Hotel"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very spacious"
+                ],
+                [
+                    "33:46"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Clean Friendly"
+                ],
+                [
+                    "18:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "Hotel"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Clean Friendly"
+                ],
+                [
+                    "18:32"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Wonderful Hotel , Clean Friendly very spacious",
+    "sent_id": "opener_en/kaf/hotel/english00164_f47aebce11fc3b76fecdd1db6a13904f-1"
+}

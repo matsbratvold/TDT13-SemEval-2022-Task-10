@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Til"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "bilen"
+                ],
+                [
+                    "28:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blir \u00e5 f\u00e5 med"
+                ],
+                [
+                    "34:47"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Til gjengjeld har du da alt bilen blir \u00e5 f\u00e5 med .",
+    "sent_id": "202298-30-04"
+}

@@ -1,0 +1,26 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Danielle Brooks"
+                ],
+                [
+                    "57:72"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Den er n\u00e5 en helhetlig ensembleprestasjon , der spesielt Danielle Brooks som \u00ab Taystee \u00bb Jefferson virkelig kanaliserer det serien pr\u00f8ver \u00e5 formidle :",
+    "sent_id": "103992-13-02"
+}

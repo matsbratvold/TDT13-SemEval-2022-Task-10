@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Kanskje"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "budskapet"
+                ],
+                [
+                    "15:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "inn litt for hardt"
+                ],
+                [
+                    "25:43"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "men"
+                ],
+                [
+                    "69:72"
+                ]
+            ],
+            "Target": [
+                [
+                    "denne filmen"
+                ],
+                [
+                    "109:121"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "gj\u00f8r inntrykk"
+                ],
+                [
+                    "122:135"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "spesielt"
+                ],
+                [
+                    "46:54"
+                ]
+            ],
+            "Target": [
+                [
+                    "de enest\u00e5ende prestasjonene"
+                ],
+                [
+                    "160:187"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fra skuespillerne"
+                ],
+                [
+                    "188:205"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Kanskje hamres budskapet inn litt for hardt , spesielt mot slutten , men man skal v\u00e6re bra hardhudet om ikke denne filmen gj\u00f8r inntrykk , spesielt med tanke p\u00e5 de enest\u00e5ende prestasjonene fra skuespillerne Dave Johns og Hayley Squires .",
+    "sent_id": "004773-05-01"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "We wanted"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "private room for us"
+                ],
+                [
+                    "12:31"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "We wanted a private room for us \" 8 persons \" .",
+    "sent_id": "opener_en/kaf/hotel/english00121_892f5a094070c44e45e64e331624bd21-3"
+}

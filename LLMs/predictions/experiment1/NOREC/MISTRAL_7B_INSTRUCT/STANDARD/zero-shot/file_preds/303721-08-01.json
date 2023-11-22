@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "F\u00f8rste gang jeg h\u00f8rte albumbeste"
+                ],
+                [
+                    "0:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "If I Ever Was A Child"
+                ],
+                [
+                    "35:56"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "F\u00f8rste gang jeg h\u00f8rte albumbeste \u00ab If I Ever Was A Child \u00bb , passerte den som en forglemmelig bris .",
+    "sent_id": "303721-08-01"
+}

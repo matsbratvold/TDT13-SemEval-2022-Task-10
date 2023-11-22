@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "This"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "hotel"
+                ],
+                [
+                    "16:21"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "great"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "in"
+                ],
+                [
+                    "24:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "beautiful"
+                ],
+                [
+                    "27:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Tuscan"
+                ],
+                [
+                    "37:43"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "This is a great hotel , in beautiful Tuscan location .",
+    "sent_id": "opener_en/kaf/hotel/english00222_fd5bd3330c0b96b7ddc0ff8e0482a572-2"
+}

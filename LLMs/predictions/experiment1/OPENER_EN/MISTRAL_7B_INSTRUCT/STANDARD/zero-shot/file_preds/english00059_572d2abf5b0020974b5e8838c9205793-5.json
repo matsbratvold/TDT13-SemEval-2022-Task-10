@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "this hotel"
+                ],
+                [
+                    "33:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "most certainly recommend"
+                ],
+                [
+                    "8:32"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "I would most certainly recommend this hotel ! !",
+    "sent_id": "opener_en/kaf/hotel/english00059_572d2abf5b0020974b5e8838c9205793-5"
+}

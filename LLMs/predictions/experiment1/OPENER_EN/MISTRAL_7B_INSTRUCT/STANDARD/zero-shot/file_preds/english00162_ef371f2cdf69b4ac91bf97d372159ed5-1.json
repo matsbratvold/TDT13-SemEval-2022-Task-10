@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Always"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "stay"
+                ],
+                [
+                    "14:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "nice"
+                ],
+                [
+                    "9:13"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Always a nice stay",
+    "sent_id": "opener_en/kaf/hotel/english00162_ef371f2cdf69b4ac91bf97d372159ed5-1"
+}

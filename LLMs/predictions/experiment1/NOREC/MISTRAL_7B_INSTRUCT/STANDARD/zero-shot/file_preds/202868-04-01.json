@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Lyden"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "tynn"
+                ],
+                [
+                    "9:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tynn"
+                ],
+                [
+                    "9:13"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Lyden"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "blikkboks-aktig"
+                ],
+                [
+                    "17:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blikkboks-aktig"
+                ],
+                [
+                    "17:32"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Lyden er tynn og blikkboks-aktig .",
+    "sent_id": "202868-04-01"
+}

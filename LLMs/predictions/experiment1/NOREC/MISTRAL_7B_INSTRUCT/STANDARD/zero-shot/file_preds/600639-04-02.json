@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "For alt undertegnede vet"
+                ],
+                [
+                    "2:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "Du Mauriers roman"
+                ],
+                [
+                    "74:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kan d\u00e9t v\u00e6re et problem"
+                ],
+                [
+                    "29:52"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "( For alt undertegnede vet , kan d\u00e9t v\u00e6re et problem som henger igjen fra Du Mauriers roman . )",
+    "sent_id": "600639-04-02"
+}

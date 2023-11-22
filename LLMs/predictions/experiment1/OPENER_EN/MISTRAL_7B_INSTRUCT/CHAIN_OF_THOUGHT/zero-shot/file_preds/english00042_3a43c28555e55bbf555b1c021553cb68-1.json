@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Disappointed"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "experience"
+                ],
+                [
+                    "13:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Disappointed"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Disappointed experience",
+    "sent_id": "opener_en/kaf/hotel/english00042_3a43c28555e55bbf555b1c021553cb68-1"
+}

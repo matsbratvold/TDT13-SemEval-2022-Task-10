@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "dramaturgiens"
+                ],
+                [
+                    "16:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "usikkerhet"
+                ],
+                [
+                    "81:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "styrer"
+                ],
+                [
+                    "9:15"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "narrativets"
+                ],
+                [
+                    "33:44"
+                ]
+            ],
+            "Target": [
+                [
+                    "usikkerhet"
+                ],
+                [
+                    "81:91"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "styrer"
+                ],
+                [
+                    "9:15"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "handlingens"
+                ],
+                [
+                    "100:111"
+                ]
+            ],
+            "Target": [
+                [
+                    "usannsynlige utvikling"
+                ],
+                [
+                    "127:149"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "etterhvert"
+                ],
+                [
+                    "112:122"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Samtidig styrer dramaturgiens og narrativets behov for at det skjer mer enn bare usikkerhet og kaos handlingens etterhvert noe usannsynlige utvikling .",
+    "sent_id": "103992-12-04"
+}

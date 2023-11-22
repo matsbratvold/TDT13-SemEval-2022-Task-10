@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dette"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "pris"
+                ],
+                [
+                    "16:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fin"
+                ],
+                [
+                    "12:15"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Dette er en fin pris .",
+    "sent_id": "501595-08-02"
+}

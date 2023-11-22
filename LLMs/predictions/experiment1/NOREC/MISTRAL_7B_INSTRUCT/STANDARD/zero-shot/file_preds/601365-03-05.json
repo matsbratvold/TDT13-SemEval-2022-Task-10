@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "jeg"
+                ],
+                [
+                    "7:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "navnet p\u00e5 dyret"
+                ],
+                [
+                    "19:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "skyldes"
+                ],
+                [
+                    "35:42"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "N\u00e5 har jeg l\u00e6rt at navnet p\u00e5 dyret skyldes europeeres uvitenhet og en umulig kommunikasjonssituasjon .",
+    "sent_id": "601365-03-05"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "After a while"
+                ],
+                [
+                    "2:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not that bad"
+                ],
+                [
+                    "22:34"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "( After a while it is not that bad ! )",
+    "sent_id": "opener_en/kaf/hotel/english00004_077eb74146f2afec4488e171a134f655-4"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "boka"
+                ],
+                [
+                    "9:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "litt"
+                ],
+                [
+                    "14:18"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "boka"
+                ],
+                [
+                    "9:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "slett ikke overfl\u00f8dig"
+                ],
+                [
+                    "45:66"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det gj\u00f8r boka litt forutsigelig , men den er slett ikke overfl\u00f8dig .",
+    "sent_id": "301242-15-02"
+}

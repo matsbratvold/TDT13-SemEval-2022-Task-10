@@ -1,0 +1,102 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dana beach"
+                ],
+                [
+                    "3:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "everything"
+                ],
+                [
+                    "17:27"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Dana beach"
+                ],
+                [
+                    "3:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "food"
+                ],
+                [
+                    "39:43"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Dana beach"
+                ],
+                [
+                    "3:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "rooms"
+                ],
+                [
+                    "50:55"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Dana beach"
+                ],
+                [
+                    "3:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "people who are working there"
+                ],
+                [
+                    "62:90"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "In Dana beach is everything good , the food , the rooms , the people who are working there ! !",
+    "sent_id": "opener_en/kaf/hotel/english00146_dc6ed17346231f40aed08dcb4c1e24ae-2"
+}

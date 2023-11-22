@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "rollespillet"
+                ],
+                [
+                    "18:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en"
+                ],
+                [
+                    "1:3"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "hvor"
+                ],
+                [
+                    "4:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "popul\u00e6rt"
+                ],
+                [
+                    "9:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "rollespillet"
+                ],
+                [
+                    "18:30"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "m\u00e5"
+                ],
+                [
+                    "53:55"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "56:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som"
+                ],
+                [
+                    "60:63"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "filmversjon"
+                ],
+                [
+                    "64:75"
+                ]
+            ],
+            "Target": [
+                [
+                    "fungere"
+                ],
+                [
+                    "76:83"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "som"
+                ],
+                [
+                    "60:63"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "fortelling"
+                ],
+                [
+                    "88:98"
+                ]
+            ],
+            "Target": [
+                [
+                    "p\u00e5"
+                ],
+                [
+                    "99:101"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kinolerretet"
+                ],
+                [
+                    "102:114"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Men hvor popul\u00e6rt rollespillet enn er hos brukerne , m\u00e5 det som filmversjon fungere som fortelling p\u00e5 kinolerretet .",
+    "sent_id": "700863-03-02"
+}

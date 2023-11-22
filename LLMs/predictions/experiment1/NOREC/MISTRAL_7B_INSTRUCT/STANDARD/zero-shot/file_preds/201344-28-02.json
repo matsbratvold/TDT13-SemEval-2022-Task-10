@@ -1,0 +1,70 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "81:94"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "81:94"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Fenix Chronos"
+                ],
+                [
+                    "81:94"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "med sin tydelige sport og aktivitetsprofil"
+                ],
+                [
+                    "129:171"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Sammenlignet med mulige konkurrenter som TAG Heuer Connected og Apple Watch , er Fenix Chronos noe mer enn bare en smartklokke , med sin tydelige sport og aktivitetsprofil .",
+    "sent_id": "201344-28-02"
+}

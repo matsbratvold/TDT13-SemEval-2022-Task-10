@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sparker"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "hardt"
+                ],
+                [
+                    "8:13"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "oppover"
+                ],
+                [
+                    "14:21"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Sparker hardt oppover .",
+    "sent_id": "004773-02-01"
+}

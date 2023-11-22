@@ -1,0 +1,135 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Plus points"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "unique bed"
+                ],
+                [
+                    "14:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "built"
+                ],
+                [
+                    "27:32"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Plus points"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "in rain shower / bath tub"
+                ],
+                [
+                    "35:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "delicious French cuisine"
+                ],
+                [
+                    "63:87"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Plus points"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "very friendly staff"
+                ],
+                [
+                    "90:109"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "candy on the bed"
+                ],
+                [
+                    "112:128"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Plus points"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "lovely and peaceful surroundings"
+                ],
+                [
+                    "161:193"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Plus points"
+                ],
+                [
+                    "0:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "the little gift when leaving the hotel"
+                ],
+                [
+                    "198:236"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Plus points \u00b7 unique bed , built \u00b7 in rain shower / bath tub , delicious French cuisine , very friendly staff , candy on the bed , in \u00b7 room FREE coffee / tea , lovely and peaceful surroundings and the little gift when leaving the hotel was awesome .",
+    "sent_id": "opener_en/kaf/hotel/english00097_6ace8a44dd0caa70cdaa62a2cc5cfd54-3"
+}

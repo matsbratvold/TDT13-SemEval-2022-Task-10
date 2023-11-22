@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "It"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Metro"
+                ],
+                [
+                    "16:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "close to"
+                ],
+                [
+                    "7:15"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "It"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "the centre of Amsterdam"
+                ],
+                [
+                    "55:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "easy to get to"
+                ],
+                [
+                    "40:54"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "It was close to the Metro and therefore easy to get to the centre of Amsterdam .",
+    "sent_id": "opener_en/kaf/hotel/english00030_2e4f193ed7a254c92854201a12034580-4"
+}

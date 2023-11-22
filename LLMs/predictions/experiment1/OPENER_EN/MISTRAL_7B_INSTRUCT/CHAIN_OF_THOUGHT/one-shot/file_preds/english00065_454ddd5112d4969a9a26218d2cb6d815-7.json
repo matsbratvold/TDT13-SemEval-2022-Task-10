@@ -1,0 +1,82 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Totally overpriced"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Totally overpriced"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "lousy service"
+                ],
+                [
+                    "21:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lousy service"
+                ],
+                [
+                    "21:34"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "bad location"
+                ],
+                [
+                    "37:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "bad location"
+                ],
+                [
+                    "37:49"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Totally overpriced , lousy service , bad location ( noise from houses close \u00b7 by ) .",
+    "sent_id": "opener_en/kaf/hotel/english00065_454ddd5112d4969a9a26218d2cb6d815-7"
+}

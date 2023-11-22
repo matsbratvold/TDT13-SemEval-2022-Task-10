@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det er i alle fall"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "Cult Drugs"
+                ],
+                [
+                    "34:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fint lite"
+                ],
+                [
+                    "19:28"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det er i alle fall fint lite p\u00e5 \u00ab Cult Drugs \u00bb som minner om et band som famler etter nytt fotfeste .",
+    "sent_id": "301662-03-04"
+}

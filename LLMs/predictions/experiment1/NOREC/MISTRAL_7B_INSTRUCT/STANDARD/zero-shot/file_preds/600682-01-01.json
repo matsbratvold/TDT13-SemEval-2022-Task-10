@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "En fest for sansene"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "sansene"
+                ],
+                [
+                    "12:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "En fest"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "En fest for sansene",
+    "sent_id": "600682-01-01"
+}

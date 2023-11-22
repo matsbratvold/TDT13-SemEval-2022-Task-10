@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "My wife and I"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "these 2 weeks"
+                ],
+                [
+                    "22:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very well emotionally"
+                ],
+                [
+                    "36:57"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "My wife and I were in these 2 weeks very well emotionally .",
+    "sent_id": "opener_en/kaf/hotel/english00136_cf8140e17a3855f7a4a38936d6193415-2"
+}

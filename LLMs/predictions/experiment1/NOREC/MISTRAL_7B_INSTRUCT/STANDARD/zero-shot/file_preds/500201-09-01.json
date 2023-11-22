@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Like"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "stort"
+                ],
+                [
+                    "5:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "synes"
+                ],
+                [
+                    "11:16"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "stort"
+                ],
+                [
+                    "5:10"
+                ]
+            ],
+            "Target": [
+                [
+                    "talentet"
+                ],
+                [
+                    "17:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for"
+                ],
+                [
+                    "26:29"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "talentet"
+                ],
+                [
+                    "17:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "personinstruksjon"
+                ],
+                [
+                    "30:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "synes"
+                ],
+                [
+                    "11:16"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Like stort synes talentet for personinstruksjon .",
+    "sent_id": "500201-09-01"
+}

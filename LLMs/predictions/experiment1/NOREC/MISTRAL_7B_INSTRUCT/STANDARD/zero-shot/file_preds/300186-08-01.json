@@ -1,0 +1,83 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Visst"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "det v\u00e6re hyggelig"
+                ],
+                [
+                    "11:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "men"
+                ],
+                [
+                    "31:34"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Visst"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "et konkurranseprogram"
+                ],
+                [
+                    "35:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "trenger"
+                ],
+                [
+                    "57:64"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Visst"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "litt temperatur"
+                ],
+                [
+                    "65:80"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Visst skal det v\u00e6re hyggelig , men et konkurranseprogram trenger litt temperatur .",
+    "sent_id": "300186-08-01"
+}

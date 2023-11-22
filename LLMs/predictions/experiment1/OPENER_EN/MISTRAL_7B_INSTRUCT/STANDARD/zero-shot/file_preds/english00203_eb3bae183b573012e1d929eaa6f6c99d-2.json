@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Bilbao"
+                ],
+                [
+                    "92:98"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "had decided to stay"
+                ],
+                [
+                    "69:88"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "We were traveling around the North of Spain for a couple of days and had decided to stay in Bilbao for 2 or 3 days .",
+    "sent_id": "opener_en/kaf/hotel/english00203_eb3bae183b573012e1d929eaa6f6c99d-2"
+}

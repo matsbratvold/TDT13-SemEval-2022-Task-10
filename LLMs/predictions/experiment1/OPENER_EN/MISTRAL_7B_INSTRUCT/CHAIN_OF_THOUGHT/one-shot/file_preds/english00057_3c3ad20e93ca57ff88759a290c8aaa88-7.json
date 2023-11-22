@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "My wife and I"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Oliver"
+                ],
+                [
+                    "47:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enjoyed speaking with"
+                ],
+                [
+                    "25:46"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "My wife and I"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "Vivaldi Hotel"
+                ],
+                [
+                    "219:232"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "My wife and I"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "France ( Europe )"
+                ],
+                [
+                    "157:174"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enjoyed speaking with"
+                ],
+                [
+                    "25:46"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "My wife and I"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "life in France and the U.S."
+                ],
+                [
+                    "95:122"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "exchanging our respective views on"
+                ],
+                [
+                    "60:94"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "My wife and I especially enjoyed speaking with Oliver , and exchanging our respective views on life in France and the U.S. I do not know when we will get to France ( Europe ) again , but we will definitely consider the Vivaldi Hotel again .",
+    "sent_id": "opener_en/kaf/hotel/english00057_3c3ad20e93ca57ff88759a290c8aaa88-7"
+}

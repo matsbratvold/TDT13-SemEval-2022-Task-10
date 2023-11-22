@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "have travelled a lot in my life"
+                ],
+                [
+                    "2:33"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "never have I encountered a hotel with such staff"
+                ],
+                [
+                    "114:162"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "who go out of their way to make the guests enjoy their visit"
+                ],
+                [
+                    "165:225"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I have travelled a lot in my life , all around the world , staying at some of the world 's loveliest hotels , but never have I encountered a hotel with such staff , who go out of their way to make the guests enjoy their visit .",
+    "sent_id": "opener_en/kaf/hotel/english00117_8523187c9a437e85989d599da4a3943a-8"
+}

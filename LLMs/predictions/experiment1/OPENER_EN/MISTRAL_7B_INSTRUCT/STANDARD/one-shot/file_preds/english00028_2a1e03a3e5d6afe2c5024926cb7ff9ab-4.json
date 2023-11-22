@@ -1,0 +1,23 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "only on the outside and not heated"
+                ],
+                [
+                    "10:44"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Staircase only on the outside and not heated .",
+    "sent_id": "opener_en/kaf/hotel/english00028_2a1e03a3e5d6afe2c5024926cb7ff9ab-4"
+}

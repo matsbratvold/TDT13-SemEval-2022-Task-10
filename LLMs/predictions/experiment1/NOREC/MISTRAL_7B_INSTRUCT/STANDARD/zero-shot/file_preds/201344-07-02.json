@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Riktignok"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "19:25"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Riktignok"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "Garmin"
+                ],
+                [
+                    "19:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "men de har neppe samlet noen stilpoeng blant de klokkebevisste"
+                ],
+                [
+                    "56:118"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Riktignok har ikke Garmin v\u00e6rt blant de mest forhatte , men de har neppe samlet noen stilpoeng blant de klokkebevisste .",
+    "sent_id": "201344-07-02"
+}

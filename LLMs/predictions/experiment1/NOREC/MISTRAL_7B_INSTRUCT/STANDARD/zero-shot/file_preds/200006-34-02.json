@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "automatisk registrering"
+                ],
+                [
+                    "16:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "finnes"
+                ],
+                [
+                    "4:10"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "trenings\u00f8kter"
+                ],
+                [
+                    "43:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "og den kan gjenkjenne"
+                ],
+                [
+                    "59:80"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "aktiviteter"
+                ],
+                [
+                    "87:98"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "for s\u00e5 \u00e5 lagre dem"
+                ],
+                [
+                    "147:165"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "treningsloggen"
+                ],
+                [
+                    "168:182"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "din"
+                ],
+                [
+                    "183:186"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det finnes ogs\u00e5 automatisk registrering av trenings\u00f8kter , og den kan gjenkjenne ulike aktiviteter ( som l\u00f8ping sykling , aerobic og s\u00e5 videre ) , for s\u00e5 \u00e5 lagre dem i treningsloggen din .",
+    "sent_id": "200006-34-02"
+}

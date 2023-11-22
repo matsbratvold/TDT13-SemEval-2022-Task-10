@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Synkroniseres klokken opp mot appen Garmin Connect"
+                ],
+                [
+                    "0:50"
+                ]
+            ],
+            "Target": [
+                [
+                    "Garmin Connect"
+                ],
+                [
+                    "36:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "opp mot"
+                ],
+                [
+                    "22:29"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "utvides horisonten av funksjoner ytterligere"
+                ],
+                [
+                    "75:119"
+                ]
+            ],
+            "Target": [
+                [
+                    "Garmin Connect"
+                ],
+                [
+                    "36:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "utvides"
+                ],
+                [
+                    "75:82"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Synkroniseres klokken opp mot appen Garmin Connect ( iPhone og Android ) , utvides horisonten av funksjoner ytterligere .",
+    "sent_id": "201344-21-01"
+}

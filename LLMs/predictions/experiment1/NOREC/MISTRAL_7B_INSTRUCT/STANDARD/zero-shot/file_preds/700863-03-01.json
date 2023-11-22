@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Jeg"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "dataspillet"
+                ],
+                [
+                    "20:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "aldri spilt"
+                ],
+                [
+                    "8:19"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Jeg har aldri spilt dataspillet som begeistrer millioner av fans .",
+    "sent_id": "700863-03-01"
+}

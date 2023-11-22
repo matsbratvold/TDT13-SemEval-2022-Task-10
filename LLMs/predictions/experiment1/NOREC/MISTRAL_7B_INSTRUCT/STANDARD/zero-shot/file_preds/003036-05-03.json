@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Beyonc\u00e9"
+                ],
+                [
+                    "28:35"
+                ]
+            ],
+            "Target": [
+                [
+                    "filmen"
+                ],
+                [
+                    "14:20"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Forskjellen i filmene er at Beyonc\u00e9 leverer en forseggjort film i mange deler .",
+    "sent_id": "003036-05-03"
+}

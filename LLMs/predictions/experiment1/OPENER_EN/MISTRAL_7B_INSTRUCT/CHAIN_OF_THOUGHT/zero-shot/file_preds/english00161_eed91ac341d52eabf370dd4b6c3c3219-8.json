@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Alphons"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "helpful"
+                ],
+                [
+                    "17:24"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very helpful"
+                ],
+                [
+                    "12:24"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Alphons was very helpful in helping us with directions in the area as well as places to visit .",
+    "sent_id": "opener_en/kaf/hotel/english00161_eed91ac341d52eabf370dd4b6c3c3219-8"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "building"
+                ],
+                [
+                    "21:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "lift"
+                ],
+                [
+                    "9:13"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "There is lift in the building .",
+    "sent_id": "opener_en/kaf/hotel/english00138_9f942cd30f42d0abad59c036950aef81-10"
+}

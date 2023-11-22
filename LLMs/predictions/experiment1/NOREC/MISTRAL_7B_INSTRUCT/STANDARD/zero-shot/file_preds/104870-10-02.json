@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "nettopp Harris"
+                ],
+                [
+                    "49:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fine"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "( Larsens fine nye band har for \u00f8vrig jobbet med nettopp Harris tidligere ) .",
+    "sent_id": "104870-10-02"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "S\u00e5 kanskje det blir"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "norsk"
+                ],
+                [
+                    "23:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blir"
+                ],
+                [
+                    "15:19"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "S\u00e5 kanskje det blir p\u00e5 norsk neste gang ?",
+    "sent_id": "303032-11-01"
+}

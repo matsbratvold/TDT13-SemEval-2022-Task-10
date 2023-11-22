@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "er dette en p\u00e5stand som langt p\u00e5 vei later til \u00e5 holde m\u00e5l"
+                ],
+                [
+                    "24:82"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "I l\u00f8pet av testperioden er dette en p\u00e5stand som langt p\u00e5 vei later til \u00e5 holde m\u00e5l .",
+    "sent_id": "201344-26-02"
+}

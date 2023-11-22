@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "skodde seg"
+                ],
+                [
+                    "3:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "naziregimet"
+                ],
+                [
+                    "17:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "seg"
+                ],
+                [
+                    "10:13"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "De skodde seg p\u00e5 naziregimet",
+    "sent_id": "601408-01-01"
+}

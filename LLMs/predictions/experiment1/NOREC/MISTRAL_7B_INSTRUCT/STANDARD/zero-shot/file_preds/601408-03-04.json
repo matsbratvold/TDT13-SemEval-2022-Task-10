@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "N\u00e5"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "den kj\u00f8pes p\u00e5 Mammutsalget"
+                ],
+                [
+                    "7:33"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kan"
+                ],
+                [
+                    "3:6"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "N\u00e5 kan den kj\u00f8pes p\u00e5 Mammutsalget .",
+    "sent_id": "601408-03-04"
+}

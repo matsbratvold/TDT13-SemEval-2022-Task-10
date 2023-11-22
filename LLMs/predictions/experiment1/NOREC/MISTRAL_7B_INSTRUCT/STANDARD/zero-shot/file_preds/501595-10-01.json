@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "tidlig p\u00e5 dag"
+                ],
+                [
+                    "7:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kaldt"
+                ],
+                [
+                    "31:36"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Det er tidlig p\u00e5 dag og veldig kaldt i lokalet .",
+    "sent_id": "501595-10-01"
+}

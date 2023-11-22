@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Waters"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "turneen \u00ab Us + Them \u00bb i USA og Canada"
+                ],
+                [
+                    "35:72"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er i gang med"
+                ],
+                [
+                    "21:34"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Waters er i disse dager i gang med turneen \u00ab Us + Them \u00bb i USA og Canada .",
+    "sent_id": "304196-21-01"
+}

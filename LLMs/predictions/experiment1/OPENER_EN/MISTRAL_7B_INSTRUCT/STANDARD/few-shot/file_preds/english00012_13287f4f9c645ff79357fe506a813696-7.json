@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The free vouchers for meals and drinks"
+                ],
+                [
+                    "0:38"
+                ]
+            ],
+            "Target": [
+                [
+                    "turned out to be useless too"
+                ],
+                [
+                    "39:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "because they could only be spent on specific restaurant"
+                ],
+                [
+                    "68:123"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "which had a bad reputation in other online reviews"
+                ],
+                [
+                    "124:174"
+                ]
+            ],
+            "Target": "",
+            "Polar_expression": "",
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The free vouchers for meals and drinks turned out to be useless too because they could only be spent on specific restaurant which had a bad reputation in other online reviews ...",
+    "sent_id": "opener_en/kaf/hotel/english00012_13287f4f9c645ff79357fe506a813696-7"
+}

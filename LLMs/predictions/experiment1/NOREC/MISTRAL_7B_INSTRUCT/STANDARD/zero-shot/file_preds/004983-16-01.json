@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Dette er"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "en uvanlig underholdningshistorie"
+                ],
+                [
+                    "9:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fortalt med en modig oppriktighet"
+                ],
+                [
+                    "43:76"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "sl\u00e5r fra seg"
+                ],
+                [
+                    "81:93"
+                ]
+            ],
+            "Target": [
+                [
+                    "og ender opp som"
+                ],
+                [
+                    "96:112"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en usannsynlig feelgoodfilm"
+                ],
+                [
+                    "113:140"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Dette er en uvanlig underholdningshistorie fortalt med en modig oppriktighet som sl\u00e5r fra seg , og ender opp som en usannsynlig feelgoodfilm",
+    "sent_id": "004983-16-01"
+}

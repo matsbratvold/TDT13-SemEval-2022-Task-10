@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the room and hotel"
+                ],
+                [
+                    "10:28"
+                ]
+            ],
+            "Target": [
+                [
+                    "modern and attractive"
+                ],
+                [
+                    "32:53"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "is"
+                ],
+                [
+                    "29:31"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "However , the room and hotel is modern and attractive .",
+    "sent_id": "opener_en/kaf/hotel/english00106_74e62e551e5b441356b001c5f7ca2070-8"
+}

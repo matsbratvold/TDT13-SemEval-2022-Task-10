@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ample towels and toiletries were provided"
+                ],
+                [
+                    "0:41"
+                ]
+            ],
+            "Target": [
+                [
+                    "B & amp ; B don 't usually provide enough"
+                ],
+                [
+                    "59:100"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Ample towels and toiletries were provided"
+                ],
+                [
+                    "0:41"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Ample towels and toiletries were provided which many other B & amp ; B don 't usually provide enough .",
+    "sent_id": "opener_en/kaf/hotel/english00161_eed91ac341d52eabf370dd4b6c3c3219-6"
+}

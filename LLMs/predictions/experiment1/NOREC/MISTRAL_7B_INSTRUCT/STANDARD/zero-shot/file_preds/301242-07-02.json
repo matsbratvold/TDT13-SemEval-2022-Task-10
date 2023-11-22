@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Beretningen om Hilde Benjamin"
+                ],
+                [
+                    "0:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "Hilde Benjamin"
+                ],
+                [
+                    "15:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er bokas tydeligste"
+                ],
+                [
+                    "74:93"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Beretningen om Hilde Benjamin , svigerinne av filosofen Walter Benjamin , er bokas tydeligste .",
+    "sent_id": "301242-07-02"
+}

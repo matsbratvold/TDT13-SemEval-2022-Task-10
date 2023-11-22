@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Alexander Latotzky"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "Sachsenhausen"
+                ],
+                [
+                    "53:66"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Alexander Latotzky vokste opp i konsentrasjonsleiren Sachsenhausen , etter at den var overtatt av de sovjetiske myndighetene .",
+    "sent_id": "301242-06-01"
+}

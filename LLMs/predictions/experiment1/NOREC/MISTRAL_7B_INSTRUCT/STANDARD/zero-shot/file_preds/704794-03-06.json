@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Vanskelighetsgraden"
+                ],
+                [
+                    "0:19"
+                ]
+            ],
+            "Target": [
+                [
+                    "Mario"
+                ],
+                [
+                    "70:75"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "h\u00f8yere"
+                ],
+                [
+                    "34:40"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Vanskelighetsgraden er en god del h\u00f8yere enn det den vanligvis er hos Mario , og stigningen er bratt .",
+    "sent_id": "704794-03-06"
+}

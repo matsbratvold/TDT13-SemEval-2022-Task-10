@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Animation team"
+                ],
+                [
+                    "0:14"
+                ]
+            ],
+            "Target": [
+                [
+                    "just super"
+                ],
+                [
+                    "15:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "just super"
+                ],
+                [
+                    "15:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Animation team just super .",
+    "sent_id": "opener_en/kaf/hotel/english00029_2a5891717bff19947a0b858a3b1e8230-3"
+}

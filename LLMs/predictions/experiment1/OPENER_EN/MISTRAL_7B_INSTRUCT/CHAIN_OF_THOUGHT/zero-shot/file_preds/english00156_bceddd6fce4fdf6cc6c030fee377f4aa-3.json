@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "neighbourhood"
+                ],
+                [
+                    "11:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "actual"
+                ],
+                [
+                    "4:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not great"
+                ],
+                [
+                    "28:37"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "neighbourhood"
+                ],
+                [
+                    "11:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "actual"
+                ],
+                [
+                    "4:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "however"
+                ],
+                [
+                    "38:45"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "neighbourhood"
+                ],
+                [
+                    "11:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "actual"
+                ],
+                [
+                    "4:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "mostly"
+                ],
+                [
+                    "48:54"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "neighbourhood"
+                ],
+                [
+                    "11:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "actual"
+                ],
+                [
+                    "4:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "betting shops and convenience stores"
+                ],
+                [
+                    "55:91"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The actual neighbourhood is not great however , mostly betting shops and convenience stores .",
+    "sent_id": "opener_en/kaf/hotel/english00156_bceddd6fce4fdf6cc6c030fee377f4aa-3"
+}

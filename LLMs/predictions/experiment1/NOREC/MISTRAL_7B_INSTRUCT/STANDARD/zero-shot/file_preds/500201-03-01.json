@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ixcanul"
+                ],
+                [
+                    "2:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "antropologi"
+                ],
+                [
+                    "29:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fort blitt"
+                ],
+                [
+                    "18:28"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "\u00ab Ixcanul \u00bb kunne fort blitt antropologi .",
+    "sent_id": "500201-03-01"
+}

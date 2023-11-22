@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Karin"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "samboeren"
+                ],
+                [
+                    "40:49"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "flaut"
+                ],
+                [
+                    "31:36"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Karin p\u00e5 sin side synes det er flaut at samboeren jobber i Dagbladet .",
+    "sent_id": "104219-07-01"
+}

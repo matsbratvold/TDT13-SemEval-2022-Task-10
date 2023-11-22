@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "great one night stay"
+                ],
+                [
+                    "9:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "We had a great one night stay at the hotel .",
+    "sent_id": "opener_en/kaf/hotel/english00059_572d2abf5b0020974b5e8838c9205793-2"
+}

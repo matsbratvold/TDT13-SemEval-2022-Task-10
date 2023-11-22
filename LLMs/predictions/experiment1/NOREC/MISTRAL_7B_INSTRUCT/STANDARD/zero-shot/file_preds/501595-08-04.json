@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "velkomstdrinken og nasjonaldrikken til Peru"
+                ],
+                [
+                    "14:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "har et bl\u00f8tt eggehviteskum"
+                ],
+                [
+                    "73:99"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "velkomstdrinken og nasjonaldrikken til Peru"
+                ],
+                [
+                    "14:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "smaker for mye av det skarpe brennevinet"
+                ],
+                [
+                    "106:146"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "pisco sour"
+                ],
+                [
+                    "60:70"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "smaker for mye av det skarpe brennevinet"
+                ],
+                [
+                    "106:146"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Den anbefalte velkomstdrinken og nasjonaldrikken til Peru , pisco sour , har et bl\u00f8tt eggehviteskum , men smaker for mye av det skarpe brennevinet .",
+    "sent_id": "501595-08-04"
+}

@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Room"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "equipped with TV , radio , Kettle , Coffee maker , dvd player and a tv with so many channels"
+                ],
+                [
+                    "9:101"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Room was equipped with TV , radio , Kettle , Coffee maker , dvd player and a tv with so many channels .",
+    "sent_id": "opener_en/kaf/hotel/english00161_eed91ac341d52eabf370dd4b6c3c3219-5"
+}

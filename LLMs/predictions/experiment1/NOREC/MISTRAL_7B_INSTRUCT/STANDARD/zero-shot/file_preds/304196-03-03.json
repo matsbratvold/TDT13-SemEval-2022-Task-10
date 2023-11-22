@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Roger Waters"
+                ],
+                [
+                    "13:25"
+                ]
+            ],
+            "Target": [
+                [
+                    "bandets l\u00e5ter"
+                ],
+                [
+                    "42:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ganske enkelt"
+                ],
+                [
+                    "58:71"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Live spiller Roger Waters ( 73 ) fortsatt bandets l\u00e5ter , ganske enkelt fordi han skrev mange av dem .",
+    "sent_id": "304196-03-03"
+}

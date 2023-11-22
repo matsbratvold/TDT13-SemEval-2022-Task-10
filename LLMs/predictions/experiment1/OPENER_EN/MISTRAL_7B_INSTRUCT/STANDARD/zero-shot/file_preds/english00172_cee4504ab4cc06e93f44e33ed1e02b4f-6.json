@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "No fridge in 1 of the rooms"
+                ],
+                [
+                    "0:27"
+                ]
+            ],
+            "Target": [
+                [
+                    "fridge"
+                ],
+                [
+                    "3:9"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "No fridge in 1 of the rooms .",
+    "sent_id": "opener_en/kaf/hotel/english00172_cee4504ab4cc06e93f44e33ed1e02b4f-6"
+}

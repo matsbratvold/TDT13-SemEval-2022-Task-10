@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "generasjon"
+                ],
+                [
+                    "21:31"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "klart"
+                ],
+                [
+                    "7:12"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det er klart at hver generasjon skal ha sine Hardy-gutter og -jenter .",
+    "sent_id": "600725-04-01"
+}

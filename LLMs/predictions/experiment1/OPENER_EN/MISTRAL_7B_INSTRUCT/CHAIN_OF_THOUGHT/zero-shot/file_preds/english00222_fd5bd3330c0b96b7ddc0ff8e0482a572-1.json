@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Relax"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "enjoy"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "enjoy"
+                ],
+                [
+                    "10:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Relax and enjoy",
+    "sent_id": "opener_en/kaf/hotel/english00222_fd5bd3330c0b96b7ddc0ff8e0482a572-1"
+}

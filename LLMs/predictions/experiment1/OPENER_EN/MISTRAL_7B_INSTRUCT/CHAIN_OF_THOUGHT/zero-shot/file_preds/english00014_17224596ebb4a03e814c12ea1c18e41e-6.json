@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "german"
+                ],
+                [
+                    "36:42"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "most"
+                ],
+                [
+                    "13:17"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "i"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "russian"
+                ],
+                [
+                    "53:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "some"
+                ],
+                [
+                    "48:52"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "i am british most other guests were german with some russian .",
+    "sent_id": "opener_en/kaf/hotel/english00014_17224596ebb4a03e814c12ea1c18e41e-6"
+}

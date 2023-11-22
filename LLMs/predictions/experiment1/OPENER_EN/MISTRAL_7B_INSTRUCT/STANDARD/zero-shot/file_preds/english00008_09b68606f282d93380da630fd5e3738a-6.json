@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "visitors"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Russian"
+                ],
+                [
+                    "25:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "treated with respect"
+                ],
+                [
+                    "42:62"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "visitors"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Russian"
+                ],
+                [
+                    "25:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "served straight away"
+                ],
+                [
+                    "65:85"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "visitors"
+                ],
+                [
+                    "4:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "Russian"
+                ],
+                [
+                    "25:32"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "took over everything"
+                ],
+                [
+                    "100:120"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "The visitors were mainly Russian who were treated with respect , served straight away and generally took over everything .",
+    "sent_id": "opener_en/kaf/hotel/english00008_09b68606f282d93380da630fd5e3738a-6"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Breakfast"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "substantial"
+                ],
+                [
+                    "14:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "substantial"
+                ],
+                [
+                    "14:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Breakfast"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "included"
+                ],
+                [
+                    "30:38"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "included"
+                ],
+                [
+                    "30:38"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Breakfast was substantial and included .",
+    "sent_id": "opener_en/kaf/hotel/english00156_bceddd6fce4fdf6cc6c030fee377f4aa-9"
+}

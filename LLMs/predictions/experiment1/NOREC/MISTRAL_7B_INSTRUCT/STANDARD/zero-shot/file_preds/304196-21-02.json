@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "varer"
+                ],
+                [
+                    "4:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ut"
+                ],
+                [
+                    "10:12"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "er"
+                ],
+                [
+                    "7:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ingen"
+                ],
+                [
+                    "43:48"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "datoer"
+                ],
+                [
+                    "56:62"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "s\u00e5 langt"
+                ],
+                [
+                    "63:71"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "er"
+                ],
+                [
+                    "7:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "ingen"
+                ],
+                [
+                    "43:48"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Den varer ut oktober , og dessverre er det ingen Europa-datoer s\u00e5 langt .",
+    "sent_id": "304196-21-02"
+}

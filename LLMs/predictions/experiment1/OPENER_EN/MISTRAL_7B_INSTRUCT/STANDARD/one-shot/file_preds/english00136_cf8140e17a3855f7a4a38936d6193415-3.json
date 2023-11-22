@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The hotel"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "we"
+                ],
+                [
+                    "10:12"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very nice"
+                ],
+                [
+                    "13:22"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "The hotel"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "not too big nor too small"
+                ],
+                [
+                    "25:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not too big nor too small"
+                ],
+                [
+                    "25:50"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "The hotel we very nice , not too big nor too small .",
+    "sent_id": "opener_en/kaf/hotel/english00136_cf8140e17a3855f7a4a38936d6193415-3"
+}

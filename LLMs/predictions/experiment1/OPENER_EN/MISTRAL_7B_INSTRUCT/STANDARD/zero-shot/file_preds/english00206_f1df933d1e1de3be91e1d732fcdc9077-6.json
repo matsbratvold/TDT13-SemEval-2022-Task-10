@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The food"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "well presented"
+                ],
+                [
+                    "13:27"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "The food"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "interesting"
+                ],
+                [
+                    "32:43"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "interesting"
+                ],
+                [
+                    "32:43"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Greek dishes"
+                ],
+                [
+                    "46:58"
+                ]
+            ],
+            "Target": [
+                [
+                    "European twist"
+                ],
+                [
+                    "74:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "general European twist"
+                ],
+                [
+                    "66:88"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "The food was well presented and interesting \u00b7 Greek dishes with a general European twist .",
+    "sent_id": "opener_en/kaf/hotel/english00206_f1df933d1e1de3be91e1d732fcdc9077-6"
+}

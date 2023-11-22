@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "De"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "alle samtalene"
+                ],
+                [
+                    "33:47"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tett"
+                ],
+                [
+                    "8:12"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "De st\u00e5r tett nok til at du h\u00f8rer alle samtalene fra bordene rundt deg .",
+    "sent_id": "501595-03-02"
+}

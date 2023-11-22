@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Beddings"
+                ],
+                [
+                    "0:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "warm and comfortable"
+                ],
+                [
+                    "14:34"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "warm and comfortable"
+                ],
+                [
+                    "14:34"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Beddings were warm and comfortable .",
+    "sent_id": "opener_en/kaf/hotel/english00161_eed91ac341d52eabf370dd4b6c3c3219-4"
+}

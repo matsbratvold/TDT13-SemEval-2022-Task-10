@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I would also highly recommend"
+                ],
+                [
+                    "0:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "United Brothers Photography"
+                ],
+                [
+                    "30:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "outstanding professional photographs"
+                ],
+                [
+                    "109:145"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Valentino provided us with"
+                ],
+                [
+                    "82:108"
+                ]
+            ],
+            "Target": [
+                [
+                    "outstanding professional photographs"
+                ],
+                [
+                    "109:145"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "outstanding professional photographs"
+                ],
+                [
+                    "109:145"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I would also highly recommend United Brothers Photography who work at the hotel ; Valentino provided us with outstanding professional photographs at a bargain price .",
+    "sent_id": "opener_en/kaf/hotel/english00165_c7ecb4fa1c55fb7a9d4cbe384a48efb4-6"
+}

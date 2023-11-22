@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sterke"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Gud"
+                ],
+                [
+                    "19:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hj\u00e6lp m\u00e5 hj\u00e6m"
+                ],
+                [
+                    "25:38"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sterke"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Morrasola"
+                ],
+                [
+                    "55:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hvorfor"
+                ],
+                [
+                    "110:117"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Sterke"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Morrasola"
+                ],
+                [
+                    "55:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hvorfor"
+                ],
+                [
+                    "110:117"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Sterke"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Morrasola"
+                ],
+                [
+                    "55:64"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "hvorfor"
+                ],
+                [
+                    "110:117"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Sterke l\u00e5ter som \u00ab Gud \u2013 hj\u00e6lp m\u00e5 hj\u00e6m \u00bb fra 2010 og \u00ab Morrasola \u00bb ( 1997 / 2010 ) er min beste forklaring p\u00e5 hvorfor .",
+    "sent_id": "303032-10-01"
+}

@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "NRK"
+                ],
+                [
+                    "26:29"
+                ]
+            ],
+            "Target": [
+                [
+                    "Filmfestivalen i Cannes"
+                ],
+                [
+                    "0:23"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Filmfestivalen i Cannes ( NRK ) :",
+    "sent_id": "004773-03-01"
+}

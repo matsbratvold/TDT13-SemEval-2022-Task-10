@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The hotel"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "has an underground garage"
+                ],
+                [
+                    "10:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very well secured"
+                ],
+                [
+                    "36:53"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The hotel has an underground garage very well secured .",
+    "sent_id": "opener_en/kaf/hotel/english00162_ef371f2cdf69b4ac91bf97d372159ed5-7"
+}

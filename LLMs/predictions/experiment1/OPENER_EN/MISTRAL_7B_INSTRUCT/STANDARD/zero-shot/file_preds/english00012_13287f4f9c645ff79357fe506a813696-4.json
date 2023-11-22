@@ -1,0 +1,50 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "they"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "claimed to offer"
+                ],
+                [
+                    "17:33"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "they"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "First off , they claimed to offer an upgrade but what they actually did was move us to a supposedly new building which was further away from the main hotel complex .",
+    "sent_id": "opener_en/kaf/hotel/english00012_13287f4f9c645ff79357fe506a813696-4"
+}

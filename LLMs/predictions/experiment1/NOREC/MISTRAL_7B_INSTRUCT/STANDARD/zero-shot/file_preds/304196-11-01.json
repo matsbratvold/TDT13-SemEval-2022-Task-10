@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Det"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "Waters-album"
+                ],
+                [
+                    "27:39"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "liksom med p\u00e5 et Waters-album"
+                ],
+                [
+                    "10:39"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Det h\u00f8rer liksom med p\u00e5 et Waters-album .",
+    "sent_id": "304196-11-01"
+}

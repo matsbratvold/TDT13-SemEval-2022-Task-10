@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Og"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "den"
+                ],
+                [
+                    "106:109"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er den sannsynligvis en av markedets mest robuste smartklokker"
+                ],
+                [
+                    "103:165"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Og med en riperesistant safirkrystall i front , samt en vannresistanse p\u00e5 10 ATM ( cirka 100 meter ) , er den sannsynligvis en av markedets mest robuste smartklokker .",
+    "sent_id": "201344-14-04"
+}

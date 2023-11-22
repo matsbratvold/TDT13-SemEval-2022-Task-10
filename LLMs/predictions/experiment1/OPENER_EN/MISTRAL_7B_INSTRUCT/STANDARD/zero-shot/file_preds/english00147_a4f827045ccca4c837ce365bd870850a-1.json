@@ -1,0 +1,54 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Don"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Don"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "the beach"
+                ],
+                [
+                    "41:50"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "the only nice thing"
+                ],
+                [
+                    "18:37"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Don 't go there , the only nice thing is the beach",
+    "sent_id": "opener_en/kaf/hotel/english00147_a4f827045ccca4c837ce365bd870850a-1"
+}

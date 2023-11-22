@@ -1,0 +1,69 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Nevskii"
+                ],
+                [
+                    "3:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "On Nevskii"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "close to metro"
+                ],
+                [
+                    "13:27"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "close to metro"
+                ],
+                [
+                    "13:27"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "so easy to reach by public transport"
+                ],
+                [
+                    "30:66"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "so easy to reach by public transport"
+                ],
+                [
+                    "30:66"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "On Nevskii , close to metro , so easy to reach by public transport .",
+    "sent_id": "opener_en/kaf/hotel/english00113_8161bacaf54503f451c7246b073003a5-3"
+}

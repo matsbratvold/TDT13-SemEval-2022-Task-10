@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "the animation"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "was amazing"
+                ],
+                [
+                    "14:25"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "amazing"
+                ],
+                [
+                    "18:25"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Stephanie"
+                ],
+                [
+                    "49:58"
+                ]
+            ],
+            "Target": [
+                [
+                    "was always around to speak to if we needed her"
+                ],
+                [
+                    "59:105"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "always around to speak to"
+                ],
+                [
+                    "63:88"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "the animation was amazing : ) w.g the welsh girl Stephanie was always around to speak to if we needed her .",
+    "sent_id": "opener_en/kaf/hotel/english00130_91c66f32f964fdc62c980526105ffefb-3"
+}

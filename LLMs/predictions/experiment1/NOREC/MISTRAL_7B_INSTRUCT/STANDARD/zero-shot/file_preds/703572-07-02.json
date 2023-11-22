@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "den maktsyke moren"
+                ],
+                [
+                    "19:37"
+                ]
+            ],
+            "Target": [
+                [
+                    "datteren"
+                ],
+                [
+                    "48:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "\u00e5 holde datteren sin p\u00e5 matta"
+                ],
+                [
+                    "40:69"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "P\u00e5 ferden fors\u00f8ker den maktsyke moren \u00ab \u00e5 holde datteren sin p\u00e5 matta , i en evig pendling mellom h\u00e5p og fortvilelse \u00bb .",
+    "sent_id": "703572-07-02"
+}

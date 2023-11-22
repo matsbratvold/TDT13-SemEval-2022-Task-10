@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Close to the airport"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Target": [
+                [
+                    "far from Paris"
+                ],
+                [
+                    "23:37"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "far from"
+                ],
+                [
+                    "23:31"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Close to the airport , far from Paris",
+    "sent_id": "opener_en/kaf/hotel/english00059_3f1e667b4e85710912b3c6b5f2f74982-1"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "man"
+                ],
+                [
+                    "8:11"
+                ]
+            ],
+            "Target": [
+                [
+                    "helsedata"
+                ],
+                [
+                    "79:88"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "motebevisst"
+                ],
+                [
+                    "17:28"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Selv om man er \u00ab motebevisst \u00bb , vil man fortsatt registrere s\u00e5 mye man kan av helsedata .",
+    "sent_id": "200006-26-02"
+}

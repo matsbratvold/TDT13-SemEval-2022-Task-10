@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "80-tallssveis"
+                ],
+                [
+                    "0:13"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "tall"
+                ],
+                [
+                    "3:7"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "80-tallssveis",
+    "sent_id": "702352-11-01"
+}

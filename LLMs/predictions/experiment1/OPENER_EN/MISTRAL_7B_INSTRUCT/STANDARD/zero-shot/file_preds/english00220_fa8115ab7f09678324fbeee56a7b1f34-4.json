@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Thomsons"
+                ],
+                [
+                    "16:24"
+                ]
+            ],
+            "Target": [
+                [
+                    "this hotel"
+                ],
+                [
+                    "31:41"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Astonishingly , Thomsons rated this hotel as 4 \u00b7 star .",
+    "sent_id": "opener_en/kaf/hotel/english00220_fa8115ab7f09678324fbeee56a7b1f34-4"
+}

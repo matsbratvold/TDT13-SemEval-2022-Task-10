@@ -1,0 +1,102 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "There"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "wine"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "not even with meals"
+                ],
+                [
+                    "49:68"
+                ]
+            ],
+            "Target": [
+                [
+                    "wine"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "this has to be paid extra"
+                ],
+                [
+                    "71:96"
+                ]
+            ],
+            "Target": [
+                [
+                    "wine"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "no liquires"
+                ],
+                [
+                    "99:110"
+                ]
+            ],
+            "Target": [
+                [
+                    "wine"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "There is no wine included in the All inclusive , not even with meals , this has to be paid extra , no liquires .",
+    "sent_id": "opener_en/kaf/hotel/english00112_7ec44bf4213be4f1226c04cb302f1b7b-4"
+}

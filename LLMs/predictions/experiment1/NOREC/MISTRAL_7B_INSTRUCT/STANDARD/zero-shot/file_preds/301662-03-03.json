@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Tja"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "gir"
+                ],
+                [
+                    "6:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "meste og durer i vei igjen p\u00e5 sine egne premisser"
+                ],
+                [
+                    "21:70"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Tja , gir beng i det meste og durer i vei igjen p\u00e5 sine egne premisser .",
+    "sent_id": "301662-03-03"
+}

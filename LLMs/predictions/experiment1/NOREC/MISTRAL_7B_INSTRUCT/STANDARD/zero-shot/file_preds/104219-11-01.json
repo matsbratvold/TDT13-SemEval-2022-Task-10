@@ -1,0 +1,146 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "likevel"
+                ],
+                [
+                    "11:18"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "det"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "er"
+                ],
+                [
+                    "8:10"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "blitt"
+                ],
+                [
+                    "19:24"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "og"
+                ],
+                [
+                    "43:45"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sier"
+                ],
+                [
+                    "50:54"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "det"
+                ],
+                [
+                    "4:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "sitt"
+                ],
+                [
+                    "55:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "om"
+                ],
+                [
+                    "36:38"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Midthuns"
+                ],
+                [
+                    "63:71"
+                ]
+            ],
+            "Target": [
+                [
+                    "frodige"
+                ],
+                [
+                    "72:79"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fortellertalent"
+                ],
+                [
+                    "80:95"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Men det er likevel blitt en viktig roman , og det sier sitt om Midthuns frodige fortellertalent .",
+    "sent_id": "104219-11-01"
+}

@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "meeting room"
+                ],
+                [
+                    "4:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "coffee machine"
+                ],
+                [
+                    "46:60"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fabulous"
+                ],
+                [
+                    "65:73"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "meeting room"
+                ],
+                [
+                    "4:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "Agenda"
+                ],
+                [
+                    "109:115"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "focus on"
+                ],
+                [
+                    "96:104"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The meeting room was very well serviced ( the coffee machine was fabulous ) and we were able to focus on our Agenda without having to worry about the operational elements of the visit .",
+    "sent_id": "opener_en/kaf/hotel/english00206_f1df933d1e1de3be91e1d732fcdc9077-4"
+}

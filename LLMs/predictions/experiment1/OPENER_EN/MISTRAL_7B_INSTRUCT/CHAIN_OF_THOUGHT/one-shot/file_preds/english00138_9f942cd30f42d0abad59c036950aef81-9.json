@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "soap"
+                ],
+                [
+                    "10:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "provided"
+                ],
+                [
+                    "15:23"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "There was soap provided .",
+    "sent_id": "opener_en/kaf/hotel/english00138_9f942cd30f42d0abad59c036950aef81-9"
+}

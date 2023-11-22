@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "En som utgir seg for \u00e5 v\u00e6re greve"
+                ],
+                [
+                    "0:33"
+                ]
+            ],
+            "Target": [
+                [
+                    "vakker og sv\u00e6rt rik adelsjente"
+                ],
+                [
+                    "49:79"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "h\u00f8rt"
+                ],
+                [
+                    "38:42"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "En som utgir seg for \u00e5 v\u00e6re greve har h\u00f8rt om en vakker og sv\u00e6rt rik adelsjente , som bor sammen med onkelen .",
+    "sent_id": "600682-04-02"
+}

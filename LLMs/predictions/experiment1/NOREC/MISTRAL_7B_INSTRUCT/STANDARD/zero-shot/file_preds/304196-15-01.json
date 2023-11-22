@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Is This The Life We Really Want ?"
+                ],
+                [
+                    "2:35"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "spark"
+                ],
+                [
+                    "72:77"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "\u00ab Is This The Life We Really Want ? \u00bb er et politisk album , s\u00e6rlig med spark til Donald Trump .",
+    "sent_id": "304196-15-01"
+}

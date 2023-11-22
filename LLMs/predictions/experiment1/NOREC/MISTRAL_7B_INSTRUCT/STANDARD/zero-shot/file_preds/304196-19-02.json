@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sj\u00f8l"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "Waters"
+                ],
+                [
+                    "13:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "akustisk gitar og bass"
+                ],
+                [
+                    "20:42"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Sj\u00f8l"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "Waters"
+                ],
+                [
+                    "13:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "synge"
+                ],
+                [
+                    "61:66"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Sj\u00f8l spiller Waters akustisk gitar og bass - i tillegg til \u00e5 synge .",
+    "sent_id": "304196-19-02"
+}

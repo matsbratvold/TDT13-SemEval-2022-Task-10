@@ -1,0 +1,86 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "we"
+                ],
+                [
+                    "10:12"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "were a lot smaller than expected"
+                ],
+                [
+                    "10:42"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "we"
+                ],
+                [
+                    "10:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "the bathroom"
+                ],
+                [
+                    "47:59"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "had mold between some tiles"
+                ],
+                [
+                    "60:87"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "we"
+                ],
+                [
+                    "10:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "that part"
+                ],
+                [
+                    "114:123"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "so that 's why we rated that part lower"
+                ],
+                [
+                    "90:129"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "The rooms were a lot smaller than expected and the bathroom had mold between some tiles , so that 's why we rated that part lower .",
+    "sent_id": "opener_en/kaf/hotel/english00170_fe19919b11b7ac3480d3fe451afd15a7-4"
+}

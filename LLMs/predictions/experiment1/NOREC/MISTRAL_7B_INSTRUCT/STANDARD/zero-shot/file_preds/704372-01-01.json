@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Mens"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "vi"
+                ],
+                [
+                    "5:7"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "venter p\u00e5"
+                ],
+                [
+                    "8:17"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Mens vi venter p\u00e5 daggryet",
+    "sent_id": "704372-01-01"
+}

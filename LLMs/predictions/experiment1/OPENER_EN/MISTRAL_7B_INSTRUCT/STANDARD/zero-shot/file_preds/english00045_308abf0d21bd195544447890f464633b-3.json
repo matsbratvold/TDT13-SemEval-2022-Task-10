@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "A"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "big and nice appartement"
+                ],
+                [
+                    "2:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "but"
+                ],
+                [
+                    "29:32"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "A"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "madrasses of the bed"
+                ],
+                [
+                    "37:57"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "awfull hard"
+                ],
+                [
+                    "63:74"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "A big and nice appartement \u00b7 but the madrasses of the bed were awfull hard .",
+    "sent_id": "opener_en/kaf/hotel/english00045_308abf0d21bd195544447890f464633b-3"
+}

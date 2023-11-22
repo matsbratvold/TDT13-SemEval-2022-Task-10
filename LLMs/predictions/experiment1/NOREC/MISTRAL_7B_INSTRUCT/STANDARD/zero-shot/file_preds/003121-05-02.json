@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Den"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "smertefull"
+                ],
+                [
+                    "12:22"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "men fremst\u00e5r beklageligvis som en litt d\u00f8ll Adele-l\u00e5t"
+                ],
+                [
+                    "25:78"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Den er ikke smertefull , men fremst\u00e5r beklageligvis som en litt d\u00f8ll Adele-l\u00e5t .",
+    "sent_id": "003121-05-02"
+}

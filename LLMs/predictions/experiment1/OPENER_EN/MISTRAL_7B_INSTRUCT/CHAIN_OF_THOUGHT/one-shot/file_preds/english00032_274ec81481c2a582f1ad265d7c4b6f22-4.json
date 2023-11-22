@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "While"
+                ],
+                [
+                    "0:5"
+                ]
+            ],
+            "Target": [
+                [
+                    "the hotel"
+                ],
+                [
+                    "6:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not owned by Marriot"
+                ],
+                [
+                    "19:39"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "the hotel"
+                ],
+                [
+                    "6:15"
+                ]
+            ],
+            "Target": [
+                [
+                    "the price"
+                ],
+                [
+                    "43:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "was much lower"
+                ],
+                [
+                    "53:67"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "While the hotel is not owned by Marriot so the price was much lower .",
+    "sent_id": "opener_en/kaf/hotel/english00032_274ec81481c2a582f1ad265d7c4b6f22-4"
+}

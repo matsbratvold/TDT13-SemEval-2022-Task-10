@@ -1,0 +1,110 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "food"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "quality"
+                ],
+                [
+                    "23:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "was"
+                ],
+                [
+                    "5:8"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "food"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "was"
+                ],
+                [
+                    "5:8"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "restaraunts"
+                ],
+                [
+                    "62:73"
+                ]
+            ],
+            "Target": [
+                [
+                    "quality"
+                ],
+                [
+                    "23:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "of"
+                ],
+                [
+                    "13:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "restaraunts"
+                ],
+                [
+                    "62:73"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "of"
+                ],
+                [
+                    "13:15"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "food was was of a good quality and well presented in the five restaraunts .",
+    "sent_id": "opener_en/kaf/hotel/english00014_17224596ebb4a03e814c12ea1c18e41e-5"
+}

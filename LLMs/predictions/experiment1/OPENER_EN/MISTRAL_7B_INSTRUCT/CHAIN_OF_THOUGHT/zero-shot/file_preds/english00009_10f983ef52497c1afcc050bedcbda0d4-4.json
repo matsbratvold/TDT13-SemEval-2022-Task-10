@@ -1,0 +1,110 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Service"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "room"
+                ],
+                [
+                    "36:40"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "good"
+                ],
+                [
+                    "12:16"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Service"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "friendly"
+                ],
+                [
+                    "21:29"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "friendly"
+                ],
+                [
+                    "21:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "cleaned"
+                ],
+                [
+                    "45:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cleaned"
+                ],
+                [
+                    "45:52"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [],
+                []
+            ],
+            "Target": [
+                [
+                    "cleaned"
+                ],
+                [
+                    "45:52"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cleaned"
+                ],
+                [
+                    "45:52"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Service was good and friendly , the room was cleaned every day !",
+    "sent_id": "opener_en/kaf/hotel/english00009_10f983ef52497c1afcc050bedcbda0d4-4"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sultana Caf\u00e9"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "is really worth a visit"
+                ],
+                [
+                    "13:36"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "really worth a visit"
+                ],
+                [
+                    "16:36"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Sultana Caf\u00e9 is really worth a visit .",
+    "sent_id": "opener_en/kaf/hotel/english00140_a052f3702cce7297bc2aff92662d1db3-5"
+}

@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Overall impression"
+                ],
+                [
+                    "0:18"
+                ]
+            ],
+            "Target": [
+                [
+                    "claiming to be a luxury"
+                ],
+                [
+                    "21:44"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "but the service does not yet match"
+                ],
+                [
+                    "47:81"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Overall impression : claiming to be a luxury , but the service does not yet match .",
+    "sent_id": "opener_en/kaf/hotel/english00139_a027bbcb73be1f46b42077b535cf955c-9"
+}

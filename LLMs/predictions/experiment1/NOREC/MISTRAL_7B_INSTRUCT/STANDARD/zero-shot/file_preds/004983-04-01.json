@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Filmen"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Autobiographie d'une Courgette av Gilles Paris"
+                ],
+                [
+                    "32:78"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "g\u00e5r inn i en tung og alvorlig tematikk"
+                ],
+                [
+                    "81:119"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Filmen"
+                ],
+                [
+                    "0:6"
+                ]
+            ],
+            "Target": [
+                [
+                    "Autobiographie d'une Courgette av Gilles Paris"
+                ],
+                [
+                    "32:78"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Filmen , som er basert p\u00e5 boken Autobiographie d'une Courgette av Gilles Paris , g\u00e5r inn i en tung og alvorlig tematikk og utforsker hvordan barn som er traumatiserte og utsatt for overgrep kan finne kameratskap og h\u00e5p i nye omgivelser .",
+    "sent_id": "004983-04-01"
+}

@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hotel rooms"
+                ],
+                [
+                    "4:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "really big and spacious"
+                ],
+                [
+                    "20:43"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hotel rooms"
+                ],
+                [
+                    "4:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "cleaned daily"
+                ],
+                [
+                    "48:61"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hotel rooms"
+                ],
+                [
+                    "4:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "free soft drinks and water in the fridge"
+                ],
+                [
+                    "66:106"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "hotel rooms"
+                ],
+                [
+                    "4:15"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "restocked daily"
+                ],
+                [
+                    "116:131"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The hotel rooms are really big and spacious and cleaned daily and free soft drinks and water in the fridge which is restocked daily .",
+    "sent_id": "opener_en/kaf/hotel/english00099_6bd92afbc1db2e16e92cc8cf0105c93e-4"
+}

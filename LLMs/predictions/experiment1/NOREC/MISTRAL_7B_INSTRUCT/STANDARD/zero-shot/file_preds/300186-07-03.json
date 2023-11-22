@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Sune Hansen"
+                ],
+                [
+                    "70:81"
+                ]
+            ],
+            "Target": [
+                [
+                    "me"
+                ],
+                [
+                    "21:23"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "stolt"
+                ],
+                [
+                    "33:38"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "\u00ab Kanskje hun til og med kan bli stolt av meg \u00bb , sier troms\u00f8v\u00e6ringen Sune Hansen .",
+    "sent_id": "300186-07-03"
+}

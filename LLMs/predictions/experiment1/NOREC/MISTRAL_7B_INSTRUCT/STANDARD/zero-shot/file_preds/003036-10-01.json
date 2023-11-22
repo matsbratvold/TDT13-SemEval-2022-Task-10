@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Etter \u00e5 ha h\u00f8rt gjennom det atten"
+                ],
+                [
+                    "0:33"
+                ]
+            ],
+            "Target": [
+                [
+                    "Endless minnes man"
+                ],
+                [
+                    "51:69"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "spor lange"
+                ],
+                [
+                    "40:50"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Etter \u00e5 ha h\u00f8rt gjennom det atten ( ? ) spor lange Endless minnes man p\u00e5 hvorfor man har gledet seg .",
+    "sent_id": "003036-10-01"
+}

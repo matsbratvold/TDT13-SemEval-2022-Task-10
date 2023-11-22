@@ -1,0 +1,58 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "mennesket"
+                ],
+                [
+                    "37:46"
+                ]
+            ],
+            "Target": [
+                [
+                    "systemet"
+                ],
+                [
+                    "50:58"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "absurde sp\u00f8rsm\u00e5l"
+                ],
+                [
+                    "105:121"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        },
+        {
+            "Source": [
+                [
+                    "Daniel"
+                ],
+                [
+                    "98:104"
+                ]
+            ],
+            "Target": [
+                [
+                    "mennesket"
+                ],
+                [
+                    "37:46"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Allerede i starten dras linja mellom mennesket og systemet , der vi h\u00f8rer en helsearbeider sp\u00f8rre Daniel absurde sp\u00f8rsm\u00e5l fra et skjema med maskinaktig , uengasjert stemme , mens Daniel blir stadig mer fortvilet og desillusjonert over \u00e5 ikke bli h\u00f8rt .",
+    "sent_id": "004773-09-01"
+}

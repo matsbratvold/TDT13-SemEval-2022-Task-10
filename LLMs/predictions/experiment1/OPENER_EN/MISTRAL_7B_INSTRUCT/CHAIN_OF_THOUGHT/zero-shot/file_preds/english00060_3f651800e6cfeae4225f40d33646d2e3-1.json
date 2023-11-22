@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Very"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "Upsale Hotel"
+                ],
+                [
+                    "5:17"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Upsale"
+                ],
+                [
+                    "5:11"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "In"
+                ],
+                [
+                    "20:22"
+                ]
+            ],
+            "Target": [
+                [
+                    "the Center of the City"
+                ],
+                [
+                    "23:45"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "the Center of the City"
+                ],
+                [
+                    "23:45"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "Very Upsale Hotel , In the Center of the City",
+    "sent_id": "opener_en/kaf/hotel/english00060_3f651800e6cfeae4225f40d33646d2e3-1"
+}

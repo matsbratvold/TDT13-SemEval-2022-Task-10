@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "What"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "terrific hotel resort"
+                ],
+                [
+                    "7:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fantastically clean"
+                ],
+                [
+                    "31:50"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "What"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "terrific hotel resort"
+                ],
+                [
+                    "7:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "pools and the beach were constantly cleaned and manicured"
+                ],
+                [
+                    "111:168"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "What"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "terrific hotel resort"
+                ],
+                [
+                    "7:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "sun beds were more than enough for everyone"
+                ],
+                [
+                    "173:216"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "What"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "terrific hotel resort"
+                ],
+                [
+                    "7:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "pool and beach towels always available"
+                ],
+                [
+                    "224:262"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "What a terrific hotel resort , fantastically clean when one thinks of 700 rooms but always lots of space , the pools and the beach were constantly cleaned and manicured and sun beds were more than enough for everyone , with pool and beach towels always available .",
+    "sent_id": "opener_en/kaf/hotel/english00081_74f5522e8f5628a2c6591c3411d1bc7f-2"
+}

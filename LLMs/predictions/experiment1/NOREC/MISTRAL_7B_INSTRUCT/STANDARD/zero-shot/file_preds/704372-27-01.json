@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "men"
+                ],
+                [
+                    "0:3"
+                ]
+            ],
+            "Target": [
+                [
+                    "vi"
+                ],
+                [
+                    "4:6"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "har regnet"
+                ],
+                [
+                    "7:17"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "men vi har regnet",
+    "sent_id": "704372-27-01"
+}

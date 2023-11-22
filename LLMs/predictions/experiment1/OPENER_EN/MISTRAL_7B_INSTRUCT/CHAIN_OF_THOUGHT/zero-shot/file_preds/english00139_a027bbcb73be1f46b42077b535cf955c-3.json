@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Generally"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "the hotel"
+                ],
+                [
+                    "10:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not cozy"
+                ],
+                [
+                    "23:31"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        },
+        {
+            "Source": [
+                [
+                    "Generally"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "the hotel"
+                ],
+                [
+                    "10:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "looks like a huge palace"
+                ],
+                [
+                    "34:58"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "Generally"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "the hotel"
+                ],
+                [
+                    "10:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not very well utilized"
+                ],
+                [
+                    "59:81"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Weak"
+        }
+    ],
+    "text": "Generally the hotel is not cozy , looks like a huge palace not very well utilized .",
+    "sent_id": "opener_en/kaf/hotel/english00139_a027bbcb73be1f46b42077b535cf955c-3"
+}

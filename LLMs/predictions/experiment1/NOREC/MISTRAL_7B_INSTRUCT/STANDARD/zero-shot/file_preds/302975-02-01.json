@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Samir"
+                ],
+                [
+                    "2:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "den lange reisa"
+                ],
+                [
+                    "11:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "undervurderer"
+                ],
+                [
+                    "29:42"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "\u00ab Samir og den lange reisa \u00bb undervurderer barneleseren .",
+    "sent_id": "302975-02-01"
+}

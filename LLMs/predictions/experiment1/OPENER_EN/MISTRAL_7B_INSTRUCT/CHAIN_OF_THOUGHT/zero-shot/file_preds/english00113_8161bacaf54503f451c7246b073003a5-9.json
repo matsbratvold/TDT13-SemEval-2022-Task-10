@@ -1,0 +1,90 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "room"
+                ],
+                [
+                    "5:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "breakfast"
+                ],
+                [
+                    "10:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "tasty"
+                ],
+                [
+                    "24:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "room"
+                ],
+                [
+                    "5:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "breakfast"
+                ],
+                [
+                    "10:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "quite large"
+                ],
+                [
+                    "34:45"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "room"
+                ],
+                [
+                    "5:9"
+                ]
+            ],
+            "Target": [
+                [
+                    "breakfast"
+                ],
+                [
+                    "10:19"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "awesome"
+                ],
+                [
+                    "48:55"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "In \u00b7 room breakfast was tasty and quite large , awesome .",
+    "sent_id": "opener_en/kaf/hotel/english00113_8161bacaf54503f451c7246b073003a5-9"
+}

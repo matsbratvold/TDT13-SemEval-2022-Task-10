@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Kammerpiken"
+                ],
+                [
+                    "2:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "pirrer sansene"
+                ],
+                [
+                    "16:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "men ikke alt er like behagelig"
+                ],
+                [
+                    "33:63"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Kammerpiken"
+                ],
+                [
+                    "2:13"
+                ]
+            ],
+            "Target": [
+                [
+                    "pirrer sansene"
+                ],
+                [
+                    "16:30"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "og overraskelsene er mange"
+                ],
+                [
+                    "66:92"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "\u00ab Kammerpiken \u00bb pirrer sansene , men ikke alt er like behagelig , og overraskelsene er mange .",
+    "sent_id": "600682-02-01"
+}

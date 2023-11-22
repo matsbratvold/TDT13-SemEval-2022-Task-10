@@ -1,0 +1,20 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": "",
+            "Polar_expression": [
+                [
+                    "Not for me"
+                ],
+                [
+                    "0:10"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Not for me .",
+    "sent_id": "opener_en/kaf/hotel/english00143_a1ec3eba7f3fa0420d4d2fed1bca5701-1"
+}

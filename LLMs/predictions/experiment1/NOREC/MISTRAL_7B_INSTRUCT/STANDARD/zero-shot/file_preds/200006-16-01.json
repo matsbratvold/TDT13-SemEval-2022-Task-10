@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Vanskelig \u00e5 bruke skjermen"
+                ],
+                [
+                    "0:26"
+                ]
+            ],
+            "Target": [
+                [
+                    "skjermen"
+                ],
+                [
+                    "18:26"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Vanskelig \u00e5 bruke skjermen"
+                ],
+                [
+                    "0:26"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Vanskelig \u00e5 bruke skjermen",
+    "sent_id": "200006-16-01"
+}

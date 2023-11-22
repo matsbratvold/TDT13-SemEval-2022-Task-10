@@ -1,0 +1,83 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "very good"
+                ],
+                [
+                    "0:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "according the price"
+                ],
+                [
+                    "10:29"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "excellent sea"
+                ],
+                [
+                    "33:46"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "very friendly people"
+                ],
+                [
+                    "47:67"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "i would like to be again in that place"
+                ],
+                [
+                    "69:107"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "i will not forget the smilling faces of the emploeys of the hotel and how helpfull they were"
+                ],
+                [
+                    "109:201"
+                ]
+            ],
+            "Polar_expression": "",
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "very good according the price .. excellent sea.very friendly people. i would like to be again in that place. i will not forget the smilling faces of the emploeys of the hotel and how helpfull they were >",
+    "sent_id": "opener_en/kaf/hotel/english00075_6ec3813631e401743488b9fcf0d114c0-2"
+}

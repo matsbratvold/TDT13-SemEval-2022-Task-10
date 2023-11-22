@@ -1,0 +1,30 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ikke"
+                ],
+                [
+                    "0:4"
+                ]
+            ],
+            "Target": [
+                [
+                    "sesong 4"
+                ],
+                [
+                    "46:54"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Ikke les videre om du ikke enn\u00e5 ikke har sett sesong 4 av \u00ab Orange is the Black \u00bb .",
+    "sent_id": "103992-07-02"
+}

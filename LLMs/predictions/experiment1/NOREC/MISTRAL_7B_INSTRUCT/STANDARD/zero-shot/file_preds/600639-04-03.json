@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Likevel"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "11:14"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "er det lett \u00e5 la seg henf\u00f8re av filmens dyktige skuespillere , velkomponerte bilder fra et fordums Cornwall og elegante blanding av romantikk og gotikk"
+                ],
+                [
+                    "8:159"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Likevel er det lett \u00e5 la seg henf\u00f8re av filmens dyktige skuespillere , velkomponerte bilder fra et fordums Cornwall og elegante blanding av romantikk og gotikk .",
+    "sent_id": "600639-04-03"
+}

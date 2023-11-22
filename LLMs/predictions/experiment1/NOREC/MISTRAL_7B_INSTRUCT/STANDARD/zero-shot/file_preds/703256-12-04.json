@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Irene ( Mareike Wang )"
+                ],
+                [
+                    "21:43"
+                ]
+            ],
+            "Target": [
+                [
+                    "Liverpool-sanger"
+                ],
+                [
+                    "118:134"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "fyller hele hagen og hele teatret"
+                ],
+                [
+                    "80:113"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Ogs\u00e5 fordi kj\u00e6resten Irene ( Mareike Wang ) har s\u00e5 mye begeistret energi at hun fyller hele hagen og hele teatret med Liverpool-sanger og befriende filterfri oppf\u00f8rsel - noe denne familien virkelig trenger .",
+    "sent_id": "703256-12-04"
+}

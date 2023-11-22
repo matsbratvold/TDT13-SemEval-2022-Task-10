@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "The bathroom"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "was well fitted"
+                ],
+                [
+                    "13:28"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "well fitted"
+                ],
+                [
+                    "17:28"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "The bathroom"
+                ],
+                [
+                    "0:12"
+                ]
+            ],
+            "Target": [
+                [
+                    "could have been bigger"
+                ],
+                [
+                    "33:55"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "could have been bigger"
+                ],
+                [
+                    "33:55"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "The bathroom was well fitted but could have been bigger given the size of the room .",
+    "sent_id": "opener_en/kaf/hotel/english00156_bceddd6fce4fdf6cc6c030fee377f4aa-7"
+}

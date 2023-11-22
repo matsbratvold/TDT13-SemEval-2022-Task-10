@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "salesmen"
+                ],
+                [
+                    "24:32"
+                ]
+            ],
+            "Target": [
+                [
+                    "poolarea"
+                ],
+                [
+                    "48:56"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "walked"
+                ],
+                [
+                    "37:43"
+                ]
+            ],
+            "Polarity": "neutral",
+            "Intensity": "average"
+        }
+    ],
+    "text": "And then there were the salesmen who walked the poolarea .",
+    "sent_id": "opener_en/kaf/hotel/english00140_a052f3702cce7297bc2aff92662d1db3-10"
+}

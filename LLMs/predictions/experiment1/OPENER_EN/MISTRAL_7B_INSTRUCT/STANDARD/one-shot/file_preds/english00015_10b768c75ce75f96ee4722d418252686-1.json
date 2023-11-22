@@ -1,0 +1,27 @@
+{
+    "opinions": [
+        {
+            "Source": "",
+            "Target": [
+                [
+                    "Might be ok for some"
+                ],
+                [
+                    "0:20"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "not for me"
+                ],
+                [
+                    "27:37"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "Might be ok for some , but not for me",
+    "sent_id": "opener_en/kaf/hotel/english00015_10b768c75ce75f96ee4722d418252686-1"
+}

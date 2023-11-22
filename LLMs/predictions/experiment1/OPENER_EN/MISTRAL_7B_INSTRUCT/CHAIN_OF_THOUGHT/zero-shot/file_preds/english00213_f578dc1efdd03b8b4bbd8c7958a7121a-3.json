@@ -1,0 +1,62 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "rented"
+                ],
+                [
+                    "3:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "full week"
+                ],
+                [
+                    "16:25"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "We"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "rented"
+                ],
+                [
+                    "3:9"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "Christmas holidays"
+                ],
+                [
+                    "57:75"
+                ]
+            ],
+            "Polarity": "Neutral",
+            "Intensity": "Average"
+        }
+    ],
+    "text": "We rented for a full week with our young children during Christmas holidays .",
+    "sent_id": "opener_en/kaf/hotel/english00213_f578dc1efdd03b8b4bbd8c7958a7121a-3"
+}

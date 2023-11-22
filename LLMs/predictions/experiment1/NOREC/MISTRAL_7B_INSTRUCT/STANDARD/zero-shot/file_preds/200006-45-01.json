@@ -1,0 +1,118 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fitbit Blaze"
+                ],
+                [
+                    "39:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "snart tilbake"
+                ],
+                [
+                    "10:23"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fitbit Blaze"
+                ],
+                [
+                    "39:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en test"
+                ],
+                [
+                    "28:35"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fitbit Blaze"
+                ],
+                [
+                    "39:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "en ny treningsklokke"
+                ],
+                [
+                    "54:74"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        },
+        {
+            "Source": [
+                [
+                    "Vi"
+                ],
+                [
+                    "0:2"
+                ]
+            ],
+            "Target": [
+                [
+                    "Fitbit Blaze"
+                ],
+                [
+                    "39:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "med fargeskjerm"
+                ],
+                [
+                    "75:90"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "average"
+        }
+    ],
+    "text": "Vi kommer snart tilbake med en test av Fitbit Blaze , en ny treningsklokke med fargeskjerm .",
+    "sent_id": "200006-45-01"
+}

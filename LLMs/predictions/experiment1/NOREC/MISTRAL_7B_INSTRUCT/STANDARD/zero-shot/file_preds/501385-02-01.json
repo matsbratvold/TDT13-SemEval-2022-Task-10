@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Ni Liv"
+                ],
+                [
+                    "2:8"
+                ]
+            ],
+            "Target": [
+                [
+                    "Silja Sol"
+                ],
+                [
+                    "26:35"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "byr p\u00e5"
+                ],
+                [
+                    "11:17"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "average"
+        }
+    ],
+    "text": "\u00ab Ni Liv \u00bb byr p\u00e5 noen av Silja Sols beste enkeltl\u00e5ter .",
+    "sent_id": "501385-02-01"
+}

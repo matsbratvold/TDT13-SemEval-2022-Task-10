@@ -1,0 +1,138 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [],
+                []
+            ],
+            "Polar_expression": [
+                [
+                    "enjoyed"
+                ],
+                [
+                    "2:9"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "the room"
+                ],
+                [
+                    "43:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "very clean"
+                ],
+                [
+                    "56:66"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "the room"
+                ],
+                [
+                    "43:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "well equipped"
+                ],
+                [
+                    "69:82"
+                ]
+            ],
+            "Polarity": "Positive",
+            "Intensity": "Average"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "the room"
+                ],
+                [
+                    "43:51"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "too huge for me"
+                ],
+                [
+                    "87:102"
+                ]
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        },
+        {
+            "Source": [
+                [
+                    "I"
+                ],
+                [
+                    "0:1"
+                ]
+            ],
+            "Target": [
+                [
+                    "the room"
+                ],
+                [
+                    "43:51"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "Negative",
+            "Intensity": "Strong"
+        }
+    ],
+    "text": "I enjoyed my 3 \u00b7 night stay in the hotel , the room was very clean , well equipped but too huge for me ( I don 't think that many people need 50 sq.m hotel room ) .",
+    "sent_id": "opener_en/kaf/hotel/english00139_a027bbcb73be1f46b42077b535cf955c-2"
+}

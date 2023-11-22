@@ -1,0 +1,114 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Likevel"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Elgs hjemby"
+                ],
+                [
+                    "56:67"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "klarer"
+                ],
+                [
+                    "8:14"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "Likevel"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kristiansund"
+                ],
+                [
+                    "70:82"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "jeg ikke \u00e5 fri meg helt"
+                ],
+                [
+                    "15:38"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "Likevel"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Elgs hjemby"
+                ],
+                [
+                    "56:67"
+                ]
+            ],
+            "Polar_expression": [
+                [],
+                []
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        },
+        {
+            "Source": [
+                [
+                    "Likevel"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "Kristiansund"
+                ],
+                [
+                    "70:82"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "p\u00e5 morsm\u00e5let"
+                ],
+                [
+                    "118:130"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Likevel klarer jeg ikke \u00e5 fri meg helt fra tanken om at Elgs hjemby , Kristiansund , kunne v\u00e6rt beskrevet vel s\u00e5 godt p\u00e5 morsm\u00e5let .",
+    "sent_id": "303032-07-03"
+}

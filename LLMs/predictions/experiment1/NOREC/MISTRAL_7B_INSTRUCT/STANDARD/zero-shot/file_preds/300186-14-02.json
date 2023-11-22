@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Kanskje"
+                ],
+                [
+                    "0:7"
+                ]
+            ],
+            "Target": [
+                [
+                    "det"
+                ],
+                [
+                    "15:18"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "kommer det mer av det"
+                ],
+                [
+                    "8:29"
+                ]
+            ],
+            "Polarity": "negative",
+            "Intensity": "weak"
+        }
+    ],
+    "text": "Kanskje kommer det mer av det etter hvert , n\u00e5r bli kjent-etappen er unnagjort .",
+    "sent_id": "300186-14-02"
+}

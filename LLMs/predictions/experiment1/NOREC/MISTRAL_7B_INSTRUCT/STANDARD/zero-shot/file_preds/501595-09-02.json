@@ -1,0 +1,34 @@
+{
+    "opinions": [
+        {
+            "Source": [
+                [
+                    "Versjonen vi f\u00e5r"
+                ],
+                [
+                    "0:16"
+                ]
+            ],
+            "Target": [
+                [
+                    "rett"
+                ],
+                [
+                    "59:63"
+                ]
+            ],
+            "Polar_expression": [
+                [
+                    "smakfullt tilberedt"
+                ],
+                [
+                    "66:85"
+                ]
+            ],
+            "Polarity": "positive",
+            "Intensity": "strong"
+        }
+    ],
+    "text": "Versjonen vi f\u00e5r servert er laget p\u00e5 hyse , og er en frisk rett , smakfullt tilberedt med lime , chili , hvitl\u00f8k og koriander .",
+    "sent_id": "501595-09-02"
+}
